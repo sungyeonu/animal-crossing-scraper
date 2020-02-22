@@ -1,0 +1,1 @@
+# animal-crossing-scraper
