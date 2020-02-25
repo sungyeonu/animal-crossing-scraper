@@ -6,7 +6,16 @@ urls = {
   "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)"
 }
 
-response = (requests.get(urls["fish"], timeout=5))
-soup = BeautifulSoup(response.content, "html.parser").prettify()
+def scrape(key, url): 
+  print(key, url)
+  response = (requests.get(url, timeout=5))
+  soup = BeautifulSoup(response.content, "html.parser").prettify()
 
-print(soup)
+  print(soup)
+
+if __name__=="__main__":
+  for key in urls:
+    scrape(key, urls[key])
+
+  
+
