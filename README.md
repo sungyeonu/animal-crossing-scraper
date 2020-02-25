@@ -1,5 +1,5 @@
 # animal-crossing-scraper
-
+Webscraper to extract data of fish and bugs of the game Animal Crossing - New Horizons and parse it to JSON
 
 ## Project Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 
@@ -21,4 +21,8 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-
+## Usage
+To run:
+```
+python scrapy.py
+```
