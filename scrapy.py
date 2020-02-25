@@ -1,8 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = 'https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)'
-response = (requests.get(url, timeout=5))
-content = BeautifulSoup(response.content, "html.parser").prettify()
+urls = {
+  "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
+  "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)"
+}
 
-print(content)
+response = (requests.get(urls["fish"], timeout=5))
+soup = BeautifulSoup(response.content, "html.parser").prettify()
+
+print(soup)
