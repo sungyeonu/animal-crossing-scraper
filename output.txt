@@ -1,0 +1,82 @@
+[<table class="roundy sortable" style="width:100%; background:#76acda; text-align:center;">
+<tr>
+<th style="background-color:#b1d1ed; border-top-left-radius:10px;-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px;-khtml-border-top-left-radius:10px;-icab-border-top-left-radius:10px;-o-border-top-left-radius:10px;border-bottom-left-radius:10px;-moz-border-radius-bottomleft:10px;-webkit-border-bottom-left-radius:10px;-khtml-border-bottom-left-radius:10px;-icab-border-bottom-left-radius:10px;-o-border-bottom-left-radius:10px;"> Name
+</th><th style="background-color:#b1d1ed;"> Image
+</th><th style="background-color:#b1d1ed;"> Price
+</th><th style="background-color:#b1d1ed;"> Location
+</th><th style="background-color:#b1d1ed;"> Shadow size
+</th><th style="background-color:#b1d1ed;"> Time
+</th><th class="unsortable" style="background-color:#b0e0e6;"> Jan
+</th><th class="unsortable" style="background-color:#b0e0e6;"> Feb
+</th><th class="unsortable" style="background-color:#98fb98;"> Mar
+</th><th class="unsortable" style="background-color:#98fb98;"> Apr
+</th><th class="unsortable" style="background-color:#98fb98;"> May
+</th><th class="unsortable" style="background-color:#adff2f;"> Jun
+</th><th class="unsortable" style="background-color:#adff2f;"> Jul
+</th><th class="unsortable" style="background-color:#adff2f;"> Aug
+</th><th class="unsortable" style="background-color:#d2b48c;"> Sep
+</th><th class="unsortable" style="background-color:#d2b48c;"> Oct
+</th><th class="unsortable" style="background-color:#d2b48c;"> Nov
+</th><th class="unsortable" style="background-color:#b0e0e6; border-top-right-radius:10px;-moz-border-radius-topright:10px;-webkit-border-top-right-radius:10px;-khtml-border-top-right-radius:10px;-icab-border-top-right-radius:10px;-o-border-top-right-radius:10px;border-bottom-right-radius:10px;-moz-border-radius-bottomright:10px;-webkit-border-bottom-right-radius:10px;-khtml-border-bottom-right-radius:10px;-icab-border-bottom-right-radius:10px;-o-border-bottom-right-radius:10px;"> Dec
+</th></tr>
+<tr>
+<td style="background-color:#ffffff; border-bottom: 1px 76acda; border-top-left-radius:10px;-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px;-khtml-border-top-left-radius:10px;-icab-border-top-left-radius:10px;-o-border-top-left-radius:10px;border-bottom-left-radius:10px;-moz-border-radius-bottomleft:10px;-webkit-border-bottom-left-radius:10px;-khtml-border-bottom-left-radius:10px;-icab-border-bottom-left-radius:10px;-o-border-bottom-left-radius:10px;"> <a href="/wiki/Pond_smelt" title="Pond smelt">Pond smelt</a>
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;"> <a class="image image-thumbnail" href="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/Pond_Smelt_HHD_Icon.png/revision/latest?cb=20161105203259"><img alt="Pond Smelt HHD Icon" class="" data-image-key="Pond_Smelt_HHD_Icon.png" data-image-name="Pond Smelt HHD Icon.png" height="64" src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/Pond_Smelt_HHD_Icon.png/revision/latest?cb=20161105203259" width="64"/></a>
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  ?
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  River
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  ?
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;"> <small>?</small>
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda; border-top-right-radius:10px;-moz-border-radius-topright:10px;-webkit-border-top-right-radius:10px;-khtml-border-top-right-radius:10px;-icab-border-top-right-radius:10px;-o-border-top-right-radius:10px;border-bottom-right-radius:10px;-moz-border-radius-bottomright:10px;-webkit-border-bottom-right-radius:10px;-khtml-border-bottom-right-radius:10px;-icab-border-bottom-right-radius:10px;-o-border-bottom-right-radius:10px;"> ?
+</td></tr>
+<tr>
+<td style="background-color:#ffffff; border-bottom: 1px 76acda; border-top-left-radius:10px;-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px;-khtml-border-top-left-radius:10px;-icab-border-top-left-radius:10px;-o-border-top-left-radius:10px;border-bottom-left-radius:10px;-moz-border-radius-bottomleft:10px;-webkit-border-bottom-left-radius:10px;-khtml-border-bottom-left-radius:10px;-icab-border-bottom-left-radius:10px;-o-border-bottom-left-radius:10px;"> <a href="/wiki/Squid" title="Squid">Squid</a>
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;"> <a class="image image-thumbnail" href="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/Squid_HHD_Icon.png/revision/latest?cb=20161105204858"><img alt="Squid HHD Icon" class="" data-image-key="Squid_HHD_Icon.png" data-image-name="Squid HHD Icon.png" height="64" src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/Squid_HHD_Icon.png/revision/latest?cb=20161105204858" width="64"/></a>
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  ?
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  Ocean
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  ?
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;"> <small>?</small>
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ✓
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda; border-top-right-radius:10px;-moz-border-radius-topright:10px;-webkit-border-top-right-radius:10px;-khtml-border-top-right-radius:10px;-icab-border-top-right-radius:10px;-o-border-top-right-radius:10px;border-bottom-right-radius:10px;-moz-border-radius-bottomright:10px;-webkit-border-bottom-right-radius:10px;-khtml-border-bottom-right-radius:10px;-icab-border-bottom-right-radius:10px;-o-border-bottom-right-radius:10px;"> ?
+</td></tr>
+<tr>
+<td style="background-color:#ffffff; border-bottom: 1px 76acda; border-top-left-radius:10px;-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px;-khtml-border-top-left-radius:10px;-icab-border-top-left-radius:10px;-o-border-top-left-radius:10px;border-bottom-left-radius:10px;-moz-border-radius-bottomleft:10px;-webkit-border-bottom-left-radius:10px;-khtml-border-bottom-left-radius:10px;-icab-border-bottom-left-radius:10px;-o-border-bottom-left-radius:10px;"> <a href="/wiki/Red_snapper" title="Red snapper">Red snapper</a>
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;"> <a class="image image-thumbnail" href="https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/Red_Snapper_HHD_Icon.png/revision/latest?cb=20161105203650"><img alt="Red Snapper HHD Icon" class="lzy lzyPlcHld" data-image-key="Red_Snapper_HHD_Icon.png" data-image-name="Red Snapper HHD Icon.png" data-src="https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/Red_Snapper_HHD_Icon.png/revision/latest?cb=20161105203650" height="64" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="64"/><noscript><img alt="Red Snapper HHD Icon" class="" data-image-key="Red_Snapper_HHD_Icon.png" data-image-name="Red Snapper HHD Icon.png" height="64" src="https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/Red_Snapper_HHD_Icon.png/revision/latest?cb=20161105203650" width="64"/></noscript></a>
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  ?
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  Ocean
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;">  ?
+</td><td style="background-color:#ffffff; border-bottom: 1px 76acda;"> <small>?</small>
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#98FB98; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#ADFF2F; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#EAB575; border-bottom: 1px 76acda;"> ?
+</td><td style="background-color:#B0E0E6; border-bottom: 1px 76acda; border-top-right-radius:10px;-moz-border-radius-topright:10px;-webkit-border-top-right-radius:10px;-khtml-border-top-right-radius:10px;-icab-border-top-right-radius:10px;-o-border-top-right-radius:10px;border-bottom-right-radius:10px;-moz-border-radius-bottomright:10px;-webkit-border-bottom-right-radius:10px;-khtml-border-bottom-right-radius:10px;-icab-border-bottom-right-radius:10px;-o-border-bottom-right-radius:10px;"> ?
+</td></tr>
+</table>]

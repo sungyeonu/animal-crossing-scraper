@@ -7,15 +7,21 @@ urls = {
 }
 
 def scrape(key, url): 
-  print(key, url)
   response = (requests.get(url, timeout=5))
-  soup = BeautifulSoup(response.content, "html.parser").prettify()
+  soup = BeautifulSoup(response.content, "html.parser")
+  tables = soup.find_all('table', {"class" : "roundy sortable"})
+  # tables = soup.find_all('table', attrs={"style" : "background: #76acda"})
 
-  print(soup)
+  f = open("output.txt",'w')
+  print(tables, file=f) # Python 3.x
+
+
 
 if __name__=="__main__":
-  for key in urls:
-    scrape(key, urls[key])
+  # for key in urls:
+  #   scrape(key, urls[key])
+
+  scrape("fish", urls["fish"])
 
   
 
