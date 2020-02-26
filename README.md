@@ -4,7 +4,7 @@ Webscraper to extract data of fish and bugs of the game Animal Crossing - New Ho
 ## Project Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 
 ```
-git clone https://github.com/greentool/greentool.git
+git clone https://github.com/sungyeonu/animal-crossing-scraper.git
 ```
 
 2. Set up virtual environment
