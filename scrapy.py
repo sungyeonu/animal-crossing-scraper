@@ -2,7 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 
 urls = {
-  "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
+  # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
+  "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
   "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)"
 }
 
@@ -13,7 +14,7 @@ def scrape(key, url):
   # tables = soup.find_all('table', attrs={"style" : "background: #76acda"})
 
   f = open("output.txt",'w')
-  print(tables, file=f) # Python 3.x
+  print(tables, file=f)
 
 
 
