@@ -10,6 +10,7 @@ fname = "output.txt"
 
 
 def scrape(key, url):
+  # need to take account of different formats. Fish has shadow size but bug doesnt.
 	response = (requests.get(url, timeout=5))
 	soup = BeautifulSoup(response.content, "html.parser")
 	itemArr = []
