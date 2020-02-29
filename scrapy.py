@@ -20,13 +20,13 @@ def scrape(key, url):
 		for item in temp.find_all("tr")[1:]:  # ignore the first element
 			picture = item.findChildren("a")
 			location = item.findChildren("small")
-			for td in temp.find_all("td", text=True):
-				# same thing printed 72 times? 75168/72=1044
+			for td in item.find_all("td", text=True):
 				print(td.next.strip(), file=f1)
 			itemObject = {
 				"picture": picture,
 				"location": location
 			}
+			print("----------", file=f1)
 			itemArr.append(itemObject)
 	with io.open(fname, "w", encoding="utf-8") as f:
 		print(itemArr, file=f)
