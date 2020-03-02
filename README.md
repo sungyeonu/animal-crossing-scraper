@@ -1,7 +1,7 @@
 # animal-crossing-scraper
 Python webscraper to extract data of the game Animal Crossing - New Horizons.
 
-Scrapes and parses the data of bugs and fish.
+Scrapes and parses the data of bugs and fish to json.
 
 ## Project Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 
@@ -29,4 +29,6 @@ To run:
 python scrapy.py
 ```
 
-This will produce two outfiles: fish.json, bugs.json. 
+This will produce two outfiles: 
+- fish.json
+- bugs.json 
