@@ -3,18 +3,22 @@ import requests
 import io
 
 urls = {
-	# "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
-	"fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
+	"fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
+	# "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
 	"bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)"
 }
 
-
-def scrape(url, output):  # fish
+def getBugs(url, output): 
 	response = (requests.get(url, timeout=5))
 	soup = BeautifulSoup(response.content, "html.parser")
 	itemArr = []
 	itemSoup = soup.find_all("table", {"class": "roundy sortable"})
 
+def getFish(url, output):
+	response = (requests.get(url, timeout=5))
+	soup = BeautifulSoup(response.content, "html.parser")
+	itemArr = []
+	itemSoup = soup.find_all("table", {"class": "roundy sortable"})
 	with io.open(output, "w", encoding="utf-8") as f:
 		for item in itemSoup[0].find_all("tr")[1:]:  # ignore the first element
 			itemInfo = []
@@ -43,9 +47,9 @@ def scrape(url, output):  # fish
 			itemArr.append(itemObject)
 
 		for i in itemArr:
-			pass
 			print(i, file=f)
 
 if __name__ == "__main__":
-	scrape(urls["fish"], "fish.txt")
+	getFish(urls["fish"], "fish.txt")
+	getBugs(urls["bugs"], "bugs.txt")
 
