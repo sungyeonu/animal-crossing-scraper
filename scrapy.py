@@ -15,14 +15,30 @@ def scrape(url, output):  # fish
 	itemArr = []
 	itemSoup = soup.find_all("table", {"class": "roundy sortable"})
 
+	with io.open("output.txt", "w", encoding="utf-8") as f1:
+		for item in itemSoup[0].find_all("tr")[11:12]:  # ignore the first element
+			print(item, file=f1)
+			pass
 	with io.open(output, "w", encoding="utf-8") as f:
-		temp = itemSoup[0]  # the data is in the first table
-		for item in temp.find_all("tr")[1:10]:  # ignore the first element
+		for item in itemSoup[0].find_all("tr")[11:12]:  # ignore the first element
 			itemInfo = []
-			for td in item.find_all("td", text=True):
+			for td in item.find_all("td", text=True): # maybe look here?
 				itemInfo.append(td.next.strip())
-				# print(td.next.strip(), file=f)
-
+				print(td.next.strip(), file=f)
+			# print(itemInfo[0]) # price
+			# print(itemInfo[1]) # loc
+			# print(itemInfo[2]) # size
+			# print(itemInfo[3]) # 1
+			# print(itemInfo[4]) # 2
+			# print(itemInfo[5]) # 3
+			# print("v", itemInfo[6]) # 4 
+			# print("v", itemInfo[7]) # 5 
+			# print("v", itemInfo[8]) # 6 
+			# print("v", itemInfo[9]) # 7
+			# print("v", itemInfo[10]) # 8
+			# print("v", itemInfo[11]) # 9 
+			# print(itemInfo[12]) # 10
+			# print(itemInfo[13]) # 11
 			itemObject = {
 				"name":	item.findChildren("a")[0].text,
 				"image": item.findChildren("a")[1]['href'],
@@ -41,12 +57,13 @@ def scrape(url, output):  # fish
 				"sep": itemInfo[11],
 				"oct": itemInfo[12],
 				"nov": itemInfo[13],
-				"dec": itemInfo[14]
+				# "dec": itemInfo[14]
 			}
 			itemArr.append(itemObject)
 
 		for i in itemArr:
-			print(i, file=f)
+			pass
+			# print(i, file=f)
 
 if __name__ == "__main__":
 	scrape(urls["fish"], "fish.txt")
