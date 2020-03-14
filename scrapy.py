@@ -4,8 +4,8 @@ import io
 import simplejson as json
 
 urls = {
-    "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
-    # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
+    # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
+    "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
@@ -53,10 +53,10 @@ def scrapeFish(url):
             itemInfo.append(td.next.strip())
         itemObject = {
             "name":	item.findChildren("a")[0].text,
-            "image": item.findChildren("a")[1]['href'],
+            "imageLink": item.findChildren("a")[1]['href'],
             "price": itemInfo[2],
             "location": itemInfo[3],
-            "shadow-size": itemInfo[4],
+            "shadowSize": itemInfo[4],
             "time": item.findChildren("small")[0].text,
             "jan": itemInfo[6],
             "feb": itemInfo[7],
