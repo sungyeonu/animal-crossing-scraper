@@ -51,11 +51,12 @@ def scrapeFish(url):
         itemInfo = []
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
+
         itemObject = {
             "name":	item.findChildren("a")[0].text,
             "imageLink": item.findChildren("a")[1]['href'],
             "price": itemInfo[2],
-            "location": itemInfo[3],
+            "location": item.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": itemInfo[4],
             "time": item.findChildren("small")[0].text,
             "jan": itemInfo[6],
