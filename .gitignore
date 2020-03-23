@@ -1,2 +1,4 @@
 venv/
 .vscode/
+fish.json
+bugs.json
