@@ -89,8 +89,8 @@ def parseData(itemList, outfile): # turns list to json
         json.dump(itemList, f) 
     
 if __name__ == "__main__":
-    # bugsList = scrapeBugs(urls["bugs"])
-    # parseData(bugsList, "bugs.json")
+    bugsList = scrapeBugs(urls["bugs"])
+    parseData(bugsList, "bugs.json")
 
 
     fishList = scrapeFish(urls["fish"])
