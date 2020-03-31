@@ -3,6 +3,10 @@ Python webscraper to extract data of the game Animal Crossing - New Horizons.
 
 Scrapes and parses the data of bugs and fish to json.
 
+URLs to scrape from: 
+- https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)
+- https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)
+
 ## Project Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 
 ```
