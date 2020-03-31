@@ -7,7 +7,7 @@ URLs to scrape from:
 - https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)
 - https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)
 
-## Project Set Up
+## Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 
 ```
 git clone https://github.com/sungyeonu/animal-crossing-scraper.git
