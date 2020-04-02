@@ -3,26 +3,26 @@ import requests
 import io
 import simplejson as json
 
-urls = {
+urls = { 
+    # Urls for New Horizons
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
-    # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
+
+    # Urls for New Leaf
+    # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
 
-
-def scrapeBugs(url):
+def scrapeBugs(url): # take url and return object containing data
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
+
     itemSoup = soup.find_all("table", {"class": "sortable"})
     itemArr = []
     for item in itemSoup[0].find_all("tr")[1:]:
-        # print(item)
-    # for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
-
         itemObject = {
             "price": itemInfo[2],
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
@@ -40,6 +40,7 @@ def scrapeBugs(url):
             "nov": itemInfo[15],
             "dec": itemInfo[16]
         }
+        # in case the wiki doesn't have information uploaded yet
         if (item.findChildren("td")[0].a is None):
             itemObject["name"] = "Unknown"
         else:
@@ -51,9 +52,11 @@ def scrapeBugs(url):
         itemArr.append(itemObject)
     return itemArr
 
-def scrapeFish(url):
+# fish has "shadow-size" data, whereas bugs don't
+def scrapeFish(url): # take url and return object containing data
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
+
     itemSoup = soup.find_all("table", {"class": "sortable"})
     itemArr = []
     for item in itemSoup[0].find_all("tr")[1:]:
@@ -67,7 +70,6 @@ def scrapeFish(url):
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": itemInfo[4],
             "time": item.findChildren("small")[0].text, 
-            # "time": itemInfo[5], 
             "jan": itemInfo[6],
             "feb": itemInfo[7],
             "mar": itemInfo[8],
@@ -91,7 +93,6 @@ def parseData(itemList, outfile): # turns list to json
 if __name__ == "__main__":
     bugsList = scrapeBugs(urls["bugs"])
     parseData(bugsList, "bugs.json")
-
 
     fishList = scrapeFish(urls["fish"])
     parseData(fishList, "fish.json")

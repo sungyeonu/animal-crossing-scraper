@@ -19,7 +19,7 @@ python -m venv venv
 ```
 
 3. Activate the virtual environment
-- Windows: `venv\Scripts\activate.ps1`
+- Windows: `venv\Scripts\activate.bat`
 - Linux/Mac: `source venv/bin/activate`
 
 4. Install required packages
