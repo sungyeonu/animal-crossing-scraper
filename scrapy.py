@@ -12,6 +12,8 @@ urls = {
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
+def availibilityValidator(): # determine if 
+    print()
 
 def scrapeBugs(url): # take url and return object containing data
     response = (requests.get(url, timeout=5))
@@ -24,6 +26,8 @@ def scrapeBugs(url): # take url and return object containing data
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
         itemObject = {
+            "name": item.findChildren("td")[0].a.text,
+            "imageLink": item.findChildren("a")[1]['href'],
             "price": itemInfo[2],
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
             "time": item.findChildren("small")[0].text,
@@ -40,16 +44,8 @@ def scrapeBugs(url): # take url and return object containing data
             "nov": itemInfo[15],
             "dec": itemInfo[16]
         }
-        # for incomplete data:
-        if (item.findChildren("td")[0].a is None):
-            itemObject["name"] = "Unknown"
-        else:
-            itemObject["name"] = item.findChildren("td")[0].a.text
-
-        try:
-            itemObject["imageLink"] = item.findChildren("a")[1]['href']
-        except: # KeyError || IndexError
-            itemObject["imageLink"] = "Unknown"
+        if 
+        # itemObject["name"] = item.findChildren("td")[0].a.text
 
         itemArr.append(itemObject)
     return itemArr
