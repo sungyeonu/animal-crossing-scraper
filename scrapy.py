@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
-import requests
-import io
+import requests, io
 import simplejson as json
 
 urls = { 
@@ -12,49 +11,56 @@ urls = {
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
-def availibilityValidator(): # determine if 
-    print()
 
-def scrapeBugs(url): # take url and return object containing data
+def avaiConverter(str): # returns True if item is available, False otherwise
+    if (str == "\u2713"): # "\u2713" is a checkmark
+        return True
+    else:
+        return False
+
+def parseData(itemList, outfile): # turns object to json 
+    with open(outfile, 'w') as f:
+        json.dump(itemList, f) 
+
+def scrapeBugs(url): # take url and return object containing bugs data
+    # create soup object
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-
+    # find the target table
     itemSoup = soup.find_all("table", {"class": "sortable"})
+    # contains all items
     itemArr = []
+    # ignore first row as it just contains labels to the data
     for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
+        # find data and save it into an object
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
             "imageLink": item.findChildren("a")[1]['href'],
             "price": itemInfo[2],
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
             "time": item.findChildren("small")[0].text,
-            "jan": itemInfo[5],
-            "feb": itemInfo[6],
-            "mar": itemInfo[7],
-            "apr": itemInfo[8],
-            "may": itemInfo[9],
-            "jun": itemInfo[10],
-            "jul": itemInfo[11],
-            "aug": itemInfo[12],
-            "sep": itemInfo[13],
-            "oct": itemInfo[14],
-            "nov": itemInfo[15],
-            "dec": itemInfo[16]
+            "jan": avaiConverter(itemInfo[5]),
+            "feb": avaiConverter(itemInfo[6]),
+            "mar": avaiConverter(itemInfo[7]),
+            "apr": avaiConverter(itemInfo[8]),
+            "may": avaiConverter(itemInfo[9]),
+            "jun": avaiConverter(itemInfo[10]),
+            "jul": avaiConverter(itemInfo[11]),
+            "aug": avaiConverter(itemInfo[12]),
+            "sep": avaiConverter(itemInfo[13]),
+            "oct": avaiConverter(itemInfo[14]),
+            "nov": avaiConverter(itemInfo[15]),
+            "dec": avaiConverter(itemInfo[16])
         }
-        if 
-        # itemObject["name"] = item.findChildren("td")[0].a.text
-
         itemArr.append(itemObject)
     return itemArr
 
-# fish has "shadow-size" data, whereas bugs don't
-def scrapeFish(url): # take url and return object containing data
+def scrapeFish(url): # same logic as scrapeBugs
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-
     itemSoup = soup.find_all("table", {"class": "sortable"})
     itemArr = []
     for item in itemSoup[0].find_all("tr")[1:]:
@@ -66,31 +72,26 @@ def scrapeFish(url): # take url and return object containing data
             "imageLink": item.findChildren("a")[1]['href'],
             "price": itemInfo[2],
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
-            "shadowSize": itemInfo[4],
+            "shadowSize": itemInfo[4], # specific to fish
             "time": item.findChildren("small")[0].text, 
-            "jan": itemInfo[6],
-            "feb": itemInfo[7],
-            "mar": itemInfo[8],
-            "apr": itemInfo[9],
-            "may": itemInfo[10],
-            "jun": itemInfo[11],
-            "jul": itemInfo[12],
-            "aug": itemInfo[13],
-            "sep": itemInfo[14],
-            "oct": itemInfo[15],
-            "nov": itemInfo[16],
-            "dec": itemInfo[17]
+            "jan": avaiConverter(itemInfo[6]),
+            "feb": avaiConverter(itemInfo[7]),
+            "mar": avaiConverter(itemInfo[8]),
+            "apr": avaiConverter(itemInfo[9]),
+            "may": avaiConverter(itemInfo[10]),
+            "jun": avaiConverter(itemInfo[11]),
+            "jul": avaiConverter(itemInfo[12]),
+            "aug": avaiConverter(itemInfo[13]),
+            "sep": avaiConverter(itemInfo[14]),
+            "oct": avaiConverter(itemInfo[15]),
+            "nov": avaiConverter(itemInfo[16]),
+            "dec": avaiConverter(itemInfo[17])
         }
         itemArr.append(itemObject)
     return itemArr
-
-def parseData(itemList, outfile): # turns list to json 
-    with open(outfile, 'w') as f:
-        json.dump(itemList, f) 
     
 if __name__ == "__main__":
     bugsList = scrapeBugs(urls["bugs"])
     parseData(bugsList, "bugs.json")
-
     fishList = scrapeFish(urls["fish"])
     parseData(fishList, "fish.json")
