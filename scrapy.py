@@ -40,15 +40,17 @@ def scrapeBugs(url): # take url and return object containing data
             "nov": itemInfo[15],
             "dec": itemInfo[16]
         }
-        # in case the wiki doesn't have information uploaded yet
+        # for incomplete data:
         if (item.findChildren("td")[0].a is None):
             itemObject["name"] = "Unknown"
         else:
             itemObject["name"] = item.findChildren("td")[0].a.text
+
         try:
             itemObject["imageLink"] = item.findChildren("a")[1]['href']
         except: # KeyError || IndexError
             itemObject["imageLink"] = "Unknown"
+
         itemArr.append(itemObject)
     return itemArr
 
