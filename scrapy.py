@@ -39,7 +39,7 @@ def scrapeBugs(url): # take url and return object containing bugs data
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
             "imageLink": item.findChildren("a")[1]['href'],
-            "price": itemInfo[2],
+            "price": int(itemInfo[2]),
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
             "time": item.findChildren("small")[0].text,
             "jan": avaiConverter(itemInfo[5]),
@@ -70,7 +70,7 @@ def scrapeFish(url): # same logic as scrapeBugs
         itemObject = {
             "name":	item.findChildren("a")[0].text,
             "imageLink": item.findChildren("a")[1]['href'],
-            "price": itemInfo[2],
+            "price": int(itemInfo[2]),
             "location": item.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": itemInfo[4], # specific to fish
             "time": item.findChildren("small")[0].text, 
