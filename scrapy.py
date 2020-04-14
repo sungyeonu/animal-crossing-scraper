@@ -138,5 +138,5 @@ if __name__ == "__main__":
     parseData(bugsList, "bugs.json")
     fishList = scrapeFish(urls["fish"])
     parseData(fishList, "fish.json")
-    fishList = scrapeFossils(urls["fossils"])
-    parseData(fishList, "fossils.json")
+    fossilsList = scrapeFossils(urls["fossils"])
+    parseData(fossilsList, "fossils.json")
