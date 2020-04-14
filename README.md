@@ -35,7 +35,7 @@ To run:
 python scrapy.py
 ```
 
-This will produce two outfiles: 
+This will produce three outfiles: 
 - fish.json
 - bugs.json 
 - fossils.json
