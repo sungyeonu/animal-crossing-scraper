@@ -4,9 +4,18 @@ import simplejson as json
 
 urls = { 
     # Urls for New Horizons
+    # Collectables
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
     "fossils": "https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)",
+
+    # DIY Recipes
+    "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
+    "housewares": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Housewares",
+    "wall-mounted": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
+    "wallpaper-rugs-flooring": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
+    "equipment": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
+    "other": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Other"
 
     # Urls for New Leaf
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
@@ -101,9 +110,9 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
     itemArr = []
     for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
+
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
-
         itemObject = {
             "name": item.findChildren("a")[0].text,
             "imageLink": item.findChildren("a")[1]['href'],
@@ -132,11 +141,27 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
         }
         itemArr.append(itemObject)
     return itemArr
-    
+
+def scrapeDIYRecipes(url):
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    itemSoup = soup.find_all("table", {"class": "sortable"})
+    itemArr = []
+
+    tempObject = {
+        "name": "temp",
+    }
+    itemArr.append(tempObject)
+    return itemArr
+
+
 if __name__ == "__main__":
-    bugsList = scrapeBugs(urls["bugs"])
-    parseData(bugsList, "bugs.json")
-    fishList = scrapeFish(urls["fish"])
-    parseData(fishList, "fish.json")
-    fossilsList = scrapeFossils(urls["fossils"])
-    parseData(fossilsList, "fossils.json")
+    # Complete json has been already produced
+    # bugsList = scrapeBugs(urls["bugs"])
+    # parseData(bugsList, "bugs.json")
+    # fishList = scrapeFish(urls["fish"])
+    # parseData(fishList, "fish.json")
+    # fossilsList = scrapeFossils(urls["fossils"])
+    # parseData(fossilsList, "fossils.json")
+
+    toolsList = scrapeDIYRecipes(urls["tools"])

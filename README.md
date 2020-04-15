@@ -35,6 +35,11 @@ To run:
 python scrapy.py
 ```
 
+To Test:
+```
+python test_scrapy.py
+```
+
 This will produce three outfiles: 
 - fish.json
 - bugs.json 
