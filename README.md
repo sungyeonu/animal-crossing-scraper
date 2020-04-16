@@ -35,7 +35,7 @@ To run:
 python scrapy.py
 ```
 
-To Test:
+To test:
 ```
 python test_scrapy.py
 ```
