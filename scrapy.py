@@ -23,7 +23,7 @@ urls = {
 }
 
 def avaiConverter(str): # returns True if item is available, False otherwise
-    if (str == "\u2713"): # "\u2713" is a checkmark
+    if (str == "\u2713" or str == "✔"): # "\u2713" is a checkmark
         return True
     else:
         return False
@@ -49,6 +49,7 @@ def scrapeBugs(url): # take url and return object containing bugs data
         # get rid of empty space
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
+
         # find data and save it into an object
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
@@ -147,31 +148,26 @@ def scrapeDIYRecipes(url):
     soup = BeautifulSoup(response.content, "html.parser")
     itemSoup = soup.find_all("table", {"class": "sortable"})
     itemArr = []
-    for item in itemSoup[0].find_all("tr")[1:3]:
-        print("---ITEM---")
-        print(item.prettify())
-        # print(item.findChildren("td")[0].a.text)
-        # for item1 in itemSoup[0].find_all("tr")[2]:
-        #     print("---ITEM 1---")
-
-        #     print(item1)
-
+    for item in itemSoup[0].find_all("tr")[1:2]:
         itemInfo = []
-        # for td in item.find_all("td"):
-        #     itemInfo.append(td.next.strip())
-        # print(item.findChildren("td")[0].a.text)
+        for td in item.find_all("td"):
+            if not td.string is None:
+                itemInfo.append(td.next.strip())
+            else:
+                itemInfo.append(td.next)
+
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
-            "imageLink": "",
+            "imageLink": item.findChildren("a")[1]['href'],
             "materials": "",
             "materialsImageLink": "",
             "sizeLink": "",
-            "obtainedFrom": "",
-            "price": "",
-            "obtainedFrom": "",
-            "isRecipeItem": "",
+            "obtainedFrom": itemInfo[4].text,
+            "price": int(itemInfo[5].strip()),
+            "isRecipeItem": avaiConverter(itemInfo[6]),
         }
         itemArr.append(itemObject)
+        print("RESULT OBJECT:", itemObject) # work in progress
     return itemArr
 
 
