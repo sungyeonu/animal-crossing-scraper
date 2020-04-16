@@ -1,7 +1,7 @@
 from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeDIYRecipes
 import unittest
 
-class TestSum(unittest.TestCase):
+class TestDIYRecipes(unittest.TestCase):
     def test_DIY_Tools(self):
         url = "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools"
         result = scrapeDIYRecipes(url)
