@@ -1,8 +1,9 @@
 # animal-crossing-scraper
 Python webscraper to extract data of the game Animal Crossing - New Horizons.
 
-Scrapes and parses the data of bugs, fish, and fossils to json.
+Scrapes and parses the data of bugs, fish, and fossils to json.  
 For bugs and fish availability, for each month, the program will return "True" if the critter is available, and "False" otherwise.
+
 
 URLs to scrape from: 
 - https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)
@@ -35,7 +36,7 @@ To run:
 python scrapy.py
 ```
 
-To Test:
+To test:
 ```
 python test_scrapy.py
 ```

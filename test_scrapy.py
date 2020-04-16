@@ -1,7 +1,7 @@
 from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeDIYRecipes
 import unittest
 
-class TestSum(unittest.TestCase):
+class TestDIYRecipes(unittest.TestCase):
     def test_DIY_Tools(self):
         url = "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools"
         result = scrapeDIYRecipes(url)
@@ -13,7 +13,6 @@ class TestSum(unittest.TestCase):
         self.assertEqual(result[0]["sizeLink"], "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412")
         self.assertEqual(result[0]["obtainedFrom"], "Tom Nook")
         self.assertEqual(result[0]["price"], "200")
-        self.assertEqual(result[0]["obtainedFrom"], "Tom Nook")
         self.assertEqual(result[0]["isRecipeItem"], "True")
 
 if __name__ == '__main__':
