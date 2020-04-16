@@ -46,6 +46,7 @@ def scrapeBugs(url): # take url and return object containing bugs data
     # ignore first row as it just contains labels to the data
     for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
+        # get rid of empty space
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
         # find data and save it into an object
@@ -108,9 +109,10 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
     soup = BeautifulSoup(response.content, "html.parser")
     itemSoup = soup.find_all("table", {"class": "sortable"})
     itemArr = []
+
+    # Stand-alone fossils
     for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
-
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
         itemObject = {
@@ -121,17 +123,15 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
         }
         itemArr.append(itemObject)
 
+    # Multi-part fossils
     for item in itemSoup[1].find_all("tr")[1:]:
         itemInfo = []
         items = item.find_all("td")
-
         if not items:
             category = item.findChildren("a")[0].text
             continue
-
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
-
         itemObject = {
             "name": item.findChildren("a")[0].text,
             "imageLink": item.findChildren("a")[1]['href'],
@@ -147,11 +147,31 @@ def scrapeDIYRecipes(url):
     soup = BeautifulSoup(response.content, "html.parser")
     itemSoup = soup.find_all("table", {"class": "sortable"})
     itemArr = []
+    for item in itemSoup[0].find_all("tr")[1:3]:
+        print("---ITEM---")
+        print(item.prettify())
+        # print(item.findChildren("td")[0].a.text)
+        # for item1 in itemSoup[0].find_all("tr")[2]:
+        #     print("---ITEM 1---")
 
-    tempObject = {
-        "name": "temp",
-    }
-    itemArr.append(tempObject)
+        #     print(item1)
+
+        itemInfo = []
+        # for td in item.find_all("td"):
+        #     itemInfo.append(td.next.strip())
+        # print(item.findChildren("td")[0].a.text)
+        itemObject = {
+            "name": item.findChildren("td")[0].a.text,
+            "imageLink": "",
+            "materials": "",
+            "materialsImageLink": "",
+            "sizeLink": "",
+            "obtainedFrom": "",
+            "price": "",
+            "obtainedFrom": "",
+            "isRecipeItem": "",
+        }
+        itemArr.append(itemObject)
     return itemArr
 
 
