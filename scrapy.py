@@ -12,10 +12,10 @@ urls = {
     # DIY Recipes
     "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
     "housewares": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Housewares",
-    "wall-mounted": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
-    "wallpaper-rugs-flooring": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
-    "equipment": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
-    "other": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Other"
+    "wallMounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
+    "wallpaperRugsFloorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
+    "equipments": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
+    "others": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Other"
 
     # Urls for New Leaf
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
@@ -41,6 +41,12 @@ def avaiConverter(str): # returns True if item is available, False otherwise
 
 def getPriceWithBellsString(str):
     return int(str.replace(',', '').replace(' Bells', ''))
+
+def getImageLinks(images):
+    result = []
+    for image in images:
+        result.append(image.get("src"))
+    return result
 
 def parseData(itemList, outfile): # turns object to json 
     with open(outfile, 'w') as f:
@@ -159,33 +165,52 @@ def scrapeDIYRecipes(url):
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
     itemList = []
-    for item in table[0].find_all("tr")[1:2]: # change to [1:] when done
+    for item in table[0].find_all("tr")[1:]: # change to [1:] when done
         itemInfo = []
         for td in item.find_all("td"):
             if not td.string is None:
                 itemInfo.append(td.next.strip())
             else:
                 itemInfo.append(td.next)
-
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
-            "imageLink": item.findChildren("a")[1]['href'],
-            "materials": separateByBr(item.findChildren("td")[2]).strip("\n").split(","),
-            "materialsImageLink": "",
-            "sizeLink": "",
-            "obtainedFrom": itemInfo[4].text,
-            "price": int(itemInfo[5].strip()),
-            "isRecipeItem": avaiConverter(itemInfo[6]),
         }
+        try:
+            itemObject["imageLink"] = item.findChildren("a")[1]['href']
+        except AttributeError:
+            itemObject["imageLink"] = None
+        try:
+            itemObject["materials"] = separateByBr(item.findChildren("td")[2]).strip("\n").split(",")
+        except AttributeError:
+            itemObject["materials"] = []
+        try:
+            itemObject["materialsImageLink"] = getImageLinks(item.findChildren("td")[2].find_all("img"))
+        except AttributeError:
+            itemObject["materialsImageLink"] = []
+        try:
+            itemObject["sizeLink"] = itemInfo[3].img.get("data-src")
+        except AttributeError:
+            itemObject["sizeLink"] = None
+        try:
+            itemObject["obtainedFrom"] = itemInfo[4].text
+        except AttributeError:
+            itemObject["obtainedFrom"] = None
+        try:
+            itemObject["price"] = int(itemInfo[5].strip().replace(",", ""))
+        except: 
+            itemObject["price"] = None
+        try:
+            itemObject["isRecipeItem"] = avaiConverter(itemInfo[6])
+        except: 
+            itemObject["isRecipeItem"] = None
+
         itemList.append(itemObject)
-        print()
-        print("RESULT OBJECT:", itemObject) # work in progress
     return itemList
 
 
 if __name__ == "__main__":
 
-    # Completed, json has been already produced
+    # Completed, json has already been produced
 
     # -- Collectibles -- 
     # bugsList = scrapeBugs(urls["bugs"])
@@ -195,5 +220,17 @@ if __name__ == "__main__":
     # fossilsList = scrapeFossils(urls["fossils"])
     # parseData(fossilsList, "fossils.json")
 
+    # Incomplete, please run the script and update the jsons
     # -- DIY Recipes -- 
     toolsList = scrapeDIYRecipes(urls["tools"])
+    parseData(toolsList, "tools.json")
+    housewaresList = scrapeDIYRecipes(urls["housewares"])
+    parseData(housewaresList, "housewares.json")
+    # wallMountedsList = scrapeDIYRecipes(urls["wallMounteds"])
+    # parseData(wallMountedsList, "wallMounteds.json")
+    # wallpaperRugsFlooringsList = scrapeDIYRecipes(urls["wallpaperRugsFloorings"])
+    # parseData(wallpaperRugsFlooringsList, "wallpaperRugsFloorings.json")
+    equipmentsList = scrapeDIYRecipes(urls["equipments"])
+    parseData(equipmentsList, "equipments.json")
+    othersList = scrapeDIYRecipes(urls["others"])
+    parseData(othersList, "others.json")
