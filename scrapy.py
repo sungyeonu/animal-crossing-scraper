@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 import requests, io
 import simplejson as json
 
@@ -22,6 +22,17 @@ urls = {
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
 
+def separateByBr(tag, result=''):
+    for c in tag.contents:
+        if isinstance(c, Tag):  # check if content is a tag
+            if c.name == 'br':  # if tag is <br> append it as string
+                result += ","
+            else:  # for any other tag, recurse
+                result = separateByBr(c, result)
+        else:  # if content is NavigableString (string), append
+            result += c
+    return result
+
 def avaiConverter(str): # returns True if item is available, False otherwise
     if (str == "\u2713" or str == "✔"): # "\u2713" is a checkmark
         return True
@@ -40,11 +51,11 @@ def scrapeBugs(url): # take url and return object containing bugs data
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     # find the target table
-    itemSoup = soup.find_all("table", {"class": "sortable"})
+    table = soup.find_all("table", {"class": "sortable"})
     # contains all items
     itemList = []
     # ignore first row as it just contains labels to the data
-    for item in itemSoup[0].find_all("tr")[1:]:
+    for item in table[0].find_all("tr")[1:]:
         itemInfo = []
         # get rid of empty space
         for td in item.find_all("td"):
@@ -76,9 +87,9 @@ def scrapeBugs(url): # take url and return object containing bugs data
 def scrapeFish(url): # same logic as scrapeBugs
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    itemSoup = soup.find_all("table", {"class": "sortable"})
+    table = soup.find_all("table", {"class": "sortable"})
     itemList = []
-    for item in itemSoup[0].find_all("tr")[1:]:
+    for item in table[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
@@ -108,11 +119,11 @@ def scrapeFish(url): # same logic as scrapeBugs
 def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    itemSoup = soup.find_all("table", {"class": "sortable"})
+    table = soup.find_all("table", {"class": "sortable"})
     itemList = []
 
     # Stand-alone fossils
-    for item in itemSoup[0].find_all("tr")[1:]:
+    for item in table[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
             itemInfo.append(td.next.strip())
@@ -125,7 +136,7 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
         itemList.append(itemObject)
 
     # Multi-part fossils
-    for item in itemSoup[1].find_all("tr")[1:]:
+    for item in table[1].find_all("tr")[1:]:
         itemInfo = []
         items = item.find_all("td")
         if not items:
@@ -146,9 +157,9 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
 def scrapeDIYRecipes(url):
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    itemSoup = soup.find_all("table", {"class": "sortable"})
+    table = soup.find_all("table", {"class": "sortable"})
     itemList = []
-    for item in itemSoup[0].find_all("tr")[1:2]:
+    for item in table[0].find_all("tr")[1:2]: # change to [1:] when done
         itemInfo = []
         for td in item.find_all("td"):
             if not td.string is None:
@@ -156,11 +167,10 @@ def scrapeDIYRecipes(url):
             else:
                 itemInfo.append(td.next)
 
-        print(item.prettify())
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
             "imageLink": item.findChildren("a")[1]['href'],
-            "materials": "",
+            "materials": separateByBr(item.findChildren("td")[2]).strip("\n").split(","),
             "materialsImageLink": "",
             "sizeLink": "",
             "obtainedFrom": itemInfo[4].text,
@@ -168,17 +178,22 @@ def scrapeDIYRecipes(url):
             "isRecipeItem": avaiConverter(itemInfo[6]),
         }
         itemList.append(itemObject)
+        print()
         print("RESULT OBJECT:", itemObject) # work in progress
     return itemList
 
 
 if __name__ == "__main__":
-    # Completed, json has been already produced
-    bugsList = scrapeBugs(urls["bugs"])
-    parseData(bugsList, "bugs.json")
-    fishList = scrapeFish(urls["fish"])
-    parseData(fishList, "fish.json")
-    fossilsList = scrapeFossils(urls["fossils"])
-    parseData(fossilsList, "fossils.json")
 
-    # toolsList = scrapeDIYRecipes(urls["tools"])
+    # Completed, json has been already produced
+
+    # -- Collectibles -- 
+    # bugsList = scrapeBugs(urls["bugs"])
+    # parseData(bugsList, "bugs.json")
+    # fishList = scrapeFish(urls["fish"])
+    # parseData(fishList, "fish.json")
+    # fossilsList = scrapeFossils(urls["fossils"])
+    # parseData(fossilsList, "fossils.json")
+
+    # -- DIY Recipes -- 
+    toolsList = scrapeDIYRecipes(urls["tools"])
