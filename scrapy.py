@@ -42,7 +42,7 @@ def scrapeBugs(url): # take url and return object containing bugs data
     # find the target table
     itemSoup = soup.find_all("table", {"class": "sortable"})
     # contains all items
-    itemArr = []
+    itemList = []
     # ignore first row as it just contains labels to the data
     for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
@@ -70,14 +70,14 @@ def scrapeBugs(url): # take url and return object containing bugs data
             "nov": avaiConverter(itemInfo[15]),
             "dec": avaiConverter(itemInfo[16])
         }
-        itemArr.append(itemObject)
-    return itemArr
+        itemList.append(itemObject)
+    return itemList
 
 def scrapeFish(url): # same logic as scrapeBugs
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     itemSoup = soup.find_all("table", {"class": "sortable"})
-    itemArr = []
+    itemList = []
     for item in itemSoup[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
@@ -102,14 +102,14 @@ def scrapeFish(url): # same logic as scrapeBugs
             "nov": avaiConverter(itemInfo[16]),
             "dec": avaiConverter(itemInfo[17])
         }
-        itemArr.append(itemObject)
-    return itemArr
+        itemList.append(itemObject)
+    return itemList
 
 def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     itemSoup = soup.find_all("table", {"class": "sortable"})
-    itemArr = []
+    itemList = []
 
     # Stand-alone fossils
     for item in itemSoup[0].find_all("tr")[1:]:
@@ -122,7 +122,7 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
             "price": getPriceWithBellsString(itemInfo[2]),
             "isMultipart": False
         }
-        itemArr.append(itemObject)
+        itemList.append(itemObject)
 
     # Multi-part fossils
     for item in itemSoup[1].find_all("tr")[1:]:
@@ -140,14 +140,14 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
             "isMultipart": True,
             "category": category
         }
-        itemArr.append(itemObject)
-    return itemArr
+        itemList.append(itemObject)
+    return itemList
 
 def scrapeDIYRecipes(url):
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     itemSoup = soup.find_all("table", {"class": "sortable"})
-    itemArr = []
+    itemList = []
     for item in itemSoup[0].find_all("tr")[1:2]:
         itemInfo = []
         for td in item.find_all("td"):
@@ -156,6 +156,7 @@ def scrapeDIYRecipes(url):
             else:
                 itemInfo.append(td.next)
 
+        print(item.prettify())
         itemObject = {
             "name": item.findChildren("td")[0].a.text,
             "imageLink": item.findChildren("a")[1]['href'],
@@ -166,18 +167,18 @@ def scrapeDIYRecipes(url):
             "price": int(itemInfo[5].strip()),
             "isRecipeItem": avaiConverter(itemInfo[6]),
         }
-        itemArr.append(itemObject)
+        itemList.append(itemObject)
         print("RESULT OBJECT:", itemObject) # work in progress
-    return itemArr
+    return itemList
 
 
 if __name__ == "__main__":
-    # Complete json has been already produced
-    # bugsList = scrapeBugs(urls["bugs"])
-    # parseData(bugsList, "bugs.json")
-    # fishList = scrapeFish(urls["fish"])
-    # parseData(fishList, "fish.json")
-    # fossilsList = scrapeFossils(urls["fossils"])
-    # parseData(fossilsList, "fossils.json")
+    # Completed, json has been already produced
+    bugsList = scrapeBugs(urls["bugs"])
+    parseData(bugsList, "bugs.json")
+    fishList = scrapeFish(urls["fish"])
+    parseData(fishList, "fish.json")
+    fossilsList = scrapeFossils(urls["fossils"])
+    parseData(fossilsList, "fossils.json")
 
-    toolsList = scrapeDIYRecipes(urls["tools"])
+    # toolsList = scrapeDIYRecipes(urls["tools"])
