@@ -45,7 +45,9 @@ def getPriceWithBellsString(str):
 def getImageLinks(images):
     result = []
     for image in images:
-        result.append(image.get("src"))
+        t = image.get("src")
+        if (t.startswith("https")):
+            result.append(image.get("src"))
     return result
 
 def parseData(itemList, outfile): # turns object to json 
@@ -160,12 +162,12 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
         itemList.append(itemObject)
     return itemList
 
-def scrapeDIYRecipes(url):
+def scrapeDIYTools(url):
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
     itemList = []
-    for item in table[0].find_all("tr")[1:]: # change to [1:] when done
+    for item in table[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
             if not td.string is None:
@@ -203,10 +205,50 @@ def scrapeDIYRecipes(url):
             itemObject["isRecipeItem"] = avaiConverter(itemInfo[6])
         except: 
             itemObject["isRecipeItem"] = None
-
         itemList.append(itemObject)
     return itemList
 
+def scrapeDIYEquipments(url):
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "sortable"})
+    itemList = []
+    for item in table[0].find_all("tr")[1:]: # change to [1:] when done
+        itemInfo = []
+        for td in item.find_all("td"):
+            if not td.string is None:
+                itemInfo.append(td.next.strip())
+            else:
+                itemInfo.append(td.next)
+        itemObject = {
+            "name": item.findChildren("td")[0].a.text,
+        }
+        try:
+            itemObject["imageLink"] = item.findChildren("a")[1]['href']
+        except AttributeError:
+            itemObject["imageLink"] = None
+        try:
+            itemObject["materials"] = separateByBr(item.findChildren("td")[2]).strip("\n").split(",")
+        except AttributeError:
+            itemObject["materials"] = []
+        try:
+            itemObject["materialsImageLink"] = getImageLinks(item.findChildren("td")[2].find_all("img"))
+        except AttributeError:
+            itemObject["materialsImageLink"] = []
+        try:
+            itemObject["sizeLink"] = itemInfo[3].findChildren("a")[0]['href']
+        except AttributeError:
+            itemObject["sizeLink"] = None
+        try:
+            itemObject["obtainedFrom"] = itemInfo[4].text
+        except AttributeError:
+            itemObject["obtainedFrom"] = None
+        try:
+            itemObject["price"] = int(itemInfo[5].strip().replace(",", ""))
+        except: 
+            itemObject["price"] = None
+        itemList.append(itemObject)
+    return itemList
 
 if __name__ == "__main__":
 
@@ -222,15 +264,17 @@ if __name__ == "__main__":
 
     # Incomplete, please run the script and update the jsons
     # -- DIY Recipes -- 
-    toolsList = scrapeDIYRecipes(urls["tools"])
+    toolsList = scrapeDIYTools(urls["tools"])
     parseData(toolsList, "tools.json")
-    housewaresList = scrapeDIYRecipes(urls["housewares"])
+    housewaresList = scrapeDIYEquipments(urls["housewares"])
     parseData(housewaresList, "housewares.json")
-    # wallMountedsList = scrapeDIYRecipes(urls["wallMounteds"])
-    # parseData(wallMountedsList, "wallMounteds.json")
-    # wallpaperRugsFlooringsList = scrapeDIYRecipes(urls["wallpaperRugsFloorings"])
-    # parseData(wallpaperRugsFlooringsList, "wallpaperRugsFloorings.json")
-    equipmentsList = scrapeDIYRecipes(urls["equipments"])
+    equipmentsList = scrapeDIYEquipments(urls["equipments"])
     parseData(equipmentsList, "equipments.json")
-    othersList = scrapeDIYRecipes(urls["others"])
+
+    # # wallMountedsList = scrapeDIYRecipes(urls["wallMounteds"])
+    # # parseData(wallMountedsList, "wallMounteds.json")
+    # # wallpaperRugsFlooringsList = scrapeDIYRecipes(urls["wallpaperRugsFloorings"])
+    # # parseData(wallpaperRugsFlooringsList, "wallpaperRugsFloorings.json")
+
+    othersList = scrapeDIYEquipments(urls["others"])
     parseData(othersList, "others.json")

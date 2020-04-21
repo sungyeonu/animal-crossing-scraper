@@ -2,7 +2,7 @@ from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeDIYRecipes
 import unittest
 
 class TestDIYRecipes(unittest.TestCase):
-    def test_DIY_Tools(self):
+    def testDIYTools(self):
         url = "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools"
         result = scrapeDIYRecipes(url)
         # first item
@@ -14,6 +14,9 @@ class TestDIYRecipes(unittest.TestCase):
         self.assertEqual(result[0]["obtainedFrom"], "Tom Nook")
         self.assertEqual(result[0]["price"], 200)
         self.assertEqual(result[0]["isRecipeItem"], True)
+
+    def testDIYEquipments(self):
+        pass
 
 if __name__ == '__main__':
     unittest.main()
