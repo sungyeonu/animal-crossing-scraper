@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup, Tag
-import requests, io
+from bs4 import Tag
 import simplejson as json
 
 def separateByBr(tag, result=''):
@@ -33,12 +32,5 @@ def getImageLinks(images):
 def dumpData(itemList, path): # turns object to json and dump it in the data/
     with open(("data/" + path + ".json"), 'w') as f:
         json.dump(itemList, f) 
-
-
-    # Miscellaneous
-    # # wallMountedsList = scrapeDIYRecipes(urls["wallMounteds"])
-    # # parseData(wallMountedsList, "wallMounteds.json")
-    # # wallpaperRugsFlooringsList = scrapeDIYRecipes(urls["wallpaperRugsFloorings"])
-    # # parseData(wallpaperRugsFlooringsList, "wallpaperRugsFloorings.json")
 
 

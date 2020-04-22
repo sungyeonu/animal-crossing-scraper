@@ -1,6 +1,5 @@
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 import requests, io
-import simplejson as json
 from util import separateByBr, avaiConverter, getPriceWithBellsString, getImageLinks, dumpData
 
 urls = { 
@@ -16,6 +15,7 @@ urls = {
     # DIY Recipes
     "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
     "housewares": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Housewares",
+    "miscellaneous": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Miscellaneous",
     "wallMounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
     "wallpaperRugsFloorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
     "equipments": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
@@ -208,7 +208,8 @@ def scrapeDIYTools(key):
     dumpData(itemList, key)
     return itemList
 
-def scrapeDIYEquipments(url):
+def scrapeDIYEquipments(key):
+    url = urls.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
@@ -248,9 +249,11 @@ def scrapeDIYEquipments(url):
         except: 
             itemObject["price"] = None
         itemList.append(itemObject)
+    dumpData(itemList, key)
     return itemList
 
 if __name__ == "__main__":
+    '''
     # -- Critters -- 
     scrapeBugs("bugs")
     scrapeFish("fish")
@@ -261,16 +264,8 @@ if __name__ == "__main__":
 
     # -- DIY Recipes -- 
     scrapeDIYTools("tools")
-    # parseData(toolsList, "tools.json")
-    # housewaresList = scrapeDIYEquipments(urls["housewares"])
-    # parseData(housewaresList, "housewares.json")
-    # equipmentsList = scrapeDIYEquipments(urls["equipments"])
-    # parseData(equipmentsList, "equipments.json")
-
-    # # wallMountedsList = scrapeDIYRecipes(urls["wallMounteds"])
-    # # parseData(wallMountedsList, "wallMounteds.json")
-    # # wallpaperRugsFlooringsList = scrapeDIYRecipes(urls["wallpaperRugsFloorings"])
-    # # parseData(wallpaperRugsFlooringsList, "wallpaperRugsFloorings.json")
-
-    # othersList = scrapeDIYEquipments(urls["others"])
-    # parseData(othersList, "others.json")
+    scrapeDIYEquipments("housewares")
+    scrapeDIYEquipments("equipments")
+    scrapeDIYEquipments("miscellaneous")
+    scrapeDIYEquipments("others")
+    '''
