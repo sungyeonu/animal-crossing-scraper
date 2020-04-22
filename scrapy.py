@@ -1,13 +1,17 @@
 from bs4 import BeautifulSoup, Tag
 import requests, io
 import simplejson as json
+from util import separateByBr, avaiConverter, getPriceWithBellsString, getImageLinks, dumpData
 
 urls = { 
     # Urls for New Horizons
-    # Collectables
+    # Critters
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
     "fossils": "https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)",
+
+    # Characters
+    "villagers": "https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)",
 
     # DIY Recipes
     "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
@@ -22,39 +26,8 @@ urls = {
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
 
-def separateByBr(tag, result=''):
-    for c in tag.contents:
-        if isinstance(c, Tag):  # check if content is a tag
-            if c.name == 'br':  # if tag is <br> append it as string
-                result += ","
-            else:  # for any other tag, recurse
-                result = separateByBr(c, result)
-        else:  # if content is NavigableString (string), append
-            result += c
-    return result
-
-def avaiConverter(str): # returns True if item is available, False otherwise
-    if (str == "\u2713" or str == "✔"): # "\u2713" is a checkmark
-        return True
-    else:
-        return False
-
-def getPriceWithBellsString(str):
-    return int(str.replace(',', '').replace(' Bells', ''))
-
-def getImageLinks(images):
-    result = []
-    for image in images:
-        t = image.get("src")
-        if (t.startswith("https")):
-            result.append(image.get("src"))
-    return result
-
-def parseData(itemList, outfile): # turns object to json 
-    with open(outfile, 'w') as f:
-        json.dump(itemList, f) 
-
-def scrapeBugs(url): # take url and return object containing bugs data
+def scrapeBugs(key): # take url and return object containing bugs data
+    url = urls.get(key)
     # create soup object
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
@@ -90,9 +63,11 @@ def scrapeBugs(url): # take url and return object containing bugs data
             "dec": avaiConverter(itemInfo[16])
         }
         itemList.append(itemObject)
+    dumpData(itemList, key)
     return itemList
 
-def scrapeFish(url): # same logic as scrapeBugs
+def scrapeFish(key): # same logic as scrapeBugs
+    url = urls.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
@@ -122,9 +97,12 @@ def scrapeFish(url): # same logic as scrapeBugs
             "dec": avaiConverter(itemInfo[17])
         }
         itemList.append(itemObject)
+    dumpData(itemList, key)
+
     return itemList
 
-def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
+def scrapeFossils(key): # same logic as scrapeBugs and scrapeFish
+    url = urls.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
@@ -160,9 +138,30 @@ def scrapeFossils(url): # same logic as scrapeBugs and scrapeFish
             "category": category
         }
         itemList.append(itemObject)
+    dumpData(itemList, key)
     return itemList
 
-def scrapeDIYTools(url):
+def scrapeVillagers(key):
+    url = urls.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "sortable"})
+    itemList = []
+    for item in table[0].find_all("tr")[1:]:
+        itemObject = {
+            "name": item.findChildren("td")[0].a.text,
+            "imageLink": item.findChildren("a")[1]['href'],
+            "personality": item.findChildren("td")[2].text.strip("\n")[1:],
+            "species": item.findChildren("td")[3].text.strip("\n")[1:],
+            "birthday": item.findChildren("td")[4].text.strip("\n")[1:],
+            "catchPhrase": item.findChildren("td")[5].text.strip("\n")[1:]
+        }
+        itemList.append(itemObject)
+    dumpData(itemList, key)
+    return itemList
+
+def scrapeDIYTools(key):
+    url = urls.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
@@ -206,6 +205,7 @@ def scrapeDIYTools(url):
         except: 
             itemObject["isRecipeItem"] = None
         itemList.append(itemObject)
+    dumpData(itemList, key)
     return itemList
 
 def scrapeDIYEquipments(url):
@@ -251,30 +251,26 @@ def scrapeDIYEquipments(url):
     return itemList
 
 if __name__ == "__main__":
+    # -- Critters -- 
+    scrapeBugs("bugs")
+    scrapeFish("fish")
+    scrapeFossils("fossils")
 
-    # Completed, json has already been produced
+    # -- Characters -- 
+    scrapeVillagers("villagers")
 
-    # -- Collectibles -- 
-    # bugsList = scrapeBugs(urls["bugs"])
-    # parseData(bugsList, "bugs.json")
-    # fishList = scrapeFish(urls["fish"])
-    # parseData(fishList, "fish.json")
-    # fossilsList = scrapeFossils(urls["fossils"])
-    # parseData(fossilsList, "fossils.json")
-
-    # Incomplete, please run the script and update the jsons
     # -- DIY Recipes -- 
-    toolsList = scrapeDIYTools(urls["tools"])
-    parseData(toolsList, "tools.json")
-    housewaresList = scrapeDIYEquipments(urls["housewares"])
-    parseData(housewaresList, "housewares.json")
-    equipmentsList = scrapeDIYEquipments(urls["equipments"])
-    parseData(equipmentsList, "equipments.json")
+    scrapeDIYTools("tools")
+    # parseData(toolsList, "tools.json")
+    # housewaresList = scrapeDIYEquipments(urls["housewares"])
+    # parseData(housewaresList, "housewares.json")
+    # equipmentsList = scrapeDIYEquipments(urls["equipments"])
+    # parseData(equipmentsList, "equipments.json")
 
     # # wallMountedsList = scrapeDIYRecipes(urls["wallMounteds"])
     # # parseData(wallMountedsList, "wallMounteds.json")
     # # wallpaperRugsFlooringsList = scrapeDIYRecipes(urls["wallpaperRugsFloorings"])
     # # parseData(wallpaperRugsFlooringsList, "wallpaperRugsFloorings.json")
 
-    othersList = scrapeDIYEquipments(urls["others"])
-    parseData(othersList, "others.json")
+    # othersList = scrapeDIYEquipments(urls["others"])
+    # parseData(othersList, "others.json")

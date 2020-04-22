@@ -1,11 +1,39 @@
-from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeDIYRecipes
+from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeVillagers, scrapeDIYTools
 import unittest
+
+class TestCritters(unittest.TestCase):
+    def testBugs(self):
+        result = scrapeBugs("bugs")
+        self.assertEqual(result[0]["name"], "Common butterfly")
+        self.assertEqual(result[0]["price"], 160)
+        self.assertEqual(result[0]["location"], "Flying")
+        self.assertEqual(result[0]["time"], "4 AM - 7 PM")
+
+    def testFish(self):
+        result = scrapeFish("fish")
+        self.assertEqual(result[0]["name"], "Bitterling")
+        self.assertEqual(result[0]["price"], 900)
+        self.assertEqual(result[0]["location"], "River")
+        self.assertEqual(result[0]["shadowSize"], "1")
+        self.assertEqual(result[0]["time"], "All day")
+    
+    def testFossils(self):
+        result = scrapeFossils("fossils")
+        self.assertEqual(result[0]["name"], "Acanthostega")
+        self.assertEqual(result[0]["price"], 2000)
+
+class TestCharacters(unittest.TestCase):
+    def testVillagers(self):
+        result = scrapeVillagers("villagers")
+        self.assertEqual(result[0]["name"], "Admiral")
+        self.assertEqual(result[0]["personality"], "♂ Cranky")
+        self.assertEqual(result[0]["species"], "Bird")
+        self.assertEqual(result[0]["birthday"], "January 27th")
+        self.assertEqual(result[0]["catchPhrase"], "\"aye aye\"")
 
 class TestDIYRecipes(unittest.TestCase):
     def testDIYTools(self):
-        url = "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools"
-        result = scrapeDIYRecipes(url)
-        # first item
+        result = scrapeDIYTools("tools")
         self.assertEqual(result[0]["name"], "Flimsy axe")
         self.assertEqual(result[0]["imageLink"], "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Flimsy_axe.png/revision/latest?cb=20200325181711")
         self.assertEqual(result[0]["materials"], ["5x tree branch", "1x stone"])
