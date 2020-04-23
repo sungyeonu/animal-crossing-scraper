@@ -280,7 +280,6 @@ def scrapeDIYWalls(key):
 
 
 if __name__ == "__main__":
-    '''
     # -- Critters -- 
     scrapeBugs("bugs")
     scrapeFish("fish")
@@ -296,5 +295,4 @@ if __name__ == "__main__":
     scrapeDIYEquipments("miscellaneous")
     scrapeDIYEquipments("others")
     scrapeDIYWalls("wallMounteds")
-    '''
     scrapeDIYWalls("wallpaperRugsFloorings")
