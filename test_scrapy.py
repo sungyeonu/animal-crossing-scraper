@@ -1,4 +1,4 @@
-from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeVillagers, scrapeDIYTools
+from scrapy import scrapeBugs, scrapeFish, scrapeFossils, scrapeVillagers, scrapeDIYTools, scrapeDIYWalls
 import unittest
 
 class TestCritters(unittest.TestCase):
@@ -33,7 +33,7 @@ class TestCharacters(unittest.TestCase):
 
 class TestDIYRecipes(unittest.TestCase):
     def testDIYTools(self):
-        result = scrapeDIYTools("tools")
+        result = scrapeDIYTools("tools") 
         self.assertEqual(result[0]["name"], "Flimsy axe")
         self.assertEqual(result[0]["imageLink"], "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Flimsy_axe.png/revision/latest?cb=20200325181711")
         self.assertEqual(result[0]["materials"], ["5x tree branch", "1x stone"])
@@ -43,8 +43,12 @@ class TestDIYRecipes(unittest.TestCase):
         self.assertEqual(result[0]["price"], 200)
         self.assertEqual(result[0]["isRecipeItem"], True)
 
-    def testDIYEquipments(self):
-        pass
+    def testDIYWallMounteds(self):
+        result = scrapeDIYWalls("wallMounteds") 
+        self.assertEqual(result[0]["name"], "Bamboo wall decoration")
+        self.assertEqual(result[0]["materials"], ["1x bamboo piece"])
+        self.assertEqual(result[0]["obtainedFrom"], "Message in a bottle")
+        self.assertEqual(result[0]["price"], 160)
 
 if __name__ == '__main__':
     unittest.main()

@@ -16,10 +16,10 @@ urls = {
     "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
     "housewares": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Housewares",
     "miscellaneous": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Miscellaneous",
+    "equipments": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
+    "others": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Other",
     "wallMounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
     "wallpaperRugsFloorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
-    "equipments": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
-    "others": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Other"
 
     # Urls for New Leaf
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
@@ -214,7 +214,7 @@ def scrapeDIYEquipments(key):
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
     itemList = []
-    for item in table[0].find_all("tr")[1:]: # change to [1:] when done
+    for item in table[0].find_all("tr")[1:]:
         itemInfo = []
         for td in item.find_all("td"):
             if not td.string is None:
@@ -252,6 +252,33 @@ def scrapeDIYEquipments(key):
     dumpData(itemList, key)
     return itemList
 
+
+def scrapeDIYWalls(key):
+    url = urls.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "sortable"})
+    itemList = []
+    for item in table[0].find_all("tr")[1:]: # change to [1:] when done
+        itemObject = {
+            "name": item.findChildren("td")[0].text.strip("\n")
+        }
+        if item.findChildren("a")[1]['href']:
+            itemObject["imageLink"] = item.findChildren("a")[1]['href']
+        if item.findChildren("td")[2]:
+            itemObject["materials"] = separateByBr(item.findChildren("td")[2]).strip("\n").split(",")
+            itemObject["materialsImageLink"] = getImageLinks(item.findChildren("td")[2].find_all("img"))
+        if item.findChildren("td")[3].findChildren("a"):
+            itemObject["sizeLink"] = item.findChildren("td")[3].findChildren("a")[0]['href']
+        if item.findChildren("td")[4].text:
+            itemObject["obtainedFrom"] = item.findChildren("td")[4].text.strip('\n')
+        if item.findChildren("td")[5].text.strip().replace(",", ""):
+            itemObject["price"] = int(item.findChildren("td")[5].text.strip().replace(",", ""))
+        itemList.append(itemObject)
+    dumpData(itemList, key)
+    return itemList
+
+
 if __name__ == "__main__":
     '''
     # -- Critters -- 
@@ -268,4 +295,6 @@ if __name__ == "__main__":
     scrapeDIYEquipments("equipments")
     scrapeDIYEquipments("miscellaneous")
     scrapeDIYEquipments("others")
+    scrapeDIYWalls("wallMounteds")
     '''
+    scrapeDIYWalls("wallpaperRugsFloorings")
