@@ -1,7 +1,7 @@
 from bs4 import Tag
 import simplejson as json
 
-def separateByBr(tag, result=''):
+def separateByBr(tag, result=''): # recursive, take html element and separate text by <br/>
     for c in tag.contents:
         if isinstance(c, Tag):  # check if content is a tag
             if c.name == 'br':  # if tag is <br> append it as string
@@ -18,10 +18,10 @@ def avaiConverter(str): # returns True if item is available, False otherwise
     else:
         return False
 
-def getPriceWithBellsString(str):
+def getPriceWithBellsString(str): 
     return int(str.replace(',', '').replace(' Bells', ''))
 
-def getImageLinks(images):
+def getImageLinks(images): # return list of imagelinks 
     result = []
     for image in images:
         t = image.get("src")

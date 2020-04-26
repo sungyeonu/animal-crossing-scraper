@@ -5,7 +5,7 @@ Data source:
 - https://animalcrossing.fandom.com/wiki/
 
 ## Output
-All json files are located in /data
+All json files are stored in /data
 
 Critters
 - bugs.json
