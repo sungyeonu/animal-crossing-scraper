@@ -20,6 +20,8 @@ DIY Recipes
 - equipments.json
 - housewares.json
 - miscellaneous.json
+- wallMounteds.json
+- wallpaperRugsFloorings.json
 - others.json
 
 ## Set Up
