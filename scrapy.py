@@ -36,19 +36,19 @@ def scrapeBugs(key): # take url and return object containing bugs data
 
     items = {}
     # go through each tr in the table, ignoring the table header
-    for item in table[0].find_all("tr")[1:]:
+    for tr in table[0].find_all("tr")[1:]:
         tableData = []
         # get rid of empty space
-        for td in item.find_all("td"):
+        for td in tr.find_all("td"):
             tableData.append(td.next.strip())
         # find data and save it into an object
-        name = item.findChildren("td")[0].a.text
-        itemObject = {
+        name = tr.findChildren("td")[0].a.text
+        item = {
             "name": name,
-            "imageLink": item.findChildren("a")[1]['href'],
+            "imageLink": tr.findChildren("a")[1]['href'],
             "price": int(tableData[2]),
-            "location": item.findChildren("td")[3].text.strip('\n').strip(),
-            "time": item.findChildren("small")[0].text,
+            "location": tr.findChildren("td")[3].text.strip('\n').strip(),
+            "time": tr.findChildren("small")[0].text,
             "seasons-northern-hemisphere": {
                 "jan": avaiConverter(tableData[5]),
                 "feb": avaiConverter(tableData[6]),
@@ -78,7 +78,7 @@ def scrapeBugs(key): # take url and return object containing bugs data
                 "dec": avaiConverter(tableData[10])
             }
         }
-        items[name] = itemObject
+        items[name] = item
     dumpData(items, key)
     # return for debugging
     return items
@@ -89,18 +89,18 @@ def scrapeFish(key): # same logic as scrapeBugs
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
     items = {}
-    for item in table[0].find_all("tr")[1:]:
+    for tr in table[0].find_all("tr")[1:]:
         tableData = []
-        for td in item.find_all("td"):
+        for td in tr.find_all("td"):
             tableData.append(td.next.strip())
-        name = item.findChildren("td")[0].a.text
-        itemObject = {
+        name = tr.findChildren("td")[0].a.text
+        item = {
             "name": name,
-            "imageLink": item.findChildren("a")[1]['href'],
+            "imageLink": tr.findChildren("a")[1]['href'],
             "price": int(tableData[2]),
-            "location": item.findChildren("td")[3].text.strip('\n').strip(),
+            "location": tr.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": tableData[4], # specific to fish
-            "time": item.findChildren("small")[0].text, 
+            "time": tr.findChildren("small")[0].text, 
             "seasons-northern-hemisphere": {
                 "jan": avaiConverter(tableData[6]),
                 "feb": avaiConverter(tableData[7]),
@@ -130,7 +130,7 @@ def scrapeFish(key): # same logic as scrapeBugs
                 "dec": avaiConverter(tableData[11])
             }
         }
-        items[name] = itemObject
+        items[name] = item
     dumpData(items, key)
     return items
 
@@ -139,40 +139,42 @@ def scrapeFossils(key): # same logic as scrapeBugs and scrapeFish
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
-    itemList = []
     items = {}
     # Stand-alone fossils
-    for item in table[0].find_all("tr")[1:]:
+    for tr in table[0].find_all("tr")[1:]:
         tableData = []
-        for td in item.find_all("td"):
+        for td in tr.find_all("td"):
             tableData.append(td.next.strip())
-        itemObject = {
-            "name": item.findChildren("a")[0].text,
-            "imageLink": item.findChildren("a")[1]['href'],
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": tr.findChildren("a")[0].text,
+            "imageLink": tr.findChildren("a")[1]['href'],
             "price": getPriceWithBellsString(tableData[2]),
             "isMultipart": False
         }
-        tableData.append(itemObject)
+        tableData.append(item)
+        items[name] = item
 
     # Multi-part fossils
-    for item in table[1].find_all("tr")[1:]:
-        itemInfo = []
-        items = item.find_all("td")
-        if not items:
-            category = item.findChildren("a")[0].text
+    for tr in table[1].find_all("tr")[1:]:
+        tableData = []
+        tds = tr.find_all("td")
+        if not tds:
+            category = tr.findChildren("a")[0].text
             continue
-        for td in item.find_all("td"):
-            itemInfo.append(td.next.strip())
-        itemObject = {
-            "name": item.findChildren("a")[0].text,
-            "imageLink": item.findChildren("a")[1]['href'],
-            "price": getPriceWithBellsString(itemInfo[2]),
+        for td in tr.find_all("td"):
+            tableData.append(td.next.strip())
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": tr.findChildren("a")[0].text,
+            "imageLink": tr.findChildren("a")[1]['href'],
+            "price": getPriceWithBellsString(tableData[2]),
             "isMultipart": True,
             "category": category
         }
-        itemList.append(itemObject)
-    dumpData(itemList, key)
-    return itemList
+        items[name] = item
+    dumpData(items, key)
+    return items
 
 def scrapeVillagers(key):
     url = URLS.get(key)
@@ -314,9 +316,9 @@ def scrapeDIYWalls(key):
 
 if __name__ == "__main__":
     # -- Critters -- 
-    scrapeBugs("bugs")
-    scrapeFish("fish")
-    scrapeFossils("fossils")
+    # scrapeBugs("bugs")
+    # scrapeFish("fish")
+    # scrapeFossils("fossils")
 
     # -- Characters -- 
     # scrapeVillagers("villagers")
