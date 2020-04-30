@@ -3,7 +3,8 @@ import requests, io
 from util import separateByBr, avaiConverter, getPriceWithBellsString, getImageLinks, dumpData
 
 urls = { 
-    # Urls for New Horizons
+    # New Horizons
+
     # Critters
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
@@ -21,7 +22,7 @@ urls = {
     "wallMounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
     "wallpaperRugsFloorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
 
-    # Urls for New Leaf
+    # New Leaf
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)"
 }
@@ -44,23 +45,42 @@ def scrapeBugs(key): # take url and return object containing bugs data
 
         # find data and save it into an object
         itemObject = {
-            "name": item.findChildren("td")[0].a.text,
-            "imageLink": item.findChildren("a")[1]['href'],
-            "price": int(itemInfo[2]),
-            "location": item.findChildren("td")[3].text.strip('\n').strip(),
-            "time": item.findChildren("small")[0].text,
-            "jan": avaiConverter(itemInfo[5]),
-            "feb": avaiConverter(itemInfo[6]),
-            "mar": avaiConverter(itemInfo[7]),
-            "apr": avaiConverter(itemInfo[8]),
-            "may": avaiConverter(itemInfo[9]),
-            "jun": avaiConverter(itemInfo[10]),
-            "jul": avaiConverter(itemInfo[11]),
-            "aug": avaiConverter(itemInfo[12]),
-            "sep": avaiConverter(itemInfo[13]),
-            "oct": avaiConverter(itemInfo[14]),
-            "nov": avaiConverter(itemInfo[15]),
-            "dec": avaiConverter(itemInfo[16])
+            item.findChildren("td")[0].a.text: {
+                "name": item.findChildren("td")[0].a.text,
+                "imageLink": item.findChildren("a")[1]['href'],
+                "price": int(itemInfo[2]),
+                "location": item.findChildren("td")[3].text.strip('\n').strip(),
+                "time": item.findChildren("small")[0].text,
+                "seasons-northern-hemisphere": {
+                    "jan": avaiConverter(itemInfo[5]),
+                    "feb": avaiConverter(itemInfo[6]),
+                    "mar": avaiConverter(itemInfo[7]),
+                    "apr": avaiConverter(itemInfo[8]),
+                    "may": avaiConverter(itemInfo[9]),
+                    "jun": avaiConverter(itemInfo[10]),
+                    "jul": avaiConverter(itemInfo[11]),
+                    "aug": avaiConverter(itemInfo[12]),
+                    "sep": avaiConverter(itemInfo[13]),
+                    "oct": avaiConverter(itemInfo[14]),
+                    "nov": avaiConverter(itemInfo[15]),
+                    "dec": avaiConverter(itemInfo[16])
+                },
+                "seasons-southern-hemisphere": { # shift northern hemisphere by 6 months
+                    "jan": avaiConverter(itemInfo[11]),
+                    "feb": avaiConverter(itemInfo[12]),
+                    "mar": avaiConverter(itemInfo[13]),
+                    "apr": avaiConverter(itemInfo[14]),
+                    "may": avaiConverter(itemInfo[15]),
+                    "jun": avaiConverter(itemInfo[16]),
+                    "jul": avaiConverter(itemInfo[5]),
+                    "aug": avaiConverter(itemInfo[6]),
+                    "sep": avaiConverter(itemInfo[7]),
+                    "oct": avaiConverter(itemInfo[8]),
+                    "nov": avaiConverter(itemInfo[9]),
+                    "dec": avaiConverter(itemInfo[10])
+                }
+            }
+
         }
         itemList.append(itemObject)
     dumpData(itemList, key)
@@ -282,17 +302,17 @@ def scrapeDIYWalls(key):
 if __name__ == "__main__":
     # -- Critters -- 
     scrapeBugs("bugs")
-    scrapeFish("fish")
-    scrapeFossils("fossils")
+    # scrapeFish("fish")
+    # scrapeFossils("fossils")
 
-    # -- Characters -- 
-    scrapeVillagers("villagers")
+    # # -- Characters -- 
+    # scrapeVillagers("villagers")
 
-    # -- DIY Recipes -- 
-    scrapeDIYTools("tools")
-    scrapeDIYEquipments("housewares")
-    scrapeDIYEquipments("equipments")
-    scrapeDIYEquipments("miscellaneous")
-    scrapeDIYEquipments("others")
-    scrapeDIYWalls("wallMounteds")
-    scrapeDIYWalls("wallpaperRugsFloorings")
+    # # -- DIY Recipes -- 
+    # scrapeDIYTools("tools")
+    # scrapeDIYEquipments("housewares")
+    # scrapeDIYEquipments("equipments")
+    # scrapeDIYEquipments("miscellaneous")
+    # scrapeDIYEquipments("others")
+    # scrapeDIYWalls("wallMounteds")
+    # scrapeDIYWalls("wallpaperRugsFloorings")
