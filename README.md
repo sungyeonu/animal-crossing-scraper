@@ -1,12 +1,14 @@
 # animal-crossing-scraper
 Python webscraper to extract various data of the game Animal Crossing - New Horizons.
 
-Data source: 
-- https://animalcrossing.fandom.com/wiki/
+Data source: https://animalcrossing.fandom.com/wiki/
+
+Feel free to use the JSON files! Some of the pages on the wiki are incomplete, so if some data is missing please check back later. 
 
 ## Output
-All json files are stored in /data
+All JSON files are stored in /data
 
+-- Completed -- 
 Critters
 - bugs.json
 - fish.json
@@ -15,6 +17,7 @@ Critters
 Characters
 - villagers.json
 
+-- Incomplete -- 
 DIY Recipes
 - tools.json
 - equipments.json
