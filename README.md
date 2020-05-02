@@ -8,7 +8,7 @@ Feel free to use the JSON files! Some of the pages on the wiki are incomplete, s
 ## Output
 All JSON files are stored in /data
 
--- Completed --  
+*-- Completed --*  
 Critters
 - bugs.json
 - fish.json
@@ -17,7 +17,7 @@ Critters
 Characters
 - villagers.json
 
--- Incomplete --  
+*-- Incomplete --*  
 DIY Recipes
 - tools.json
 - equipments.json
@@ -33,7 +33,7 @@ DIY Recipes
 git clone https://github.com/sungyeonu/animal-crossing-scraper.git
 ```
 
-2. Set up virtual environment
+2. Set up a virtual environment
 ```
 python -m venv venv
 ```
