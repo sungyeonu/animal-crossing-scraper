@@ -202,48 +202,29 @@ def scrapeDIYTools(key):
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
-    itemList = []
-    for item in table[0].find_all("tr")[1:]:
-        itemInfo = []
-        for td in item.find_all("td"):
-            if not td.string is None:
-                itemInfo.append(td.next.strip())
-            else:
-                itemInfo.append(td.next)
-        itemObject = {
-            "name": item.findChildren("td")[0].a.text,
+    items = {}
+    for tr in table[0].find_all("tr")[1:]:
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": name,
         }
-        try:
-            itemObject["imageLink"] = item.findChildren("a")[1]['href']
-        except AttributeError:
-            itemObject["imageLink"] = None
-        try:
-            itemObject["materials"] = separateByBr(item.findChildren("td")[2]).strip("\n").split(",")
-        except AttributeError:
-            itemObject["materials"] = []
-        try:
-            itemObject["materialsImageLink"] = getImageLinks(item.findChildren("td")[2].find_all("img"))
-        except AttributeError:
-            itemObject["materialsImageLink"] = []
-        try:
-            itemObject["sizeLink"] = itemInfo[3].img.get("data-src")
-        except AttributeError:
-            itemObject["sizeLink"] = None
-        try:
-            itemObject["obtainedFrom"] = itemInfo[4].text
-        except AttributeError:
-            itemObject["obtainedFrom"] = None
-        try:
-            itemObject["price"] = int(itemInfo[5].strip().replace(",", ""))
-        except: 
-            itemObject["price"] = None
-        try:
-            itemObject["isRecipeItem"] = avaiConverter(itemInfo[6])
-        except: 
-            itemObject["isRecipeItem"] = None
-        itemList.append(itemObject)
-    dumpData(itemList, key)
-    return itemList
+        if tr.findChildren("a")[1]['href']:
+            item["imageLink"] = tr.findChildren("a")[1]['href']
+        if tr.findChildren("td")[2]:
+            item["materials"] = separateByBr(tr.findChildren("td")[2]).strip("\n").split(",")
+        if tr.findChildren("td")[2].find_all("img"):
+            item["materialsImageLink"] = getImageLinks(tr.findChildren("td")[2].find_all("img"))
+        if tr.findChildren("td")[3].img.get("data-src"):
+            item["sizeImageLink"] = tr.findChildren("td")[3].img.get("data-src")
+        if tr.findChildren("td")[4].text:
+            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n")
+        if tr.findChildren("td")[5]:
+            item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
+        if tr.findChildren("td")[6]:
+            item["isRecipeItem"] = avaiConverter(tr.findChildren("td")[6].next.strip("\n"))
+        items[name] = item
+    dumpData(items, key)
+    return items
 
 def scrapeDIYEquipments(key):
     url = URLS.get(key)
@@ -323,10 +304,10 @@ if __name__ == "__main__":
     # scrapeFossils("fossils")
 
     # -- Characters -- 
-    scrapeVillagers("villagers")
+    # scrapeVillagers("villagers")
 
     # -- DIY Recipes -- 
-    # scrapeDIYTools("tools")
+    scrapeDIYTools("tools")
     # scrapeDIYEquipments("housewares")
     # scrapeDIYEquipments("equipments")
     # scrapeDIYEquipments("miscellaneous")
