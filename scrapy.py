@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests, io
 from util import separateByBr, avaiConverter, getPriceWithBellsString, getImageLinks, dumpData
 
-URLS = { 
+URLS = {
     # --- New Horizons ---
     # Critters
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
@@ -100,7 +100,7 @@ def scrapeFish(key): # same logic as scrapeBugs
             "price": int(tableData[2]),
             "location": tr.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": tableData[4], # specific to fish
-            "time": tr.findChildren("small")[0].text, 
+            "time": tr.findChildren("small")[0].text,
             "seasons-northern-hemisphere": {
                 "jan": avaiConverter(tableData[6]),
                 "feb": avaiConverter(tableData[7]),
@@ -264,7 +264,7 @@ def scrapeDIYEquipments(key):
             itemObject["obtainedFrom"] = None
         try:
             itemObject["price"] = int(itemInfo[5].strip().replace(",", ""))
-        except: 
+        except:
             itemObject["price"] = None
         itemList.append(itemObject)
     dumpData(itemList, key)
@@ -298,20 +298,20 @@ def scrapeDIYWalls(key):
 
 
 if __name__ == "__main__":
-    # -- Critters -- 
-    # scrapeBugs("bugs")
-    # scrapeFish("fish")
-    # scrapeFossils("fossils")
+    # -- Critters --
+    scrapeBugs("bugs")
+    scrapeFish("fish")
+    scrapeFossils("fossils")
 
-    # -- Characters -- 
-    # scrapeVillagers("villagers")
+    # -- Characters --
+    scrapeVillagers("villagers")
 
-    # -- DIY Recipes -- 
+    # -- DIY Recipes --
     scrapeDIYTools("tools")
-    # scrapeDIYEquipments("housewares")
-    # scrapeDIYEquipments("equipments")
-    # scrapeDIYEquipments("miscellaneous")
+    scrapeDIYEquipments("housewares")
+    scrapeDIYEquipments("equipments")
+    scrapeDIYEquipments("miscellaneous")
     # scrapeDIYEquipments("others")
-    # scrapeDIYWalls("wallMounteds")
-    # scrapeDIYWalls("wallpaperRugsFloorings")
+    scrapeDIYWalls("wallMounteds")
+    scrapeDIYWalls("wallpaperRugsFloorings")
     pass
