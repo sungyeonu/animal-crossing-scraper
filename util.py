@@ -18,10 +18,10 @@ def avaiConverter(str): # returns True if item is available, False otherwise
     else:
         return False
 
-def getPriceWithBellsString(str): 
+def getPriceWithBellsString(str):
     return int(str.replace(',', '').replace(' Bells', ''))
 
-def getImageLinks(images): # return list of imagelinks 
+def getImageLinks(images): # return list of imagelinks
     result = []
     for image in images:
         t = image.get("src")
@@ -31,6 +31,6 @@ def getImageLinks(images): # return list of imagelinks
 
 def dumpData(itemList, path): # turns object to json and dump it in the data/
     with open(("data/" + path + ".json"), 'w') as f:
-        json.dump(itemList, f) 
+        json.dump(itemList, f, indent=4)
 
 
