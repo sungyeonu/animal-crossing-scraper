@@ -3,12 +3,12 @@ import simplejson as json
 
 def separateByBr(tag, result=''): # take html element and replace <br /> with comma, recursively
     for c in tag.contents:
-        if isinstance(c, Tag):  
-            if c.name == 'br':  
+        if isinstance(c, Tag):
+            if c.name == 'br':
                 result += ","
-            else:  
+            else:
                 result = separateByBr(c, result)
-        else: 
+        else:
             result += c
     return result
 
@@ -21,7 +21,7 @@ def avaiConverter(str): # take str and returns True if str represents available.
 def getPriceWithBellsString(str): # take str and return integer only
     return int(str.replace(',', '').replace(' Bells', ''))
 
-def getImageLinks(images): # take html and return the imagelinks in a list 
+def getImageLinks(images): # take html and return the imagelinks in a list
     result = []
     for image in images:
         t = image.get("src")
@@ -31,6 +31,4 @@ def getImageLinks(images): # take html and return the imagelinks in a list
 
 def dumpData(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:
-        json.dump(itemList, f) 
-
-
+        json.dump(itemList, f, indent=4)

@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests, io
 from util import separateByBr, avaiConverter, getPriceWithBellsString, getImageLinks, dumpData
 
-URLS = { 
+URLS = {
     # --- New Horizons ---
     # Critters
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
@@ -100,7 +100,7 @@ def scrapeFish(key): # same logic as scrapeBugs
             "price": int(tableData[2]),
             "location": tr.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": tableData[4], # specific to fish
-            "time": tr.findChildren("small")[0].text, 
+            "time": tr.findChildren("small")[0].text,
             "seasons-northern-hemisphere": {
                 "jan": avaiConverter(tableData[6]),
                 "feb": avaiConverter(tableData[7]),
@@ -258,7 +258,7 @@ def scrapeDIYWallpapers(key):
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
     items = {}
-    for tr in table[0].find_all("tr")[1:]: 
+    for tr in table[0].find_all("tr")[1:]:
         name = tr.findChildren("td")[0].a.text
         item = {
             "name": name,
@@ -306,15 +306,15 @@ def scrapeDIYOthers(key):
     return items
 
 if __name__ == "__main__":
-    # -- Critters -- 
+    # -- Critters --
     scrapeBugs("bugs")
     scrapeFish("fish")
     scrapeFossils("fossils")
 
-    # -- Characters -- 
+    # -- Characters --
     scrapeVillagers("villagers")
 
-    # -- DIY Recipes -- 
+    # -- DIY Recipes --
     scrapeDIYTools("tools")
     scrapeDIYTools("housewares")
     scrapeDIYEquipments("equipments")
