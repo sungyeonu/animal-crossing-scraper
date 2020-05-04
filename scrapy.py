@@ -217,7 +217,7 @@ def scrapeDIYTools(key):
         if tr.findChildren("td")[3].img.get("data-src"):
             item["sizeImageLink"] = tr.findChildren("td")[3].img.get("data-src")
         if tr.findChildren("td")[4].text:
-            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n")
+            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n").splitlines()
         if tr.findChildren("td")[5]:
             item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
         if tr.findChildren("td")[6]:
@@ -231,71 +231,80 @@ def scrapeDIYEquipments(key):
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
-    itemList = []
-    for item in table[0].find_all("tr")[1:]:
-        itemInfo = []
-        for td in item.find_all("td"):
-            if not td.string is None:
-                itemInfo.append(td.next.strip())
-            else:
-                itemInfo.append(td.next)
-        itemObject = {
-            "name": item.findChildren("td")[0].a.text,
+    items = {}
+    for tr in table[0].find_all("tr")[1:]:
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": name,
         }
-        try:
-            itemObject["imageLink"] = item.findChildren("a")[1]['href']
-        except AttributeError:
-            itemObject["imageLink"] = None
-        try:
-            itemObject["materials"] = separateByBr(item.findChildren("td")[2]).strip("\n").split(",")
-        except AttributeError:
-            itemObject["materials"] = []
-        try:
-            itemObject["materialsImageLink"] = getImageLinks(item.findChildren("td")[2].find_all("img"))
-        except AttributeError:
-            itemObject["materialsImageLink"] = []
-        try:
-            itemObject["sizeLink"] = itemInfo[3].findChildren("a")[0]['href']
-        except AttributeError:
-            itemObject["sizeLink"] = None
-        try:
-            itemObject["obtainedFrom"] = itemInfo[4].text
-        except AttributeError:
-            itemObject["obtainedFrom"] = None
-        try:
-            itemObject["price"] = int(itemInfo[5].strip().replace(",", ""))
-        except: 
-            itemObject["price"] = None
-        itemList.append(itemObject)
-    dumpData(itemList, key)
-    return itemList
+        if tr.findChildren("a")[1]['href']:
+            item["imageLink"] = tr.findChildren("a")[1]['href']
+        if tr.findChildren("td")[2]:
+            item["materials"] = separateByBr(tr.findChildren("td")[2]).strip("\n").split(",")
+        if tr.findChildren("td")[2].find_all("img"):
+            item["materialsImageLink"] = getImageLinks(tr.findChildren("td")[2].find_all("img"))
+        if tr.findChildren("td")[3].img.get("data-src"):
+            item["sizeImageLink"] = tr.findChildren("td")[3].img.get("data-src")
+        if tr.findChildren("td")[4].text:
+            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n").splitlines()
+        if tr.findChildren("td")[5]:
+            item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
+        items[name] = item
+    dumpData(items, key)
+    return items
 
-
-def scrapeDIYWalls(key):
+def scrapeDIYWallpapers(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "sortable"})
-    itemList = []
-    for item in table[0].find_all("tr")[1:]: # change to [1:] when done
-        itemObject = {
-            "name": item.findChildren("td")[0].text.strip("\n")
+    items = {}
+    for tr in table[0].find_all("tr")[1:]: 
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": name,
         }
-        if item.findChildren("a")[1]['href']:
-            itemObject["imageLink"] = item.findChildren("a")[1]['href']
-        if item.findChildren("td")[2]:
-            itemObject["materials"] = separateByBr(item.findChildren("td")[2]).strip("\n").split(",")
-            itemObject["materialsImageLink"] = getImageLinks(item.findChildren("td")[2].find_all("img"))
-        if item.findChildren("td")[3].findChildren("a"):
-            itemObject["sizeLink"] = item.findChildren("td")[3].findChildren("a")[0]['href']
-        if item.findChildren("td")[4].text:
-            itemObject["obtainedFrom"] = item.findChildren("td")[4].text.strip('\n')
-        if item.findChildren("td")[5].text.strip().replace(",", ""):
-            itemObject["price"] = int(item.findChildren("td")[5].text.strip().replace(",", ""))
-        itemList.append(itemObject)
-    dumpData(itemList, key)
-    return itemList
+        if tr.findChildren("a")[1]['href']:
+            item["imageLink"] = tr.findChildren("a")[1]['href']
+        if tr.findChildren("td")[2]:
+            item["materials"] = separateByBr(tr.findChildren("td")[2]).strip("\n").split(",")
+            item["materialsImageLink"] = getImageLinks(tr.findChildren("td")[2].find_all("img"))
+        if tr.findChildren("td")[3].findChildren("a"):
+            item["sizeLink"] = tr.findChildren("td")[3].findChildren("a")[0]['href']
+        if tr.findChildren("td")[4].text:
+            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip('\n').splitlines()
+        if tr.findChildren("td")[5].text.strip().replace(",", ""):
+            item["price"] = int(tr.findChildren("td")[5].text.strip().replace(",", ""))
+        items[name] = item
+    dumpData(items, key)
+    return items
 
+def scrapeDIYOthers(key):
+    url = URLS.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "roundy"})
+    items = {}
+    for tr in table[0].find_all("tr")[1:]: # change to [1:] when done
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": name,
+        }
+        items[name] = item
+        if tr.findChildren("a")[1]['href']:
+            item["imageLink"] = tr.findChildren("a")[1]['href']
+        if tr.findChildren("td")[2]:
+            item["materials"] = separateByBr(tr.findChildren("td")[2]).strip("\n").split(",")
+        if tr.findChildren("td")[2].find_all("img"):
+            item["materialsImageLink"] = getImageLinks(tr.findChildren("td")[2].find_all("img"))
+        if tr.findChildren("td")[3].img.get("data-src"):
+            item["sizeImageLink"] = tr.findChildren("td")[3].img.get("data-src")
+        if tr.findChildren("td")[4].text:
+            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n").splitlines()
+        if tr.findChildren("td")[5]:
+            item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
+    dumpData(items, key)
+    return items
 
 if __name__ == "__main__":
     # -- Critters -- 
@@ -307,11 +316,11 @@ if __name__ == "__main__":
     # scrapeVillagers("villagers")
 
     # -- DIY Recipes -- 
-    scrapeDIYTools("tools")
-    # scrapeDIYEquipments("housewares")
+    # scrapeDIYTools("tools")
+    # scrapeDIYTools("housewares")
     # scrapeDIYEquipments("equipments")
-    # scrapeDIYEquipments("miscellaneous")
-    # scrapeDIYEquipments("others")
-    # scrapeDIYWalls("wallMounteds")
-    # scrapeDIYWalls("wallpaperRugsFloorings")
+    # scrapeDIYTools("miscellaneous")
+    # scrapeDIYOthers("others")
+    # scrapeDIYEquipments("wallMounteds")
+    scrapeDIYWallpapers("wallpaperRugsFloorings")
     pass
