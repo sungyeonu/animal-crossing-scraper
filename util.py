@@ -1,7 +1,7 @@
 from bs4 import Tag
 import simplejson as json
 
-def separateByBr(tag, result=''): # recursive, take html element and separate text by <br/>
+def separateByBr(tag, result=''): # take html element and separate text by <br/> recursively
     for c in tag.contents:
         if isinstance(c, Tag):  # check if content is a tag
             if c.name == 'br':  # if tag is <br> append it as string
@@ -29,7 +29,7 @@ def getImageLinks(images): # return list of imagelinks
             result.append(image.get("src"))
     return result
 
-def dumpData(itemList, path): # turns object to json and dump it in the data/
+def dumpData(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:
         json.dump(itemList, f) 
 
