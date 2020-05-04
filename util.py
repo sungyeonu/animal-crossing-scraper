@@ -1,27 +1,27 @@
 from bs4 import Tag
 import simplejson as json
 
-def separateByBr(tag, result=''): # take html element and separate text by <br/> recursively
+def separateByBr(tag, result=''): # take html element and replace <br /> with comma, recursively
     for c in tag.contents:
-        if isinstance(c, Tag):  # check if content is a tag
-            if c.name == 'br':  # if tag is <br> append it as string
+        if isinstance(c, Tag):  
+            if c.name == 'br':  
                 result += ","
-            else:  # for any other tag, recurse
+            else:  
                 result = separateByBr(c, result)
-        else:  # if content is NavigableString (string), append
+        else: 
             result += c
     return result
 
-def avaiConverter(str): # returns True if item is available, False otherwise
+def avaiConverter(str): # take str and returns True if str represents available. Return False otherwise
     if (str == "\u2713" or str == "✔"): # "\u2713" is a checkmark
         return True
     else:
         return False
 
-def getPriceWithBellsString(str): 
+def getPriceWithBellsString(str): # take str and return integer only
     return int(str.replace(',', '').replace(' Bells', ''))
 
-def getImageLinks(images): # return list of imagelinks 
+def getImageLinks(images): # take html and return the imagelinks in a list 
     result = []
     for image in images:
         t = image.get("src")
