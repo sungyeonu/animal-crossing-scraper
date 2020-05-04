@@ -184,7 +184,6 @@ def scrapeVillagers(key):
     items = {}
     for tr in table[0].find_all("tr")[1:]:
         name = tr.findChildren("td")[0].a.text
-        print(tr.findChildren("td")[1].a['href'])
         item = {
             "name": name,
             "imageLink": tr.findChildren("td")[1].a['href'],
@@ -285,7 +284,7 @@ def scrapeDIYOthers(key):
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "roundy"})
     items = {}
-    for tr in table[0].find_all("tr")[1:]: # change to [1:] when done
+    for tr in table[0].find_all("tr")[1:]:
         name = tr.findChildren("td")[0].a.text
         item = {
             "name": name,
@@ -308,19 +307,19 @@ def scrapeDIYOthers(key):
 
 if __name__ == "__main__":
     # -- Critters -- 
-    # scrapeBugs("bugs")
-    # scrapeFish("fish")
-    # scrapeFossils("fossils")
+    scrapeBugs("bugs")
+    scrapeFish("fish")
+    scrapeFossils("fossils")
 
     # -- Characters -- 
-    # scrapeVillagers("villagers")
+    scrapeVillagers("villagers")
 
     # -- DIY Recipes -- 
-    # scrapeDIYTools("tools")
-    # scrapeDIYTools("housewares")
-    # scrapeDIYEquipments("equipments")
-    # scrapeDIYTools("miscellaneous")
-    # scrapeDIYOthers("others")
-    # scrapeDIYEquipments("wallMounteds")
+    scrapeDIYTools("tools")
+    scrapeDIYTools("housewares")
+    scrapeDIYEquipments("equipments")
+    scrapeDIYTools("miscellaneous")
+    scrapeDIYOthers("others")
+    scrapeDIYEquipments("wallMounteds")
     scrapeDIYWallpapers("wallpaperRugsFloorings")
     pass
