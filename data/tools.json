@@ -615,7 +615,7 @@
     },
     "Wedding wand": {
         "name": "Wedding wand",
-        "imageLink": "/wiki/Wedding_flower_stand",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Tool-Wedding_wand.png/revision/latest?cb=20200503171549",
         "materials": [
             "1x wedding flower stand",
             "3x star fragment"
@@ -625,7 +625,7 @@
             "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest/scale-to-width-down/18?cb=20200414013012"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
-        "obtainedFrom": "",
+        "obtainedFrom": "Wedding Season",
         "price": 3500,
         "isRecipeItem": false
     }
