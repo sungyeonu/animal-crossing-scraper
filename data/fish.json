@@ -6,7 +6,7 @@
         "location": "River",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -20,7 +20,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -42,7 +42,7 @@
         "location": "River",
         "shadowSize": "1",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -56,7 +56,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -78,7 +78,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -92,7 +92,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -114,7 +114,7 @@
         "location": "River",
         "shadowSize": "3",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -128,7 +128,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -150,7 +150,7 @@
         "location": "Pond",
         "shadowSize": "4",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -164,7 +164,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -186,7 +186,7 @@
         "location": "Pond",
         "shadowSize": "4",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -200,7 +200,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -222,7 +222,7 @@
         "location": "Pond",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -236,7 +236,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -258,7 +258,7 @@
         "location": "Pond",
         "shadowSize": "1",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -272,7 +272,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -294,7 +294,7 @@
         "location": "Pond",
         "shadowSize": "2",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -308,7 +308,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -330,7 +330,7 @@
         "location": "Pond",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -344,7 +344,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -366,7 +366,7 @@
         "location": "Pond",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -380,7 +380,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -402,7 +402,7 @@
         "location": "River",
         "shadowSize": "4",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -416,7 +416,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": true,
             "mar": true,
@@ -438,7 +438,7 @@
         "location": "River",
         "shadowSize": "5",
         "time": "9 PM - 4 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -452,7 +452,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -474,7 +474,7 @@
         "location": "Pond",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -488,7 +488,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": false,
             "mar": false,
@@ -510,7 +510,7 @@
         "location": "Pond",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -524,7 +524,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -546,7 +546,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -560,7 +560,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -582,7 +582,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -596,7 +596,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -618,7 +618,7 @@
         "location": "Pond",
         "shadowSize": "4",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -632,7 +632,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -654,7 +654,7 @@
         "location": "Pond",
         "shadowSize": "5",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -668,7 +668,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -690,7 +690,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -704,7 +704,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -726,7 +726,7 @@
         "location": "River",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -740,7 +740,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -762,7 +762,7 @@
         "location": "River",
         "shadowSize": "4",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -776,7 +776,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -798,7 +798,7 @@
         "location": "River",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -812,7 +812,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -834,7 +834,7 @@
         "location": "River",
         "shadowSize": "5",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -848,7 +848,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -870,7 +870,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -884,7 +884,7 @@
             "nov": false,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -906,7 +906,7 @@
         "location": "River",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -920,7 +920,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -942,7 +942,7 @@
         "location": "River (Clifftop)",
         "shadowSize": "3",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -956,7 +956,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -978,7 +978,7 @@
         "location": "River (Clifftop)  Pond",
         "shadowSize": "3",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -992,7 +992,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1014,7 +1014,7 @@
         "location": "River (Clifftop)",
         "shadowSize": "3",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1028,7 +1028,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1050,7 +1050,7 @@
         "location": "River (Clifftop)",
         "shadowSize": "5",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1064,7 +1064,7 @@
             "nov": false,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1086,7 +1086,7 @@
         "location": "River (Mouth)",
         "shadowSize": "4",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1100,7 +1100,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1122,7 +1122,7 @@
         "location": "River (Mouth)",
         "shadowSize": "6",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1136,7 +1136,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1158,7 +1158,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1172,7 +1172,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1194,7 +1194,7 @@
         "location": "River",
         "shadowSize": "1",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1208,7 +1208,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1230,7 +1230,7 @@
         "location": "River",
         "shadowSize": "1",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1244,7 +1244,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1266,7 +1266,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1280,7 +1280,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1302,7 +1302,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1316,7 +1316,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1338,7 +1338,7 @@
         "location": "River",
         "shadowSize": "1",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1352,7 +1352,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1374,7 +1374,7 @@
         "location": "River",
         "shadowSize": "1",
         "time": "9 AM - 4 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1388,7 +1388,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1410,7 +1410,7 @@
         "location": "River",
         "shadowSize": "2",
         "time": "9 AM - 4 PM & 9 PM - 4 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1424,7 +1424,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1446,7 +1446,7 @@
         "location": "River",
         "shadowSize": "4",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1460,7 +1460,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1482,7 +1482,7 @@
         "location": "River",
         "shadowSize": "5",
         "time": "4 AM - 9 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1496,7 +1496,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1518,7 +1518,7 @@
         "location": "Pond",
         "shadowSize": "6",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1532,7 +1532,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1554,7 +1554,7 @@
         "location": "River",
         "shadowSize": "6",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1568,7 +1568,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1590,7 +1590,7 @@
         "location": "River",
         "shadowSize": "4",
         "time": "9 PM - 4 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1604,7 +1604,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1626,7 +1626,7 @@
         "location": "River (Mouth)",
         "shadowSize": "6",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1640,7 +1640,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -1662,7 +1662,7 @@
         "location": "Sea",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1676,7 +1676,7 @@
             "nov": false,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1698,7 +1698,7 @@
         "location": "Sea",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1712,7 +1712,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1734,7 +1734,7 @@
         "location": "Sea",
         "shadowSize": "1",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1748,7 +1748,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1770,7 +1770,7 @@
         "location": "Sea",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1784,7 +1784,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1806,7 +1806,7 @@
         "location": "Sea",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1820,7 +1820,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1842,7 +1842,7 @@
         "location": "Sea",
         "shadowSize": "6",
         "time": "4 AM - 9 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1856,7 +1856,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -1878,7 +1878,7 @@
         "location": "Sea",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1892,7 +1892,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1914,7 +1914,7 @@
         "location": "Sea",
         "shadowSize": "3",
         "time": "9 PM - 4 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -1928,7 +1928,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1950,7 +1950,7 @@
         "location": "Sea",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -1964,7 +1964,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -1986,7 +1986,7 @@
         "location": "Sea",
         "shadowSize": "2",
         "time": "4 AM - 9 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2000,7 +2000,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2022,7 +2022,7 @@
         "location": "Sea",
         "shadowSize": "2",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2036,7 +2036,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2058,7 +2058,7 @@
         "location": "Sea",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": true,
@@ -2072,7 +2072,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2094,7 +2094,7 @@
         "location": "Sea",
         "shadowSize": "5",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2108,7 +2108,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2130,7 +2130,7 @@
         "location": "Sea",
         "shadowSize": "4",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2144,7 +2144,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2166,7 +2166,7 @@
         "location": "Sea",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2180,7 +2180,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2202,7 +2202,7 @@
         "location": "Sea",
         "shadowSize": "5",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2216,7 +2216,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2238,7 +2238,7 @@
         "location": "Sea",
         "shadowSize": "3",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2252,7 +2252,7 @@
             "nov": false,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": false,
@@ -2274,7 +2274,7 @@
         "location": "Sea",
         "shadowSize": "Narrow",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2288,7 +2288,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": true,
             "mar": true,
@@ -2310,7 +2310,7 @@
         "location": "Sea",
         "shadowSize": "Narrow",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2324,7 +2324,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2346,7 +2346,7 @@
         "location": "Pier",
         "shadowSize": "6",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2360,7 +2360,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2382,7 +2382,7 @@
         "location": "Pier",
         "shadowSize": "6",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2396,7 +2396,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2418,7 +2418,7 @@
         "location": "Pier",
         "shadowSize": "5",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2432,7 +2432,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2454,7 +2454,7 @@
         "location": "Pier",
         "shadowSize": "5",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2468,7 +2468,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2490,7 +2490,7 @@
         "location": "Sea",
         "shadowSize": "6 (Fin)",
         "time": "4 AM - 9 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2504,7 +2504,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2526,7 +2526,7 @@
         "location": "Sea",
         "shadowSize": "5",
         "time": "4 AM - 9 PM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2540,7 +2540,7 @@
             "nov": true,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": true,
             "mar": true,
@@ -2562,7 +2562,7 @@
         "location": "Sea",
         "shadowSize": "6 (Fin)",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2576,7 +2576,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2598,7 +2598,7 @@
         "location": "Sea",
         "shadowSize": "6 (Fin)",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2612,7 +2612,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2634,7 +2634,7 @@
         "location": "Sea",
         "shadowSize": "6 (Fin)",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2648,7 +2648,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2670,7 +2670,7 @@
         "location": "Sea",
         "shadowSize": "6 (Fin)",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2684,7 +2684,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2706,7 +2706,7 @@
         "location": "Sea",
         "shadowSize": "4 (Fin)",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2720,7 +2720,7 @@
             "nov": false,
             "dec": false
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2742,7 +2742,7 @@
         "location": "Sea",
         "shadowSize": "4",
         "time": "4 PM - 9 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2756,7 +2756,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2778,7 +2778,7 @@
         "location": "Sea",
         "shadowSize": "6",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2792,7 +2792,7 @@
             "nov": false,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": false,
             "feb": false,
             "mar": false,
@@ -2814,7 +2814,7 @@
         "location": "Sea",
         "shadowSize": "2",
         "time": "9 PM - 4 AM",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2828,7 +2828,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2850,7 +2850,7 @@
         "location": "Sea (Raining)",
         "shadowSize": "6",
         "time": "All day",
-        "seasons-northern-hemisphere": {
+        "seasonsNorthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
@@ -2864,7 +2864,7 @@
             "nov": true,
             "dec": true
         },
-        "seasons-southern-hemisphere": {
+        "seasonsSouthernHemisphere": {
             "jan": true,
             "feb": true,
             "mar": true,
