@@ -4,7 +4,7 @@ from util import separateByBr, avaiConverter, getPriceWithBellsString, getImageL
 
 URLS = {
     # --- New Horizons ---
-    # Critters
+    # Museum
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
     "fossils": "https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)",
@@ -49,7 +49,7 @@ def scrapeBugs(key): # take url and return object containing bugs data
             "price": int(tableData[2]),
             "location": tr.findChildren("td")[3].text.strip('\n').strip(),
             "time": tr.findChildren("small")[0].text,
-            "seasons-northern-hemisphere": {
+            "seasonsNorthernHemisphere": {
                 "jan": avaiConverter(tableData[5]),
                 "feb": avaiConverter(tableData[6]),
                 "mar": avaiConverter(tableData[7]),
@@ -63,7 +63,7 @@ def scrapeBugs(key): # take url and return object containing bugs data
                 "nov": avaiConverter(tableData[15]),
                 "dec": avaiConverter(tableData[16])
             },
-            "seasons-southern-hemisphere": { # shift northern hemisphere by 6 months
+            "seasonsSouthernHemisphere": { # shift northern hemisphere by 6 months
                 "jan": avaiConverter(tableData[11]),
                 "feb": avaiConverter(tableData[12]),
                 "mar": avaiConverter(tableData[13]),
@@ -101,7 +101,7 @@ def scrapeFish(key): # same logic as scrapeBugs
             "location": tr.findChildren("td")[3].text.strip('\n').strip(),
             "shadowSize": tableData[4], # specific to fish
             "time": tr.findChildren("small")[0].text,
-            "seasons-northern-hemisphere": {
+            "seasonsNorthernHemisphere": {
                 "jan": avaiConverter(tableData[6]),
                 "feb": avaiConverter(tableData[7]),
                 "mar": avaiConverter(tableData[8]),
@@ -115,7 +115,7 @@ def scrapeFish(key): # same logic as scrapeBugs
                 "nov": avaiConverter(tableData[16]),
                 "dec": avaiConverter(tableData[17])
             },
-            "seasons-southern-hemisphere": {
+            "seasonsSouthernHemisphere": {
                 "jan": avaiConverter(tableData[12]),
                 "feb": avaiConverter(tableData[13]),
                 "mar": avaiConverter(tableData[14]),
@@ -219,8 +219,8 @@ def scrapeDIYTools(key):
             item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n").splitlines()
         if tr.findChildren("td")[5]:
             item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
-        if tr.findChildren("td")[6]:
-            item["isRecipeItem"] = avaiConverter(tr.findChildren("td")[6].next.strip("\n"))
+        # if tr.findChildren("td")[6]:
+        #     item["isRecipeItem"] = avaiConverter(tr.findChildren("td")[6].next.strip("\n"))
         items[name] = item
     dumpData(items, key)
     return items
@@ -306,20 +306,20 @@ def scrapeDIYOthers(key):
     return items
 
 if __name__ == "__main__":
-    # -- Critters --
+    # -- Museum --
     scrapeBugs("bugs")
     scrapeFish("fish")
     scrapeFossils("fossils")
 
     # -- Characters --
-    scrapeVillagers("villagers")
+    # scrapeVillagers("villagers")
 
     # -- DIY Recipes --
-    scrapeDIYTools("tools")
-    scrapeDIYTools("housewares")
-    scrapeDIYEquipments("equipments")
-    scrapeDIYTools("miscellaneous")
-    scrapeDIYOthers("others")
-    scrapeDIYEquipments("wallMounteds")
-    scrapeDIYWallpapers("wallpaperRugsFloorings")
+    # scrapeDIYTools("tools")
+    # scrapeDIYTools("housewares")
+    # scrapeDIYEquipments("equipments")
+    # scrapeDIYTools("miscellaneous")
+    # scrapeDIYOthers("others")
+    # scrapeDIYEquipments("wallMounteds")
+    # scrapeDIYWallpapers("wallpaperRugsFloorings")
     pass
