@@ -33,7 +33,6 @@ def scrapeBugs(key): # take url and return object containing bugs data
     soup = BeautifulSoup(response.content, "html.parser")
     # find the target table
     table = soup.find_all("table", {"class": "sortable"})
-
     items = {}
     # go through each tr in the table, ignoring the table header
     for tr in table[0].find_all("tr")[1:]:
@@ -41,7 +40,7 @@ def scrapeBugs(key): # take url and return object containing bugs data
         # get rid of empty space
         for td in tr.find_all("td"):
             tableData.append(td.next.strip())
-        # find data and save it into an object
+        # scrape each item
         name = tr.findChildren("td")[0].a.text
         item = {
             "name": name,
@@ -79,7 +78,7 @@ def scrapeBugs(key): # take url and return object containing bugs data
             }
         }
         items[name] = item
-    dumpData(items, key)
+    dumpData(items, "museum/" + key)
     # return for debugging
     return items
 
@@ -131,7 +130,7 @@ def scrapeFish(key): # same logic as scrapeBugs
             }
         }
         items[name] = item
-    dumpData(items, key)
+    dumpData(items, "museum/" + key)
     return items
 
 def scrapeFossils(key): # same logic as scrapeBugs and scrapeFish
@@ -154,7 +153,6 @@ def scrapeFossils(key): # same logic as scrapeBugs and scrapeFish
         }
         tableData.append(item)
         items[name] = item
-
     # Multi-part fossils
     for tr in table[1].find_all("tr")[1:]:
         tableData = []
@@ -173,7 +171,7 @@ def scrapeFossils(key): # same logic as scrapeBugs and scrapeFish
             "category": currentCategory
         }
         items[name] = item
-    dumpData(items, key)
+    dumpData(items, "museum/" + key)
     return items
 
 def scrapeVillagers(key):
@@ -187,10 +185,10 @@ def scrapeVillagers(key):
         item = {
             "name": name,
             "imageLink": tr.findChildren("td")[1].a['href'],
-            "personality": tr.findChildren("td")[2].text.strip("\n")[1:],
-            "species": tr.findChildren("td")[3].text.strip("\n")[1:],
-            "birthday": tr.findChildren("td")[4].text.strip("\n")[1:],
-            "catchPhrase": tr.findChildren("td")[5].text.strip("\n")[1:]
+            "personality": tr.findChildren("td")[2].text.strip("\n").lstrip(),
+            "species": tr.findChildren("td")[3].text.strip("\n").lstrip(),
+            "birthday": tr.findChildren("td")[4].text.strip("\n").lstrip(),
+            "catchPhrase": tr.findChildren("td")[5].text.strip("\n").lstrip()
         }
         items[name] = item
     dumpData(items, key)
@@ -222,7 +220,7 @@ def scrapeDIYTools(key):
         # if tr.findChildren("td")[6]:
         #     item["isRecipeItem"] = avaiConverter(tr.findChildren("td")[6].next.strip("\n"))
         items[name] = item
-    dumpData(items, key)
+    dumpData(items, "crafting/" + key)
     return items
 
 def scrapeDIYEquipments(key):
@@ -249,7 +247,7 @@ def scrapeDIYEquipments(key):
         if tr.findChildren("td")[5]:
             item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
         items[name] = item
-    dumpData(items, key)
+    dumpData(items, "crafting/" + key)
     return items
 
 def scrapeDIYWallpapers(key):
@@ -275,46 +273,47 @@ def scrapeDIYWallpapers(key):
         if tr.findChildren("td")[5].text.strip().replace(",", ""):
             item["price"] = int(tr.findChildren("td")[5].text.strip().replace(",", ""))
         items[name] = item
-    dumpData(items, key)
+    dumpData(items, "crafting/" + key)
     return items
 
 def scrapeDIYOthers(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "roundy"})
+    table = soup.findChildren("table", {"class": "roundy"})
     items = {}
     for tr in table[0].find_all("tr")[1:]:
         name = tr.findChildren("td")[0].a.text
+        # print(tr)
         item = {
             "name": name,
         }
         items[name] = item
         if tr.findChildren("a")[1]['href']:
             item["imageLink"] = tr.findChildren("a")[1]['href']
-        if tr.findChildren("td")[2]:
-            item["materials"] = separateByBr(tr.findChildren("td")[2]).strip("\n").split(",")
-        if tr.findChildren("td")[2].find_all("img"):
-            item["materialsImageLink"] = getImageLinks(tr.findChildren("td")[2].find_all("img"))
-        if tr.findChildren("td")[3].img.get("data-src"):
-            item["sizeImageLink"] = tr.findChildren("td")[3].img.get("data-src")
-        if tr.findChildren("td")[4].text:
-            item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n").splitlines()
-        if tr.findChildren("td")[5]:
-            item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
-    dumpData(items, key)
+        # if tr.findChildren("td")[2]:
+        #     item["materials"] = separateByBr(tr.findChildren("td")[2]).strip("\n").split(",")
+        # if tr.findChildren("td")[2].find_all("img"):
+        #     item["materialsImageLink"] = getImageLinks(tr.findChildren("td")[2].find_all("img"))
+        # if tr.findChildren("td")[3].img.get("data-src"):
+        #     item["sizeImageLink"] = tr.findChildren("td")[3].img.get("data-src")
+        # if tr.findChildren("td")[4].text:
+        #     item["obtainedFrom"] = tr.findChildren("td")[4].text.strip("\n").splitlines()
+        # if tr.findChildren("td")[5]:
+        #     item["price"] = int(tr.findChildren("td")[5].next.strip().replace(",", ""))
+    dumpData(items, "crafting/" + key)
     return items
 
 if __name__ == "__main__":
     # -- Museum --
-    scrapeBugs("bugs")
-    scrapeFish("fish")
-    scrapeFossils("fossils")
+    # scrapeBugs("bugs")
+    # scrapeFish("fish")
+    # scrapeFossils("fossils")
 
     # -- Characters --
-    # scrapeVillagers("villagers")
+    scrapeVillagers("villagers")
 
-    # -- DIY Recipes --
+    # -- Crafting --
     # scrapeDIYTools("tools")
     # scrapeDIYTools("housewares")
     # scrapeDIYEquipments("equipments")
