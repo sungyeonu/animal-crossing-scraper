@@ -9,16 +9,17 @@ Feel free to use the JSON files! Some of the pages on the wiki are incomplete, s
 All JSON files are stored in /data
 
 *-- Completed --*  
-Critters
+/museums
 - bugs.json
 - fish.json
 - fossils.json
+- artwork.json
 
-Characters
+/characters
 - villagers.json
 
 *-- Incomplete --*  
-DIY Recipes
+/DIY_Recipes
 - tools.json
 - equipments.json
 - housewares.json

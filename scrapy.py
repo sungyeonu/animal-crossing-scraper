@@ -8,6 +8,7 @@ URLS = {
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
     "fossils": "https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)",
+    "artworks": "https://animalcrossing.fandom.com/wiki/Artwork_(New_Horizons)",
 
     # Characters
     "villagers": "https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)",
@@ -174,6 +175,27 @@ def scrapeFossils(key): # same logic as scrapeBugs and scrapeFish
     dumpData(items, "museum/" + key)
     return items
 
+def scrapeArtworks(key):
+    url = URLS.get(key)
+    response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "wikitable"})
+    items = {}
+    for tr in table[0].find_all("tr")[1:]:
+        name = tr.findChildren("td")[0].a.text
+        item = {
+            "name": name,        
+        }
+        if tr.findChildren("td")[1].a:
+            item["fakeImageLink"] = tr.findChildren("td")[1].a['href']
+        if tr.findChildren("td")[2].a:
+            item["realImageLink"] = tr.findChildren("td")[2].a['href']
+        if tr.findChildren("td")[3]:
+            item["description"] = tr.findChildren("td")[3].text.strip('\n').lstrip()
+        items[name] = item
+    dumpData(items, key)
+    return items
+    
 def scrapeVillagers(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
@@ -309,9 +331,10 @@ if __name__ == "__main__":
     # scrapeBugs("bugs")
     # scrapeFish("fish")
     # scrapeFossils("fossils")
+    scrapeArtworks("artworks")
 
     # -- Characters --
-    scrapeVillagers("villagers")
+    # scrapeVillagers("villagers")
 
     # -- Crafting --
     # scrapeDIYTools("tools")
