@@ -83,7 +83,7 @@
         "name": "Ankha",
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Ankha_poster.png/revision/latest?cb=20200410182618",
         "personality": "\u2640 Snooty",
-        "species": "at",
+        "species": "Cat",
         "birthday": "September 22nd",
         "catchPhrase": "\"me meow\""
     },
@@ -101,7 +101,7 @@
         "personality": "\u2640 Peppy",
         "species": "Mouse",
         "birthday": "February 24th",
-        "catchPhrase": " \"cannoli\" "
+        "catchPhrase": "\"cannoli\" "
     },
     "Annalisa": {
         "name": "Annalisa",
@@ -611,7 +611,7 @@
         "name": "Charlise",
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Charlise_poster.png/revision/latest?cb=20200328192721",
         "personality": "\u2640 Sisterly",
-        "species": "ear",
+        "species": "Bear",
         "birthday": "April 17th",
         "catchPhrase": "\"urgh\""
     },
@@ -931,7 +931,7 @@
         "name": "Dom",
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Dom_poster.png/revision/latest?cb=20200410184416",
         "personality": "\u2642 Jock",
-        "species": "heep",
+        "species": "Sheep",
         "birthday": "March 18th",
         "catchPhrase": "\"indeedaroo\""
     },
@@ -1948,7 +1948,7 @@
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Moose_poster.png/revision/latest?cb=20200410192236",
         "personality": "\u2642 Jock",
         "species": "Mouse",
-        "birthday": " September 13th",
+        "birthday": "September 13th",
         "catchPhrase": "\"shorty\""
     },
     "Mott": {
@@ -1956,7 +1956,7 @@
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Mott_poster.png/revision/latest?cb=20200328220623",
         "personality": "\u2642 Jock",
         "species": "Lion",
-        "birthday": " July 10th",
+        "birthday": "July 10th",
         "catchPhrase": "\"cagey\""
     },
     "Muffy": {
