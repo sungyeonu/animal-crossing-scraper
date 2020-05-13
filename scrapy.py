@@ -308,8 +308,10 @@ def scrape_wallpapers(key):
             item["sizeLink"] = tr.find_all(
                 "td")[3].find_all("a")[0]['href']
         if tr.find_all("td")[4].text:
-            item["obtainedFrom"] = tr.find_all(
-                "td")[4].text.strip('\n').splitlines()
+            if (tr.find_all("td")[4].text.strip('\n').splitlines() == []):
+                pass
+            else:
+                item["obtainedFrom"] = tr.find_all("td")[4].text.strip('\n').splitlines()
         if tr.find_all("td")[5].text.strip().replace(",", ""):
             item["price"] = int(tr.find_all(
                 "td")[5].text.strip().replace(",", ""))
@@ -353,11 +355,11 @@ if __name__ == "__main__":
     # scrape_villagers("villagers")
 
     # -- Crafting --
-    scrape_equipments("tools")
-    scrape_equipments("housewares")
-    scrape_equipments("equipments")
-    scrape_equipments("miscellaneous")
-    scrape_equipments("wallMounteds")
-    scrape_DIYothers("others")
-    scrape_wallpapers("wallpaperRugsFloorings")
+    # scrape_equipments("tools")
+    # scrape_equipments("housewares")
+    # scrape_equipments("equipments")
+    # scrape_equipments("miscellaneous")
+    # scrape_equipments("wallMounteds")
+    # scrape_DIYothers("others")
+    # scrape_wallpapers("wallpaperRugsFloorings")
     pass
