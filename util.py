@@ -1,34 +1,35 @@
 from bs4 import Tag
 import simplejson as json
 
-def separateByBr(tag, result=''): # take html element and replace <br /> with comma, recursively
+def separate_by_br(tag, result=''): # take html element and replace <br/> tag with comma
     for c in tag.contents:
         if isinstance(c, Tag):
             if c.name == 'br':
                 result += ","
             else:
-                result = separateByBr(c, result)
+                result = separate_by_br(c, result)
         else:
             result += c
     return result
 
-def avaiConverter(str): # take str and returns True if str represents available. Return False otherwise
-    if (str == "\u2713" or str == "✔"): # "\u2713" is a checkmark
+def convert_checkmark(string): # take str and returns True if str represents available. Return False otherwise
+    if (string == "\u2713" or string == "✔"):  # "\u2713" is a checkmark
         return True
     else:
         return False
 
-def getPriceWithBellsString(str): # take str and return integer only
-    return int(str.replace(',', '').replace(' Bells', ''))
+def strip_price(string): # take str and return integer only
+    return int(''.join(filter(str.isdigit, string)))
+    # return int(str.replace(',', '').replace(' Bells', ''))
 
-def getImageLinks(images): # take html and return the imagelinks in a list
+def get_image_links(images): # take html and return all imageLinks in a list. Strip out downscale property
     result = []
     for image in images:
         t = image.get("src")
         if (t.startswith("https")):
-            result.append(image.get("src"))
+            result.append(image.get("src").replace("/scale-to-width-down/18", ""))
     return result
 
-def dumpData(itemList, path): # turn object to json and dump it in data/
+def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:
         json.dump(itemList, f, indent=4)
