@@ -1,13 +1,14 @@
 {
     "Bamboo wall decoration": {
         "name": "Bamboo wall decoration",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Bamboo_wall_decoration.png/revision/latest?cb=20200327083756",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Bamboo_wall_decoration.png/revision/latest?cb=20200327083756",
         "materials": [
             "1x bamboo piece"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-bamboo_piece-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010828"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-bamboo_piece-icon.png/revision/latest?cb=20200414010828"
         ],
+        "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH0.5x1.0sq.jpg/revision/latest?cb=20200327084338",
         "obtainedFrom": [
             "Jock island resident",
             "Message in a bottle"
@@ -21,7 +22,7 @@
             "10x blue roses"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-blue_roses-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014604"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-blue_roses-icon.png/revision/latest?cb=20200414014604"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -31,12 +32,12 @@
     },
     "Bone doorplate": {
         "name": "Bone doorplate",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Bone_doorplate.png/revision/latest?cb=20200326034639",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Bone_doorplate.png/revision/latest?cb=20200326034639",
         "materials": [
             "3x softwood"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010926"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -46,12 +47,12 @@
     },
     "Boomerang": {
         "name": "Boomerang",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Boomerang.png/revision/latest?cb=20200328162504",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Furniture-Boomerang.png/revision/latest?cb=20200328162504",
         "materials": [
             "3x hardwood"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010908"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH1.0x0.5sq.jpg/revision/latest?cb=20200327084231",
         "obtainedFrom": [
@@ -61,7 +62,7 @@
     },
     "Bunny Day glowy garland": {
         "name": "Bunny Day glowy garland",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Bunny_Day_glowy_garland.png/revision/latest?cb=20200402000242",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-Bunny_Day_glowy_garland.png/revision/latest?cb=20200402000242",
         "materials": [
             "1x earth egg",
             "1x stone egg",
@@ -71,12 +72,12 @@
             "1x water egg"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165851",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165902",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165910",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165920",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165931",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165941"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest?cb=20200401165851",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest?cb=20200401165902",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest?cb=20200401165910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest?cb=20200401165920",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest?cb=20200401165931",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest?cb=20200401165941"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841",
         "obtainedFrom": [
@@ -86,12 +87,12 @@
     },
     "Bunny Day wall clock": {
         "name": "Bunny Day wall clock",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Bunny_Day_wall_clock.png/revision/latest?cb=20200402001048",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Bunny_Day_wall_clock.png/revision/latest?cb=20200402001048",
         "materials": [
             "3x sky egg"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165931"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest?cb=20200401165931"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842",
         "obtainedFrom": [
@@ -101,7 +102,7 @@
     },
     "Bunny Day wreath": {
         "name": "Bunny Day wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Bunny_Day_wreath.png/revision/latest?cb=20200403142914",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Furniture-Bunny_Day_wreath.png/revision/latest?cb=20200403142914",
         "materials": [
             "1x earth egg",
             "1x stone egg",
@@ -111,12 +112,12 @@
             "1x water egg"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165851",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165902",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165910",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165920",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165931",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest/scale-to-width-down/18?cb=20200401165941"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest?cb=20200401165851",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest?cb=20200401165902",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest?cb=20200401165910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest?cb=20200401165920",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest?cb=20200401165931",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest?cb=20200401165941"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -126,14 +127,14 @@
     },
     "Cherry lamp": {
         "name": "Cherry lamp",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Cherry_lamp.png/revision/latest?cb=20200326044022",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Furniture-Cherry_lamp.png/revision/latest?cb=20200326044022",
         "materials": [
             "10x cherry",
             "2x clay"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-cherry-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010531",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011942"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-cherry-icon.png/revision/latest?cb=20200414010531",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -145,14 +146,14 @@
     },
     "Cherry-blossom clock": {
         "name": "Cherry-blossom clock",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Cherry-blossom_clock.png/revision/latest?cb=20200329082912",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Furniture-Cherry-blossom_clock.png/revision/latest?cb=20200329082912",
         "materials": [
             "5x cherry-blossom petal",
             "1x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-cherry-blossom_petal-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012614",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-cherry-blossom_petal-icon.png/revision/latest?cb=20200414012614",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -167,7 +168,7 @@
             "10x black cosmos"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-black_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010804"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-black_cosmos-icon.png/revision/latest?cb=20200414010804"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -182,7 +183,7 @@
             "10x purple windflowers"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004913"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -192,14 +193,14 @@
     },
     "Coconut wall planter": {
         "name": "Coconut wall planter",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Coconut_wall_planter.png/revision/latest?cb=20200408051043",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Coconut_wall_planter.png/revision/latest?cb=20200408051043",
         "materials": [
             "1x coconut",
             "5x clump of weeds"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-coconut-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010546",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest/scale-to-width-down/18?cb=20200427153009"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-coconut-icon.png/revision/latest?cb=20200414010546",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842",
         "obtainedFrom": [
@@ -209,16 +210,16 @@
     },
     "Cool hyacinth wreath": {
         "name": "Cool hyacinth wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Cool_hyacinth_wreath.png/revision/latest?cb=20200423194716",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Cool_hyacinth_wreath.png/revision/latest?cb=20200423194716",
         "materials": [
             "3x orange hyacinths",
             "3x blue hyacinths",
             "3x pink hyacinths"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-orange_hyacinth_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141822",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141804",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-pink_hyacinths-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011630"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-orange_hyacinth_icon.png/revision/latest?cb=20200407141822",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-pink_hyacinths-icon.png/revision/latest?cb=20200414011630"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -233,7 +234,7 @@
             "10x purple pansies"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012319"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -250,9 +251,9 @@
             "3x white windflowers"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004935",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004847",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004536"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -262,16 +263,16 @@
     },
     "Cosmos wreath": {
         "name": "Cosmos wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Cosmos_wreath.png/revision/latest?cb=20200327134912",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Furniture-Cosmos_wreath.png/revision/latest?cb=20200327134912",
         "materials": [
             "3x yellow cosmos",
             "3x white cosmos",
             "3x red cosmos"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010649",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010606",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010628"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -282,12 +283,12 @@
     },
     "Crest doorplate": {
         "name": "Crest doorplate",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Crest_doorplate.png/revision/latest?cb=20200326034617",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Furniture-Crest_doorplate.png/revision/latest?cb=20200326034617",
         "materials": [
             "4x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -303,7 +304,7 @@
             "10x black lilies"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-black_lilies-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014729"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-black_lilies-icon.png/revision/latest?cb=20200414014729"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -319,8 +320,8 @@
             "6x purple roses"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-black_roses-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014535",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014508"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-black_roses-icon.png/revision/latest?cb=20200414014535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -335,7 +336,7 @@
             "10x black tulips"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-black_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015020"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-black_tulips-icon.png/revision/latest?cb=20200414015020"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -345,12 +346,12 @@
     },
     "Deer decoration": {
         "name": "Deer decoration",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Deer_decoration.png/revision/latest?cb=20200328211811",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Deer_decoration.png/revision/latest?cb=20200328211811",
         "materials": [
             "8x softwood"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010926"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842",
         "obtainedFrom": [
@@ -368,9 +369,9 @@
             "3x red mums"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141850",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141900",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141914"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -388,9 +389,9 @@
             "3x yellow lilies"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141828",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014651",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest/scale-to-width-down/18?cb=20200407142003"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -407,9 +408,9 @@
             "3x yellow roses"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141838",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141856",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407142014"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -420,12 +421,12 @@
     },
     "Floral swag": {
         "name": "Floral swag",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Floral_swag.png/revision/latest?cb=20200331225229",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Floral_swag.png/revision/latest?cb=20200331225229",
         "materials": [
             "10x clump of weeds"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest/scale-to-width-down/18?cb=20200427153009"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -436,14 +437,14 @@
     },
     "Fossil doorplate": {
         "name": "Fossil doorplate",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Fossil_doorplate.png/revision/latest?cb=20200326233607",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Furniture-Fossil_doorplate.png/revision/latest?cb=20200326233607",
         "materials": [
             "1x fossil",
             "2x stone"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-fossil-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011029",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012041"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-fossil-icon.png/revision/latest?cb=20200414011029",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest?cb=20200414012041"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -453,7 +454,7 @@
     },
     "Fruit wreath": {
         "name": "Fruit wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Fruit_wreath.png/revision/latest?cb=20200423194648",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Furniture-Fruit_wreath.png/revision/latest?cb=20200423194648",
         "materials": [
             "2x apple",
             "1x pear",
@@ -462,11 +463,11 @@
             "1x peach"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-apple-icon.png/revision/latest/scale-to-width-down/18?cb=20200414005455",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Pear-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012420",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-cherry-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010531",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-orange-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011924",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-peach-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012353"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-apple-icon.png/revision/latest?cb=20200414005455",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Pear-icon.png/revision/latest?cb=20200414012420",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-cherry-icon.png/revision/latest?cb=20200414010531",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-orange-icon.png/revision/latest?cb=20200414011924",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-peach-icon.png/revision/latest?cb=20200414012353"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -481,7 +482,7 @@
             "10x gold roses"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-gold_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141818"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-gold_rose_icon.png/revision/latest?cb=20200407141818"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -491,14 +492,14 @@
     },
     "Golden gears": {
         "name": "Golden gears",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Golden_gears.png/revision/latest?cb=20200329093520",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Furniture-Golden_gears.png/revision/latest?cb=20200329093520",
         "materials": [
             "1x gold nugget",
             "3x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015430",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest?cb=20200414015430",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841",
         "obtainedFrom": [
@@ -509,14 +510,14 @@
     },
     "Hanging terrarium": {
         "name": "Hanging terrarium",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Hanging_terrarium.png/revision/latest?cb=20200327134616",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Furniture-Hanging_terrarium.png/revision/latest?cb=20200327134616",
         "materials": [
             "12x clump of weeds",
             "4x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest/scale-to-width-down/18?cb=20200427153009",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842",
         "obtainedFrom": [
@@ -526,16 +527,16 @@
     },
     "Hyacinth wreath": {
         "name": "Hyacinth wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Hyacinth_wreath.png/revision/latest?cb=20200327134428",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Hyacinth_wreath.png/revision/latest?cb=20200327134428",
         "materials": [
             "3x white hyacinths",
             "3x red hyacinths",
             "3x yellow hyacinths"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141932",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141905",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011344"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -547,12 +548,12 @@
     },
     "Iron doorplate": {
         "name": "Iron doorplate",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Iron_doorplate.png/revision/latest?cb=20200328211919",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Iron_doorplate.png/revision/latest?cb=20200328211919",
         "materials": [
             "2x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -563,14 +564,14 @@
     },
     "Iron wall lamp": {
         "name": "Iron wall lamp",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Iron_wall_lamp.png/revision/latest?cb=20200325181906",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Furniture-Iron_wall_lamp.png/revision/latest?cb=20200325181906",
         "materials": [
             "4x iron nugget",
             "2x clay"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011942"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -580,14 +581,14 @@
     },
     "Iron wall rack": {
         "name": "Iron wall rack",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Iron_wall_rack.png/revision/latest?cb=20200401094903",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Furniture-Iron_wall_rack.png/revision/latest?cb=20200401094903",
         "materials": [
             "3x iron nugget",
             "1x clay"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011942"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -597,14 +598,14 @@
     },
     "Ironwood clock": {
         "name": "Ironwood clock",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Ironwood_clock.png/revision/latest?cb=20200326044056",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-Ironwood_clock.png/revision/latest?cb=20200326044056",
         "materials": [
             "2x wood",
             "2x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011011",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -621,8 +622,8 @@
             "1x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011011",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -632,7 +633,7 @@
     },
     "Leo sculpture": {
         "name": "Leo sculpture",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Leo_sculpture.png/revision/latest?cb=20200328083419",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Furniture-Leo_sculpture.png/revision/latest?cb=20200328083419",
         "materials": [
             "3x star fragment",
             "2x Leo fragment",
@@ -640,10 +641,10 @@
             "3x stone"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest/scale-to-width-down/18?cb=20200414013012",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Leo_fragment-icon.png/revision/latest/scale-to-width-down/18?cb=20200414013644",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015430",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012041"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Leo_fragment-icon.png/revision/latest?cb=20200414013644",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest?cb=20200414015430",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest?cb=20200414012041"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -653,16 +654,16 @@
     },
     "Lily wreath": {
         "name": "Lily wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Lily_wreath.png/revision/latest?cb=20200326034538",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Lily_wreath.png/revision/latest?cb=20200326034538",
         "materials": [
             "3x white lilies",
             "3x red lilies",
             "3x yellow lilies"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141938",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141910",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest/scale-to-width-down/18?cb=20200407142003"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -674,14 +675,14 @@
     },
     "Log wall-mounted clock": {
         "name": "Log wall-mounted clock",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Log_wall-mounted_clock.png/revision/latest?cb=20200328002157",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Log_wall-mounted_clock.png/revision/latest?cb=20200328002157",
         "materials": [
             "2x hardwood",
             "1x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010908",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -691,16 +692,16 @@
     },
     "Mum wreath": {
         "name": "Mum wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Mum_wreath.png/revision/latest?cb=20200327134941",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Mum_wreath.png/revision/latest?cb=20200327134941",
         "materials": [
             "3x white mums",
             "3x yellow mums",
             "3x red mums"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141942",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest/scale-to-width-down/18?cb=20200407142009",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141914"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -711,7 +712,7 @@
     },
     "Mushroom wreath": {
         "name": "Mushroom wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Mushroom_wreath.png/revision/latest?cb=20200423194553",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-Mushroom_wreath.png/revision/latest?cb=20200423194553",
         "materials": [
             "10x tree branch",
             "1x round mushroom",
@@ -719,13 +720,12 @@
             "1x flat mushroom"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015713",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-round_mushroom-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201602",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-skinny_mushroom-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201606",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-flat_mushroom-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201611"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest?cb=20200414015713",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-round_mushroom-icon.png/revision/latest?cb=20200423201602",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-skinny_mushroom-icon.png/revision/latest?cb=20200423201606",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-flat_mushroom-icon.png/revision/latest?cb=20200423201611"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
-        "obtainedFrom": [],
         "price": 1500
     },
     "Natural mum wreath": {
@@ -735,7 +735,7 @@
             "10x green mums"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014344"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -745,14 +745,14 @@
     },
     "Orange wall-mounted clock": {
         "name": "Orange wall-mounted clock",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Orange_wall-mounted_clock.png/revision/latest?cb=20200326064426",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Furniture-Orange_wall-mounted_clock.png/revision/latest?cb=20200326064426",
         "materials": [
             "10x orange",
             "2x wood"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-orange-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011924",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011011"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-orange-icon.png/revision/latest?cb=20200414011924",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -763,7 +763,7 @@
     },
     "Ornament mobile": {
         "name": "Ornament mobile",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Ornament_mobile.png/revision/latest?cb=20200329100649",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Ornament_mobile.png/revision/latest?cb=20200329100649",
         "materials": [
             "1x red ornament",
             "1x blue ornament",
@@ -771,13 +771,12 @@
             "4x tree branch"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-red_ornament-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201455",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-blue_ornament-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201451",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-gold_ornament-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201445",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015713"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-red_ornament-icon.png/revision/latest?cb=20200423201455",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-blue_ornament-icon.png/revision/latest?cb=20200423201451",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-gold_ornament-icon.png/revision/latest?cb=20200423201445",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest?cb=20200414015713"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
-        "obtainedFrom": [],
         "price": 340
     },
     "Ornament wreath": {
@@ -788,25 +787,24 @@
             "2x gold ornament"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-blue_ornament-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201451",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-gold_ornament-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201445"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-blue_ornament-icon.png/revision/latest?cb=20200423201451",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-gold_ornament-icon.png/revision/latest?cb=20200423201445"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
-        "obtainedFrom": [],
         "price": 800
     },
     "Pansy wreath": {
         "name": "Pansy wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Pansy_wreath.png/revision/latest?cb=20200326034346",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Pansy_wreath.png/revision/latest?cb=20200326034346",
         "materials": [
             "3x yellow pansies",
             "3x white pansies",
             "3x red pansies"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012157",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141949",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141918"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -817,12 +815,12 @@
     },
     "Paw-print doorplate": {
         "name": "Paw-print doorplate",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Paw-print_doorplate.png/revision/latest?cb=20200329062624",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-Paw-print_doorplate.png/revision/latest?cb=20200329062624",
         "materials": [
             "3x wood"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011011"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -838,8 +836,8 @@
             "5x clay"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest/scale-to-width-down/18?cb=20200427153009",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011942"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -856,9 +854,9 @@
             "3x red cosmos"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010731",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010708",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010628"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -875,9 +873,9 @@
             "3x purple tulips"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-orange_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015000",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-pink_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014939",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014308"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-orange_tulips-icon.png/revision/latest?cb=20200414015000",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-pink_tulips-icon.png/revision/latest?cb=20200414014939",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -892,7 +890,7 @@
             "10x purple hyacinths"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest/scale-to-width-down/18?cb=20200429032608"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -909,9 +907,9 @@
             "3x yellow roses"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141923",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141957",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407142014"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -922,16 +920,16 @@
     },
     "Sagittarius arrow": {
         "name": "Sagittarius arrow",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Sagittarius_arrow.png/revision/latest?cb=20200328084140",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Sagittarius_arrow.png/revision/latest?cb=20200328084140",
         "materials": [
             "3x star fragment",
             "2x Sagittarius fragment",
             "2x gold nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest/scale-to-width-down/18?cb=20200414013012",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Sagittarius_fragment-icon.png/revision/latest/scale-to-width-down/18?cb=20200414013800",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015430"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Sagittarius_fragment-icon.png/revision/latest?cb=20200414013800",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest?cb=20200414015430"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -950,14 +948,13 @@
             "1x giant clam"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141927",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-snail_shell-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012739",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-sand_dollar-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012802",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-coral-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012655",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-giant_clam-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012635"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest?cb=20200407141927",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-snail_shell-icon.png/revision/latest?cb=20200414012739",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-sand_dollar-icon.png/revision/latest?cb=20200414012802",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-coral-icon.png/revision/latest?cb=20200414012655",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-giant_clam-icon.png/revision/latest?cb=20200414012635"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
-        "obtainedFrom": [],
         "price": 4720
     },
     "Snazzy pansy wreath": {
@@ -969,7 +966,7 @@
             "3x blue pansies"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012157"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -985,20 +982,19 @@
             "4x snowflake"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest/scale-to-width-down/18?cb=20200423201505"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
-        "obtainedFrom": [],
         "price": 1600
     },
     "Starry garland": {
         "name": "Starry garland",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Starry_garland.png/revision/latest?cb=20200329093557",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Starry_garland.png/revision/latest?cb=20200329093557",
         "materials": [
             "10x star fragment"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest/scale-to-width-down/18?cb=20200414013012"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841",
         "obtainedFrom": [
@@ -1010,12 +1006,12 @@
         "name": "Timber doorplate",
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Timber_doorplate.png/revision/latest?cb=20200330004946",
         "materials": [
-            " 2x wood",
+            "2x wood",
             "1x pink roses"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011011",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141856"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -1026,29 +1022,28 @@
     },
     "Tree's bounty mobile": {
         "name": "Tree's bounty mobile",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Tree%27s_bounty_mobile.png/revision/latest?cb=20200329100702",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Furniture-Tree%27s_bounty_mobile.png/revision/latest?cb=20200329100702",
         "materials": [
             "2x pine cone",
             "3x acorn",
             "3x tree branch"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-pinecone_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141844",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-acorn_icon.png/revision/latest/scale-to-width-down/18?cb=20200407141759",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015713"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-pinecone_icon.png/revision/latest?cb=20200407141844",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-acorn_icon.png/revision/latest?cb=20200407141759",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest?cb=20200414015713"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842",
-        "obtainedFrom": [],
         "price": 2030
     },
     "Tree branch wreath": {
         "name": "Tree branch wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH_Tree_branch_wreath.png/revision/latest?cb=20200326035450",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Tree_branch_wreath.png/revision/latest?cb=20200428002615",
         "materials": [
             "10x tree branch"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest/scale-to-width-down/18?cb=20200414015713"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-tree_branch-icon.png/revision/latest?cb=20200414015713"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -1065,9 +1060,9 @@
             "3x white tulips"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014822",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014848",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest/scale-to-width-down/18?cb=20200414014907"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -1078,16 +1073,16 @@
     },
     "Windflower wreath": {
         "name": "Windflower wreath",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Windflower_wreath.png/revision/latest?cb=20200327134959",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Furniture-Windflower_wreath.png/revision/latest?cb=20200327134959",
         "materials": [
             "3x red windflowers",
             "3x white windflowers",
             "3x orange windflowers"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004717",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004536",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest/scale-to-width-down/18?cb=20200414004736"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -1098,16 +1093,16 @@
     },
     "Wooden-block wall clock": {
         "name": "Wooden-block wall clock",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Wooden-block_wall_clock.png/revision/latest?cb=20200326063150",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Wooden-block_wall_clock.png/revision/latest?cb=20200326063150",
         "materials": [
             "1x wooden-block toy",
             "2x softwood",
             "1x iron nugget"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-furniture-icon.png/revision/latest/scale-to-width-down/18?cb=20200414011740",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010926",
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest/scale-to-width-down/18?cb=20200414012022"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-furniture-icon.png/revision/latest?cb=20200414011740",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412",
         "obtainedFrom": [
@@ -1118,12 +1113,12 @@
     },
     "Wooden-plank sign": {
         "name": "Wooden-plank sign",
-        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Wooden-plank_sign.png/revision/latest?cb=20200424224145",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Wooden-plank_sign.png/revision/latest?cb=20200424224145",
         "materials": [
             "5x hardwood"
         ],
         "materialsImageLink": [
-            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest/scale-to-width-down/18?cb=20200414010908"
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
         ],
         "sizeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841",
         "obtainedFrom": [

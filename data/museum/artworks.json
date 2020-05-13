@@ -158,5 +158,81 @@
         "name": "Worthy painting",
         "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-worthy-painting-texture-real.png/revision/latest?cb=20200423220056",
         "description": "This painting is always authentic."
+    },
+    "Ancient statue": {
+        "name": "Ancient statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/ACNH_AncientStatue_Fake1.jpg/revision/latest?cb=20200503185633",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/ACNH_AncientStatue_True1.jpg/revision/latest?cb=20200503185709",
+        "description": "The forged statue has antennae, whereas the genuine statue does not."
+    },
+    "Beautiful statue": {
+        "name": "Beautiful statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/ACNH_BeautifulStatue_False1.jpg/revision/latest?cb=20200503185824",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/ACNH_BeautifulStatue_True1.jpg/revision/latest?cb=20200503185751",
+        "description": "The forged statue has a set of necklaces, whereas the genuine statue does not."
+    },
+    "Familiar statue": {
+        "name": "Familiar statue",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/A40_r.png/revision/latest?cb=20200503190936",
+        "description": "This statue is always authentic."
+    },
+    "Gallant statue": {
+        "name": "Gallant statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/A42_f.png/revision/latest?cb=20200503192720",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/A42_r.png/revision/latest?cb=20200503191048",
+        "description": "The forged statue holds a book in its right hand, whereas the genuine statue does not."
+    },
+    "Great statue": {
+        "name": "Great statue",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/A21_r.png/revision/latest?cb=20200503190653",
+        "description": "This statue is always authentic."
+    },
+    "Informative statue": {
+        "name": "Informative statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Statue_Informative_Forged.png/revision/latest?cb=20200426194842",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Statue_Informative_Genuine.jpg/revision/latest?cb=20200501104944",
+        "description": "The forged statue is blue, whereas the genuine one is grey."
+    },
+    "Motherly statue": {
+        "name": "Motherly statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/MotherlyStatueFake.jpg/revision/latest?cb=20200427104536",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/A41_r.png/revision/latest?cb=20200503191009",
+        "description": "The forged statue has its tongue sticking out, whereas the genuine one does not."
+    },
+    "Mystic statue": {
+        "name": "Mystic statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/20200426_092011.jpg/revision/latest?cb=20200426142234",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/A17_r.png/revision/latest?cb=20200503190548",
+        "description": "The forged statue has an earring, whereas the genuine statue does not."
+    },
+    "Robust statue": {
+        "name": "Robust statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/A83_f.png/revision/latest?cb=20200503192655",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/A83_r.png/revision/latest?cb=20200503190822",
+        "description": "The forged statue is wearing a watch on its right arm, whereas the genuine statue is not."
+    },
+    "Rock-head statue": {
+        "name": "Rock-head statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/A46_f.png/revision/latest?cb=20200503190724",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/ACNH_RockHeadStatue_True1.jpg/revision/latest?cb=20200503185936",
+        "description": "The forged statue is smiling, whereas the genuine one is not."
+    },
+    "Tremendous statue": {
+        "name": "Tremendous statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/ACNH_TremendousStatue_False1.jpg/revision/latest?cb=20200503190028",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/86ce5e0f738a53ca5847588f8392a53e.jpg/revision/latest?cb=20200503192625",
+        "description": "The forged statue has a lid with a handle in the middle, whereas the genuine only has the handles on the side."
+    },
+    "Valiant statue": {
+        "name": "Valiant statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/ACNH_ValiantStatue_Fake1.jpg/revision/latest?cb=20200503190250",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/98a9b069622225ac10c76a461244b3f6.jpg/revision/latest?cb=20200503192547",
+        "description": "The forged statue is mirrored, with the left leg in front, whereas the genuine statue has the right leg in front."
+    },
+    "Warrior statue": {
+        "name": "Warrior statue",
+        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/ACNH_WarriorStatue_False1.jpg/revision/latest?cb=20200503190333",
+        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/ACNH_WarriorStatue_True1.jpg/revision/latest?cb=20200503190356",
+        "description": "The forged statue is holding a shovel, whereas the genuine one is not."
     }
 }
