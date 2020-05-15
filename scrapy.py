@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import io
-from util import separate_by_br, convert_checkmark, strip_price, get_image_links, dump_data
+from util import separate_by_br, convert_checkmark, strip_price, get_image_links, parse_variations, dump_data
 
 URLS = {
     # --- New Horizons ---
@@ -23,6 +23,16 @@ URLS = {
     "wallMounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
     "wallpaperRugsFloorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
 
+    # Clothing
+    "tops": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Tops",
+    "bottoms": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Bottoms",
+    "dresses": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Dresses",
+    "hats": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Hats",
+    "accessories": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Accessories",
+    "socks": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Socks",
+    "shoes": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Shoes",
+    "bags": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Bags"
+    
     # --- New Leaf ---
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)",
@@ -344,6 +354,29 @@ def scrape_DIYothers(key):
     return items
 
 
+def scrape_tops(key):
+    url = URLS.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "roundy"})
+    items = {}
+    for tr in table[2].find_all("tr")[2:]:
+        name = tr.find_all("td")[0].text.strip()
+        item = {
+            "name": name,
+            # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
+            "priceBuy": strip_price(tr.find_all("td")[2].text),
+            "priceSell": strip_price(tr.find_all("td")[3].text),
+            "source": tr.find_all("td")[4].text.strip(),
+            "variations": parse_variations(tr.find_all("td")[5]),
+            "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
+        }
+        if tr.find_all("td")[1].find_all("a"):
+            item["imageLink"] = tr.find_all("td")[1].find_all("a")[0]["href"]
+        items[name] = item
+    dump_data(items, "clothing/" + key)
+    return items
+
 if __name__ == "__main__":
     # -- Museum --
     # scrape_bugs("bugs")
@@ -362,4 +395,7 @@ if __name__ == "__main__":
     # scrape_equipments("wallMounteds")
     # scrape_DIYothers("others")
     # scrape_wallpapers("wallpaperRugsFloorings")
+
+    # -- Clothing --
+    scrape_tops("tops")
     pass
