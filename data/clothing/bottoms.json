@@ -1,0 +1,2993 @@
+{
+    "Acid-washed jeans": {
+        "name": "Acid-washed jeans",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Bottoms-Acid-washed_jeans_blue.png/revision/latest?cb=20200421011811",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Bottoms-Acid-washed_jeans_black.png/revision/latest?cb=20200421011302"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Bottoms-Acid-washed_jeans_blue.png/revision/latest?cb=20200421011811"
+    },
+    "Animal-stripes skirt": {
+        "name": "Animal-stripes skirt",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Tiger",
+            "Zebra"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Bottoms-Animal-stripes_skirt_tiger.png/revision/latest?cb=20200421013311",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Bottoms-Animal-stripes_skirt_zebra.png/revision/latest?cb=20200421013311"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Bottoms-Animal-stripes_skirt_tiger.png/revision/latest?cb=20200421013311"
+    },
+    "Apron skirt": {
+        "name": "Apron skirt",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters",
+        "variations": [
+            "Purple",
+            "Blue",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Bottoms-Apron_skirt_purple.png/revision/latest?cb=20200421014227",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Bottoms-Apron_skirt_blue.png/revision/latest?cb=20200421014226",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Bottoms-Apron_skirt_beige.png/revision/latest?cb=20200421014226"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Bottoms-Apron_skirt_purple.png/revision/latest?cb=20200421014227"
+    },
+    "Athletic pants": {
+        "name": "Athletic pants",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Green",
+            "Black",
+            "Blue",
+            "Berry red",
+            "Navy blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Athletic_pants_red.png/revision/latest?cb=20200421015001",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bottoms-Athletic_pants_green.png/revision/latest?cb=20200421014923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Bottoms-Athletic_pants_black.png/revision/latest?cb=20200421014922",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Bottoms-Athletic_pants_blue.png/revision/latest?cb=20200421014922",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Bottoms-Athletic_pants_berry_red.png/revision/latest?cb=20200421014921",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Athletic_pants_navy_blue.png/revision/latest?cb=20200421014923"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Athletic_pants_red.png/revision/latest?cb=20200421015001"
+    },
+    "Athletic shorts": {
+        "name": "Athletic shorts",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Green",
+            "Black",
+            "Blue",
+            "Berry red",
+            "Navy blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bottoms-Athletic_shorts_red.png/revision/latest?cb=20200421015229",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Athletic_shorts_green.png/revision/latest?cb=20200421015228",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Bottoms-Athletic_shorts_black.png/revision/latest?cb=20200421015227",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Bottoms-Athletic_shorts_blue.png/revision/latest?cb=20200421015228",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Bottoms-Athletic_shorts_berry_red.png/revision/latest?cb=20200421015227",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Bottoms-Athletic_shorts_navy_blue.png/revision/latest?cb=20200421015229"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bottoms-Athletic_shorts_red.png/revision/latest?cb=20200421015229"
+    },
+    "Basketball shorts": {
+        "name": "Basketball shorts",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [],
+        "variations": [
+            "Purple",
+            "Red",
+            "Green",
+            "Orange",
+            "Blue",
+            "Yellow",
+            "Light blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Basketball_shorts_purple.png/revision/latest?cb=20200421015355",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Bottoms-Basketball_shorts_red.png/revision/latest?cb=20200421015355",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Bottoms-Basketball_shorts_green.png/revision/latest?cb=20200421015353",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Basketball_shorts_orange.png/revision/latest?cb=20200421015354",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Bottoms-Basketball_shorts_blue.png/revision/latest?cb=20200421015353",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Basketball_shorts_yellow.png/revision/latest?cb=20200421015355",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Bottoms-Basketball_shorts_light_blue.png/revision/latest?cb=20200421015354",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Bottoms-Basketball_shorts_black.png/revision/latest?cb=20200421015353"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Basketball_shorts_purple.png/revision/latest?cb=20200421015355"
+    },
+    "Bell-bottoms": {
+        "name": "Bell-bottoms",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Orange",
+            "Brown",
+            "Beige",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Bottoms-Bell-bottoms_orange.png/revision/latest?cb=20200421015540",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Bottoms-Bell-bottoms_brown.png/revision/latest?cb=20200421015514",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Bottoms-Bell-bottoms_beige.png/revision/latest?cb=20200421015513",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Bottoms-Bell-bottoms_green.png/revision/latest?cb=20200421015515",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bottoms-Bell-bottoms_blue.png/revision/latest?cb=20200421015514"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Bottoms-Bell-bottoms_orange.png/revision/latest?cb=20200421015540"
+    },
+    "Belted wraparound skirt": {
+        "name": "Belted wraparound skirt",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": "Able Sisters",
+        "variations": [
+            "Yellow",
+            "Red",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Bottoms-Belted_wraparound_skirt_yellow.png/revision/latest?cb=20200421015705",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Bottoms-Belted_wraparound_skirt_red.png/revision/latest?cb=20200421015730",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Bottoms-Belted_wraparound_skirt_green.png/revision/latest?cb=20200421015704",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Belted_wraparound_skirt_blue.png/revision/latest?cb=20200421015703"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Bottoms-Belted_wraparound_skirt_yellow.png/revision/latest?cb=20200421015705"
+    },
+    "Boa shorts": {
+        "name": "Boa shorts",
+        "priceBuy": 1200,
+        "priceSell": -1,
+        "source": [],
+        "variations": [
+            "Purple",
+            "Avocado",
+            "Beige",
+            "Blue",
+            "Red",
+            "Orange",
+            "Peacock blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Bottoms-Boa_shorts_purple.png/revision/latest?cb=20200421020050",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Bottoms-Boa_shorts_avocado.png/revision/latest?cb=20200421020047",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Bottoms-Boa_shorts_beige.png/revision/latest?cb=20200421020048",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Bottoms-Boa_shorts_blue.png/revision/latest?cb=20200421020049",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Boa_shorts_red.png/revision/latest?cb=20200421020050",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Boa_shorts_orange.png/revision/latest?cb=20200421020049",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Bottoms-Boa_shorts_peacock_blue.png/revision/latest?cb=20200421020049",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Bottoms-Boa_shorts_black.png/revision/latest?cb=20200421020048"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Bottoms-Boa_shorts_purple.png/revision/latest?cb=20200421020050"
+    },
+    "Boa skirt": {
+        "name": "Boa skirt",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [],
+        "variations": [
+            "Green",
+            "Blue",
+            "Purple",
+            "Red",
+            "Yellow",
+            "Light blue",
+            "Beige",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Bottoms-Boa_skirt_green.png/revision/latest?cb=20200421020150",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Bottoms-Boa_skirt_blue.png/revision/latest?cb=20200421020149",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bottoms-Boa_skirt_purple.png/revision/latest?cb=20200421020151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Bottoms-Boa_skirt_red.png/revision/latest?cb=20200421020152",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Bottoms-Boa_skirt_yellow.png/revision/latest?cb=20200421020152",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bottoms-Boa_skirt_light_blue.png/revision/latest?cb=20200421020151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bottoms-Boa_skirt_beige.png/revision/latest?cb=20200421020149",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Bottoms-Boa_skirt_brown.png/revision/latest?cb=20200421020150"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Bottoms-Boa_skirt_green.png/revision/latest?cb=20200421020150"
+    },
+    "Bomber-style skirt": {
+        "name": "Bomber-style skirt",
+        "priceBuy": 1320,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Avocado",
+            "Black",
+            "Blue",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Bomber-style_skirt_avocado.png/revision/latest?cb=20200421020252",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Bottoms-Bomber-style_skirt_black.png/revision/latest?cb=20200421020318",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Bottoms-Bomber-style_skirt_blue.png/revision/latest?cb=20200421020252",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Bottoms-Bomber-style_skirt_brown.png/revision/latest?cb=20200421020253"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Bomber-style_skirt_avocado.png/revision/latest?cb=20200421020252"
+    },
+    "Botanical shorts": {
+        "name": "Botanical shorts",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Botanical_shorts_black.png/revision/latest?cb=20200421020548",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Bottoms-Botanical_shorts_white.png/revision/latest?cb=20200421020548"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Botanical_shorts_black.png/revision/latest?cb=20200421020548"
+    },
+    "Box-pleated skirt": {
+        "name": "Box-pleated skirt",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Beige",
+            "Red",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Bottoms-Box-pleated_skirt_light_blue.png/revision/latest?cb=20200421020647",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Bottoms-Box-pleated_skirt_beige.png/revision/latest?cb=20200421020646",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Bottoms-Box-pleated_skirt_red.png/revision/latest?cb=20200421020647",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Bottoms-Box-pleated_skirt_green.png/revision/latest?cb=20200421020647"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Bottoms-Box-pleated_skirt_light_blue.png/revision/latest?cb=20200421020647"
+    },
+    "Buttoned lace skirt": {
+        "name": "Buttoned lace skirt",
+        "priceBuy": 1200,
+        "priceSell": 300,
+        "source": "Able Sisters",
+        "variations": [
+            "Yellow",
+            "White",
+            "Pink",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Buttoned_lace_skirt_yellow.png/revision/latest?cb=20200421020845",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bottoms-Buttoned_lace_skirt_white.png/revision/latest?cb=20200421020845",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Bottoms-Buttoned_lace_skirt_pink.png/revision/latest?cb=20200421020844",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Bottoms-Buttoned_lace_skirt_green.png/revision/latest?cb=20200421020843",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Bottoms-Buttoned_lace_skirt_purple.png/revision/latest?cb=20200421020844"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Buttoned_lace_skirt_yellow.png/revision/latest?cb=20200421020845"
+    },
+    "Buttoned wraparound skirt": {
+        "name": "Buttoned wraparound skirt",
+        "priceBuy": 1820,
+        "priceSell": 455,
+        "source": "Able Sisters",
+        "variations": [
+            "Gray",
+            "Blue",
+            "Orange",
+            "Pink",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Buttoned_wraparound_skirt_gray.png/revision/latest?cb=20200421020951",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Buttoned_wraparound_skirt_blue.png/revision/latest?cb=20200421020950",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Buttoned_wraparound_skirt_orange.png/revision/latest?cb=20200421020952",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bottoms-Buttoned_wraparound_skirt_pink.png/revision/latest?cb=20200421020952",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Buttoned_wraparound_skirt_green.png/revision/latest?cb=20200421020951",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bottoms-Buttoned_wraparound_skirt_purple.png/revision/latest?cb=20200421020953"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Buttoned_wraparound_skirt_gray.png/revision/latest?cb=20200421020951"
+    },
+    "Camo pants": {
+        "name": "Camo pants",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Avocado",
+            "Pink",
+            "Blue",
+            "Gray",
+            "Purple",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Bottoms-Camo_pants_brown.png/revision/latest?cb=20200421021111",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Bottoms-Camo_pants_avocado.png/revision/latest?cb=20200421021110",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Camo_pants_pink.png/revision/latest?cb=20200421021112",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-Bottoms-Camo_pants_blue.png/revision/latest?cb=20200421021110",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Bottoms-Camo_pants_gray.png/revision/latest?cb=20200421021111",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Bottoms-Camo_pants_purple.png/revision/latest?cb=20200421021112",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Bottoms-Camo_pants_red.png/revision/latest?cb=20200421021112"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Bottoms-Camo_pants_brown.png/revision/latest?cb=20200421021111"
+    },
+    "Camo skirt": {
+        "name": "Camo skirt",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Avocado",
+            "Pink",
+            "Blue",
+            "Gray",
+            "Purple",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Bottoms-Camo_skirt_brown.png/revision/latest?cb=20200421021222",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Bottoms-Camo_skirt_avocado.png/revision/latest?cb=20200421021221",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Bottoms-Camo_skirt_pink.png/revision/latest?cb=20200421021223",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-Bottoms-Camo_skirt_blue.png/revision/latest?cb=20200421021222",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Bottoms-Camo_skirt_gray.png/revision/latest?cb=20200421021223",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Bottoms-Camo_skirt_purple.png/revision/latest?cb=20200421021223",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Bottoms-Camo_skirt_red.png/revision/latest?cb=20200421021224"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Bottoms-Camo_skirt_brown.png/revision/latest?cb=20200421021222"
+    },
+    "Career skirt": {
+        "name": "Career skirt",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Gray",
+            "Beige",
+            "Peach",
+            "Light blue",
+            "Pink",
+            "Green",
+            "Blue",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Career_skirt_gray.png/revision/latest?cb=20200421021416",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Bottoms-Career_skirt_beige.png/revision/latest?cb=20200421021416",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Bottoms-Career_skirt_peach.png/revision/latest?cb=20200421021418",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Bottoms-Career_skirt_light_blue.png/revision/latest?cb=20200421021417",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Bottoms-Career_skirt_pink.png/revision/latest?cb=20200421021418",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Bottoms-Career_skirt_green.png/revision/latest?cb=20200421021417",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Career_skirt_blue.png/revision/latest?cb=20200421021416",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Bottoms-Career_skirt_red.png/revision/latest?cb=20200421021419"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Career_skirt_gray.png/revision/latest?cb=20200421021416"
+    },
+    "Cargo pants": {
+        "name": "Cargo pants",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": "Able Sisters",
+        "variations": [
+            "Avocado",
+            "Beige",
+            "Navy blue",
+            "Mustard",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Cargo_pants_avocado.png/revision/latest?cb=20200421021546",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Bottoms-Cargo_pants_beige.png/revision/latest?cb=20200421021547",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Cargo_pants_navy_blue.png/revision/latest?cb=20200421021548",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Cargo_pants_mustard.png/revision/latest?cb=20200421021547",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Bottoms-Cargo_pants_brown.png/revision/latest?cb=20200421021547"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Cargo_pants_avocado.png/revision/latest?cb=20200421021546"
+    },
+    "Cargo shorts": {
+        "name": "Cargo shorts",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": "Able Sisters",
+        "variations": [
+            "Beige",
+            "Navy blue",
+            "Avocado",
+            "Camel",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Bottoms-Cargo_shorts_beige.png/revision/latest?cb=20200421021653",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Bottoms-Cargo_shorts_navy_blue.png/revision/latest?cb=20200421021655",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Bottoms-Cargo_shorts_avocado.png/revision/latest?cb=20200421021653",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Cargo_shorts_camel.png/revision/latest?cb=20200421021720",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Bottoms-Cargo_shorts_brown.png/revision/latest?cb=20200421021654"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Bottoms-Cargo_shorts_beige.png/revision/latest?cb=20200421021653"
+    },
+    "Casual pants": {
+        "name": "Casual pants",
+        "priceBuy": 1300,
+        "priceSell": 425,
+        "source": "Able Sisters",
+        "variations": [
+            "Navy blue",
+            "Gray",
+            "Green",
+            "Beige",
+            "Black",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Bottoms-Casual_pants_navy_blue.png/revision/latest?cb=20200421021859",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Bottoms-Casual_pants_gray.png/revision/latest?cb=20200421021923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Bottoms-Casual_pants_green.png/revision/latest?cb=20200421021859",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Bottoms-Casual_pants_beige.png/revision/latest?cb=20200421021857",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Bottoms-Casual_pants_black.png/revision/latest?cb=20200421021858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Bottoms-Casual_pants_brown.png/revision/latest?cb=20200421021858"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Bottoms-Casual_pants_navy_blue.png/revision/latest?cb=20200421021859"
+    },
+    "Chain pants": {
+        "name": "Chain pants",
+        "priceBuy": 1300,
+        "priceSell": 425,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Blue",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Chain_pants_red.png/revision/latest?cb=20200421022035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Bottoms-Chain_pants_blue.png/revision/latest?cb=20200421022034",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Bottoms-Chain_pants_white.png/revision/latest?cb=20200421022102",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Bottoms-Chain_pants_black.png/revision/latest?cb=20200421022034"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Chain_pants_red.png/revision/latest?cb=20200421022035"
+    },
+    "Chino pants": {
+        "name": "Chino pants",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Nook Stop\nAble Sisters",
+        "variations": [
+            "Beige",
+            "Brown",
+            "Navy blue",
+            "Avocado",
+            "Gray",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Chino_pants_beige.png/revision/latest?cb=20200421022258",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Bottoms-Chino_pants_brown.png/revision/latest?cb=20200421051021",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Bottoms-Chino_pants_navy_blue.png/revision/latest?cb=20200421022224",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Bottoms-Chino_pants_avocado.png/revision/latest?cb=20200421022222",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Bottoms-Chino_pants_gray.png/revision/latest?cb=20200421022223",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Bottoms-Chino_pants_red.png/revision/latest?cb=20200421022224",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Bottoms-Chino_pants_blue.png/revision/latest?cb=20200421022223",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Bottoms-Chino_pants_yellow.png/revision/latest?cb=20200421022224"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Chino_pants_beige.png/revision/latest?cb=20200421022258"
+    },
+    "Colorful skirt": {
+        "name": "Colorful skirt",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Blue",
+            "Pink",
+            "Green",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bottoms-Colorful_skirt_red.png/revision/latest?cb=20200421022409",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Colorful_skirt_blue.png/revision/latest?cb=20200421022408",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Bottoms-Colorful_skirt_pink.png/revision/latest?cb=20200421022409",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Bottoms-Colorful_skirt_green.png/revision/latest?cb=20200421022408",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Colorful_skirt_orange.png/revision/latest?cb=20200421022409"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bottoms-Colorful_skirt_red.png/revision/latest?cb=20200421022409"
+    },
+    "Comedian's pants": {
+        "name": "Comedian's pants",
+        "priceBuy": 2100,
+        "priceSell": 525,
+        "source": "Able Sisters",
+        "variations": [
+            "Orange",
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green",
+            "Purple",
+            "Aquamarine",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Bottoms-Comedian%27s_pants_orange.png/revision/latest?cb=20200421022522",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Bottoms-Comedian%27s_pants_blue.png/revision/latest?cb=20200421022521",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Bottoms-Comedian%27s_pants_red.png/revision/latest?cb=20200421022523",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Bottoms-Comedian%27s_pants_yellow.png/revision/latest?cb=20200421022523",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Comedian%27s_pants_green.png/revision/latest?cb=20200421022521",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Comedian%27s_pants_purple.png/revision/latest?cb=20200421022522",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Bottoms-Comedian%27s_pants_aquamarine.png/revision/latest?cb=20200421022520",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Bottoms-Comedian%27s_pants_white.png/revision/latest?cb=20200421022523"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Bottoms-Comedian%27s_pants_orange.png/revision/latest?cb=20200421022522"
+    },
+    "Comic shorts": {
+        "name": "Comic shorts",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Bottoms-Comic_shorts_black.png/revision/latest?cb=20200421022658"
+    },
+    "Corduroy pants": {
+        "name": "Corduroy pants",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [],
+        "variations": [
+            "Camel",
+            "Brown",
+            "Pink",
+            "Green",
+            "Light gray",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Bottoms-Corduroy_pants_camel.png/revision/latest?cb=20200421022659",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Bottoms-Corduroy_pants_brown.png/revision/latest?cb=20200421022659",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bottoms-Corduroy_pants_pink.png/revision/latest?cb=20200421022701",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Bottoms-Corduroy_pants_green.png/revision/latest?cb=20200421022700",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Bottoms-Corduroy_pants_light_gray.png/revision/latest?cb=20200421022700",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Bottoms-Corduroy_pants_black.png/revision/latest?cb=20200421022658"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Bottoms-Corduroy_pants_camel.png/revision/latest?cb=20200421022659"
+    },
+    "Corduroy skirt": {
+        "name": "Corduroy skirt",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Camel",
+            "Pink",
+            "Green",
+            "Light gray",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bottoms-Corduroy_skirt_brown.png/revision/latest?cb=20200421022800",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Bottoms-Corduroy_skirt_camel.png/revision/latest?cb=20200421022800",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Bottoms-Corduroy_skirt_pink.png/revision/latest?cb=20200421022801",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Corduroy_skirt_green.png/revision/latest?cb=20200421022801",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Corduroy_skirt_light_gray.png/revision/latest?cb=20200421022801",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Bottoms-Corduroy_skirt_black.png/revision/latest?cb=20200421022759"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bottoms-Corduroy_skirt_brown.png/revision/latest?cb=20200421022800"
+    },
+    "Corte skirt": {
+        "name": "Corte skirt",
+        "priceBuy": 880,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Magenta",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Bottoms-Corte_skirt_blue.png/revision/latest?cb=20200421022900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Bottoms-Corte_skirt_magenta.png/revision/latest?cb=20200421022901",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Bottoms-Corte_skirt_green.png/revision/latest?cb=20200421022901"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Bottoms-Corte_skirt_blue.png/revision/latest?cb=20200421022900"
+    },
+    "Cropped pants": {
+        "name": "Cropped pants",
+        "priceBuy": 920,
+        "priceSell": 230,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "White",
+            "Pink",
+            "Light blue",
+            "Beige",
+            "Orange",
+            "Blue",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Bottoms-Cropped_pants_black.png/revision/latest?cb=20200421023035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Bottoms-Cropped_pants_white.png/revision/latest?cb=20200421023036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bottoms-Cropped_pants_pink.png/revision/latest?cb=20200421023036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bottoms-Cropped_pants_light_blue.png/revision/latest?cb=20200421023035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Bottoms-Cropped_pants_beige.png/revision/latest?cb=20200421023034",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Bottoms-Cropped_pants_orange.png/revision/latest?cb=20200421023036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Bottoms-Cropped_pants_blue.png/revision/latest?cb=20200421023035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Cropped_pants_yellow.png/revision/latest?cb=20200421023037"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Bottoms-Cropped_pants_black.png/revision/latest?cb=20200421023035"
+    },
+    "Cuffed pants": {
+        "name": "Cuffed pants",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Purple",
+            "Green",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Bottoms-Cuffed_pants_brown.png/revision/latest?cb=20200421023152",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Bottoms-Cuffed_pants_purple.png/revision/latest?cb=20200421023154",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Bottoms-Cuffed_pants_green.png/revision/latest?cb=20200421023153",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Bottoms-Cuffed_pants_gray.png/revision/latest?cb=20200421023153"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Bottoms-Cuffed_pants_brown.png/revision/latest?cb=20200421023152"
+    },
+    "Culottes": {
+        "name": "Culottes",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters Nook Stop",
+        "variations": [
+            "Light blue",
+            "White",
+            "Pink",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Bottoms-Culottes_light_blue.png/revision/latest?cb=20200421023154",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Bottoms-Culottes_white.png/revision/latest?cb=20200421023155",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Bottoms-Culottes_pink.png/revision/latest?cb=20200421023155",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Bottoms-Culottes_green.png/revision/latest?cb=20200421023154"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Bottoms-Culottes_light_blue.png/revision/latest?cb=20200421023154"
+    },
+    "Cut-pleather skirt": {
+        "name": "Cut-pleather skirt",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Pink",
+            "Navy blue",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Cut-pleather_skirt_brown.png/revision/latest?cb=20200421023436",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Bottoms-Cut-pleather_skirt_pink.png/revision/latest?cb=20200421023437",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Bottoms-Cut-pleather_skirt_navy_blue.png/revision/latest?cb=20200421023437",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Bottoms-Cut-pleather_skirt_white.png/revision/latest?cb=20200421023438"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Cut-pleather_skirt_brown.png/revision/latest?cb=20200421023436"
+    },
+    "Cycling shorts": {
+        "name": "Cycling shorts",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue & red",
+            "Black & blue",
+            "Black & red",
+            "Black & yellow",
+            "Red & green",
+            "Orange & red",
+            "Green & purple",
+            "Purple & pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Cycling_shorts_blue_%26_red.png/revision/latest?cb=20200421023601",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bottoms-Cycling_shorts_black_%26_blue.png/revision/latest?cb=20200421023600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Bottoms-Cycling_shorts_black_%26_red.png/revision/latest?cb=20200421023600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Bottoms-Cycling_shorts_black_%26_yellow.png/revision/latest?cb=20200421023600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Bottoms-Cycling_shorts_red_%26_green.png/revision/latest?cb=20200421023603",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/NH-Bottoms-Cycling_shorts_orange_%26_red.png/revision/latest?cb=20200421023602",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Bottoms-Cycling_shorts_green_%26_purple.png/revision/latest?cb=20200421023601",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Bottoms-Cycling_shorts_purple_%26_pink.png/revision/latest?cb=20200421023602"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Cycling_shorts_blue_%26_red.png/revision/latest?cb=20200421023601"
+    },
+    "Dance warm-up pants": {
+        "name": "Dance warm-up pants",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "White",
+            "Purple",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Bottoms-Dance_warm-up_pants_black.png/revision/latest?cb=20200421023715",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Dance_warm-up_pants_white.png/revision/latest?cb=20200421023717",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Bottoms-Dance_warm-up_pants_purple.png/revision/latest?cb=20200421023716",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Bottoms-Dance_warm-up_pants_red.png/revision/latest?cb=20200421023716"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Bottoms-Dance_warm-up_pants_black.png/revision/latest?cb=20200421023715"
+    },
+    "Denim cutoffs": {
+        "name": "Denim cutoffs",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": "Able Sisters Nook Stop",
+        "variations": [
+            "Blue",
+            "Light blue",
+            "Navy blue",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Denim_cutoffs_blue.png/revision/latest?cb=20200421023717",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Bottoms-Denim_cutoffs_light_blue.png/revision/latest?cb=20200421023718",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Denim_cutoffs_navy_blue.png/revision/latest?cb=20200421023718",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Bottoms-Denim_cutoffs_white.png/revision/latest?cb=20200421023718",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Bottoms-Denim_cutoffs_black.png/revision/latest?cb=20200421023717"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Denim_cutoffs_blue.png/revision/latest?cb=20200421023717"
+    },
+    "Denim painter's pants": {
+        "name": "Denim painter's pants",
+        "priceBuy": 1560,
+        "priceSell": -1,
+        "source": [],
+        "variations": [
+            "Navy blue",
+            "Light blue",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Bottoms-Denim_painter%27s_pants_navy_blue.png/revision/latest?cb=20200421023858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Bottoms-Denim_painter%27s_pants_light_blue.png/revision/latest?cb=20200421023858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Bottoms-Denim_painter%27s_pants_blue.png/revision/latest?cb=20200421023857",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bottoms-Denim_painter%27s_pants_black.png/revision/latest?cb=20200421023857",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Bottoms-Denim_painter%27s_pants_white.png/revision/latest?cb=20200421023859"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Bottoms-Denim_painter%27s_pants_navy_blue.png/revision/latest?cb=20200421023858"
+    },
+    "Denim pants": {
+        "name": "Denim pants",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": "Able Sisters Nook Stop",
+        "variations": [
+            "Blue",
+            "Light blue",
+            "Navy blue",
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Bottoms-Denim_pants_blue.png/revision/latest?cb=20200421024034",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Bottoms-Denim_pants_light_blue.png/revision/latest?cb=20200421024035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Bottoms-Denim_pants_navy_blue.png/revision/latest?cb=20200421024035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Bottoms-Denim_pants_black.png/revision/latest?cb=20200421024034",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Denim_pants_white.png/revision/latest?cb=20200421024036"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Bottoms-Denim_pants_blue.png/revision/latest?cb=20200421024034"
+    },
+    "Denim skirt": {
+        "name": "Denim skirt",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": "Able Sisters Nook Stop",
+        "variations": [
+            "Blue",
+            "Light blue",
+            "Navy blue",
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Bottoms-Denim_skirt_blue.png/revision/latest?cb=20200421024036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Denim_skirt_light_blue.png/revision/latest?cb=20200421024037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Bottoms-Denim_skirt_navy_blue.png/revision/latest?cb=20200421024037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Bottoms-Denim_skirt_black.png/revision/latest?cb=20200421024036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Denim_skirt_white.png/revision/latest?cb=20200421024038"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Bottoms-Denim_skirt_blue.png/revision/latest?cb=20200421024036"
+    },
+    "Dotted shorts": {
+        "name": "Dotted shorts",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Bottoms-Dotted_shorts_black.png/revision/latest?cb=20200421024233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bottoms-Dotted_shorts_gray.png/revision/latest?cb=20200421024233"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Bottoms-Dotted_shorts_black.png/revision/latest?cb=20200421024233"
+    },
+    "Down pants": {
+        "name": "Down pants",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": [],
+        "variations": [
+            "Blue",
+            "Black",
+            "Red",
+            "White",
+            "Green",
+            "Yellow",
+            "Orange",
+            "Lime"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bottoms-Down_pants_blue.png/revision/latest?cb=20200421024234",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Down_pants_black.png/revision/latest?cb=20200421024233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Bottoms-Down_pants_red.png/revision/latest?cb=20200421024235",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Down_pants_white.png/revision/latest?cb=20200421024236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Bottoms-Down_pants_green.png/revision/latest?cb=20200421024234",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Bottoms-Down_pants_yellow.png/revision/latest?cb=20200421024236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Bottoms-Down_pants_orange.png/revision/latest?cb=20200421024235",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Bottoms-Down_pants_lime.png/revision/latest?cb=20200421024235"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bottoms-Down_pants_blue.png/revision/latest?cb=20200421024234"
+    },
+    "Down skirt": {
+        "name": "Down skirt",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": [],
+        "variations": [
+            "Blue",
+            "Black",
+            "Red",
+            "White",
+            "Green",
+            "Yellow",
+            "Orange",
+            "Lime"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Bottoms-Down_skirt_blue.png/revision/latest?cb=20200421024423",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Bottoms-Down_skirt_black.png/revision/latest?cb=20200421024422",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Bottoms-Down_skirt_red.png/revision/latest?cb=20200421024425",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Bottoms-Down_skirt_white.png/revision/latest?cb=20200421024425",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Down_skirt_green.png/revision/latest?cb=20200421024423",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Bottoms-Down_skirt_yellow.png/revision/latest?cb=20200421024425",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bottoms-Down_skirt_orange.png/revision/latest?cb=20200421024424",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bottoms-Down_skirt_lime.png/revision/latest?cb=20200421024424"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Bottoms-Down_skirt_blue.png/revision/latest?cb=20200421024423"
+    },
+    "Draped skirt": {
+        "name": "Draped skirt",
+        "priceBuy": 1820,
+        "priceSell": 455,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Green",
+            "Blue",
+            "Gray",
+            "Orange",
+            "Pink",
+            "Purple",
+            "Light blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bottoms-Draped_skirt_red.png/revision/latest?cb=20200421024740",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Bottoms-Draped_skirt_green.png/revision/latest?cb=20200421024738",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Bottoms-Draped_skirt_blue.png/revision/latest?cb=20200421024737",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bottoms-Draped_skirt_gray.png/revision/latest?cb=20200421024738",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Draped_skirt_orange.png/revision/latest?cb=20200421024739",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Bottoms-Draped_skirt_pink.png/revision/latest?cb=20200421024739",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bottoms-Draped_skirt_purple.png/revision/latest?cb=20200421024740",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Draped_skirt_light_blue.png/revision/latest?cb=20200421024738"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bottoms-Draped_skirt_red.png/revision/latest?cb=20200421024740"
+    },
+    "Dreamy pants": {
+        "name": "Dreamy pants",
+        "priceBuy": 1440,
+        "priceSell": 360,
+        "source": "Able Sisters",
+        "variations": [
+            "Pink",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Bottoms-Dreamy_pants_pink.png/revision/latest?cb=20200421025009",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Bottoms-Dreamy_pants_green.png/revision/latest?cb=20200421025009",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Bottoms-Dreamy_pants_yellow.png/revision/latest?cb=20200421025010",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Dreamy_pants_blue.png/revision/latest?cb=20200421025008"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Bottoms-Dreamy_pants_pink.png/revision/latest?cb=20200421025009"
+    },
+    "Dress pants": {
+        "name": "Dress pants",
+        "priceBuy": 1300,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Green",
+            "Navy blue",
+            "Beige",
+            "Berry red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Bottoms-Dress_pants_green.png/revision/latest?cb=20200421025011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Dress_pants_navy_blue.png/revision/latest?cb=20200421025011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bottoms-Dress_pants_beige.png/revision/latest?cb=20200421025010",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Bottoms-Dress_pants_berry_red.png/revision/latest?cb=20200421025010"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Bottoms-Dress_pants_green.png/revision/latest?cb=20200421025011"
+    },
+    "Elephant-print pants": {
+        "name": "Elephant-print pants",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [],
+        "variations": [
+            "Red",
+            "Blue",
+            "Orange",
+            "Green",
+            "Purple",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Bottoms-Elephant-print_pants_red.png/revision/latest?cb=20200421025306",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bottoms-Elephant-print_pants_blue.png/revision/latest?cb=20200421025304",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Elephant-print_pants_orange.png/revision/latest?cb=20200421025305",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Elephant-print_pants_green.png/revision/latest?cb=20200421025305",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Bottoms-Elephant-print_pants_purple.png/revision/latest?cb=20200421025306",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Bottoms-Elephant-print_pants_black.png/revision/latest?cb=20200421025304"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Bottoms-Elephant-print_pants_red.png/revision/latest?cb=20200421025306"
+    },
+    "Embellished denim pants": {
+        "name": "Embellished denim pants",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [],
+        "variations": [
+            "Blue",
+            "Light blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Bottoms-Embellished_denim_pants_blue.png/revision/latest?cb=20200421025455",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Bottoms-Embellished_denim_pants_light_blue.png/revision/latest?cb=20200421025455",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bottoms-Embellished_denim_pants_black.png/revision/latest?cb=20200421025454"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Bottoms-Embellished_denim_pants_blue.png/revision/latest?cb=20200421025455"
+    },
+    "Embroidered floral skirt": {
+        "name": "Embroidered floral skirt",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Green",
+            "Blue",
+            "Berry red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Bottoms-Embroidered_floral_skirt_green.png/revision/latest?cb=20200421025457",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Embroidered_floral_skirt_blue.png/revision/latest?cb=20200421025456",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Bottoms-Embroidered_floral_skirt_berry_red.png/revision/latest?cb=20200421025456"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Bottoms-Embroidered_floral_skirt_green.png/revision/latest?cb=20200421025457"
+    },
+    "Embroidered-pattern skirt": {
+        "name": "Embroidered-pattern skirt",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Embroidered-pattern_skirt_blue.png/revision/latest?cb=20200421025457",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Bottoms-Embroidered-pattern_skirt_green.png/revision/latest?cb=20200421025457",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Bottoms-Embroidered-pattern_skirt_red.png/revision/latest?cb=20200421025458"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Embroidered-pattern_skirt_blue.png/revision/latest?cb=20200421025457"
+    },
+    "Explorer shorts": {
+        "name": "Explorer shorts",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": "Able Sisters",
+        "variations": [
+            "Camel",
+            "Avocado",
+            "Beige",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Bottoms-Explorer_shorts_camel.png/revision/latest?cb=20200421025620",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bottoms-Explorer_shorts_avocado.png/revision/latest?cb=20200421025619",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Bottoms-Explorer_shorts_beige.png/revision/latest?cb=20200421025619",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Bottoms-Explorer_shorts_blue.png/revision/latest?cb=20200421025619"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Bottoms-Explorer_shorts_camel.png/revision/latest?cb=20200421025620"
+    },
+    "Faux-fur skirt": {
+        "name": "Faux-fur skirt",
+        "priceBuy": 1440,
+        "priceSell": 360,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Pink",
+            "Red",
+            "Purple",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Bottoms-Faux-fur_skirt_light_blue.png/revision/latest?cb=20200421025739",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Bottoms-Faux-fur_skirt_pink.png/revision/latest?cb=20200421025740",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Bottoms-Faux-fur_skirt_red.png/revision/latest?cb=20200421025741",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Faux-fur_skirt_purple.png/revision/latest?cb=20200421025740",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Bottoms-Faux-fur_skirt_yellow.png/revision/latest?cb=20200421025741"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Bottoms-Faux-fur_skirt_light_blue.png/revision/latest?cb=20200421025739"
+    },
+    "Faux-shearling skirt": {
+        "name": "Faux-shearling skirt",
+        "priceBuy": 1440,
+        "priceSell": 360,
+        "source": "Able Sisters",
+        "variations": [
+            "Beige",
+            "Pink",
+            "Green",
+            "Black",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Bottoms-Faux-shearling_skirt_beige.png/revision/latest?cb=20200421025741",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Bottoms-Faux-shearling_skirt_pink.png/revision/latest?cb=20200421025743",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Bottoms-Faux-shearling_skirt_green.png/revision/latest?cb=20200421025743",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Bottoms-Faux-shearling_skirt_black.png/revision/latest?cb=20200421025742",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Bottoms-Faux-shearling_skirt_gray.png/revision/latest?cb=20200421025742"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Bottoms-Faux-shearling_skirt_beige.png/revision/latest?cb=20200421025741"
+    },
+    "Flare skirt": {
+        "name": "Flare skirt",
+        "priceBuy": 1140,
+        "priceSell": 285,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Black",
+            "Pink",
+            "Mint",
+            "Light blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Bottoms-Flare_skirt_red.png/revision/latest?cb=20200421030244",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Bottoms-Flare_skirt_black.png/revision/latest?cb=20200421030243",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Bottoms-Flare_skirt_pink.png/revision/latest?cb=20200421030244",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Bottoms-Flare_skirt_mint.png/revision/latest?cb=20200421030243",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Bottoms-Flare_skirt_light_blue.png/revision/latest?cb=20200421030243"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Bottoms-Flare_skirt_red.png/revision/latest?cb=20200421030244"
+    },
+    "Flashy slacks": {
+        "name": "Flashy slacks",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "White",
+            "Black",
+            "Purple",
+            "Berry red",
+            "Aquamarine",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Bottoms-Flashy_slacks_white.png/revision/latest?cb=20200421030341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Bottoms-Flashy_slacks_black.png/revision/latest?cb=20200421030340",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Bottoms-Flashy_slacks_purple.png/revision/latest?cb=20200421030340",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Bottoms-Flashy_slacks_berry_red.png/revision/latest?cb=20200421030339",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Bottoms-Flashy_slacks_aquamarine.png/revision/latest?cb=20200421030339",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Bottoms-Flashy_slacks_yellow.png/revision/latest?cb=20200421030341"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Bottoms-Flashy_slacks_white.png/revision/latest?cb=20200421030341"
+    },
+    "Floral lace skirt": {
+        "name": "Floral lace skirt",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Pink",
+            "Blue",
+            "Ruby red",
+            "Orange",
+            "Green",
+            "Purple",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Floral_lace_skirt_light_blue.png/revision/latest?cb=20200409145950",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bottoms-Floral_lace_skirt_pink.png/revision/latest?cb=20200409145831",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Bottoms-Floral_lace_skirt_blue.png/revision/latest?cb=20200409150018",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Floral_lace_skirt_ruby_red.png/revision/latest?cb=20200409145803",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Bottoms-Floral_lace_skirt_orange.png/revision/latest?cb=20200409145900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bottoms-Floral_lace_skirt_green.png/revision/latest?cb=20200409145926",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Bottoms-Floral_lace_skirt_purple.png/revision/latest?cb=20200409150040",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Floral_lace_skirt_black.png/revision/latest?cb=20200409145728"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Floral_lace_skirt_light_blue.png/revision/latest?cb=20200409145950"
+    },
+    "Floral skirt": {
+        "name": "Floral skirt",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Yellow",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bottoms-Floral_skirt_light_blue.png/revision/latest?cb=20200421030638",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Bottoms-Floral_skirt_yellow.png/revision/latest?cb=20200421030638",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Bottoms-Floral_skirt_pink.png/revision/latest?cb=20200421030638"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bottoms-Floral_skirt_light_blue.png/revision/latest?cb=20200421030638"
+    },
+    "Football pants": {
+        "name": "Football pants",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [],
+        "variations": [
+            "Green",
+            "White",
+            "Yellow",
+            "Berry red",
+            "Blue",
+            "Turquoise",
+            "Red",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Bottoms-Football_pants_green.png/revision/latest?cb=20200421030817",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Bottoms-Football_pants_white.png/revision/latest?cb=20200421030819",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Bottoms-Football_pants_yellow.png/revision/latest?cb=20200421030819",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Football_pants_berry_red.png/revision/latest?cb=20200421030816",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bottoms-Football_pants_blue.png/revision/latest?cb=20200421030817",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Bottoms-Football_pants_turquoise.png/revision/latest?cb=20200421030818",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Football_pants_red.png/revision/latest?cb=20200421030818",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Bottoms-Football_pants_black.png/revision/latest?cb=20200421030817"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Bottoms-Football_pants_green.png/revision/latest?cb=20200421030817"
+    },
+    "Formal shorts": {
+        "name": "Formal shorts",
+        "priceBuy": 840,
+        "priceSell": 210,
+        "source": [],
+        "variations": [
+            "White",
+            "Navy blue",
+            "Pink",
+            "Light blue",
+            "Yellow",
+            "Purple",
+            "Lime",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Bottoms-Formal_shorts_white.png/revision/latest?cb=20200421031005",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Bottoms-Formal_shorts_navy_blue.png/revision/latest?cb=20200421031004",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Bottoms-Formal_shorts_pink.png/revision/latest?cb=20200421031004",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Bottoms-Formal_shorts_light_blue.png/revision/latest?cb=20200421031003",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Bottoms-Formal_shorts_yellow.png/revision/latest?cb=20200421031005",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bottoms-Formal_shorts_purple.png/revision/latest?cb=20200421031005",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Bottoms-Formal_shorts_lime.png/revision/latest?cb=20200421031003",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Bottoms-Formal_shorts_beige.png/revision/latest?cb=20200421031003"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Bottoms-Formal_shorts_white.png/revision/latest?cb=20200421031005"
+    },
+    "Frilly pants": {
+        "name": "Frilly pants",
+        "priceBuy": 1200,
+        "priceSell": 400,
+        "source": "Able Sisters",
+        "variations": [
+            "Yellow",
+            "Mint",
+            "Pink",
+            "Blue",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bottoms-Frilly_pants_yellow.png/revision/latest?cb=20200421031056",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Bottoms-Frilly_pants_mint.png/revision/latest?cb=20200421031055",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Bottoms-Frilly_pants_pink.png/revision/latest?cb=20200421031056",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Bottoms-Frilly_pants_blue.png/revision/latest?cb=20200421031055",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Bottoms-Frilly_pants_orange.png/revision/latest?cb=20200421031055"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bottoms-Frilly_pants_yellow.png/revision/latest?cb=20200421031056"
+    },
+    "Frilly skirt": {
+        "name": "Frilly skirt",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Pink",
+            "Blue",
+            "Green",
+            "Orange",
+            "Purple",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Bottoms-Frilly_skirt_pink.png/revision/latest?cb=20200421031158",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Bottoms-Frilly_skirt_blue.png/revision/latest?cb=20200421031157",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Bottoms-Frilly_skirt_green.png/revision/latest?cb=20200421031158",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Bottoms-Frilly_skirt_orange.png/revision/latest?cb=20200421031158",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Bottoms-Frilly_skirt_purple.png/revision/latest?cb=20200421031159",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Bottoms-Frilly_skirt_gray.png/revision/latest?cb=20200421031157"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Bottoms-Frilly_skirt_pink.png/revision/latest?cb=20200421031158"
+    },
+    "Frilly sweatpants": {
+        "name": "Frilly sweatpants",
+        "priceBuy": 880,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Pink",
+            "Mint",
+            "Orange",
+            "Purple",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Bottoms-Frilly_sweatpants_blue.png/revision/latest?cb=20200421031340",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Bottoms-Frilly_sweatpants_pink.png/revision/latest?cb=20200421031341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Frilly_sweatpants_mint.png/revision/latest?cb=20200421031341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Bottoms-Frilly_sweatpants_orange.png/revision/latest?cb=20200421031341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Frilly_sweatpants_purple.png/revision/latest?cb=20200421031342",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Bottoms-Frilly_sweatpants_gray.png/revision/latest?cb=20200421031403"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Bottoms-Frilly_sweatpants_blue.png/revision/latest?cb=20200421031340"
+    },
+    "Fringe skirt": {
+        "name": "Fringe skirt",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Camel",
+            "Black",
+            "White",
+            "Blue",
+            "Yellow",
+            "Green",
+            "Berry red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Bottoms-Fringe_skirt_camel.png/revision/latest?cb=20200421031511",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Bottoms-Fringe_skirt_black.png/revision/latest?cb=20200421031510",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Bottoms-Fringe_skirt_white.png/revision/latest?cb=20200421031511",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Bottoms-Fringe_skirt_blue.png/revision/latest?cb=20200421031510",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Fringe_skirt_yellow.png/revision/latest?cb=20200421031512",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bottoms-Fringe_skirt_green.png/revision/latest?cb=20200421031511",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Bottoms-Fringe_skirt_berry_red.png/revision/latest?cb=20200421031509"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Bottoms-Fringe_skirt_camel.png/revision/latest?cb=20200421031511"
+    },
+    "Gaucho pants": {
+        "name": "Gaucho pants",
+        "priceBuy": 880,
+        "priceSell": -1,
+        "source": [],
+        "variations": [
+            "Gray",
+            "Brown",
+            "Avocado",
+            "Pink",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Gaucho_pants_gray.png/revision/latest?cb=20200421031614",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bottoms-Gaucho_pants_brown.png/revision/latest?cb=20200421031614",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bottoms-Gaucho_pants_avocado.png/revision/latest?cb=20200421031613",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Bottoms-Gaucho_pants_pink.png/revision/latest?cb=20200421031615",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bottoms-Gaucho_pants_blue.png/revision/latest?cb=20200421031613"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Gaucho_pants_gray.png/revision/latest?cb=20200421031614"
+    },
+    "Geometric-print pants": {
+        "name": "Geometric-print pants",
+        "priceBuy": 1040,
+        "priceSell": -1,
+        "source": [],
+        "variations": [
+            "Blue",
+            "Red",
+            "Brown",
+            "Navy blue",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Geometric-print_pants_blue.png/revision/latest?cb=20200421031615",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bottoms-Geometric-print_pants_red.png/revision/latest?cb=20200421031617",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Geometric-print_pants_brown.png/revision/latest?cb=20200421031615",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Bottoms-Geometric-print_pants_navy_blue.png/revision/latest?cb=20200421031616",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Bottoms-Geometric-print_pants_orange.png/revision/latest?cb=20200421031616"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Geometric-print_pants_blue.png/revision/latest?cb=20200421031615"
+    },
+    "Gingham picnic skirt": {
+        "name": "Gingham picnic skirt",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [],
+        "variations": [
+            "Red",
+            "Green",
+            "Blue",
+            "Gray",
+            "Orange",
+            "Pink",
+            "Purple",
+            "Light blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bottoms-Gingham_picnic_skirt_red.png/revision/latest?cb=20200421031733",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Bottoms-Gingham_picnic_skirt_green.png/revision/latest?cb=20200421031731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Bottoms-Gingham_picnic_skirt_blue.png/revision/latest?cb=20200421031731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Gingham_picnic_skirt_gray.png/revision/latest?cb=20200421031731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Bottoms-Gingham_picnic_skirt_orange.png/revision/latest?cb=20200421031732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Bottoms-Gingham_picnic_skirt_pink.png/revision/latest?cb=20200421031733",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Bottoms-Gingham_picnic_skirt_purple.png/revision/latest?cb=20200421031733",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Gingham_picnic_skirt_light_blue.png/revision/latest?cb=20200421031732"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bottoms-Gingham_picnic_skirt_red.png/revision/latest?cb=20200421031733"
+    },
+    "Gobelin shorts": {
+        "name": "Gobelin shorts",
+        "priceBuy": 840,
+        "priceSell": 210,
+        "source": "Able Sisters",
+        "variations": [
+            "Beige",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Gobelin_shorts_beige.png/revision/latest?cb=20200421031942",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bottoms-Gobelin_shorts_black.png/revision/latest?cb=20200421031943"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Gobelin_shorts_beige.png/revision/latest?cb=20200421031942"
+    },
+    "Grass skirt": {
+        "name": "Grass skirt",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": "DIY Recipe",
+        "variations": [
+            "Brown",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Grass_skirt_green.png/revision/latest?cb=20200421031944",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bottoms-Grass_skirt_brown.png/revision/latest?cb=20200421031943"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Grass_skirt_green.png/revision/latest?cb=20200421031944"
+    },
+    "Hickory-stripe pants": {
+        "name": "Hickory-stripe pants",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Light blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Bottoms-Hickory-stripe_pants_blue.png/revision/latest?cb=20200421031944",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Bottoms-Hickory-stripe_pants_light_blue.png/revision/latest?cb=20200421031944"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Bottoms-Hickory-stripe_pants_blue.png/revision/latest?cb=20200421031944"
+    },
+    "Jogging shorts": {
+        "name": "Jogging shorts",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters",
+        "variations": [
+            "Pink",
+            "Light blue",
+            "Lime",
+            "Red",
+            "Blue",
+            "Black",
+            "Purple",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Bottoms-Jogging_shorts_pink.png/revision/latest?cb=20200421032231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Bottoms-Jogging_shorts_light_blue.png/revision/latest?cb=20200421032230",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Bottoms-Jogging_shorts_lime.png/revision/latest?cb=20200421032230",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Bottoms-Jogging_shorts_red.png/revision/latest?cb=20200421032233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Bottoms-Jogging_shorts_blue.png/revision/latest?cb=20200421032229",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Bottoms-Jogging_shorts_black.png/revision/latest?cb=20200421032229",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Bottoms-Jogging_shorts_purple.png/revision/latest?cb=20200421032231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Bottoms-Jogging_shorts_orange.png/revision/latest?cb=20200421032230"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Bottoms-Jogging_shorts_pink.png/revision/latest?cb=20200421032231"
+    },
+    "Kilt": {
+        "name": "Kilt",
+        "priceBuy": 1000,
+        "priceSell": 250,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Black",
+            "Navy blue",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Bottoms-Kilt_red.png/revision/latest?cb=20200421032404",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Bottoms-Kilt_black.png/revision/latest?cb=20200421032403",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Bottoms-Kilt_navy_blue.png/revision/latest?cb=20200421032404",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Bottoms-Kilt_green.png/revision/latest?cb=20200421032404"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Bottoms-Kilt_red.png/revision/latest?cb=20200421032404"
+    },
+    "Knit pants": {
+        "name": "Knit pants",
+        "priceBuy": 910,
+        "priceSell": 227,
+        "source": "Able Sisters",
+        "variations": [
+            "Gray",
+            "Brown",
+            "Light blue",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Knit_pants_gray.png/revision/latest?cb=20200421032405",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Bottoms-Knit_pants_brown.png/revision/latest?cb=20200421032405",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Bottoms-Knit_pants_light_blue.png/revision/latest?cb=20200421032406",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Bottoms-Knit_pants_red.png/revision/latest?cb=20200421032406"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Knit_pants_gray.png/revision/latest?cb=20200421032405"
+    },
+    "Knit skirt": {
+        "name": "Knit skirt",
+        "priceBuy": 910,
+        "priceSell": 227,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Light blue",
+            "Pink",
+            "Mustard"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Bottoms-Knit_skirt_brown.png/revision/latest?cb=20200421032800",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Bottoms-Knit_skirt_light_blue.png/revision/latest?cb=20200421032800",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Bottoms-Knit_skirt_pink.png/revision/latest?cb=20200421032801",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bottoms-Knit_skirt_mustard.png/revision/latest?cb=20200421032801"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Bottoms-Knit_skirt_brown.png/revision/latest?cb=20200421032800"
+    },
+    "Kung-fu pants": {
+        "name": "Kung-fu pants",
+        "priceBuy": 1680,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Navy blue",
+            "White",
+            "Light blue",
+            "Yellow",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Kung-fu_pants_navy_blue.png/revision/latest?cb=20200421032802",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bottoms-Kung-fu_pants_white.png/revision/latest?cb=20200421032803",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Bottoms-Kung-fu_pants_light_blue.png/revision/latest?cb=20200421032802",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Bottoms-Kung-fu_pants_yellow.png/revision/latest?cb=20200421032803",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Bottoms-Kung-fu_pants_green.png/revision/latest?cb=20200421032801"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Bottoms-Kung-fu_pants_navy_blue.png/revision/latest?cb=20200421032802"
+    },
+    "Labelle shorts": {
+        "name": "Labelle shorts",
+        "priceBuy": 2540,
+        "priceSell": 635,
+        "source": [],
+        "variations": [
+            "Twilight",
+            "Midnight",
+            "Passion",
+            "Ocean",
+            "Sunset",
+            "Love"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Bottoms-Labelle_shorts_twilight.png/revision/latest?cb=20200421033022",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Bottoms-Labelle_shorts_midnight.png/revision/latest?cb=20200421033020",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bottoms-Labelle_shorts_passion.png/revision/latest?cb=20200421033021",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Labelle_shorts_ocean.png/revision/latest?cb=20200421033021",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Bottoms-Labelle_shorts_sunset.png/revision/latest?cb=20200421033021",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Bottoms-Labelle_shorts_love.png/revision/latest?cb=20200421033020"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Bottoms-Labelle_shorts_twilight.png/revision/latest?cb=20200421033022"
+    },
+    "Labelle skirt": {
+        "name": "Labelle skirt",
+        "priceBuy": 3100,
+        "priceSell": 775,
+        "source": [],
+        "variations": [
+            "Twilight",
+            "Midnight",
+            "Passion",
+            "Ocean",
+            "Sunset",
+            "Love"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-Labelle_skirt_twilight.png/revision/latest?cb=20200421033151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Bottoms-Labelle_skirt_midnight.png/revision/latest?cb=20200421033150",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Bottoms-Labelle_skirt_passion.png/revision/latest?cb=20200421033151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Bottoms-Labelle_skirt_ocean.png/revision/latest?cb=20200421033150",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Labelle_skirt_sunset.png/revision/latest?cb=20200421033151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Bottoms-Labelle_skirt_love.png/revision/latest?cb=20200421033149"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-Labelle_skirt_twilight.png/revision/latest?cb=20200421033151"
+    },
+    "Lace shorts": {
+        "name": "Lace shorts",
+        "priceBuy": 840,
+        "priceSell": 210,
+        "source": [],
+        "variations": [
+            "White",
+            "Black",
+            "Green",
+            "Pink",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Bottoms-Lace_shorts_white.png/revision/latest?cb=20200421033258",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Lace_shorts_black.png/revision/latest?cb=20200421033257",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Bottoms-Lace_shorts_green.png/revision/latest?cb=20200421033258",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Bottoms-Lace_shorts_pink.png/revision/latest?cb=20200421033258",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Bottoms-Lace_shorts_blue.png/revision/latest?cb=20200421033257"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Bottoms-Lace_shorts_white.png/revision/latest?cb=20200421033258"
+    },
+    "Lace skirt": {
+        "name": "Lace skirt",
+        "priceBuy": 920,
+        "priceSell": 230,
+        "source": [],
+        "variations": [
+            "White",
+            "Pink",
+            "Green",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Bottoms-Lace_skirt_white.png/revision/latest?cb=20200421033300",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Lace_skirt_pink.png/revision/latest?cb=20200421033259",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Bottoms-Lace_skirt_green.png/revision/latest?cb=20200421033259",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Bottoms-Lace_skirt_beige.png/revision/latest?cb=20200421033259"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Bottoms-Lace_skirt_white.png/revision/latest?cb=20200421033300"
+    },
+    "Lemon skirt": {
+        "name": "Lemon skirt",
+        "priceBuy": 880,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bottoms-Lemon_skirt_light_blue.png/revision/latest?cb=20200421033533",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bottoms-Lemon_skirt_white.png/revision/latest?cb=20200421033533",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Bottoms-Lemon_skirt_black.png/revision/latest?cb=20200421033532"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bottoms-Lemon_skirt_light_blue.png/revision/latest?cb=20200421033533"
+    },
+    "Leopard miniskirt": {
+        "name": "Leopard miniskirt",
+        "priceBuy": 1820,
+        "priceSell": 455,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Gray",
+            "Blue",
+            "Lime",
+            "Purple",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bottoms-Leopard_miniskirt_brown.png/revision/latest?cb=20200421033534",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Bottoms-Leopard_miniskirt_gray.png/revision/latest?cb=20200421033534",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Bottoms-Leopard_miniskirt_blue.png/revision/latest?cb=20200421033533",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Bottoms-Leopard_miniskirt_lime.png/revision/latest?cb=20200421033535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bottoms-Leopard_miniskirt_purple.png/revision/latest?cb=20200421033535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Leopard_miniskirt_pink.png/revision/latest?cb=20200421033535"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bottoms-Leopard_miniskirt_brown.png/revision/latest?cb=20200421033534"
+    },
+    "Long chino skirt": {
+        "name": "Long chino skirt",
+        "priceBuy": -1,
+        "priceSell": 1560,
+        "source": "Able Sisters",
+        "variations": [
+            "Beige",
+            "Brown",
+            "Navy blue",
+            "Avocado",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Bottoms-Long_chino_skirt_beige.png/revision/latest?cb=20200421033743",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bottoms-Long_chino_skirt_brown.png/revision/latest?cb=20200421033744",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Bottoms-Long_chino_skirt_navy_blue.png/revision/latest?cb=20200421033745",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Bottoms-Long_chino_skirt_avocado.png/revision/latest?cb=20200421033743",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Bottoms-Long_chino_skirt_gray.png/revision/latest?cb=20200421033744"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Bottoms-Long_chino_skirt_beige.png/revision/latest?cb=20200421033743"
+    },
+    "Long denim skirt": {
+        "name": "Long denim skirt",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Light blue",
+            "Navy blue",
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Bottoms-Long_denim_skirt_blue.png/revision/latest?cb=20200421033748",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bottoms-Long_denim_skirt_light_blue.png/revision/latest?cb=20200421033748",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Bottoms-Long_denim_skirt_navy_blue.png/revision/latest?cb=20200421033748",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Bottoms-Long_denim_skirt_black.png/revision/latest?cb=20200421033745",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Bottoms-Long_denim_skirt_white.png/revision/latest?cb=20200421033749"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Bottoms-Long_denim_skirt_blue.png/revision/latest?cb=20200421033748"
+    },
+    "Long plaid skirt": {
+        "name": "Long plaid skirt",
+        "priceBuy": 1450,
+        "priceSell": 362,
+        "source": [],
+        "variations": [
+            "Red",
+            "Green",
+            "Blue",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Bottoms-Long_plaid_skirt_red.png/revision/latest?cb=20200421033910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Bottoms-Long_plaid_skirt_green.png/revision/latest?cb=20200421033909",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Bottoms-Long_plaid_skirt_blue.png/revision/latest?cb=20200421033909",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Bottoms-Long_plaid_skirt_beige.png/revision/latest?cb=20200421033908"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Bottoms-Long_plaid_skirt_red.png/revision/latest?cb=20200421033910"
+    },
+    "Long pleated skirt": {
+        "name": "Long pleated skirt",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Ruby red",
+            "White",
+            "Yellow",
+            "Cyan",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Bottoms-Long_pleated_skirt_ruby_red.png/revision/latest?cb=20200421033911",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Bottoms-Long_pleated_skirt_white.png/revision/latest?cb=20200421033911",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Bottoms-Long_pleated_skirt_yellow.png/revision/latest?cb=20200421033911",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Bottoms-Long_pleated_skirt_cyan.png/revision/latest?cb=20200421033910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Bottoms-Long_pleated_skirt_gray.png/revision/latest?cb=20200421033910"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Bottoms-Long_pleated_skirt_ruby_red.png/revision/latest?cb=20200421033911"
+    },
+    "Long polka skirt": {
+        "name": "Long polka skirt",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Red",
+            "Blue",
+            "Green",
+            "Orange",
+            "Yellow",
+            "Pink",
+            "Light blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bottoms-Long_polka_skirt_black.png/revision/latest?cb=20200421034116",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Long_polka_skirt_red.png/revision/latest?cb=20200421034119",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Bottoms-Long_polka_skirt_blue.png/revision/latest?cb=20200421034117",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Bottoms-Long_polka_skirt_green.png/revision/latest?cb=20200421034118",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Bottoms-Long_polka_skirt_orange.png/revision/latest?cb=20200421034119",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Long_polka_skirt_yellow.png/revision/latest?cb=20200421034120",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Bottoms-Long_polka_skirt_pink.png/revision/latest?cb=20200421034119",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Bottoms-Long_polka_skirt_light_blue.png/revision/latest?cb=20200421034118"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bottoms-Long_polka_skirt_black.png/revision/latest?cb=20200421034116"
+    },
+    "Long sailor skirt": {
+        "name": "Long sailor skirt",
+        "priceBuy": 1560,
+        "priceSell": 312,
+        "source": "Able Sisters",
+        "variations": [
+            "Navy blue",
+            "Orange",
+            "Light blue",
+            "Green",
+            "Brown",
+            "Purple",
+            "Red",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Bottoms-Long_sailor_skirt_navy_blue.png/revision/latest?cb=20200421034232",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Bottoms-Long_sailor_skirt_orange.png/revision/latest?cb=20200421034232",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Bottoms-Long_sailor_skirt_light_blue.png/revision/latest?cb=20200421034231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Bottoms-Long_sailor_skirt_green.png/revision/latest?cb=20200421034231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Bottoms-Long_sailor_skirt_brown.png/revision/latest?cb=20200421034231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Bottoms-Long_sailor_skirt_purple.png/revision/latest?cb=20200421034233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Bottoms-Long_sailor_skirt_red.png/revision/latest?cb=20200421034234",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Bottoms-Long_sailor_skirt_pink.png/revision/latest?cb=20200421034233"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Bottoms-Long_sailor_skirt_navy_blue.png/revision/latest?cb=20200421034232"
+    },
+    "Long sweatskirt": {
+        "name": "Long sweatskirt",
+        "priceBuy": 1000,
+        "priceSell": 250,
+        "source": "Able Sisters",
+        "variations": [
+            "Navy blue",
+            "Gray",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Bottoms-Long_sweatskirt_navy_blue.png/revision/latest?cb=20200421034326",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Bottoms-Long_sweatskirt_gray.png/revision/latest?cb=20200421034325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Bottoms-Long_sweatskirt_green.png/revision/latest?cb=20200421034325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Long_sweatskirt_purple.png/revision/latest?cb=20200421034326"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Bottoms-Long_sweatskirt_navy_blue.png/revision/latest?cb=20200421034326"
+    },
+    "Muay-thai shorts": {
+        "name": "Muay-thai shorts",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Red",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Bottoms-Muay-thai_shorts_blue.png/revision/latest?cb=20200421034326",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Bottoms-Muay-thai_shorts_red.png/revision/latest?cb=20200421034328",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Bottoms-Muay-thai_shorts_green.png/revision/latest?cb=20200421034327",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Bottoms-Muay-thai_shorts_purple.png/revision/latest?cb=20200421034327"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Bottoms-Muay-thai_shorts_blue.png/revision/latest?cb=20200421034326"
+    },
+    "Multicolor shorts": {
+        "name": "Multicolor shorts",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Bottoms-Multicolor_shorts_green.png/revision/latest?cb=20200421034439",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Bottoms-Multicolor_shorts_red.png/revision/latest?cb=20200421034439",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Bottoms-Multicolor_shorts_blue.png/revision/latest?cb=20200421034438",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Multicolor_shorts_yellow.png/revision/latest?cb=20200421034439"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Bottoms-Multicolor_shorts_green.png/revision/latest?cb=20200421034439"
+    },
+    "Noble pants": {
+        "name": "Noble pants",
+        "priceBuy": 4300,
+        "priceSell": 1075,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Ruby red",
+            "White",
+            "Blue",
+            "Green",
+            "Purple",
+            "Yellow",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Bottoms-Noble_pants_black.png/revision/latest?cb=20200421034549",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Bottoms-Noble_pants_ruby_red.png/revision/latest?cb=20200421034551",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bottoms-Noble_pants_white.png/revision/latest?cb=20200421034551",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Bottoms-Noble_pants_blue.png/revision/latest?cb=20200421034549",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Bottoms-Noble_pants_green.png/revision/latest?cb=20200421034549",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Bottoms-Noble_pants_purple.png/revision/latest?cb=20200421034550",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Bottoms-Noble_pants_yellow.png/revision/latest?cb=20200421034551",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Bottoms-Noble_pants_red.png/revision/latest?cb=20200421034550"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Bottoms-Noble_pants_black.png/revision/latest?cb=20200421034549"
+    },
+    "Outdoor shorts": {
+        "name": "Outdoor shorts",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters Nook Stop",
+        "variations": [
+            "Yellow",
+            "Black",
+            "Purple",
+            "Red",
+            "Blue",
+            "Green",
+            "Brown",
+            "Yellow-green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Bottoms-Outdoor_shorts_yellow.png/revision/latest?cb=20200421034709",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-Outdoor_shorts_black.png/revision/latest?cb=20200421034706",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Bottoms-Outdoor_shorts_purple.png/revision/latest?cb=20200421034708",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Bottoms-Outdoor_shorts_red.png/revision/latest?cb=20200421034708",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Bottoms-Outdoor_shorts_blue.png/revision/latest?cb=20200421034707",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Bottoms-Outdoor_shorts_green.png/revision/latest?cb=20200421034708",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Bottoms-Outdoor_shorts_brown.png/revision/latest?cb=20200421034707",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Bottoms-Outdoor_shorts_yellow-green.png/revision/latest?cb=20200421034709"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Bottoms-Outdoor_shorts_yellow.png/revision/latest?cb=20200421034709"
+    },
+    "Patched-knee pants": {
+        "name": "Patched-knee pants",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Purple",
+            "Green",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Bottoms-Patched-knee_pants_brown.png/revision/latest?cb=20200421034813",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Patched-knee_pants_purple.png/revision/latest?cb=20200421034813",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Bottoms-Patched-knee_pants_green.png/revision/latest?cb=20200421034813",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Bottoms-Patched-knee_pants_yellow.png/revision/latest?cb=20200421034814"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Bottoms-Patched-knee_pants_brown.png/revision/latest?cb=20200421034813"
+    },
+    "Patchwork skirt": {
+        "name": "Patchwork skirt",
+        "priceBuy": 2100,
+        "priceSell": 525,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Bottoms-Patchwork_skirt_blue.png/revision/latest?cb=20200421034814",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Bottoms-Patchwork_skirt_red.png/revision/latest?cb=20200421034815",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Patchwork_skirt_yellow.png/revision/latest?cb=20200421034815",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Bottoms-Patchwork_skirt_green.png/revision/latest?cb=20200421034815"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Bottoms-Patchwork_skirt_blue.png/revision/latest?cb=20200421034814"
+    },
+    "Pearl skirt": {
+        "name": "Pearl skirt",
+        "priceBuy": 1680,
+        "priceSell": 420,
+        "source": "Able Sisters",
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Pearl_skirt_navy_blue.png/revision/latest?cb=20200421035136"
+    },
+    "Petal skirt": {
+        "name": "Petal skirt",
+        "priceBuy": 1540,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Cool",
+            "Rainbow",
+            "Pastel"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-Bottoms-Petal_skirt_cool.png/revision/latest?cb=20200421035136",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Bottoms-Petal_skirt_rainbow.png/revision/latest?cb=20200421035137",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Petal_skirt_pastel.png/revision/latest?cb=20200421035137"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-Bottoms-Petal_skirt_cool.png/revision/latest?cb=20200421035136"
+    },
+    "Pineapple aloha shorts": {
+        "name": "Pineapple aloha shorts",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": [],
+        "variations": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green",
+            "Purple",
+            "Pink",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Pineapple_aloha_shorts_blue.png/revision/latest?cb=20200421035231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Bottoms-Pineapple_aloha_shorts_red.png/revision/latest?cb=20200421035233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Bottoms-Pineapple_aloha_shorts_yellow.png/revision/latest?cb=20200421035234",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Bottoms-Pineapple_aloha_shorts_green.png/revision/latest?cb=20200421035231",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Bottoms-Pineapple_aloha_shorts_purple.png/revision/latest?cb=20200421035233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Pineapple_aloha_shorts_pink.png/revision/latest?cb=20200421035232",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Bottoms-Pineapple_aloha_shorts_orange.png/revision/latest?cb=20200421035232"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Pineapple_aloha_shorts_blue.png/revision/latest?cb=20200421035231"
+    },
+    "Plaid shorts": {
+        "name": "Plaid shorts",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Brown",
+            "Light green",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Plaid_shorts_light_blue.png/revision/latest?cb=20200421035325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Bottoms-Plaid_shorts_brown.png/revision/latest?cb=20200421035325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Bottoms-Plaid_shorts_light_green.png/revision/latest?cb=20200421035325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Bottoms-Plaid_shorts_red.png/revision/latest?cb=20200421035326"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Plaid_shorts_light_blue.png/revision/latest?cb=20200421035325"
+    },
+    "Pleather flare skirt": {
+        "name": "Pleather flare skirt",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Black",
+            "Pink",
+            "Blue",
+            "Green",
+            "Orange",
+            "Light blue",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Pleather_flare_skirt_brown.png/revision/latest?cb=20200421035428",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Bottoms-Pleather_flare_skirt_black.png/revision/latest?cb=20200421035426",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Bottoms-Pleather_flare_skirt_pink.png/revision/latest?cb=20200421035429",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Bottoms-Pleather_flare_skirt_blue.png/revision/latest?cb=20200421035427",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Bottoms-Pleather_flare_skirt_green.png/revision/latest?cb=20200421035428",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Bottoms-Pleather_flare_skirt_orange.png/revision/latest?cb=20200421035429",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bottoms-Pleather_flare_skirt_light_blue.png/revision/latest?cb=20200421035428",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Bottoms-Pleather_flare_skirt_white.png/revision/latest?cb=20200421035430"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Pleather_flare_skirt_brown.png/revision/latest?cb=20200421035428"
+    },
+    "Pleather pants": {
+        "name": "Pleather pants",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Brown",
+            "Beige",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Pleather_pants_black.png/revision/latest?cb=20200421035554",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bottoms-Pleather_pants_brown.png/revision/latest?cb=20200421035555",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Bottoms-Pleather_pants_beige.png/revision/latest?cb=20200421035554",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Bottoms-Pleather_pants_red.png/revision/latest?cb=20200421035555",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Bottoms-Pleather_pants_blue.png/revision/latest?cb=20200421035555",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bottoms-Pleather_pants_yellow.png/revision/latest?cb=20200421035556"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Pleather_pants_black.png/revision/latest?cb=20200421035554"
+    },
+    "Pleather patch skirt": {
+        "name": "Pleather patch skirt",
+        "priceBuy": 1680,
+        "priceSell": 420,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Green",
+            "Purple",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bottoms-Pleather_patch_skirt_red.png/revision/latest?cb=20200421035557",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Bottoms-Pleather_patch_skirt_green.png/revision/latest?cb=20200421035556",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Bottoms-Pleather_patch_skirt_purple.png/revision/latest?cb=20200421035557",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Bottoms-Pleather_patch_skirt_orange.png/revision/latest?cb=20200421035557"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bottoms-Pleather_patch_skirt_red.png/revision/latest?cb=20200421035557"
+    },
+    "Pleather shorts": {
+        "name": "Pleather shorts",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Brown",
+            "White",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Bottoms-Pleather_shorts_black.png/revision/latest?cb=20200421035729",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Bottoms-Pleather_shorts_brown.png/revision/latest?cb=20200421035730",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Bottoms-Pleather_shorts_white.png/revision/latest?cb=20200421035730",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Bottoms-Pleather_shorts_red.png/revision/latest?cb=20200421035730"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Bottoms-Pleather_shorts_black.png/revision/latest?cb=20200421035729"
+    },
+    "Plover skirt": {
+        "name": "Plover skirt",
+        "priceBuy": 1200,
+        "priceSell": 300,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Black",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Bottoms-Plover_skirt_red.png/revision/latest?cb=20200421035954",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Bottoms-Plover_skirt_black.png/revision/latest?cb=20200421035953",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Bottoms-Plover_skirt_green.png/revision/latest?cb=20200421035954"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Bottoms-Plover_skirt_red.png/revision/latest?cb=20200421035954"
+    },
+    "Pleather skirt": {
+        "name": "Pleather skirt",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Brown",
+            "Beige",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Bottoms-Pleather_skirt_black.png/revision/latest?cb=20200421035731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Pleather_skirt_brown.png/revision/latest?cb=20200421035732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Bottoms-Pleather_skirt_beige.png/revision/latest?cb=20200421035731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Bottoms-Pleather_skirt_red.png/revision/latest?cb=20200421035732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bottoms-Pleather_skirt_blue.png/revision/latest?cb=20200421035732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Bottoms-Pleather_skirt_yellow.png/revision/latest?cb=20200421035733"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Bottoms-Pleather_skirt_black.png/revision/latest?cb=20200421035731"
+    },
+    "Polka-dot mini skirt": {
+        "name": "Polka-dot mini skirt",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Beige",
+            "Pink",
+            "Blue",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Bottoms-Polka-dot_mini_skirt_beige.png/revision/latest?cb=20200421035955",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bottoms-Polka-dot_mini_skirt_pink.png/revision/latest?cb=20200421035956",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bottoms-Polka-dot_mini_skirt_blue.png/revision/latest?cb=20200421035955",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Bottoms-Polka-dot_mini_skirt_gray.png/revision/latest?cb=20200421035956"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Bottoms-Polka-dot_mini_skirt_beige.png/revision/latest?cb=20200421035955"
+    },
+    "Punk pants": {
+        "name": "Punk pants",
+        "priceBuy": 1820,
+        "priceSell": 455,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Blue",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Bottoms-Punk_pants_red.png/revision/latest?cb=20200421040145",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Bottoms-Punk_pants_blue.png/revision/latest?cb=20200421040144",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Bottoms-Punk_pants_green.png/revision/latest?cb=20200421040144",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Bottoms-Punk_pants_purple.png/revision/latest?cb=20200421040145"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Bottoms-Punk_pants_red.png/revision/latest?cb=20200421040145"
+    },
+    "Rain pants": {
+        "name": "Rain pants",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters",
+        "variations": [
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Pink",
+            "Red",
+            "Beige",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bottoms-Rain_pants_yellow.png/revision/latest?cb=20200421040238",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Rain_pants_green.png/revision/latest?cb=20200421040236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Bottoms-Rain_pants_blue.png/revision/latest?cb=20200421040236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Bottoms-Rain_pants_purple.png/revision/latest?cb=20200421040237",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Bottoms-Rain_pants_pink.png/revision/latest?cb=20200421040237",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Bottoms-Rain_pants_red.png/revision/latest?cb=20200421040237",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Bottoms-Rain_pants_beige.png/revision/latest?cb=20200421040145",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Bottoms-Rain_pants_black.png/revision/latest?cb=20200421040235"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bottoms-Rain_pants_yellow.png/revision/latest?cb=20200421040238"
+    },
+    "Sailor skirt": {
+        "name": "Sailor skirt",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": "Able Sisters",
+        "variations": [
+            "Navy blue",
+            "Orange",
+            "Light blue",
+            "Green",
+            "Brown",
+            "Purple",
+            "Red",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Sailor_skirt_navy_blue.png/revision/latest?cb=20200421040415",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Sailor_skirt_orange.png/revision/latest?cb=20200421040416",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Bottoms-Sailor_skirt_light_blue.png/revision/latest?cb=20200421040415",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Bottoms-Sailor_skirt_green.png/revision/latest?cb=20200421040415",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bottoms-Sailor_skirt_brown.png/revision/latest?cb=20200421040414",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Bottoms-Sailor_skirt_purple.png/revision/latest?cb=20200421040417",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Bottoms-Sailor_skirt_red.png/revision/latest?cb=20200421040417",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Bottoms-Sailor_skirt_pink.png/revision/latest?cb=20200421040416"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Sailor_skirt_navy_blue.png/revision/latest?cb=20200421040415"
+    },
+    "Satin pants": {
+        "name": "Satin pants",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": "Able Sisters",
+        "variations": [
+            "Green",
+            "Blue",
+            "Light purple",
+            "Pink",
+            "Dark red",
+            "Ruby red",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Bottoms-Satin_pants_green.png/revision/latest?cb=20200421040620",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Bottoms-Satin_pants_blue.png/revision/latest?cb=20200421040541",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Bottoms-Satin_pants_light_purple.png/revision/latest?cb=20200421040621",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Bottoms-Satin_pants_pink.png/revision/latest?cb=20200421040621",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Bottoms-Satin_pants_dark_red.png/revision/latest?cb=20200421040620",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bottoms-Satin_pants_ruby_red.png/revision/latest?cb=20200421040622",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Bottoms-Satin_pants_brown.png/revision/latest?cb=20200421040620"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Bottoms-Satin_pants_green.png/revision/latest?cb=20200421040620"
+    },
+    "School pants": {
+        "name": "School pants",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Berry red",
+            "Green",
+            "White",
+            "Purple",
+            "Gray",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-School_pants_black.png/revision/latest?cb=20200421040725",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Bottoms-School_pants_berry_red.png/revision/latest?cb=20200421040725",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Bottoms-School_pants_green.png/revision/latest?cb=20200421040726",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Bottoms-School_pants_white.png/revision/latest?cb=20200421040727",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Bottoms-School_pants_purple.png/revision/latest?cb=20200421040727",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Bottoms-School_pants_gray.png/revision/latest?cb=20200421040726",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Bottoms-School_pants_blue.png/revision/latest?cb=20200421040726"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-School_pants_black.png/revision/latest?cb=20200421040725"
+    },
+    "Silk floral-print pants": {
+        "name": "Silk floral-print pants",
+        "priceBuy": 1440,
+        "priceSell": 360,
+        "source": "Able Sisters",
+        "variations": [
+            "Pink",
+            "Blue",
+            "Mustard",
+            "Gray",
+            "Purple",
+            "Green",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Silk_floral-print_pants_pink.png/revision/latest?cb=20200421040813",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Bottoms-Silk_floral-print_pants_blue.png/revision/latest?cb=20200421040811",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Bottoms-Silk_floral-print_pants_mustard.png/revision/latest?cb=20200421040813",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Bottoms-Silk_floral-print_pants_gray.png/revision/latest?cb=20200421040812",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bottoms-Silk_floral-print_pants_purple.png/revision/latest?cb=20200421040814",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Bottoms-Silk_floral-print_pants_green.png/revision/latest?cb=20200421040812",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Bottoms-Silk_floral-print_pants_orange.png/revision/latest?cb=20200421040813"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Silk_floral-print_pants_pink.png/revision/latest?cb=20200421040813"
+    },
+    "Silk pants": {
+        "name": "Silk pants",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Bottoms-Silk_pants_green.png/revision/latest?cb=20200421040909",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Bottoms-Silk_pants_red.png/revision/latest?cb=20200421040909",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Bottoms-Silk_pants_blue.png/revision/latest?cb=20200421040908",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Silk_pants_yellow.png/revision/latest?cb=20200421040910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Silk_pants_black.png/revision/latest?cb=20200421040908"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Bottoms-Silk_pants_green.png/revision/latest?cb=20200421040909"
+    },
+    "Ski pants": {
+        "name": "Ski pants",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Turquoise",
+            "Red",
+            "Ruby red",
+            "Blue",
+            "Light blue",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Bottoms-Ski_pants_turquoise.png/revision/latest?cb=20200421041037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Ski_pants_red.png/revision/latest?cb=20200421041036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Bottoms-Ski_pants_ruby_red.png/revision/latest?cb=20200421041036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Bottoms-Ski_pants_blue.png/revision/latest?cb=20200421041035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Bottoms-Ski_pants_light_blue.png/revision/latest?cb=20200421041036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Bottoms-Ski_pants_yellow.png/revision/latest?cb=20200421041037"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Bottoms-Ski_pants_turquoise.png/revision/latest?cb=20200421041037"
+    },
+    "Slacks": {
+        "name": "Slacks",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Black",
+            "Gray",
+            "Blue",
+            "Red",
+            "Navy blue",
+            "Beige",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Bottoms-Slacks_black.png/revision/latest?cb=20200421041125",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Bottoms-Slacks_gray.png/revision/latest?cb=20200421041126",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Bottoms-Slacks_blue.png/revision/latest?cb=20200421041126",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Bottoms-Slacks_red.png/revision/latest?cb=20200421041127",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Slacks_navy_blue.png/revision/latest?cb=20200421041127",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Bottoms-Slacks_beige.png/revision/latest?cb=20200421041125",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Bottoms-Slacks_white.png/revision/latest?cb=20200421041127"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Bottoms-Slacks_black.png/revision/latest?cb=20200421041125"
+    },
+    "Soccer shorts": {
+        "name": "Soccer shorts",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [],
+        "variations": [
+            "Green",
+            "Red",
+            "Navy blue",
+            "Blue",
+            "Light blue",
+            "White",
+            "Orange",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Bottoms-Soccer_shorts_green.png/revision/latest?cb=20200421041244",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Bottoms-Soccer_shorts_red.png/revision/latest?cb=20200421041246",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Bottoms-Soccer_shorts_navy_blue.png/revision/latest?cb=20200421041245",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Bottoms-Soccer_shorts_blue.png/revision/latest?cb=20200421041244",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bottoms-Soccer_shorts_light_blue.png/revision/latest?cb=20200421041245",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Soccer_shorts_white.png/revision/latest?cb=20200421041246",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Bottoms-Soccer_shorts_orange.png/revision/latest?cb=20200421041245",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Bottoms-Soccer_shorts_black.png/revision/latest?cb=20200421041243"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Bottoms-Soccer_shorts_green.png/revision/latest?cb=20200421041244"
+    },
+    "Spangle shorts": {
+        "name": "Spangle shorts",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [],
+        "variations": [
+            "Red",
+            "Navy blue",
+            "Gold",
+            "Silver",
+            "Black",
+            "Pink",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Spangle_shorts_red.png/revision/latest?cb=20200421041424",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Bottoms-Spangle_shorts_navy_blue.png/revision/latest?cb=20200421041422",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Bottoms-Spangle_shorts_gold.png/revision/latest?cb=20200421041422",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Bottoms-Spangle_shorts_silver.png/revision/latest?cb=20200421041424",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Bottoms-Spangle_shorts_black.png/revision/latest?cb=20200421041421",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Bottoms-Spangle_shorts_pink.png/revision/latest?cb=20200421041423",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Bottoms-Spangle_shorts_green.png/revision/latest?cb=20200421041422",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Bottoms-Spangle_shorts_purple.png/revision/latest?cb=20200421041423"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Spangle_shorts_red.png/revision/latest?cb=20200421041424"
+    },
+    "Sporty skirt": {
+        "name": "Sporty skirt",
+        "priceBuy": 800,
+        "priceSell": 200,
+        "source": "Able Sisters\nNook Stop",
+        "variations": [
+            "Gray",
+            "Pink",
+            "Blue",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Bottoms-Sporty_skirt_gray.png/revision/latest?cb=20200421041536",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-Bottoms-Sporty_skirt_pink.png/revision/latest?cb=20200421041536",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Bottoms-Sporty_skirt_blue.png/revision/latest?cb=20200421041535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Bottoms-Sporty_skirt_green.png/revision/latest?cb=20200421041536"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Bottoms-Sporty_skirt_gray.png/revision/latest?cb=20200421041536"
+    },
+    "Striped bell-bottoms": {
+        "name": "Striped bell-bottoms",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Yellow",
+            "Red",
+            "Green",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Striped_bell-bottoms_yellow.png/revision/latest?cb=20200421041538",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Bottoms-Striped_bell-bottoms_red.png/revision/latest?cb=20200421041538",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Bottoms-Striped_bell-bottoms_green.png/revision/latest?cb=20200421041537",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Bottoms-Striped_bell-bottoms_orange.png/revision/latest?cb=20200421041537"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Striped_bell-bottoms_yellow.png/revision/latest?cb=20200421041538"
+    },
+    "Striped pants": {
+        "name": "Striped pants",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Orange",
+            "Green",
+            "Red",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Striped_pants_blue.png/revision/latest?cb=20200421042126",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Bottoms-Striped_pants_orange.png/revision/latest?cb=20200421042127",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Bottoms-Striped_pants_green.png/revision/latest?cb=20200421042126",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Bottoms-Striped_pants_red.png/revision/latest?cb=20200421042127",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Bottoms-Striped_pants_black.png/revision/latest?cb=20200421042125"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Bottoms-Striped_pants_blue.png/revision/latest?cb=20200421042126"
+    },
+    "Striped shorts": {
+        "name": "Striped shorts",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": "Able Sisters",
+        "variations": [
+            "Pink",
+            "Blue",
+            "Red",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Striped_shorts_pink.png/revision/latest?cb=20200421051022",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bottoms-Striped_shorts_blue.png/revision/latest?cb=20200421042128",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Bottoms-Striped_shorts_red.png/revision/latest?cb=20200421051022",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Bottoms-Striped_shorts_yellow.png/revision/latest?cb=20200421051023"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Striped_shorts_pink.png/revision/latest?cb=20200421051022"
+    },
+    "Surfing shorts": {
+        "name": "Surfing shorts",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": "Able Sisters",
+        "variations": [
+            "Blue",
+            "Purple",
+            "Green",
+            "Pink",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Bottoms-Surfing_shorts_blue.png/revision/latest?cb=20200421051721",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Bottoms-Surfing_shorts_purple.png/revision/latest?cb=20200421051723",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bottoms-Surfing_shorts_green.png/revision/latest?cb=20200421051722",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Bottoms-Surfing_shorts_pink.png/revision/latest?cb=20200421051723",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Bottoms-Surfing_shorts_gray.png/revision/latest?cb=20200421051722"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Bottoms-Surfing_shorts_blue.png/revision/latest?cb=20200421051721"
+    },
+    "Sweatpants": {
+        "name": "Sweatpants",
+        "priceBuy": 800,
+        "priceSell": 200,
+        "source": "Nook StopAble Sisters",
+        "variations": [
+            "Gray",
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow",
+            "Pink",
+            "Light blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Bottoms-Sweatpants_gray.png/revision/latest?cb=20200421042853",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bottoms-Sweatpants_red.png/revision/latest?cb=20200421042325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Bottoms-Sweatpants_green.png/revision/latest?cb=20200421042324",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bottoms-Sweatpants_blue.png/revision/latest?cb=20200421042323",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Bottoms-Sweatpants_yellow.png/revision/latest?cb=20200421042857",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Bottoms-Sweatpants_pink.png/revision/latest?cb=20200421042324",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bottoms-Sweatpants_light_blue.png/revision/latest?cb=20200421042324",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Bottoms-Sweatpants_black.png/revision/latest?cb=20200421042322"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Bottoms-Sweatpants_gray.png/revision/latest?cb=20200421042853"
+    },
+    "Tennis skirt": {
+        "name": "Tennis skirt",
+        "priceBuy": 1440,
+        "priceSell": 360,
+        "source": "Able Sisters",
+        "variations": [
+            "White",
+            "Navy blue",
+            "Light blue",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bottoms-Tennis_skirt_white.png/revision/latest?cb=20200421042858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Bottoms-Tennis_skirt_navy_blue.png/revision/latest?cb=20200421042858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Bottoms-Tennis_skirt_light_blue.png/revision/latest?cb=20200421042857",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Bottoms-Tennis_skirt_pink.png/revision/latest?cb=20200421042858"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bottoms-Tennis_skirt_white.png/revision/latest?cb=20200421042858"
+    },
+    "Terry-cloth shorts": {
+        "name": "Terry-cloth shorts",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": "Able Sisters",
+        "variations": [
+            "Pink",
+            "Blue",
+            "Purple",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Bottoms-Terry-cloth_shorts_pink.png/revision/latest?cb=20200421042859",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Bottoms-Terry-cloth_shorts_blue.png/revision/latest?cb=20200421042859",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Bottoms-Terry-cloth_shorts_purple.png/revision/latest?cb=20200421042900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bottoms-Terry-cloth_shorts_green.png/revision/latest?cb=20200421042859"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Bottoms-Terry-cloth_shorts_pink.png/revision/latest?cb=20200421042859"
+    },
+    "Three-quarter sweatpants": {
+        "name": "Three-quarter sweatpants",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Mint",
+            "Pink",
+            "Light blue",
+            "Orange",
+            "Black",
+            "Yellow",
+            "Red",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bottoms-Three-quarter_sweatpants_mint.png/revision/latest?cb=20200421043041",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Bottoms-Three-quarter_sweatpants_pink.png/revision/latest?cb=20200421043114",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Bottoms-Three-quarter_sweatpants_light_blue.png/revision/latest?cb=20200421043041",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Bottoms-Three-quarter_sweatpants_orange.png/revision/latest?cb=20200421043113",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bottoms-Three-quarter_sweatpants_black.png/revision/latest?cb=20200421043040",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Bottoms-Three-quarter_sweatpants_yellow.png/revision/latest?cb=20200421043115",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Bottoms-Three-quarter_sweatpants_red.png/revision/latest?cb=20200421043114",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Bottoms-Three-quarter_sweatpants_purple.png/revision/latest?cb=20200421043114"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bottoms-Three-quarter_sweatpants_mint.png/revision/latest?cb=20200421043041"
+    },
+    "Tie-dye Skirt": {
+        "name": "Tie-dye Skirt",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": "Able Sisters",
+        "variations": [
+            "Red",
+            "Blue",
+            "Green",
+            "Purple",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Bottoms-Tie-dye_skirt_red.png/revision/latest?cb=20200421043559",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Bottoms-Tie-dye_skirt_blue.png/revision/latest?cb=20200421043558",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Bottoms-Tie-dye_skirt_green.png/revision/latest?cb=20200421043558",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Tie-dye_skirt_purple.png/revision/latest?cb=20200421043559",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Bottoms-Tie-dye_skirt_orange.png/revision/latest?cb=20200421043559"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Bottoms-Tie-dye_skirt_red.png/revision/latest?cb=20200421043559"
+    },
+    "Tiered Skirt": {
+        "name": "Tiered Skirt",
+        "priceBuy": 1200,
+        "priceSell": 300,
+        "source": "Able Sisters",
+        "variations": [
+            "Purple",
+            "Mint",
+            "Avocado",
+            "Yellow",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Bottoms-Tiered_skirt_purple.png/revision/latest?cb=20200421043601",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Bottoms-Tiered_skirt_mint.png/revision/latest?cb=20200421043601",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Bottoms-Tiered_skirt_avocado.png/revision/latest?cb=20200421043600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bottoms-Tiered_skirt_yellow.png/revision/latest?cb=20200421043601",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Bottoms-Tiered_skirt_blue.png/revision/latest?cb=20200421043600"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Bottoms-Tiered_skirt_purple.png/revision/latest?cb=20200421043601"
+    },
+    "Torn pants": {
+        "name": "Torn pants",
+        "priceBuy": -1,
+        "priceSell": 10,
+        "source": "Lost & Found",
+        "variations": [
+            "Brown",
+            "Black",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Bottoms-Torn_pants_brown.png/revision/latest?cb=20200421043747",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Bottoms-Torn_pants_black.png/revision/latest?cb=20200421043747",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Bottoms-Torn_pants_gray.png/revision/latest?cb=20200421043748"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Bottoms-Torn_pants_brown.png/revision/latest?cb=20200421043747"
+    },
+    "Track pants": {
+        "name": "Track pants",
+        "priceBuy": 770,
+        "priceSell": 192,
+        "source": "Able Sisters",
+        "variations": [
+            "Navy blue",
+            "Gray",
+            "White",
+            "Red",
+            "Light blue",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Bottoms-Track_pants_navy_blue.png/revision/latest?cb=20200421043751",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bottoms-Track_pants_gray.png/revision/latest?cb=20200421043749",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bottoms-Track_pants_white.png/revision/latest?cb=20200421043751",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Bottoms-Track_pants_red.png/revision/latest?cb=20200421043751",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Bottoms-Track_pants_light_blue.png/revision/latest?cb=20200421043750",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Bottoms-Track_pants_green.png/revision/latest?cb=20200421043750",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Bottoms-Track_pants_blue.png/revision/latest?cb=20200421043748"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Bottoms-Track_pants_navy_blue.png/revision/latest?cb=20200421043751"
+    },
+    "Traditional monpe pants": {
+        "name": "Traditional monpe pants",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": "Able Sisters",
+        "variations": [
+            "Dark blue",
+            "Blue",
+            "Golden yellow",
+            "Dark red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Bottoms-Traditional_monpe_pants_dark_blue.png/revision/latest?cb=20200421043925",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Bottoms-Traditional_monpe_pants_blue.png/revision/latest?cb=20200421043924",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Bottoms-Traditional_monpe_pants_golden_yellow.png/revision/latest?cb=20200421043926",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Bottoms-Traditional_monpe_pants_dark_red.png/revision/latest?cb=20200421043925"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Bottoms-Traditional_monpe_pants_dark_blue.png/revision/latest?cb=20200421043925"
+    },
+    "Traditional suteteko pants": {
+        "name": "Traditional suteteko pants",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [],
+        "variations": [
+            "Red",
+            "Yellow-green",
+            "Golden yellow",
+            "Purple",
+            "Aqua",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-Traditional_suteteko_pants_red.png/revision/latest?cb=20200421043928",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Bottoms-Traditional_suteteko_pants_yellow-green.png/revision/latest?cb=20200421043928",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Bottoms-Traditional_suteteko_pants_golden_yellow.png/revision/latest?cb=20200421043927",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Bottoms-Traditional_suteteko_pants_purple.png/revision/latest?cb=20200421043927",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Bottoms-Traditional_suteteko_pants_aqua.png/revision/latest?cb=20200421043926",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Bottoms-Traditional_suteteko_pants_blue.png/revision/latest?cb=20200421043927"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bottoms-Traditional_suteteko_pants_red.png/revision/latest?cb=20200421043928"
+    },
+    "Tweed frilly skirt": {
+        "name": "Tweed frilly skirt",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Gray",
+            "Pink",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Tweed_frilly_skirt_brown.png/revision/latest?cb=20200421044102",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Bottoms-Tweed_frilly_skirt_gray.png/revision/latest?cb=20200421044103",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Bottoms-Tweed_frilly_skirt_pink.png/revision/latest?cb=20200421044103",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Tweed_frilly_skirt_blue.png/revision/latest?cb=20200421044102"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bottoms-Tweed_frilly_skirt_brown.png/revision/latest?cb=20200421044102"
+    },
+    "Tweed pants": {
+        "name": "Tweed pants",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Blue",
+            "Beige",
+            "Berry red",
+            "Green",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Tweed_pants_brown.png/revision/latest?cb=20200421044105",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Bottoms-Tweed_pants_blue.png/revision/latest?cb=20200421044104",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Bottoms-Tweed_pants_beige.png/revision/latest?cb=20200421044103",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Bottoms-Tweed_pants_berry_red.png/revision/latest?cb=20200421044104",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Bottoms-Tweed_pants_green.png/revision/latest?cb=20200421044105",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Bottoms-Tweed_pants_pink.png/revision/latest?cb=20200421044105"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Tweed_pants_brown.png/revision/latest?cb=20200421044105"
+    },
+    "Tweed skirt": {
+        "name": "Tweed skirt",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": "Able Sisters",
+        "variations": [
+            "Yellow",
+            "Pink",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Bottoms-Tweed_skirt_yellow.png/revision/latest?cb=20200421044249",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Bottoms-Tweed_skirt_pink.png/revision/latest?cb=20200421044248",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Bottoms-Tweed_skirt_blue.png/revision/latest?cb=20200421044248"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Bottoms-Tweed_skirt_yellow.png/revision/latest?cb=20200421044249"
+    },
+    "Two-tone pants": {
+        "name": "Two-tone pants",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": "Able Sisters",
+        "variations": [
+            "Monotone",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bottoms-Two-tone_pants_monotone.png/revision/latest?cb=20200421044249",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Bottoms-Two-tone_pants_yellow.png/revision/latest?cb=20200421050255",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Bottoms-Two-tone_pants_red.png/revision/latest?cb=20200421050255",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Bottoms-Two-tone_pants_blue.png/revision/latest?cb=20200421050254"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bottoms-Two-tone_pants_monotone.png/revision/latest?cb=20200421044249"
+    },
+    "Upcycled skirt": {
+        "name": "Upcycled skirt",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": "Able Sisters",
+        "variations": [
+            "Beige",
+            "Pink",
+            "Mint"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Bottoms-Upcycled_skirt_beige.png/revision/latest?cb=20200421044250",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bottoms-Upcycled_skirt_pink.png/revision/latest?cb=20200421044250",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Bottoms-Upcycled_skirt_mint.png/revision/latest?cb=20200421044250"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Bottoms-Upcycled_skirt_beige.png/revision/latest?cb=20200421044250"
+    },
+    "Vibrant shorts": {
+        "name": "Vibrant shorts",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": "Able Sisters",
+        "variations": [
+            "Orange",
+            "Avocado",
+            "Pink",
+            "Blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Bottoms-Vibrant_shorts_orange.png/revision/latest?cb=20200421044456",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Bottoms-Vibrant_shorts_avocado.png/revision/latest?cb=20200421044455",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Vibrant_shorts_pink.png/revision/latest?cb=20200421044456",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Bottoms-Vibrant_shorts_blue.png/revision/latest?cb=20200421044455",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Bottoms-Vibrant_shorts_black.png/revision/latest?cb=20200421044455"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Bottoms-Vibrant_shorts_orange.png/revision/latest?cb=20200421044456"
+    },
+    "Western Pants": {
+        "name": "Western Pants",
+        "priceBuy": 1540,
+        "priceSell": 385,
+        "source": "Able Sisters",
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Bottoms-Western_pants_brown.png/revision/latest?cb=20200421044457"
+    },
+    "Wide chino pants": {
+        "name": "Wide chino pants",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Brown",
+            "Beige",
+            "Navy blue",
+            "Avocado",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Wide_chino_pants_brown.png/revision/latest?cb=20200409150940",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Bottoms-Wide_chino_pants_beige.png/revision/latest?cb=20200409150509",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Bottoms-Wide_chino_pants_navy_blue.png/revision/latest?cb=20200409150415",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Bottoms-Wide_chino_pants_avocado.png/revision/latest?cb=20200409150341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Bottoms-Wide_chino_pants_gray.png/revision/latest?cb=20200409150859"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Bottoms-Wide_chino_pants_brown.png/revision/latest?cb=20200409150940"
+    },
+    "Workout pants": {
+        "name": "Workout pants",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": "",
+        "variations": [
+            "Lime",
+            "Pink",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Bottoms-Workout_pants_lime.png/revision/latest?cb=20200421044730",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Bottoms-Workout_pants_pink.png/revision/latest?cb=20200421044731",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Bottoms-Workout_pants_orange.png/revision/latest?cb=20200421044731"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Bottoms-Workout_pants_lime.png/revision/latest?cb=20200421044730"
+    },
+    "Worn-out cutoffs": {
+        "name": "Worn-out cutoffs",
+        "priceBuy": 960,
+        "priceSell": 240,
+        "source": "",
+        "variations": [
+            "Light blue",
+            "Blue",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Worn-out_cutoffs_light_blue.png/revision/latest?cb=20200421044732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Bottoms-Worn-out_cutoffs_blue.png/revision/latest?cb=20200421044732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Bottoms-Worn-out_cutoffs_white.png/revision/latest?cb=20200421044732",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Bottoms-Worn-out_cutoffs_black.png/revision/latest?cb=20200421044731"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Bottoms-Worn-out_cutoffs_light_blue.png/revision/latest?cb=20200421044732"
+    },
+    "Worn-out jeans": {
+        "name": "Worn-out jeans",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Blue",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Bottoms-Worn-out_jeans_light_blue.png/revision/latest?cb=20200421044924",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Bottoms-Worn-out_jeans_blue.png/revision/latest?cb=20200421044924",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Bottoms-Worn-out_jeans_white.png/revision/latest?cb=20200421044925",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Bottoms-Worn-out_jeans_black.png/revision/latest?cb=20200421044924"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Bottoms-Worn-out_jeans_light_blue.png/revision/latest?cb=20200421044924"
+    },
+    "Yacht shorts": {
+        "name": "Yacht shorts",
+        "priceBuy": 840,
+        "priceSell": 210,
+        "source": "Able Sisters",
+        "variations": [
+            "Light blue",
+            "Red",
+            "Pink",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Bottoms-Yacht_shorts_light_blue.png/revision/latest?cb=20200421044925",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Bottoms-Yacht_shorts_red.png/revision/latest?cb=20200421044926",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Bottoms-Yacht_shorts_pink.png/revision/latest?cb=20200421044926",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Bottoms-Yacht_shorts_purple.png/revision/latest?cb=20200421044926"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Bottoms-Yacht_shorts_light_blue.png/revision/latest?cb=20200421044925"
+    }
+}
