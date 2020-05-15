@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import io
-from util import separate_by_br, convert_checkmark, strip_price, get_image_links, parse_variations, dump_data
+from util import separate_by_br, convert_checkmark, strip_price, get_image_links, parse_variations, parse_source, dump_data
+
 
 URLS = {
     # --- New Horizons ---
@@ -367,7 +368,7 @@ def scrape_tops(key):
             # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
             "priceBuy": strip_price(tr.find_all("td")[2].text),
             "priceSell": strip_price(tr.find_all("td")[3].text),
-            "source": tr.find_all("td")[4].text.strip(),
+            "source": parse_source(tr.find_all("td")[4]),
             "variations": parse_variations(tr.find_all("td")[5]),
             "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
         }
@@ -398,4 +399,6 @@ if __name__ == "__main__":
 
     # -- Clothing --
     scrape_tops("tops")
+    scrape_tops("bottoms")
+
     pass

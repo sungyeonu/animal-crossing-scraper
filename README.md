@@ -19,7 +19,7 @@ All JSON files are stored in /data
 - villagers.json
 
 *-- Incomplete --*  
-/DIY_Recipes
+/crafting
 - tools.json
 - equipments.json
 - housewares.json
@@ -27,6 +27,13 @@ All JSON files are stored in /data
 - wallMounteds.json
 - wallpaperRugsFloorings.json
 - others.json
+
+/clothing
+- tops.json
+- bottoms.json
+
+## JSON fields
+-1 for price means the data is not available yet. 
 
 ## Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 

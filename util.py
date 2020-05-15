@@ -19,11 +19,12 @@ def convert_checkmark(string): # take str and returns True if str represents ava
         return False
 
 def strip_price(string): # take str and return integer only
-    if string.strip() == "N/A": 
-        return -1
-    else:
+
+    try: 
         return int(''.join(filter(str.isdigit, string)))
-    # return int(str.replace(',', '').replace(' Bells', ''))
+    except:
+        return -1
+
 
 def get_image_links(images): # take html and return all imageLinks in a list. Strip out downscale property
     result = []
@@ -38,6 +39,11 @@ def parse_variations(tag):
     if tag.text.strip() == "N/A":
         return []
     return separate_by_br(tag).strip().split(", ")
+
+def parse_source(tag):
+    if tag.text.strip() == "*":
+        return []
+    return tag.text.strip()
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:
