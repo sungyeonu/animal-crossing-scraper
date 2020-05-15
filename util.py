@@ -41,7 +41,7 @@ def parse_variations(tag):
     return separate_by_br(tag).strip().split(", ")
 
 def parse_source(tag):
-    if tag.text.strip() == "*":
+    if tag.text.strip() == "*" or tag.text.strip() == "N/A":
         return []
     return tag.text.strip()
 
