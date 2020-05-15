@@ -1,0 +1,1945 @@
+{
+    "Antique boots": {
+        "name": "Antique boots",
+        "priceBuy": 2640,
+        "priceSell": 660,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Brown",
+            "Greige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Shoes-Antique_boots_black.png/revision/latest?cb=20200407201651",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Shoes-Antique_boots_brown.png/revision/latest?cb=20200407201730",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Shoes-Antique_boots_beige.png/revision/latest?cb=20200407201638"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Shoes-Antique_boots.png/revision/latest?cb=20200402144946"
+    },
+    "Armor shoes": {
+        "name": "Armor shoes",
+        "priceBuy": -1,
+        "priceSell": 3000,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Shoes-Armor_shoes.png/revision/latest?cb=20200416014319"
+    },
+    "Babouches": {
+        "name": "Babouches",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Yellow",
+            "Blue",
+            "Mint",
+            "Red",
+            "Purple",
+            "Pink",
+            "Orange",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Shoes-Babouches_yellow.png/revision/latest?cb=20200407202619",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Shoes-Babouches_blue.png/revision/latest?cb=20200407202558",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Shoes-Babouches_turqouise.png/revision/latest?cb=20200407202821",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Shoes-Babouches_red.png/revision/latest?cb=20200407202803",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Shoes-Babouches_purple.png/revision/latest?cb=20200407202746",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Shoes-Babouches_pink.png/revision/latest?cb=20200407202721",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Shoes-Babouches_orange.png/revision/latest?cb=20200407202657",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Shoes-Babouches_lilac.png/revision/latest?cb=20200407202640"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Shoes-Baboushes.png/revision/latest?cb=20200406191137"
+    },
+    "Ballet slippers": {
+        "name": "Ballet slippers",
+        "priceBuy": 2200,
+        "priceSell": 550,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Pink",
+            "Mint",
+            "Blue",
+            "Purple",
+            "Black",
+            "White",
+            "Yellow",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Shoes-Ballet_slippers_0.png/revision/latest?cb=20200416162242",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Shoes-Ballet_slippers_1.png/revision/latest?cb=20200416162325",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Shoes-Ballet_slippers_2.png/revision/latest?cb=20200416162345",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Shoes-Ballet_slippers_3.png/revision/latest?cb=20200416162406",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Shoes-Ballet_slippers_4.png/revision/latest?cb=20200416162428",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Shoes-Ballet_slippers_5.png/revision/latest?cb=20200416162450",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Shoes-Ballet_slippers_6.png/revision/latest?cb=20200416162509",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Shoes-Ballet_slippers_7.png/revision/latest?cb=20200416162532"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Shoes-Ballet_slippers_0.png/revision/latest?cb=20200416162242"
+    },
+    "Basketball shoes": {
+        "name": "Basketball shoes",
+        "priceBuy": 1500,
+        "priceSell": 375,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Pink",
+            "Orange",
+            "Green",
+            "Light blue",
+            "Blue",
+            "Purple",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Shoes-Basketball_shoes_red.png/revision/latest?cb=20200407233118",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Shoes-Basketball_shoes_pink.png/revision/latest?cb=20200407233200",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Shoes-Basketball_shoes_orange.png/revision/latest?cb=20200407233226",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Shoes-Basketball_shoes_green.png/revision/latest?cb=20200407233247",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Shoes-Basketball_shoes_light_blue.png/revision/latest?cb=20200407233308",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Shoes-Basketball_shoes_blue.png/revision/latest?cb=20200407233328",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Shoes-Basketball_shoes_purple.png/revision/latest?cb=20200407233435",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Shoes-Basketball_shoes_beige.png/revision/latest?cb=20200407233456"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Shoes-Basketball.png/revision/latest?cb=20200402164052"
+    },
+    "Beaded sandals": {
+        "name": "Beaded sandals",
+        "priceBuy": 1800,
+        "priceSell": 450,
+        "source": [],
+        "variations": [
+            "Orange",
+            "Purple",
+            "Yellow",
+            "Red",
+            "Green",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Shoes-Beaded_sandals_0.png/revision/latest?cb=20200416162656",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Shoes-Beaded_sandals_1.png/revision/latest?cb=20200416162733",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Shoes-Beaded_sandals_2.png/revision/latest?cb=20200416162754",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Shoes-Beaded_sandals_3.png/revision/latest?cb=20200416162814",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Shoes-Beaded_sandals_4.png/revision/latest?cb=20200416162834",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Shoes-Beaded_sandals_5.png/revision/latest?cb=20200416162851"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Shoes-Beaded_sandals_0.png/revision/latest?cb=20200416162656"
+    },
+    "Boots": {
+        "name": "Boots",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Green",
+            "Black",
+            "Blue",
+            "Red",
+            "Olive"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Shoes-Boots_0.png/revision/latest?cb=20200416162946",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Shoes-Boots.png/revision/latest?cb=20200403183146",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Shoes-Boots_2.png/revision/latest?cb=20200416163031",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Shoes-Boots_3.png/revision/latest?cb=20200416163058",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Shoes-Boots_4.png/revision/latest?cb=20200416163121"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Shoes-Boots_0.png/revision/latest?cb=20200416162946"
+    },
+    "Business shoes": {
+        "name": "Business shoes",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Shoes-Business_shoes_0.png/revision/latest?cb=20200416163219",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Shoes-Business_shoes_1.png/revision/latest?cb=20200416163254"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Shoes-Business_shoes_0.png/revision/latest?cb=20200416163219"
+    },
+    "Cleats": {
+        "name": "Cleats",
+        "priceBuy": 1200,
+        "priceSell": 300,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Blue",
+            "Light blue",
+            "Red",
+            "Yellow",
+            "Black",
+            "Orange",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Cleats_0.png/revision/latest?cb=20200416163317",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Shoes-Cleats_1.png/revision/latest?cb=20200416163346",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Shoes-Cleats_2.png/revision/latest?cb=20200416163421",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Shoes-Cleats_3.png/revision/latest?cb=20200416163441",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Shoes-Cleats_4.png/revision/latest?cb=20200416163500",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Shoes-Cleats_5.png/revision/latest?cb=20200416163521",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Shoes-Cleats_6.png/revision/latest?cb=20200416163542",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Shoes-Cleats_7.png/revision/latest?cb=20200416163602"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Cleats_0.png/revision/latest?cb=20200416163317"
+    },
+    "Comfy sandals": {
+        "name": "Comfy sandals",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "White",
+            "Green",
+            "Blue",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Shoes-Comfy_sandals_0.png/revision/latest?cb=20200416163621",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Shoes-Comfy_sandals_1.png/revision/latest?cb=20200416163658",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Shoes-Comfy_sandals_2.png/revision/latest?cb=20200416163728",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Shoes-Comfy_sandals_3.png/revision/latest?cb=20200416163817",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Shoes-Comfy_sandals_4.png/revision/latest?cb=20200416163902",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Shoes-Comfy_sandals_5.png/revision/latest?cb=20200416163925",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Shoes-Comfy_sandals_6.png/revision/latest?cb=20200416163949",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Shoes-Comfy_sandals_7.png/revision/latest?cb=20200416164023"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Shoes-Comfy_sandals_0.png/revision/latest?cb=20200416163621"
+    },
+    "Cowboy boots": {
+        "name": "Cowboy boots",
+        "priceBuy": 2380,
+        "priceSell": 595,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Black",
+            "Ivory",
+            "Pink",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Shoes-Cowboy_boots_0.png/revision/latest?cb=20200416164123",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Shoes-Cowboy_boots_1.png/revision/latest?cb=20200416164151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Shoes-Cowboy_boots_2.png/revision/latest?cb=20200416164245",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Shoes-Cowboy_boots_3.png/revision/latest?cb=20200416164315",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Shoes-Cowboy_boots_4.png/revision/latest?cb=20200416164347"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Shoes-Cowboy_boots.png/revision/latest?cb=20200402201042"
+    },
+    "Cross-belt sandals": {
+        "name": "Cross-belt sandals",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [],
+        "variations": [
+            "Green",
+            "Pink",
+            "Gray",
+            "Brown",
+            "Black",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Shoes-Cross-belt_sandals_0.png/revision/latest?cb=20200416164418",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Shoes-Cross-belt_sandals_1.png/revision/latest?cb=20200416164449",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Shoes-Cross-belt_sandals_2.png/revision/latest?cb=20200416164509",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Shoes-Cross-belt_sandals_3.png/revision/latest?cb=20200416164529",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Shoes-Cross-belt_sandals_4.png/revision/latest?cb=20200416164549",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Shoes-Cross-belt_sandals_5.png/revision/latest?cb=20200416164607"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Shoes-Cross-belt_sandals_0.png/revision/latest?cb=20200416164418"
+    },
+    "Cute sneakers": {
+        "name": "Cute sneakers",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Light blue",
+            "Green",
+            "Pink",
+            "Yellow",
+            "Purple",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Shoes-Cute_sneakers_0.png/revision/latest?cb=20200416164703",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Shoes-Cute_sneakers_1.png/revision/latest?cb=20200416164744",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Shoes-Cute_sneakers_2.png/revision/latest?cb=20200416164805",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Shoes-Cute_sneakers_3.png/revision/latest?cb=20200416164829",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Shoes-Cute_sneakers_4.png/revision/latest?cb=20200416164858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Shoes-Cute_sneakers_5.png/revision/latest?cb=20200416164925"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Shoes-Highcut-Cute.png/revision/latest?cb=20200401150459"
+    },
+    "DAL slippers": {
+        "name": "DAL slippers",
+        "priceBuy": -1,
+        "priceSell": 1010,
+        "source": [
+            "Mail from Dodo Airlines"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Shoes-Dal_slippers.png/revision/latest?cb=20200416013126"
+    },
+    "Earth-egg shoes": {
+        "name": "Earth-egg shoes",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Earth-egg_shoes.png/revision/latest?cb=20200402000424"
+    },
+    "Embroidered shoes": {
+        "name": "Embroidered shoes",
+        "priceBuy": 2100,
+        "priceSell": 525,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "White",
+            "Black",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Shoes-Embroidered_shoes_0.png/revision/latest?cb=20200416165031",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Shoes-Embroidered_shoes_1.png/revision/latest?cb=20200416165100",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Shoes-Embroidered_shoes_2.png/revision/latest?cb=20200416165128",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Shoes-Embroidered_shoes_3.png/revision/latest?cb=20200416165150"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Shoes-Embroidered_shoes_0.png/revision/latest?cb=20200416165031"
+    },
+    "Faux-fur ankle booties": {
+        "name": "Faux-fur ankle booties",
+        "priceBuy": 1450,
+        "priceSell": 362,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Olive",
+            "Beige",
+            "Ruby red",
+            "Navy blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Shoes-Faux-fur_ankle_booties_0.png/revision/latest?cb=20200416165242",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Shoes-Faux-fur_ankle_booties_1.png/revision/latest?cb=20200416165328",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Shoes-Faux-fur_ankle_booties_2.png/revision/latest?cb=20200416165407",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Shoes-Faux-fur_ankle_booties_3.png/revision/latest?cb=20200416165442"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Shoes-Faux-fur_ankle_booties_0.png/revision/latest?cb=20200416165242"
+    },
+    "Faux-shearling boots": {
+        "name": "Faux-shearling boots",
+        "priceBuy": 1600,
+        "priceSell": 400,
+        "source": [],
+        "variations": [
+            "Beige",
+            "Pink",
+            "Green",
+            "Black",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Shoes-Faux-shearling_boots_0.png/revision/latest?cb=20200416165530",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Shoes-Faux-shearling_boots_1.png/revision/latest?cb=20200416165639",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Shoes-Faux-shearling_boots_2.png/revision/latest?cb=20200416165703",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Shoes-Faux-shearling_boots_3.png/revision/latest?cb=20200416165725",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Shoes-Faux-shearling_boots_4.png/revision/latest?cb=20200416165757"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Shoes-Faux-shearling_boots_0.png/revision/latest?cb=20200416165530"
+    },
+    "Faux-suede sneakers": {
+        "name": "Faux-suede sneakers",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Berry red",
+            "Pink",
+            "Orange",
+            "Green",
+            "Light blue",
+            "Navy blue",
+            "Purple",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Shoes-Faux-suede_sneakers_berry_red.png/revision/latest?cb=20200410161153",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Shoes-Faux-suede_sneakers_pink.png/revision/latest?cb=20200410161227",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Shoes-Faux-suede_sneakers_orange.png/revision/latest?cb=20200410161246",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Shoes-Faux-suede_sneakers_green.png/revision/latest?cb=20200410161307",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Shoes-Faux-suede_sneakers_light_blue.png/revision/latest?cb=20200410161423",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Shoes-Faux-suede_sneakers_navy_blue.png/revision/latest?cb=20200410161449",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Shoes-Faux-suede_sneakers_purple.png/revision/latest?cb=20200410161509",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Shoes-Faux-suede_sneakers_beige.png/revision/latest?cb=20200410161536"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Shoes-Fauxsuede_sneakers.png/revision/latest?cb=20200402200227"
+    },
+    "Flip-flops": {
+        "name": "Flip-flops",
+        "priceBuy": 350,
+        "priceSell": 87,
+        "source": [],
+        "variations": [
+            "Blue",
+            "Green",
+            "Yellow",
+            "White",
+            "Orange",
+            "Light blue",
+            "Pink",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Flip-flops_blue.png/revision/latest?cb=20200423151254",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Shoes-Flip-flops_green.png/revision/latest?cb=20200423151254",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Shoes-Flip-flops_yellow.png/revision/latest?cb=20200423151256",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Shoes-Flip-flops_white.png/revision/latest?cb=20200423151256",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Shoes-Flip-flops_orange.png/revision/latest?cb=20200423151255",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Shoes-Flip-flops_light_blue.png/revision/latest?cb=20200423151254",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Shoes-Flip-flops_pink.png/revision/latest?cb=20200423151255",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Shoes-Flip-flops_red.png/revision/latest?cb=20200423151256"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Flip-flops_blue.png/revision/latest?cb=20200423151254"
+    },
+    "Flower sandals": {
+        "name": "Flower sandals",
+        "priceBuy": 1200,
+        "priceSell": 300,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Yellow",
+            "Pink",
+            "Green",
+            "Purple",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Shoes-Flower_sandals_0.png/revision/latest?cb=20200416170323",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Shoes-Flower_sandals_1.png/revision/latest?cb=20200416170430",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Shoes-Flower_sandals_2.png/revision/latest?cb=20200416170537",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Shoes-Flower_sandals_3.png/revision/latest?cb=20200416170608",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Shoes-Flower_sandals_4.png/revision/latest?cb=20200416170655",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Shoes-Flower_sandals_5.png/revision/latest?cb=20200416170841",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Shoes-Flower_sandals_6.png/revision/latest?cb=20200416170905"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Shoes-Flower_sandals_0.png/revision/latest?cb=20200416170323"
+    },
+    "Ghillie brogues": {
+        "name": "Ghillie brogues",
+        "priceBuy": 2340,
+        "priceSell": 585,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Brown",
+            "Black",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Shoes-Ghillie_brogues_0.png/revision/latest?cb=20200416170929",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Shoes-Ghillie_brogues_1.png/revision/latest?cb=20200416171004",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Shoes-Ghillie_brogues_2.png/revision/latest?cb=20200416171027"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Shoes-Ghillie_brogues_0.png/revision/latest?cb=20200416170929"
+    },
+    "Gladiator sandals": {
+        "name": "Gladiator sandals",
+        "priceBuy": 1800,
+        "priceSell": 450,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Black",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Shoes-Gladiator_sandals_0.png/revision/latest?cb=20200416171053",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Shoes-Gladiator_sandals_1.png/revision/latest?cb=20200416171146",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Shoes-Gladiator_sandals_2.png/revision/latest?cb=20200416171214"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Shoes-Gladiator_sandals_0.png/revision/latest?cb=20200416171053"
+    },
+    "Gold-armor shoes": {
+        "name": "Gold-armor shoes",
+        "priceBuy": 160000,
+        "priceSell": 40000,
+        "source": [],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Shoes-Gold-armor_shoes.png/revision/latest?cb=20200416171646"
+    },
+    "Hi-tech sneakers": {
+        "name": "Hi-tech sneakers",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Orange",
+            "Pink",
+            "Green",
+            "Light blue",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Shoes-Hi-tech_sneakers_0.png/revision/latest?cb=20200416171313",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Shoes-Hi-tech_sneakers_1.png/revision/latest?cb=20200416171406",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Shoes-Hi-tech_sneakers_2.png/revision/latest?cb=20200416171436",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Shoes-Hi-tech_sneakers_3.png/revision/latest?cb=20200416171518",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Shoes-Hi-tech_sneakers_4.png/revision/latest?cb=20200416171606"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Shoes-Hi-tech_sneakers_0.png/revision/latest?cb=20200416171313"
+    },
+    "High-tops": {
+        "name": "High-tops",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Gray",
+            "Brown",
+            "Green",
+            "Blue",
+            "Purple",
+            "Red",
+            "Yellow",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-High-tops_0.png/revision/latest?cb=20200416171838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Shoes-High-tops_1.png/revision/latest?cb=20200416171918",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Shoes-High-tops_2.png/revision/latest?cb=20200416171946",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Shoes-High-tops_3.png/revision/latest?cb=20200416172025",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Shoes-High-tops_4.png/revision/latest?cb=20200416172056",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Shoes-High-tops_5.png/revision/latest?cb=20200416172129",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Shoes-High-tops_6.png/revision/latest?cb=20200416172155",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Shoes-High-tops_7.png/revision/latest?cb=20200416172218"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-High-tops_0.png/revision/latest?cb=20200416171838"
+    },
+    "House slippers": {
+        "name": "House slippers",
+        "priceBuy": 490,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Gray",
+            "Navy blue",
+            "Pink",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Red",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Shoes-House_slippers_0.png/revision/latest?cb=20200416172315",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Shoes-House_slippers_1.png/revision/latest?cb=20200416172351",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Shoes-House_slippers_2.png/revision/latest?cb=20200416172428",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Shoes-House_slippers_3.png/revision/latest?cb=20200416172457",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Shoes-House_slippers_4.png/revision/latest?cb=20200416172523",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Shoes-House_slippers_5.png/revision/latest?cb=20200416172552",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Shoes-House_slippers_6.png/revision/latest?cb=20200416172628",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Shoes-House_slippers_7.png/revision/latest?cb=20200416172704"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Shoes-House_slippers.png/revision/latest?cb=20200403183126"
+    },
+    "Jester's shoes": {
+        "name": "Jester's shoes",
+        "priceBuy": 1900,
+        "priceSell": 475,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Purple",
+            "Black",
+            "Red",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Shoes-Jester_s_shoes_0.png/revision/latest?cb=20200416172851",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Shoes-Jester_s_shoes_1.png/revision/latest?cb=20200416172934",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Shoes-Jester_s_shoes_2.png/revision/latest?cb=20200416173001",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Shoes-Jester_s_shoes_3.png/revision/latest?cb=20200416173030"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Shoes-Jester_s_shoes_0.png/revision/latest?cb=20200416172851"
+    },
+    "Kiddie sneakers": {
+        "name": "Kiddie sneakers",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Blue",
+            "Green",
+            "Purple",
+            "Silver",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Shoes-Kiddie_sneakers_0.png/revision/latest?cb=20200416173103",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Shoes-Kiddie_sneakers_1.png/revision/latest?cb=20200416173211",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Shoes-Kiddie_sneakers_2.png/revision/latest?cb=20200416173314",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Shoes-Kiddie_sneakers_3.png/revision/latest?cb=20200416173238",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Shoes-Kiddie_sneakers_4.png/revision/latest?cb=20200416173343",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Shoes-Kiddie_sneakers_5.png/revision/latest?cb=20200416173418"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Shoes-Kiddie_sneakers_0.png/revision/latest?cb=20200416173103"
+    },
+    "Kimono sandals": {
+        "name": "Kimono sandals",
+        "priceBuy": 1600,
+        "priceSell": 400,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Black",
+            "Red",
+            "Pink",
+            "Dark blue",
+            "Gray",
+            "Purple",
+            "Yellow",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Shoes-Kimono_sandals_0.png/revision/latest?cb=20200416173457",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Shoes-Kimono_sandals_1.png/revision/latest?cb=20200416173536",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Shoes-Kimono_sandals_2.png/revision/latest?cb=20200416173638",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Shoes-Kimono_sandals_3.png/revision/latest?cb=20200416173612",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Shoes-Kimono_sandals_4.png/revision/latest?cb=20200416173659",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Shoes-Kimono_sandals_5.png/revision/latest?cb=20200416173726",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Shoes-Kimono_sandals_6.png/revision/latest?cb=20200416173754",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Shoes-Kimono_sandals_7.png/revision/latest?cb=20200416173821"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Shoes-Kimono_sandals_0.png/revision/latest?cb=20200416173457"
+    },
+    "Kung-fu shoes": {
+        "name": "Kung-fu shoes",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Shoes-Kung-fu_shoes.png/revision/latest?cb=20200416013531"
+    },
+    "Labelle pumps": {
+        "name": "Labelle pumps",
+        "priceBuy": 3500,
+        "priceSell": 875,
+        "source": [
+            "Able SistersLabel"
+        ],
+        "variations": [
+            "Twilight",
+            "Midnight",
+            "Passion",
+            "Ocean",
+            "Sunset",
+            "Love"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Shoes-Labelle_pumps_twilight.png/revision/latest?cb=20200423151754",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Shoes-Labelle_pumps_midnight.png/revision/latest?cb=20200423151749",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Shoes-Labelle_pumps_passion.png/revision/latest?cb=20200423151751",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Shoes-Labelle_pumps_ocean.png/revision/latest?cb=20200423151750",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Shoes-Labelle_pumps_sunset.png/revision/latest?cb=20200423151752",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Shoes-Labelle_pumps_love.png/revision/latest?cb=20200423151748"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Shoes-Labelle_pumps_twilight.png/revision/latest?cb=20200423151754"
+    },
+    "Labelle sneakers": {
+        "name": "Labelle sneakers",
+        "priceBuy": 3300,
+        "priceSell": 825,
+        "source": [],
+        "variations": [
+            "Twilight",
+            "Midnight",
+            "Passion",
+            "Ocean",
+            "Sunset",
+            "Love"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Shoes-Labelle_sneakers_twilight.png/revision/latest?cb=20200423153825",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Shoes-Labelle_sneakers_midnight.png/revision/latest?cb=20200423153824",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Shoes-Labelle_sneakers_passion.png/revision/latest?cb=20200423153825",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Shoes-Labelle_sneakers_ocean.png/revision/latest?cb=20200423153824",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Shoes-Labelle_sneakers_sunset.png/revision/latest?cb=20200423153825",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Shoes-Labelle_sneakers_love.png/revision/latest?cb=20200423153823"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Shoes-Labelle_sneakers_twilight.png/revision/latest?cb=20200423153825"
+    },
+    "Lace-up boots": {
+        "name": "Lace-up boots",
+        "priceBuy": 1920,
+        "priceSell": 480,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "White",
+            "Brown",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Shoes-Lace-up_boots_0.png/revision/latest?cb=20200416174900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Shoes-Lace-up_boots_1.png/revision/latest?cb=20200416174922",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Shoes-Lace-up_boots_2.png/revision/latest?cb=20200416174947",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Shoes-Lace-up_boots_3.png/revision/latest?cb=20200416175011"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Shoes-Laceup_boots.png/revision/latest?cb=20200402145612"
+    },
+    "Leaf-egg shoes": {
+        "name": "Leaf-egg shoes",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Leaf-egg_shoes.png/revision/latest?cb=20200401234714"
+    },
+    "Leopard pumps": {
+        "name": "Leopard pumps",
+        "priceBuy": 1920,
+        "priceSell": 390,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Beige",
+            "Gray",
+            "Blue",
+            "Green",
+            "Purple",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Shoes-Leopard_pumps_0.png/revision/latest?cb=20200416175057",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Shoes-Leopard_pumps_1.png/revision/latest?cb=20200416175136",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Shoes-Leopard_pumps_2.png/revision/latest?cb=20200416175211",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Shoes-Leopard_pumps_3.png/revision/latest?cb=20200416175621",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Shoes-Leopard_pumps_4.png/revision/latest?cb=20200416175502",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Shoes-Leopard_pumps_5.png/revision/latest?cb=20200416175702"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Shoes-Leopard_pumps_0.png/revision/latest?cb=20200416175057"
+    },
+    "Loafers": {
+        "name": "Loafers",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Black",
+            "White",
+            "Pink",
+            "Blue",
+            "Yellow",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Shoes-Loafers_0.png/revision/latest?cb=20200416175752",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Shoes-Loafers_1.png/revision/latest?cb=20200416175834",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Shoes-Loafers_2.png/revision/latest?cb=20200416175900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Shoes-Loafers_3.png/revision/latest?cb=20200416175927",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Shoes-Loafers_4.png/revision/latest?cb=20200416175950",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Shoes-Loafers_5.png/revision/latest?cb=20200416180013",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Shoes-Loafers_6.png/revision/latest?cb=20200416180037"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Shoes-Loafers_0.png/revision/latest?cb=20200416175752"
+    },
+    "Mage's booties": {
+        "name": "Mage's booties",
+        "priceBuy": 1550,
+        "priceSell": 387,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Black",
+            "Blue",
+            "White",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Shoes-Mage_s_booties_0.png/revision/latest?cb=20200416180107",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Shoes-Mage_s_booties_1.png/revision/latest?cb=20200416180206",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Shoes-Mage_s_booties_2.png/revision/latest?cb=20200416180230",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Shoes-Mage_s_booties_3.png/revision/latest?cb=20200416180258"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Shoes-Mage_s_booties_0.png/revision/latest?cb=20200416180107"
+    },
+    "Mary janes": {
+        "name": "Mary janes",
+        "priceBuy": 1800,
+        "priceSell": 450,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Red",
+            "White",
+            "Light blue",
+            "Yellow",
+            "Blue",
+            "Green",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Shoes-Mary_janes_0.png/revision/latest?cb=20200416180336",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Shoes-Mary_janes_1.png/revision/latest?cb=20200416180417",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Shoes-Mary_janes_2.png/revision/latest?cb=20200416180454",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Shoes-Mary_janes_3.png/revision/latest?cb=20200416180521",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Shoes-Mary_janes_4.png/revision/latest?cb=20200416180551",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Shoes-Mary_janes_5.png/revision/latest?cb=20200416180616",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Shoes-Mary_janes_6.png/revision/latest?cb=20200416180643",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Shoes-Mary_janes_7.png/revision/latest?cb=20200416180711"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Shoes-Mary_janes_0.png/revision/latest?cb=20200416180336"
+    },
+    "Moccasin boots": {
+        "name": "Moccasin boots",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": [],
+        "variations": [
+            "Camel",
+            "Olive",
+            "Beige",
+            "Pink",
+            "Black",
+            "Blue",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Shoes-Moccasin_boots_0.png/revision/latest?cb=20200416180744",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Shoes-Moccasin_boots_1.png/revision/latest?cb=20200416180845",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Shoes-Moccasin_boots_2.png/revision/latest?cb=20200416180909",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Shoes-Moccasin_boots_3.png/revision/latest?cb=20200416180932",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Shoes-Moccasin_boots_4.png/revision/latest?cb=20200416181005",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/NH-Shoes-Moccasin_boots_5.png/revision/latest?cb=20200416181032",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Shoes-Moccasin_boots_6.png/revision/latest?cb=20200416181101"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Shoes-Moccasin_boots_0.png/revision/latest?cb=20200416180744"
+    },
+    "Moccasins": {
+        "name": "Moccasins",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": [
+            "Able SistersKicks"
+        ],
+        "variations": [
+            "Camel",
+            "Red",
+            "Light blue",
+            "White",
+            "Pink",
+            "Gray",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Shoes-Moccasins_0.png/revision/latest?cb=20200416181135",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Shoes-Moccasins_1.png/revision/latest?cb=20200416181318",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Shoes-Moccasins_2.png/revision/latest?cb=20200416181346",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Shoes-Moccasins_3.png/revision/latest?cb=20200416181414",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Shoes-Moccasins_4.png/revision/latest?cb=20200416181453",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Shoes-Moccasins_5.png/revision/latest?cb=20200416181520",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Shoes-Moccasins_6.png/revision/latest?cb=20200416181553"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Shoes-Moccasins_0.png/revision/latest?cb=20200416181135"
+    },
+    "Nook Inc. slippers": {
+        "name": "Nook Inc. slippers",
+        "priceBuy": 400,
+        "priceSell": 2000,
+        "source": [
+            "Nook Stop"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Shoes-Nook_inc._slippers.png/revision/latest?cb=20200416015040"
+    },
+    "Outdoor sandals": {
+        "name": "Outdoor sandals",
+        "priceBuy": 630,
+        "priceSell": 157,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Green",
+            "Red",
+            "Blue",
+            "Purple",
+            "Yellow",
+            "Orange",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Shoes-Outdoor_sandals_0.png/revision/latest?cb=20200416181648",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Outdoor_sandals_1.png/revision/latest?cb=20200416181726",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Shoes-Outdoor_sandals_2.png/revision/latest?cb=20200416181756",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Shoes-Outdoor_sandals_3.png/revision/latest?cb=20200416181819",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Shoes-Outdoor_sandals_4.png/revision/latest?cb=20200416181843",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Shoes-Outdoor_sandals_5.png/revision/latest?cb=20200416181931",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/NH-Shoes-Outdoor_sandals_6.png/revision/latest?cb=20200416181954",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Shoes-Outdoor_sandals_7.png/revision/latest?cb=20200416182018"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Shoes-Outdoor_sandals_0.png/revision/latest?cb=20200416181648"
+    },
+    "Paw slippers": {
+        "name": "Paw slippers",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pink",
+            "Brown",
+            "White",
+            "Blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Shoes-Paw_slippers_0.png/revision/latest?cb=20200416182043",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Shoes-Paw_slippers_1.png/revision/latest?cb=20200416182117",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Shoes-Paw_slippers_2.png/revision/latest?cb=20200416182141",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Shoes-Paw_slippers_3.png/revision/latest?cb=20200416182211",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Shoes-Paw_slippers_4.png/revision/latest?cb=20200416182235"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Shoes-Paw_slippers_0.png/revision/latest?cb=20200416182043"
+    },
+    "Pleather ankle booties": {
+        "name": "Pleather ankle booties",
+        "priceBuy": 1280,
+        "priceSell": 320,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Black",
+            "Green",
+            "Mustard"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Shoes-Pleather_ankle_booties_0.png/revision/latest?cb=20200416182305",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Shoes-Pleather_ankle_booties_1.png/revision/latest?cb=20200416182403",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Shoes-Pleather_ankle_booties_2.png/revision/latest?cb=20200416182431",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Shoes-Pleather_ankle_booties_3.png/revision/latest?cb=20200416182457"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Shoes-Pleather_ankle_booties_0.png/revision/latest?cb=20200416182305"
+    },
+    "Pleather sneakers": {
+        "name": "Pleather sneakers",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "White",
+            "Black",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Light blue",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-Shoes-Pleather_sneakers_white.png/revision/latest?cb=20200410163525",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Shoes-Pleather_sneakers_black.png/revision/latest?cb=20200410163547",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Shoes-Pleather_sneakers_red.png/revision/latest?cb=20200410163605",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Shoes-Pleather_sneakers_orange.png/revision/latest?cb=20200410163627",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Shoes-Pleather_sneakers_yellow.png/revision/latest?cb=20200410163852",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Shoes-Pleather_sneakers_green.png/revision/latest?cb=20200410163718",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Shoes-Pleather_sneakers_light_blue.png/revision/latest?cb=20200410163737",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Shoes-Pleather_sneakers_blue.png/revision/latest?cb=20200410163808"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Shoes-Pleather_sneakers.png/revision/latest?cb=20200402145801"
+    },
+    "Pom-pom boots": {
+        "name": "Pom-pom boots",
+        "priceBuy": 1600,
+        "priceSell": 400,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Yellow",
+            "Black",
+            "Blue",
+            "Purple",
+            "Pink",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Shoes-Pom-pom_boots_red.png/revision/latest?cb=20200407181817",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Shoes-Pom-pom_boots_yellow.png/revision/latest?cb=20200407181927",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Shoes-Pom-pom_boots_black.png/revision/latest?cb=20200407182606",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Shoes-Pom-pom_boots_blue.png/revision/latest?cb=20200407182750",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Shoes-Pom-pom_boots_purple.png/revision/latest?cb=20200407182659",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Shoes-pom-pom_boots_pink.png/revision/latest?cb=20200407182832",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Shoes-Pom-pom_boots_green.png/revision/latest?cb=20200407182903"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Shoes-Pom-pom_boots_red.png/revision/latest?cb=20200407181817"
+    },
+    "Power boots": {
+        "name": "Power boots",
+        "priceBuy": 3150,
+        "priceSell": 787,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Shoes-Power_boots_0.png/revision/latest?cb=20200416182639",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Shoes-Power_boots_1.png/revision/latest?cb=20200416182743",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Shoes-Power_boots_2.png/revision/latest?cb=20200416182833",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Shoes-Power_boots_3.png/revision/latest?cb=20200416182925"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Shoes-Power_boots_0.png/revision/latest?cb=20200416182639"
+    },
+    "Rain boots": {
+        "name": "Rain boots",
+        "priceBuy": 490,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
+        "variations": [
+            "Black",
+            "Red",
+            "Pink",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Shoes-Rain_boots_black.png/revision/latest?cb=20200409125534",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Shoes-Rain_boots_red.png/revision/latest?cb=20200409125600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Shoes-Rain_boots_pink.png/revision/latest?cb=20200409125628",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Shoes-Rain_boots_yellow.png/revision/latest?cb=20200409125654",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Shoes-Rain_boots_green.png/revision/latest?cb=20200409125720",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Shoes-Rain_boots_blue.png/revision/latest?cb=20200409125752",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Shoes-Rain_boots_purple.png/revision/latest?cb=20200409125814",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/NH-Shoes-Rain_boots_beige.png/revision/latest?cb=20200409125845"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Shoes-Rain_boots_yellow.png/revision/latest?cb=20200409125654"
+    },
+    "Recycled boots": {
+        "name": "Recycled boots",
+        "priceBuy": -1,
+        "priceSell": 40,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Shoes-Recycled_Boots.png/revision/latest?cb=20200401150421"
+    },
+    "Restroom slippers": {
+        "name": "Restroom slippers",
+        "priceBuy": 350,
+        "priceSell": 87,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Navy blue",
+            "Red",
+            "Green",
+            "Light blue",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Shoes-Restroom_slippers_0.png/revision/latest?cb=20200416183048",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Shoes-Restroom_slippers_1.png/revision/latest?cb=20200416183140",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Shoes-Restroom_slippers_2.png/revision/latest?cb=20200416183209",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Shoes-Restroom_slippers_3.png/revision/latest?cb=20200416183236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Shoes-Restroom_slippers_4.png/revision/latest?cb=20200416183306"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Shoes-Restroom_slippers_0.png/revision/latest?cb=20200416183048"
+    },
+    "Ribbon sandals": {
+        "name": "Ribbon sandals",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [],
+        "variations": [
+            "Blue",
+            "White",
+            "Pink",
+            "Yellow",
+            "Green",
+            "Berry red",
+            "Black",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Shoes-Ribbon_sandals_0.png/revision/latest?cb=20200416183332",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Shoes-Ribbon_sandals_1.png/revision/latest?cb=20200416183437",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Shoes-Ribbon_sandals_2.png/revision/latest?cb=20200416183505",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Shoes-Ribbon_sandals_3.png/revision/latest?cb=20200416183533",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Shoes-Ribbon_sandals_4.png/revision/latest?cb=20200416183556",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Shoes-Ribbon_sandals_5.png/revision/latest?cb=20200416183627",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Shoes-Ribbon_sandals_6.png/revision/latest?cb=20200416183656",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Shoes-Ribbon_sandals_7.png/revision/latest?cb=20200416183716"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Shoes-Ribbon_sandals_0.png/revision/latest?cb=20200416183332"
+    },
+    "Rubber-toe high tops": {
+        "name": "Rubber-toe high tops",
+        "priceBuy": 1260,
+        "priceSell": 315,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Blue",
+            "Olive",
+            "Beige",
+            "Pink",
+            "Berry red",
+            "Coral",
+            "Ivory",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Shoes-Rubber-toe_high_tops_0.png/revision/latest?cb=20200416183750",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Shoes-Rubber-toe_high_tops_1.png/revision/latest?cb=20200416183839",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Shoes-Rubber-toe_high_tops_2.png/revision/latest?cb=20200416183906",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Shoes-Rubber-toe_high_tops_3.png/revision/latest?cb=20200416183939",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Shoes-Rubber-toe_high_tops_4.png/revision/latest?cb=20200416184004",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Shoes-Rubber-toe_high_tops_5.png/revision/latest?cb=20200416184042",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Shoes-Rubber-toe_high_tops_6.png/revision/latest?cb=20200416184111",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Shoes-Rubber-toe_high_tops_7.png/revision/latest?cb=20200416184147"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Shoes-Rubber-toe_high_tops_0.png/revision/latest?cb=20200416183750"
+    },
+    "Rubber-toe sneakers": {
+        "name": "Rubber-toe sneakers",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
+        "variations": [
+            "Purple",
+            "Green",
+            "Yellow",
+            "Light blue",
+            "Red",
+            "Pink",
+            "Blue",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Shoes-Rubber-toe_sneakers_0.png/revision/latest?cb=20200416184246",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Shoes-Rubber-toe_sneakers_1.png/revision/latest?cb=20200416184311",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Shoes-Rubber-toe_sneakers_2.png/revision/latest?cb=20200416184341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Shoes-Rubber-toe_sneakers_3.png/revision/latest?cb=20200416184403",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Shoes-Rubber-toe_sneakers_4.png/revision/latest?cb=20200416184427",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Shoes-Rubber-toe_sneakers_5.png/revision/latest?cb=20200416184456",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Shoes-Rubber-toe_sneakers_6.png/revision/latest?cb=20200416184520",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Shoes-Rubber-toe_sneakers_7.png/revision/latest?cb=20200416184547"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Shoes-Rubber-toe_sneakers.png/revision/latest?cb=20200403154814"
+    },
+    "Samurai greaves": {
+        "name": "Samurai greaves",
+        "priceBuy": 4300,
+        "priceSell": 1075,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Black",
+            "Blue",
+            "White",
+            "Golden yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Shoes-Samurai_greaves_0.png/revision/latest?cb=20200416184724",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Shoes-Samurai_greaves_1.png/revision/latest?cb=20200416184756",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Shoes-Samurai_greaves_2.png/revision/latest?cb=20200416184821",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Shoes-Samurai_greaves_3.png/revision/latest?cb=20200416184848",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Shoes-Samurai_greaves_4.png/revision/latest?cb=20200416184912"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Shoes-Samurai_greaves_0.png/revision/latest?cb=20200416184724"
+    },
+    "Shiny bow platform shoes": {
+        "name": "Shiny bow platform shoes",
+        "priceBuy": 2400,
+        "priceSell": 600,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pink",
+            "Black",
+            "Red",
+            "Purple",
+            "Light blue",
+            "White",
+            "Light purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Shoes-Shiny_bow_platform_shoes_0.png/revision/latest?cb=20200416184949",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Shoes-Shiny_bow_platform_shoes_1.png/revision/latest?cb=20200416185025",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Shoes-Shiny_bow_platform_shoes_2.png/revision/latest?cb=20200416185054",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Shoes-Shiny_bow_platform_shoes_3.png/revision/latest?cb=20200416192743",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Shoes-Shiny_bow_platform_shoes_4.png/revision/latest?cb=20200416192845",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Shoes-Shiny_bow_platform_shoes_5.png/revision/latest?cb=20200416192915",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Shoes-Shiny_bow_platform_shoes_6.png/revision/latest?cb=20200416192956"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Shoes-Shiny_bow_platform_shoes_0.png/revision/latest?cb=20200416184949"
+    },
+    "Shower sandals": {
+        "name": "Shower sandals",
+        "priceBuy": 350,
+        "priceSell": 87,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "White",
+            "Gold",
+            "Red",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Shoes-Shower_sandals_0.png/revision/latest?cb=20200416193037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Shoes-Shower_sandals_1.png/revision/latest?cb=20200416193123",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Shoes-Shower_sandals_2.png/revision/latest?cb=20200416193155",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Shoes-Shower_sandals_3.png/revision/latest?cb=20200416193226",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Shoes-Shower_sandals_4.png/revision/latest?cb=20200416193258"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Shoes-Shower_sandals_0.png/revision/latest?cb=20200416193037"
+    },
+    "Ski boots": {
+        "name": "Ski boots",
+        "priceBuy": 1800,
+        "priceSell": 450,
+        "source": [],
+        "variations": [
+            "White",
+            "Orange",
+            "Red",
+            "Lime",
+            "Light blue",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Shoes-Ski_boots_0.png/revision/latest?cb=20200416193327",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Shoes-Ski_boots_1.png/revision/latest?cb=20200416193445",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Shoes-Ski_boots_2.png/revision/latest?cb=20200416193523",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Shoes-Ski_boots_3.png/revision/latest?cb=20200416193600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Shoes-Ski_boots_4.png/revision/latest?cb=20200416193629",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Shoes-Ski_boots_5.png/revision/latest?cb=20200416193729"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Shoes-Ski_boots_0.png/revision/latest?cb=20200416193327"
+    },
+    "Sky-egg shoes": {
+        "name": "Sky-egg shoes",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Sky-egg_shoes.png/revision/latest?cb=20200401234755"
+    },
+    "Slip-on loafers": {
+        "name": "Slip-on loafers",
+        "priceBuy": 490,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
+        "variations": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green",
+            "Black",
+            "Light blue",
+            "White",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Shoes-Slip-on_loafers_0.png/revision/latest?cb=20200416193834",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Shoes-Slip-on_loafers_1.png/revision/latest?cb=20200416193913",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Shoes-Slip-on_loafers_2.png/revision/latest?cb=20200416193959",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Shoes-Slip-on_loafers_3.png/revision/latest?cb=20200416194026",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Shoes-Slip-on_loafers_4.png/revision/latest?cb=20200416194056",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Shoes-Slip-on_loafers_5.png/revision/latest?cb=20200416194119",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Shoes-Slip-on_loafers_6.png/revision/latest?cb=20200416194142",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Shoes-Slip-on_loafers_7.png/revision/latest?cb=20200416194209"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Shoes-Slip-on_loafers_0.png/revision/latest?cb=20200416193834"
+    },
+    "Slip-on sandals": {
+        "name": "Slip-on sandals",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Light blue",
+            "Lime",
+            "Black",
+            "Pink",
+            "Navy blue",
+            "Red",
+            "Orange",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Shoes-Slip-on_sandals_0.png/revision/latest?cb=20200416194236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Shoes-Slip-on_sandals_1.png/revision/latest?cb=20200416194409",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Shoes-Slip-on_sandals_2.png/revision/latest?cb=20200416194449",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Shoes-Slip-on_sandals_3.png/revision/latest?cb=20200416194523",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Shoes-Slip-on_sandals_4.png/revision/latest?cb=20200416194552",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Shoes-Slip-on_sandals_5.png/revision/latest?cb=20200416194620",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Shoes-Slip-on_sandals_6.png/revision/latest?cb=20200416194643",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Shoes-Slip-on_sandals_7.png/revision/latest?cb=20200416194712"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Shoes-Slip-on_sandals_0.png/revision/latest?cb=20200416194236"
+    },
+    "Slip-on school shoes": {
+        "name": "Slip-on school shoes",
+        "priceBuy": 350,
+        "priceSell": 87,
+        "source": [],
+        "variations": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Shoes-Slip-on_school_shoes_0.png/revision/latest?cb=20200416194739",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Shoes-Slip-on_school_shoes_1.png/revision/latest?cb=20200416194902",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Shoes-Slip-on_school_shoes_2.png/revision/latest?cb=20200416194925",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Shoes-Slip-on_school_shoes_3.png/revision/latest?cb=20200416195011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Shoes-Slip-on_school_shoes_4.png/revision/latest?cb=20200416195044"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Shoes-Slip-on_school_shoes_0.png/revision/latest?cb=20200416194739"
+    },
+    "Slippers": {
+        "name": "Slippers",
+        "priceBuy": 350,
+        "priceSell": 87,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Gray",
+            "Black",
+            "White",
+            "Pink",
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Shoes-Slippers_0.png/revision/latest?cb=20200416195113",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Shoes-Slippers_1.png/revision/latest?cb=20200416195216",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Shoes-Slippers_2.png/revision/latest?cb=20200416195243",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Shoes-Slippers_3.png/revision/latest?cb=20200416195321",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Shoes-Slippers_4.png/revision/latest?cb=20200416195344",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Shoes-Slippers_5.png/revision/latest?cb=20200416195522",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Shoes-Slippers_6.png/revision/latest?cb=20200416195548",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Shoes-Slippers_7.png/revision/latest?cb=20200416195618"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Shoes-Slippers_0.png/revision/latest?cb=20200416195113"
+    },
+    "Space boots": {
+        "name": "Space boots",
+        "priceBuy": 4300,
+        "priceSell": 1075,
+        "source": [],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Shoes-Space_boots.png/revision/latest?cb=20200416195656"
+    },
+    "Sporty sandals": {
+        "name": "Sporty sandals",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Olive",
+            "Blue",
+            "Purple",
+            "Green",
+            "Pink",
+            "Beige",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Shoes-Sporty_sandals_0.png/revision/latest?cb=20200416195809",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Shoes-Sporty_sandals_1.png/revision/latest?cb=20200416195843",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Shoes-Sporty_sandals_2.png/revision/latest?cb=20200416195911",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Shoes-Sporty_sandals_3.png/revision/latest?cb=20200416195944",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Shoes-Sporty_sandals_4.png/revision/latest?cb=20200416200018",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Shoes-Sporty_sandals_5.png/revision/latest?cb=20200416200047",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Shoes-Sporty_sandals_6.png/revision/latest?cb=20200416200115",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Shoes-Sporty_sandals_7.png/revision/latest?cb=20200416200155"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Shoes-Sporty_sandals_0.png/revision/latest?cb=20200416195809"
+    },
+    "Steel-toed boots": {
+        "name": "Steel-toed boots",
+        "priceBuy": 2640,
+        "priceSell": 660,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Beige",
+            "Green",
+            "Black",
+            "Red",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Shoes-Steel-toed_boots_0.png/revision/latest?cb=20200416200317",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Shoes-Steel-toed_boots_1.png/revision/latest?cb=20200416200348",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Shoes-Steel-toed_boots_2.png/revision/latest?cb=20200416200419",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-Shoes-Steel-toed_boots_3.png/revision/latest?cb=20200416200445",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Shoes-Steel-toed_boots_4.png/revision/latest?cb=20200416200515",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Shoes-Steel-toed_boots_5.png/revision/latest?cb=20200416200545"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Shoes-Steel-toed_boots_0.png/revision/latest?cb=20200416200317"
+    },
+    "Stone-egg shoes": {
+        "name": "Stone-egg shoes",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Stone-egg_shoes.png/revision/latest?cb=20200401234857"
+    },
+    "Strappy heels": {
+        "name": "Strappy heels",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Blue",
+            "Gold",
+            "Silver",
+            "Black",
+            "Pink",
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Shoes-Strappy_heels_0.png/revision/latest?cb=20200416200700",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Shoes-Strappy_heels_1.png/revision/latest?cb=20200416200727",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Shoes-Strappy_heels_2.png/revision/latest?cb=20200416200805",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Shoes-Strappy_heels_3.png/revision/latest?cb=20200416200829",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Shoes-Strappy_heels_4.png/revision/latest?cb=20200416200902",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Shoes-Strappy_heels_5.png/revision/latest?cb=20200416200932",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Shoes-Strappy_heels_6.png/revision/latest?cb=20200416201006",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Shoes-Strappy_heels_7.png/revision/latest?cb=20200416201033"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Shoes-Strappy_heels.png/revision/latest?cb=20200402164135"
+    },
+    "Traditional flower shoes": {
+        "name": "Traditional flower shoes",
+        "priceBuy": 1800,
+        "priceSell": 450,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Pink",
+            "Blue",
+            "Yellow",
+            "Lime"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Shoes-Traditional_flower_shoes_0.png/revision/latest?cb=20200416201109",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Shoes-Traditional_flower_shoes_1.png/revision/latest?cb=20200416201139",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Shoes-Traditional_flower_shoes_2.png/revision/latest?cb=20200416201203",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Shoes-Traditional_flower_shoes_3.png/revision/latest?cb=20200416201232",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Shoes-Traditional_flower_shoes_4.png/revision/latest?cb=20200416201305"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Shoes-Traditional_flower_shoes_0.png/revision/latest?cb=20200416201109"
+    },
+    "Trekking shoes": {
+        "name": "Trekking shoes",
+        "priceBuy": 1500,
+        "priceSell": 375,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Orange",
+            "Black",
+            "Gray",
+            "Light blue",
+            "Yellow",
+            "Purple",
+            "White",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Shoes-Trekking_shoes_0.png/revision/latest?cb=20200416205750",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Shoes-Trekking_shoes_1.png/revision/latest?cb=20200416205821",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Shoes-Trekking_shoes_2.png/revision/latest?cb=20200416205851",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Shoes-Trekking_shoes_3.png/revision/latest?cb=20200416205943",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Shoes-Trekking_shoes_4.png/revision/latest?cb=20200416210019",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Shoes-Trekking_shoes_5.png/revision/latest?cb=20200416210042",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Shoes-Trekking_shoes_6.png/revision/latest?cb=20200416210108",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Shoes-Trekking_shoes_7.png/revision/latest?cb=20200416210130"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Shoes-Trekking_shoes_0.png/revision/latest?cb=20200416205750"
+    },
+    "Vinyl round-toed pumps": {
+        "name": "Vinyl round-toed pumps",
+        "priceBuy": 1500,
+        "priceSell": 375,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Beige",
+            "Mint",
+            "Brown",
+            "Pink",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Shoes-Vinyl_round-toed_pumps_0.png/revision/latest?cb=20200416204708",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Shoes-Vinyl_round-toed_pumps_1.png/revision/latest?cb=20200416205323",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Shoes-Vinyl_round-toed_pumps_2.png/revision/latest?cb=20200416205359",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Shoes-Vinyl_round-toed_pumps_3.png/revision/latest?cb=20200416205433",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Shoes-Vinyl_round-toed_pumps_4.png/revision/latest?cb=20200416205509",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Shoes-Vinyl_round-toed_pumps_5.png/revision/latest?cb=20200416205532"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Shoes-Vinyl_round-toed_pumps_0.png/revision/latest?cb=20200416204708"
+    },
+    "Visual-punk boots": {
+        "name": "Visual-punk boots",
+        "priceBuy": 2200,
+        "priceSell": 550,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Shoes-Visual-punk_boots.png/revision/latest?cb=20200416204602"
+    },
+    "Velour boots": {
+        "name": "Velour boots",
+        "priceBuy": 1920,
+        "priceSell": 480,
+        "source": [],
+        "variations": [
+            "Ruby red",
+            "Gray",
+            "Brown",
+            "Blue",
+            "Mustard"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Shoes-Velour_boots_0.png/revision/latest?cb=20200416210938",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Shoes-Velour_boots_1.png/revision/latest?cb=20200416211003",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Shoes-Velour_boots_2.png/revision/latest?cb=20200416211038",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Shoes-Velour_boots_3.png/revision/latest?cb=20200416211102",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Shoes-Velour_boots_4.png/revision/latest?cb=20200416211123"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Shoes-Velour_boots_0.png/revision/latest?cb=20200416210938"
+    },
+    "Walking shoes": {
+        "name": "Walking shoes",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Pink",
+            "Beige",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Shoes-Walking_shoes_0.png/revision/latest?cb=20200416204532",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Shoes-Walking_shoes_1.png/revision/latest?cb=20200416204950",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Shoes-Walking_shoes_2.png/revision/latest?cb=20200416205020"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Shoes-Walking_shoes_0.png/revision/latest?cb=20200416204532"
+    },
+    "Water-egg shoes": {
+        "name": "Water-egg shoes",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Water-egg_shoes.png/revision/latest?cb=20200401235025"
+    },
+    "Water sandals": {
+        "name": "Water sandals",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [],
+        "variations": [
+            "Pink",
+            "Navy blue",
+            "Red",
+            "Light blue",
+            "Orange",
+            "Purple",
+            "Green",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Water_sandals_0.png/revision/latest?cb=20200416210353",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Shoes-Water_sandals_1.png/revision/latest?cb=20200416210427",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Shoes-Water_sandals_2.png/revision/latest?cb=20200416210450",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Shoes-Water_sandals_3.png/revision/latest?cb=20200416210517",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Shoes-Water_sandals_4.png/revision/latest?cb=20200416210545",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Shoes-Water_sandals_5.png/revision/latest?cb=20200416210622",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Shoes-Water_sandals_6.png/revision/latest?cb=20200416210651",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Shoes-Water_sandals_7.png/revision/latest?cb=20200416210718"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Shoes-Water_sandals_0.png/revision/latest?cb=20200416210353"
+    },
+    "Water shoes": {
+        "name": "Water shoes",
+        "priceBuy": 900,
+        "priceSell": 225,
+        "source": [
+            "Nook StopAble Sisters"
+        ],
+        "variations": [
+            "Pink",
+            "Light blue",
+            "Orange",
+            "Green",
+            "Navy blue",
+            "Yellow",
+            "Red",
+            "Black,"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Shoes-Water_shoes_0.png/revision/latest?cb=20200416204043",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Shoes-Water_shoes_1.png/revision/latest?cb=20200416204120",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Shoes-Water_shoes_2.png/revision/latest?cb=20200416204151",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Shoes-Water_shoes_3.png/revision/latest?cb=20200416204216",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Shoes-Water_shoes_4.png/revision/latest?cb=20200416204241",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/NH-Shoes-Water_shoes_5.png/revision/latest?cb=20200416204311",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Shoes-Water_shoes_6.png/revision/latest?cb=20200416204333",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/NH-Shoes-Water_shoes_7.png/revision/latest?cb=20200416204402"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Shoes-Water_shoes_0.png/revision/latest?cb=20200416204043"
+    },
+    "Wedding pumps": {
+        "name": "Wedding pumps",
+        "priceBuy": 3000,
+        "priceSell": 750,
+        "source": [
+            "Wedding Season"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Shoes-Wedding_pumps.png/revision/latest?cb=20200503221830"
+    },
+    "Wedding shoes": {
+        "name": "Wedding shoes",
+        "priceBuy": 3000,
+        "priceSell": 750,
+        "source": [
+            "Wedding Season"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Shoes-Wedding_shoes.png/revision/latest?cb=20200503221829"
+    },
+    "Wingtip shoes": {
+        "name": "Wingtip shoes",
+        "priceBuy": 900,
+        "priceSell": 225,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black & white",
+            "Brown",
+            "Greige",
+            "Green",
+            "Gray",
+            "Berry red",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Shoes-Wingtip_shoes_0.png/revision/latest?cb=20200416203554",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Shoes-Wingtip_shoes_1.png/revision/latest?cb=20200416203644",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Shoes-Wingtip_shoes_2.png/revision/latest?cb=20200416203738",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Shoes-Wingtip_shoes_3.png/revision/latest?cb=20200416203811",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Shoes-Wingtip_shoes_4.png/revision/latest?cb=20200416203842",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Shoes-Wingtip_shoes_5.png/revision/latest?cb=20200416203211",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Shoes-Wingtip_shoes_6.png/revision/latest?cb=20200416203946"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Shoes-Wingtip_shoes_0.png/revision/latest?cb=20200416203554"
+    },
+    "Winklepickers": {
+        "name": "Winklepickers",
+        "priceBuy": 910,
+        "priceSell": 227,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "White",
+            "Black",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Shoes-Winklepickers_0.png/revision/latest?cb=20200416203258",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Shoes-Winklepickers_1.png/revision/latest?cb=20200416203347",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Shoes-Winklepickers_2.png/revision/latest?cb=20200416203409",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Shoes-Winklepickers_3.png/revision/latest?cb=20200416203432"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Shoes-Winklepickers_0.png/revision/latest?cb=20200416203258"
+    },
+    "Wood-egg shoes": {
+        "name": "Wood-egg shoes",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Wood-egg_shoes.png/revision/latest?cb=20200401235040"
+    },
+    "Wooden clogs": {
+        "name": "Wooden clogs",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Yellow",
+            "Blue",
+            "Red",
+            "Green",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Shoes-Wooden_clogs_0.png/revision/latest?cb=20200416202855",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Shoes-Wooden_clogs_1.png/revision/latest?cb=20200416202951",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Shoes-Wooden_clogs_2.png/revision/latest?cb=20200416203023",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Shoes-Wooden_clogs_3.png/revision/latest?cb=20200416203048",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Shoes-Wooden_clogs_4.png/revision/latest?cb=20200416203113"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Shoes-Wooden_clogs_0.png/revision/latest?cb=20200416202855"
+    },
+    "Work boots": {
+        "name": "Work boots",
+        "priceBuy": 1920,
+        "priceSell": 480,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Purple",
+            "Pink",
+            "Yellow",
+            "White",
+            "Blue",
+            "Green",
+            "Gray"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Shoes-Work_boots_0.png/revision/latest?cb=20200416202303",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Shoes-Work_boots_1.png/revision/latest?cb=20200416202442",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Shoes-Work_boots_2.png/revision/latest?cb=20200416202511",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Shoes-Work_boots_3.png/revision/latest?cb=20200416202535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Shoes-Work_boots_4.png/revision/latest?cb=20200416202555",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Shoes-Work_boots_5.png/revision/latest?cb=20200416202627",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Shoes-Work_boots_6.png/revision/latest?cb=20200416202648",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Shoes-Work_boots_7.png/revision/latest?cb=20200416202711"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Shoes-Work_boots_0.png/revision/latest?cb=20200416202303"
+    },
+    "Wrestling shoes": {
+        "name": "Wrestling shoes",
+        "priceBuy": 1080,
+        "priceSell": 270,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Blue",
+            "Green",
+            "Pink",
+            "Black",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Shoes-Wrestling_shoes_0.png/revision/latest?cb=20200416201922",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Shoes-Wrestling_shoes_1.png/revision/latest?cb=20200416202002",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Shoes-Wrestling_shoes_2.png/revision/latest?cb=20200416202022",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/NH-Shoes-Wrestling_shoes_3.png/revision/latest?cb=20200416202050",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Shoes-Wrestling_shoes_4.png/revision/latest?cb=20200416202117",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Shoes-Wrestling_shoes_5.png/revision/latest?cb=20200416202140"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Shoes-Wrestling_shoes_0.png/revision/latest?cb=20200416201922"
+    },
+    "Zap boots": {
+        "name": "Zap boots",
+        "priceBuy": 2640,
+        "priceSell": 660,
+        "source": [],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Shoes-Zap_boots.png/revision/latest?cb=20200416201816"
+    },
+    "Zori": {
+        "name": "Zori",
+        "priceBuy": 4300,
+        "priceSell": 1075,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Gold",
+            "Pink",
+            "Light pink",
+            "Green",
+            "White",
+            "Aqua",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Shoes-Zori_0.png/revision/latest?cb=20200416201349",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Shoes-Zori_1.png/revision/latest?cb=20200416201431",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Shoes-Zori_2.png/revision/latest?cb=20200416201510",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Shoes-Zori_3.png/revision/latest?cb=20200416201539",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Shoes-Zori_4.png/revision/latest?cb=20200416201606",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Shoes-Zori_5.png/revision/latest?cb=20200416201631",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Shoes-Zori_6.png/revision/latest?cb=20200416201658",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Shoes-Zori_7.png/revision/latest?cb=20200416201735"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Shoes-Zori_0.png/revision/latest?cb=20200416201349"
+    }
+}

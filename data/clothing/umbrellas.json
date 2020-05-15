@@ -1,0 +1,605 @@
+{
+    "Apple umbrella": {
+        "name": "Apple umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Umbrella-Apple_umbrella.png/revision/latest?cb=20200416012123",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 1400
+    },
+    "Bat umbrella": {
+        "name": "Bat umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Clothing-Bat_umbrella.png/revision/latest?cb=20200407175730",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 840,
+        "priceSell": 210
+    },
+    "Beach umbrella": {
+        "name": "Beach umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Umbrella-Beach_umbrella.png/revision/latest?cb=20200417234256",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Bear umbrella": {
+        "name": "Bear umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Clothing-Bear_umbrella.png/revision/latest?cb=20200407175634",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1570,
+        "priceSell": 392
+    },
+    "Black chic umbrella": {
+        "name": "Black chic umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Umbrella-Black_chic_umbrella.png/revision/latest?cb=20200417234517",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Black lace umbrella": {
+        "name": "Black lace umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Umbrella-Black_lace_umbrella.png/revision/latest?cb=20200410121426",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Blue dot parasol": {
+        "name": "Blue dot parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Umbrella-Blue_dot_parasol.png/revision/latest?cb=20200417234536",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Blue shiny-bows parasol": {
+        "name": "Blue shiny-bows parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Umbrella-Blue_shiny-bows_parasol.png/revision/latest?cb=20200417234611",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Blue umbrella": {
+        "name": "Blue umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Umbrella-Blue_umbrella.png/revision/latest?cb=20200417234633",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Busted umbrella": {
+        "name": "Busted umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Umbrella-Busted_umbrella.png/revision/latest?cb=20200417234651",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1570,
+        "priceSell": 392
+    },
+    "Camo umbrella": {
+        "name": "Camo umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Clothing-Camo_Umbrella.png/revision/latest?cb=20200407174225",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 650,
+        "priceSell": 162
+    },
+    "Candy umbrella": {
+        "name": "Candy umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Umbrella-Candy_umbrella.png/revision/latest?cb=20200410121605",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Cherry umbrella": {
+        "name": "Cherry umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Umbrella-Cherry_umbrella.png/revision/latest?cb=20200417234710",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": 5600,
+        "priceSell": 1400
+    },
+    "Cherry-blossom umbrella": {
+        "name": "Cherry-blossom umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Clothing-Cherry-blossom_umbrella.png/revision/latest?cb=20200407174648",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 2800
+    },
+    "DAL umbrella": {
+        "name": "DAL umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Umbrella-Dal_umbrella.png/revision/latest?cb=20200417234759",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 4040,
+        "priceSell": 1010
+    },
+    "Eggy parasol": {
+        "name": "Eggy parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Umbrella-Eggy_parasol.png/revision/latest?cb=20200417234842",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Exquisite parasol": {
+        "name": "Exquisite parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Umbrella-Exquisite_parasol.png/revision/latest?cb=20200417234857",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1670,
+        "priceSell": 417
+    },
+    "Fairy-tale umbrella": {
+        "name": "Fairy-tale umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Clothing-Fairy-tail_umbrella.png/revision/latest?cb=20200407174816",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 820,
+        "priceSell": 205
+    },
+    "Fish umbrella": {
+        "name": "Fish umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Clothing-Fish_umbrella.png/revision/latest?cb=20200407174530",
+        "source": [
+            "Fishing Tourney reward from C.J."
+        ],
+        "priceBuy": 320,
+        "priceSell": 80
+    },
+    "Frog umbrella": {
+        "name": "Frog umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Umbrella-Frog_umbrella.png/revision/latest?cb=20200417234941",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1570,
+        "priceSell": 392
+    },
+    "Gelato umbrella": {
+        "name": "Gelato umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Clothing-Gelato_umbrella.png/revision/latest?cb=20200408124751",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Ghost umbrella": {
+        "name": "Ghost umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Umbrella-Ghost_umbrella.png/revision/latest?cb=20200417235005",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1670,
+        "priceSell": 417
+    },
+    "Grape umbrella": {
+        "name": "Grape umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Umbrella-Grape_umbrella.png/revision/latest?cb=20200417235025",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "Green umbrella": {
+        "name": "Green umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Umbrella-Green_umbrella.png/revision/latest?cb=20200417235040",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Green chic umbrella": {
+        "name": "Green chic umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Umbrella-Green_chic_umbrella.png/revision/latest?cb=20200417235055",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Hydrangea umbrella": {
+        "name": "Hydrangea umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Umbrella-Hydrangea_umbrella.png/revision/latest?cb=20200417235111",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Kabuki umbrella": {
+        "name": "Kabuki umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Umbrella-Kabuki_umbrella.png/revision/latest?cb=20200417235126",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1670,
+        "priceSell": 417
+    },
+    "Kiwi umbrella": {
+        "name": "Kiwi umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Clothing-Kiwi_umbrella.png/revision/latest?cb=20200407174922",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "Lacy parasol": {
+        "name": "Lacy parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Clothing-Lacy_parasol.png/revision/latest?cb=20200407175023",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "Ladybug umbrella": {
+        "name": "Ladybug umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Umbrella-Ladybug_umbrella.png/revision/latest?cb=20200417235149",
+        "source": [
+            "Bug-off reward"
+        ],
+        "priceBuy": 320,
+        "priceSell": 80
+    },
+    "Leaf umbrella": {
+        "name": "Leaf umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Clothing-Leaf_Umbrella.png/revision/latest?cb=20200407173616",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 300
+    },
+    "Lemon umbrella": {
+        "name": "Lemon umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Umbrella-Lemon_umbrella.png/revision/latest?cb=20200417235234",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Logo umbrella": {
+        "name": "Logo umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Clothing-Logo_umbrella.png/revision/latest?cb=20200407175337",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 650,
+        "priceSell": 162
+    },
+    "Maple-leaf umbrella": {
+        "name": "Maple-leaf umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Umbrella-Maple-leaf_umbrella.png/revision/latest?cb=20200417235259",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 2800
+    },
+    "Melon umbrella": {
+        "name": "Melon umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Umbrella-Melon_umbrella.png/revision/latest?cb=20200417235317",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Mini-flower-print umbrella": {
+        "name": "Mini-flower-print umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Umbrella-Mini-flower-print_umbrella.png/revision/latest?cb=20200417235335",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Mint umbrella": {
+        "name": "Mint umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Umbrella-Mint_umbrella.png/revision/latest?cb=20200410121703",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Mush umbrella": {
+        "name": "Mush umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Umbrella-Mush_umbrella.png/revision/latest?cb=20200417235355",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 1200
+    },
+    "Nook Inc. umbrella": {
+        "name": "Nook Inc. umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Clothing-Nook_Inc._Umbrella.png/revision/latest?cb=20200407173449",
+        "source": [
+            "Nook Stop"
+        ],
+        "priceBuy": 700,
+        "priceSell": 3500
+    },
+    "Orange umbrella": {
+        "name": "Orange umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Umbrella-Orange_umbrella.png/revision/latest?cb=20200417235416",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 1400
+    },
+    "Panda umbrella": {
+        "name": "Panda umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/NH-Clothing-Panda_Umbrella.png/revision/latest?cb=20200407172943",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1570,
+        "priceSell": 392
+    },
+    "Paper parasol": {
+        "name": "Paper parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Umbrella-Paper_parasol.png/revision/latest?cb=20200417235436",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 870,
+        "priceSell": 217
+    },
+    "Patterned vinyl umbrella": {
+        "name": "Patterned vinyl umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Umbrella-Patterned_vinyl_umbrella.png/revision/latest?cb=20200417235455",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Peach umbrella": {
+        "name": "Peach umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Umbrella-Peach_umbrella.png/revision/latest?cb=20200417235511",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 1400
+    },
+    "Pear umbrella": {
+        "name": "Pear umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Umbrella-Pear_umbrella.png/revision/latest?cb=20200417235547",
+        "source": [
+            "DIY Recipes"
+        ],
+        "priceBuy": -1,
+        "priceSell": 1400
+    },
+    "Petal parasol": {
+        "name": "Petal parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Umbrella-Petal_parasol.png/revision/latest?cb=20200417235530",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1590,
+        "priceSell": 397
+    },
+    "Picnic umbrella": {
+        "name": "Picnic umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-Umbrella-Picnic_umbrella.png/revision/latest?cb=20200417235607",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Pineapple umbrella": {
+        "name": "Pineapple umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Clothing-Pineapple_umbrella.png/revision/latest?cb=20200407175155",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "Pink shiny-bows parasol": {
+        "name": "Pink shiny-bows parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Umbrella-Pink_shiny-bows_parasol.png/revision/latest?cb=20200417235628",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Pink umbrella": {
+        "name": "Pink umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Umbrella-Pink_umbrella.png/revision/latest?cb=20200417235646",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Purple chic umbrella": {
+        "name": "Purple chic umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Umbrella-Purple_chic_umbrella.png/revision/latest?cb=20200417235702",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Purple shiny-bows parasol": {
+        "name": "Purple shiny-bows parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Umbrella-Purple_shiny-bows_parasol.png/revision/latest?cb=20200417235720",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Rainbow umbrella": {
+        "name": "Rainbow umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Clothing-Rainbow_Umbrella.png/revision/latest?cb=20200407173328",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 840,
+        "priceSell": 210
+    },
+    "Raindrop umbrella": {
+        "name": "Raindrop umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Clothing-Raindrop_Umbrella.png/revision/latest?cb=20200407173137",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Red umbrella": {
+        "name": "Red umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Umbrella-Red_umbrella.png/revision/latest?cb=20200417235740",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Red chic umbrella": {
+        "name": "Red chic umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Umbrella-Red_chic_umbrella.png/revision/latest?cb=20200417235756",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    },
+    "Snowflake umbrella": {
+        "name": "Snowflake umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Umbrella-Snowflake_umbrella.png/revision/latest?cb=20200417235810",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "Spider umbrella": {
+        "name": "Spider umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Clothing-Spider_Umbrella.png/revision/latest?cb=20200407174100",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 840,
+        "priceSell": 210
+    },
+    "Strawberry umbrella": {
+        "name": "Strawberry umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Clothing-Strawberry_Umbrella.png/revision/latest?cb=20200407174354",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "Striped umbrella": {
+        "name": "Striped umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Umbrella-Striped_umbrella.png/revision/latest?cb=20200417235844",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Sunny parasol": {
+        "name": "Sunny parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Umbrella-Sunny_parasol.png/revision/latest?cb=20200417235904",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Tartan-check umbrella": {
+        "name": "Tartan-check umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Umbrella-Tartan-check_umbrella.png/revision/latest?cb=20200417235921",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Toad parasol": {
+        "name": "Toad parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Umbrella-Toad_parasol.png/revision/latest?cb=20200417235937",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 750,
+        "priceSell": 187
+    },
+    "Two-tone umbrella": {
+        "name": "Two-tone umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Umbrella-Two-tone_umbrella.png/revision/latest?cb=20200417235952",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Vinyl umbrella": {
+        "name": "Vinyl umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Clothing-Vinyl_umbrella.png/revision/latest?cb=20200407175517",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 770,
+        "priceSell": 192
+    },
+    "Watermelon umbrella": {
+        "name": "Watermelon umbrella",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Clothing-Watermelon_Umbrella.png/revision/latest?cb=20200407172723",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1550,
+        "priceSell": 387
+    },
+    "White shiny-bows parasol": {
+        "name": "White shiny-bows parasol",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Umbrella-White_shiny-bows_parasol.png/revision/latest?cb=20200418000018",
+        "source": [
+            "Nook's Cranny"
+        ],
+        "priceBuy": 1620,
+        "priceSell": 405
+    }
+}

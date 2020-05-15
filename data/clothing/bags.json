@@ -1,0 +1,703 @@
+{
+    "Acorn pochette": {
+        "name": "Acorn pochette",
+        "priceBuy": -1,
+        "priceSell": 2400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Bags-Acorn_pochette.png/revision/latest?cb=20200409154445"
+    },
+    "Basket pack": {
+        "name": "Basket pack",
+        "priceBuy": -1,
+        "priceSell": 2400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Bag-Basket_pack.png/revision/latest?cb=20200401203108"
+    },
+    "Bug cage": {
+        "name": "Bug cage",
+        "priceBuy": -1,
+        "priceSell": 122,
+        "source": [
+            "Bug-off"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-Bags-Bug_cage.png/revision/latest?cb=20200409152635"
+    },
+    "Bunny Day bag": {
+        "name": "Bunny Day bag",
+        "priceBuy": -1,
+        "priceSell": 2400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Bunny_Day_Bag.png/revision/latest?cb=20200407203417"
+    },
+    "Butterfly backpack": {
+        "name": "Butterfly backpack",
+        "priceBuy": -1,
+        "priceSell": 210,
+        "source": [
+            "Bug-off"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Bags-Butterfly_backpack.png/revision/latest?cb=20200409152557"
+    },
+    "Canvas backpack": {
+        "name": "Canvas backpack",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Bags-Canvas_backpack.png/revision/latest?cb=20200409152702"
+    },
+    "Cherry-blossom pochette": {
+        "name": "Cherry-blossom pochette",
+        "priceBuy": -1,
+        "priceSell": 2400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Cherry_Blossom_Pochette.png/revision/latest?cb=20200407203515"
+    },
+    "Cloth shoulder bag": {
+        "name": "Cloth shoulder bag",
+        "priceBuy": 1400,
+        "priceSell": 350,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Ivory",
+            "Blue",
+            "Orange"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Bag-Cloth_shoulder_bag_2.png/revision/latest?cb=20200412195705",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Bag-Cloth_shoulder_bag_0.png/revision/latest?cb=20200412195735",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Bag-Cloth_shoulder_bag_1.png/revision/latest?cb=20200412195704"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Bags-Cloth_shoulder_bag.png/revision/latest?cb=20200409152737"
+    },
+    "Crossbody bag": {
+        "name": "Crossbody bag",
+        "priceBuy": 700,
+        "priceSell": 175,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pink",
+            "Green",
+            "Yellow",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Bag-Crossbody_bag_0.png/revision/latest?cb=20200412195736",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Bag-Crossbody_bag_1.png/revision/latest?cb=20200412195706",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Bag-Crossbody_bag_2.png/revision/latest?cb=20200412195707",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Bag-Crossbody_bag_3.png/revision/latest?cb=20200412195708"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bags-Crossbody_bag.png/revision/latest?cb=20200409152255"
+    },
+    "Crossbody boston bag": {
+        "name": "Crossbody boston bag",
+        "priceBuy": 1680,
+        "priceSell": 420,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bag-Crossbody_boston_bag_0.png/revision/latest?cb=20200412195737",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Bag-Crossbody_boston_bag_1.png/revision/latest?cb=20200412195709"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/Bags-Crossbody_boston_bag.png/revision/latest?cb=20200409152800"
+    },
+    "DAL backpack": {
+        "name": "DAL backpack",
+        "priceBuy": -1,
+        "priceSell": 1010,
+        "source": [
+            "Dodo Airlines"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Bags-DAL_backpack.png/revision/latest?cb=20200409152826"
+    },
+    "Dry bag": {
+        "name": "Dry bag",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Yellow",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bag-Dry_bag_0.png/revision/latest?cb=20200412195819",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Bag-Dry_bag_1.png/revision/latest?cb=20200412195807"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Bags-Dry_bag.png/revision/latest?cb=20200409152846"
+    },
+    "Evening bag": {
+        "name": "Evening bag",
+        "priceBuy": 1250,
+        "priceSell": 312,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Black",
+            "Pink",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Bag-Evening_bag_2.png/revision/latest?cb=20200412195809",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Bag-Evening_bag_0.png/revision/latest?cb=20200412195821",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Bag-Evening_bag_1.png/revision/latest?cb=20200412195808"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Bags-Evening_bag.png/revision/latest?cb=20200409152911"
+    },
+    "Extra-large backpack": {
+        "name": "Extra-large backpack",
+        "priceBuy": 2100,
+        "priceSell": 525,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Black",
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Bag-Extra-large_backpack_2.png/revision/latest?cb=20200412195812",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Bag-Extra-large_backpack_3.png/revision/latest?cb=20200412195812",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Bag-Extra-large_backpack_1.png/revision/latest?cb=20200412195811",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bag-Extra-large_backpack_0.png/revision/latest?cb=20200412195822"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Bags-Extra_large_backpack.png/revision/latest?cb=20200409152418"
+    },
+    "Faux-fur bag": {
+        "name": "Faux-fur bag",
+        "priceBuy": 1400,
+        "priceSell": 350,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pink",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Bag-Faux-fur_bag_0.png/revision/latest?cb=20200412195911",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Bag-Faux-fur_bag_1.png/revision/latest?cb=20200412195900"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Bags-Faux_fur_bag.png/revision/latest?cb=20200409151938"
+    },
+    "Fish pochette": {
+        "name": "Fish pochette",
+        "priceBuy": -1,
+        "priceSell": 210,
+        "source": [
+            "Fishing Tourney reward from C.J."
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Bags-Fish_pochette.png/revision/latest?cb=20200409152942"
+    },
+    "Foldover-top backpack": {
+        "name": "Foldover-top backpack",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Gray",
+            "Pink",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Bag-Foldover-top_backpack_2.png/revision/latest?cb=20200412195902",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Bag-Foldover-top_backpack_3.png/revision/latest?cb=20200412195903",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bag-Foldover-top_backpack_0.png/revision/latest?cb=20200412195911",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Bag-Foldover-top_backpack_1.png/revision/latest?cb=20200412195901"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Bags-Foldover_top_backpack.png/revision/latest?cb=20200409153019"
+    },
+    "Gumdrop shoulder bag": {
+        "name": "Gumdrop shoulder bag",
+        "priceBuy": 2000,
+        "priceSell": 500,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pop",
+            "Cool"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Bag-Gumdrop_shoulder_bag_0.png/revision/latest?cb=20200412195912",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Bag-Gumdrop_shoulder_bag_1.png/revision/latest?cb=20200412195904"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Bags-Gumdrop_shoulder_bag.png/revision/latest?cb=20200409153102"
+    },
+    "Hand-knit pouch": {
+        "name": "Hand-knit pouch",
+        "priceBuy": 1250,
+        "priceSell": 312,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Bag-Hand-knit_pouch_0.png/revision/latest?cb=20200412195912",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Bag-Hand-knit_pouch_1.png/revision/latest?cb=20200412195905"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Bags-Hand_knit_pouch.png/revision/latest?cb=20200409154625"
+    },
+    "Hard-shell backpack": {
+        "name": "Hard-shell backpack",
+        "priceBuy": 1680,
+        "priceSell": 420,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Silver",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Bag-Hard-shell_backpack_1.png/revision/latest?cb=20200412195945",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Bag-Hard-shell_backpack_2.png/revision/latest?cb=20200412200000",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Bag-Hard-shell_backpack_0.png/revision/latest?cb=20200412195944"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Bags-Hardcshell_backpack.png/revision/latest?cb=20200409152328"
+    },
+    "Knapsack": {
+        "name": "Knapsack",
+        "priceBuy": 630,
+        "priceSell": 157,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Black",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Bag-Knapsack_1.png/revision/latest?cb=20200412195948",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Bag-Knapsack_0.png/revision/latest?cb=20200412200001"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Bags-Knapsack.png/revision/latest?cb=20200409152205"
+    },
+    "Knitted-grass backpack": {
+        "name": "Knitted-grass backpack",
+        "priceBuy": -1,
+        "priceSell": 400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Bags-Knitted_grass_backpack.png/revision/latest?cb=20200409162036"
+    },
+    "Log pack": {
+        "name": "Log pack",
+        "priceBuy": -1,
+        "priceSell": 960,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Bag-Log_pack.png/revision/latest?cb=20200409151858"
+    },
+    "Maple-leaf pochette": {
+        "name": "Maple-leaf pochette",
+        "priceBuy": -1,
+        "priceSell": 2400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Bags-Maple_leaf_pochette.png/revision/latest?cb=20200409154552"
+    },
+    "Messenger bag": {
+        "name": "Messenger bag",
+        "priceBuy": 840,
+        "priceSell": 210,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Orange",
+            "Green",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Bag-Messenger_bag_1.png/revision/latest?cb=20200412195950",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Bag-Messenger_bag_0.png/revision/latest?cb=20200412200002",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Bag-Messenger_bag_2.png/revision/latest?cb=20200412195951"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Bags-Messenger_bag.png/revision/latest?cb=20200409155719"
+    },
+    "Mini pleather bag": {
+        "name": "Mini pleather bag",
+        "priceBuy": 1600,
+        "priceSell": 400,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bag-Mini_pleather_bag_0.png/revision/latest?cb=20200412200003",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Bag-Mini_pleather_bag_1.png/revision/latest?cb=20200412195952"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Bags-Mini_pleather_bag.png/revision/latest?cb=20200409152455"
+    },
+    "Mom's knapsack": {
+        "name": "Mom's knapsack",
+        "priceBuy": -1,
+        "priceSell": 175,
+        "source": [
+            "Mail from Mom"
+        ],
+        "variations": [
+            "M",
+            "Flowers",
+            "Polka dots",
+            "Colorful quilt design",
+            "Cherries",
+            "Denim with stripes",
+            "Forest print",
+            "Chick"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Bag-Mom%27s_knapsack_0.png/revision/latest?cb=20200412200047",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Bag-Mom%27s_knapsack_1.png/revision/latest?cb=20200412200036",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Bag-Mom%27s_knapsack_2.png/revision/latest?cb=20200412200037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-Bag-Mom%27s_knapsack_3.png/revision/latest?cb=20200412200037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-Bag-Mom%27s_knapsack_4.png/revision/latest?cb=20200412200037",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Bag-Mom%27s_knapsack_5.png/revision/latest?cb=20200412200038",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Bag-Mom%27s_knapsack_6.png/revision/latest?cb=20200412200038",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Bag-Mom%27s_knapsack_7.png/revision/latest?cb=20200412200039"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Bags-Moms_knapsack.png/revision/latest?cb=20200409154238"
+    },
+    "Nook Inc. knapsack": {
+        "name": "Nook Inc. knapsack",
+        "priceBuy": 800,
+        "priceSell": 4000,
+        "source": [
+            "Nook Stop"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Nook_Inc._knapsack.png/revision/latest?cb=20200329110059"
+    },
+    "Outdoor backpack": {
+        "name": "Outdoor backpack",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Orange",
+            "Avocado",
+            "Navy blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Bag-Outdoor_backpack_1.png/revision/latest?cb=20200412200236",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Bag-Outdoor_backpack_0.png/revision/latest?cb=20200412200235",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Bag-Outdoor_backpack_2.png/revision/latest?cb=20200412200305"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Bags-Outdoor_backpack.png/revision/latest?cb=20200409154200"
+    },
+    "Pleather crossbody bag": {
+        "name": "Pleather crossbody bag",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Black",
+            "Navy blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Bag-Pleather_crossbody_bag_bag_1.png/revision/latest?cb=20200412200040",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bag-Pleather_crossbody_bag_bag_0.png/revision/latest?cb=20200412200048"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Bags-Pleather_crossbody.png/revision/latest?cb=20200409154044"
+    },
+    "Pleather fringe bag": {
+        "name": "Pleather fringe bag",
+        "priceBuy": 2400,
+        "priceSell": 600,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "White",
+            "Camel"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Bag-Pleather_fringe_bag_1.png/revision/latest?cb=20200412200238",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Bag-Pleather_fringe_bag_0.png/revision/latest?cb=20200412200306"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Bag-Fringe.png/revision/latest?cb=20200401203136"
+    },
+    "Pleather shoulder bag": {
+        "name": "Pleather shoulder bag",
+        "priceBuy": 2400,
+        "priceSell": 600,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Navy blue",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Bag-Pleather_shoulder_bag_1.png/revision/latest?cb=20200412200240",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Bag-Pleather_shoulder_bag_0.png/revision/latest?cb=20200412200307"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Bags-Pleather_shoulder_bag.png/revision/latest?cb=20200409154521"
+    },
+    "Retro sports bag": {
+        "name": "Retro sports bag",
+        "priceBuy": 1400,
+        "priceSell": 350,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Blue",
+            "Red",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Bag-Retro_sports_bag_0.png/revision/latest?cb=20200412200307",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Bag-Retro_sports_bag_1.png/revision/latest?cb=20200412200242",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Bag-Retro_sports_bag_2.png/revision/latest?cb=20200412200242"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Bags-Retro_sports_bag.png/revision/latest?cb=20200409154739"
+    },
+    "Sacoche bag": {
+        "name": "Sacoche bag",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Blue",
+            "Red",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Bag-Sacoche_bag_0.png/revision/latest?cb=20200412200342",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bag-Sacoche_bag_1.png/revision/latest?cb=20200412200354",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Bag-Sacoche_bag_2.png/revision/latest?cb=20200412200343"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bags-Sacoche_bag.png/revision/latest?cb=20200409155820"
+    },
+    "Shellfish pochette": {
+        "name": "Shellfish pochette",
+        "priceBuy": -1,
+        "priceSell": 1080,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Bags-Shellfish_pochettte.png/revision/latest?cb=20200409155917"
+    },
+    "Snowflake pochette": {
+        "name": "Snowflake pochette",
+        "priceBuy": -1,
+        "priceSell": 2400,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Bags-Snowflake_pochette.png/revision/latest?cb=20200409154656"
+    },
+    "Square backpack": {
+        "name": "Square backpack",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pink",
+            "Green",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Bag-Square_backpack_1.png/revision/latest?cb=20200412200344",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Bag-Square_backpack_2.png/revision/latest?cb=20200412200344",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Bag-Square_backpack_0.png/revision/latest?cb=20200412200356"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Bags-Square_backpack.png/revision/latest?cb=20200409154310"
+    },
+    "Star pochette": {
+        "name": "Star pochette",
+        "priceBuy": -1,
+        "priceSell": 3000,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bags-Star_pochette.png/revision/latest?cb=20200409154811"
+    },
+    "Straw pochette": {
+        "name": "Straw pochette",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Bags-Straw_pochette.png/revision/latest?cb=20200409155750"
+    },
+    "Studded backpack": {
+        "name": "Studded backpack",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Bag-Studded_backpack_1.png/revision/latest?cb=20200412200345",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Bag-Studded_backpack_0.png/revision/latest?cb=20200412200356"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Bags-Studded_backpack.png/revision/latest?cb=20200409154340"
+    },
+    "Tackle bag": {
+        "name": "Tackle bag",
+        "priceBuy": -1,
+        "priceSell": 175,
+        "source": [
+            "Fishing Tourney reward from C.J."
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Bags-Tackle_bag.png/revision/latest?cb=20200409155650"
+    },
+    "Tool bag": {
+        "name": "Tool bag",
+        "priceBuy": 910,
+        "priceSell": 227,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Bags-Tool_bag.png/revision/latest?cb=20200409154838"
+    },
+    "Town backpack": {
+        "name": "Town backpack",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Red",
+            "Orange",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Bag-Town_backpack_3.png/revision/latest?cb=20200412200427",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Bag-Town_backpack_1.png/revision/latest?cb=20200412200346",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Bag-Town_backpack_0.png/revision/latest?cb=20200412200358",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Bag-Town_backpack_2.png/revision/latest?cb=20200412200426"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Bags-Town_backpack.png/revision/latest?cb=20200409154416"
+    },
+    "Travel pouch": {
+        "name": "Travel pouch",
+        "priceBuy": 840,
+        "priceSell": 210,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Pink",
+            "Green",
+            "Light blue",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Bag-Travel_pouch_0.png/revision/latest?cb=20200412200439",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Bag-Travel_pouch_1.png/revision/latest?cb=20200412200428",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Bag-Travel_pouch_2.png/revision/latest?cb=20200412200429",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Bag-Travel_pouch_3.png/revision/latest?cb=20200412200430"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH-Bags-Travel_pouch.png/revision/latest?cb=20200409154900"
+    },
+    "Traveler's backpack": {
+        "name": "Traveler's backpack",
+        "priceBuy": 2940,
+        "priceSell": 735,
+        "source": [
+            "Kicks"
+        ],
+        "variations": [
+            "Orange",
+            "Blue",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Bag-Traveler%27s_backpack_0.png/revision/latest?cb=20200412200441",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Bag-Traveler%27s_backpack_1.png/revision/latest?cb=20200412200431",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Bag-Traveler%27s_backpack_2.png/revision/latest?cb=20200412200432"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Bags-Travelers_backpack.png/revision/latest?cb=20200409154118"
+    }
+}

@@ -1,0 +1,1268 @@
+{
+    "3D glasses": {
+        "name": "3D glasses",
+        "priceBuy": 490,
+        "priceSell": -1,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Accessory-Glasses-3d_glasses.png/revision/latest?cb=20200406194704",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Accessories-3D_glasses-black.png/revision/latest?cb=20200408211102"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Accessory-Glasses-3d_glasses.png/revision/latest?cb=20200406194704"
+    },
+    "Bandage": {
+        "name": "Bandage",
+        "priceBuy": 140,
+        "priceSell": 35,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Accessory-Bandage.png/revision/latest?cb=20200406181732"
+    },
+    "Beak": {
+        "name": "Beak",
+        "priceBuy": 488,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Accessory-Mouth-Beak.png/revision/latest?cb=20200401160858"
+    },
+    "Birthday shades": {
+        "name": "Birthday shades",
+        "priceBuy": -1,
+        "priceSell": 620,
+        "source": [
+            "Birthday"
+        ],
+        "variations": [
+            "Yellow",
+            "Pink",
+            "Red",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Accessories-Birthday_shades_1.png/revision/latest?cb=20200410162058",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Accessories-Birthday_shades_2.png/revision/latest?cb=20200410162317",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Accessories-Birthday_shades_3.png/revision/latest?cb=20200410162342",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Accessories-Birthday_shades_4.png/revision/latest?cb=20200410162510"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Accessories-Birthday_shades_1.png/revision/latest?cb=20200410162058"
+    },
+    "Bottom-rimmed glasses": {
+        "name": "Bottom-rimmed glasses",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Red",
+            "Pink",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Accessories-Bottom-rimmed_glasses_7.png/revision/latest?cb=20200410163724",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Accessories-Bottom-rimmed_glasses_5.png/revision/latest?cb=20200410163836",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Accessories-Bottom-rimmed_glasses_3.png/revision/latest?cb=20200410163900",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Accessories-Bottom-rimmed_glasses_6.png/revision/latest?cb=20200410163922",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Accessories-Bottom-rimmed_glasses_2.png/revision/latest?cb=20200410163938",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Accessories-Bottom-rimmed_glasses_1.png/revision/latest?cb=20200410163956",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Accessories-Bottom-rimmed_glasses_4.png/revision/latest?cb=20200410164015"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Accessories-Bottom-rimmed_glasses_7.png/revision/latest?cb=20200410163724"
+    },
+    "Browline glasses": {
+        "name": "Browline glasses",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Gray",
+            "Brown",
+            "Green"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Accessory-Glasses-Browline.png/revision/latest?cb=20200402195608",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Accessories-Browline_glasses-grey.png/revision/latest?cb=20200408211423",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Accessories-Browline_glasses-brown.png/revision/latest?cb=20200408211332",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Accessories-Browline_glasses-green.png/revision/latest?cb=20200408211404"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Accessory-Glasses-Browline.png/revision/latest?cb=20200402195608"
+    },
+    "Bubblegum": {
+        "name": "Bubblegum",
+        "priceBuy": 140,
+        "priceSell": 35,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Pink",
+            "Green",
+            "Blue",
+            "Yellow",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Accessory-Bubblegum.png/revision/latest?cb=20200405005630",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Accessories-Bubblegum_2.png/revision/latest?cb=20200410164454",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Accessories-Bubblegum_1.png/revision/latest?cb=20200410164516",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Accessories-Bubblegum_5.png/revision/latest?cb=20200410164537",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Accessories-Bubblegum_4.png/revision/latest?cb=20200410164552"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Accessory-Bubblegum.png/revision/latest?cb=20200405005630"
+    },
+    "Bunny nose": {
+        "name": "Bunny nose",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "White",
+            "Pink",
+            "Yellow"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Accessory-Bunny_nose.png/revision/latest?cb=20200406181204",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Accessories-Bunny_nose_1.png/revision/latest?cb=20200410164850",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Accessories-Bunny_nose_4.png/revision/latest?cb=20200410164910"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Accessory-Bunny_nose.png/revision/latest?cb=20200406181204"
+    },
+    "Butterfly shades": {
+        "name": "Butterfly shades",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Blue",
+            "Brown",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Accessory-Glasses-Butterfly_shades.png/revision/latest?cb=20200406134451",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Accessories-Butterfly_shades_2.png/revision/latest?cb=20200410165017",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Accessories-Butterfly_shades_3.png/revision/latest?cb=20200410165046"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Accessory-Glasses-Butterfly_shades.png/revision/latest?cb=20200406134451"
+    },
+    "Candy-skull mask": {
+        "name": "Candy-skull mask",
+        "priceBuy": -1,
+        "priceSell": 800,
+        "source": [
+            "Gulliver"
+        ],
+        "variations": [
+            "Purple",
+            "Orange",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Accessories-Candy-skull_mask_1.png/revision/latest?cb=20200410164709",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Accessories-Candy-skull_mask_2.png/revision/latest?cb=20200410165142",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Accessories-Candy-skull_mask_3.png/revision/latest?cb=20200410165217"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Accessories-Candy-skull_mask_1.png/revision/latest?cb=20200410164709"
+    },
+    "Cat nose": {
+        "name": "Cat nose",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "White",
+            "Navy blue",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Accessory-Cat_nose.png/revision/latest?cb=20200403170135",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Accessories-Cat_nose_2.png/revision/latest?cb=20200410165341",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Accessories-Cat_nose_3.png/revision/latest?cb=20200410165409"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Accessory-Cat_nose.png/revision/latest?cb=20200403170135"
+    },
+    "Cucumber pack": {
+        "name": "Cucumber pack",
+        "priceBuy": 490,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Accessory-Cucumber.png/revision/latest?cb=20200403183256"
+    },
+    "Curly mustache": {
+        "name": "Curly mustache",
+        "priceBuy": 700,
+        "priceSell": -1,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Accessories-Curly_moustache.png/revision/latest?cb=20200408211529"
+    },
+    "Cyber shades": {
+        "name": "Cyber shades",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Yellow",
+            "Black",
+            "Green",
+            "Silver",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Accessory-Glasses-Cyber_shades.png/revision/latest?cb=20200402154333",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Accessories-Cyber_shades_2.png/revision/latest?cb=20200410184617",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Accessories-Cyber_shades_3.png/revision/latest?cb=20200410184637",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-Accessories-Cyber_shades_4.png/revision/latest?cb=20200410184700",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Accessories-Cyber_shades_5.png/revision/latest?cb=20200410184728",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Accessories-Cyber_shades_6.png/revision/latest?cb=20200410184750"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Accessory-Glasses-Cyber_shades.png/revision/latest?cb=20200402154333"
+    },
+    "DAL eye mask": {
+        "name": "DAL eye mask",
+        "priceBuy": -1,
+        "priceSell": 1010,
+        "source": [
+            "Mail from Dodo Airlines"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Accessory-Glass-DAL_Mask-0.png/revision/latest?cb=20200401145622"
+    },
+    "DAL sunglasses": {
+        "name": "DAL sunglasses",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": [],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Accessories-DAL_Shades.png/revision/latest?cb=20200410165555"
+    },
+    "Doctor's mask": {
+        "name": "Doctor's mask",
+        "priceBuy": 140,
+        "priceSell": 35,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Accessories-Doctor%27s_Mask.png/revision/latest?cb=20200410165629"
+    },
+    "Dog nose": {
+        "name": "Dog nose",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Beige",
+            "White",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Accessory-Dog_nose.png/revision/latest?cb=20200403170106",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Accessories-Dog_nose_3.png/revision/latest?cb=20200410165736",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Accessories-Dog_nose_1.png/revision/latest?cb=20200410165805"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Accessory-Dog_nose.png/revision/latest?cb=20200403170106"
+    },
+    "Double-bridge glasses": {
+        "name": "Double-bridge glasses",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Gold",
+            "Silver",
+            "Blue",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Accessories-Double-bridge_glasses_2.png/revision/latest?cb=20200410165921",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Accessories-Double-bridge_glasses_3.png/revision/latest?cb=20200410165943",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Accessories-Double-bridge_glasses_1.png/revision/latest?cb=20200410170011",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Accessories-Double-bridge_glasses_4.png/revision/latest?cb=20200410172358"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Accessories-Double-bridge_glasses_2.png/revision/latest?cb=20200410165921"
+    },
+    "Drinking-straw glasses": {
+        "name": "Drinking-straw glasses",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Green",
+            "Pink",
+            "White",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Accessory-Glasses-Drinkingstraw.png/revision/latest?cb=20200401181018",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Accessories-Drinking_3.png/revision/latest?cb=20200410172514",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Accessories-Drinking_4.png/revision/latest?cb=20200410172549",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Accessories-Drinking_1.png/revision/latest?cb=20200410172609"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Accessory-Glasses-Drinkingstraw.png/revision/latest?cb=20200401181018"
+    },
+    "Eye mask": {
+        "name": "Eye mask",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Gray",
+            "Red",
+            "Pink",
+            "Orange",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Accessory-Eye_mask_black.png/revision/latest?cb=20200410102150",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Accessory-Eye_mask_red.png/revision/latest?cb=20200410102222",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Accessory-Eye_mask_pink.png/revision/latest?cb=20200410102302",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Accessory-Eye_mask_orange.png/revision/latest?cb=20200410102321",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Accessory-Eye_mask_green.png/revision/latest?cb=20200410102343",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Accessory-Eye_mask_blue.png/revision/latest?cb=20200410102408"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Accessory-Eye_mask_pink.png/revision/latest?cb=20200410102302"
+    },
+    "Eye patch": {
+        "name": "Eye patch",
+        "priceBuy": 140,
+        "priceSell": 35,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Accessory-Glasses-Eye_patch.png/revision/latest?cb=20200406134421"
+    },
+    "Facial mask": {
+        "name": "Facial mask",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Accessories-Facial_mask.png/revision/latest?cb=20200410172753"
+    },
+    "Fake nose": {
+        "name": "Fake nose",
+        "priceBuy": 490,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Accessory-Fake_nose.png/revision/latest?cb=20200403183234"
+    },
+    "Flower sunglasses": {
+        "name": "Flower sunglasses",
+        "priceBuy": 770,
+        "priceSell": 192,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Orange",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Accessory-Glass-Flower-0.png/revision/latest?cb=20200401144928",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Accessories-Flower_sunglasses_3.png/revision/latest?cb=20200410172932",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Accessories-Flower_sunglasses_2.png/revision/latest?cb=20200410172953",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Accessories-Flower_sunglasses_1.png/revision/latest?cb=20200410173014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Accessories-Flower_sunglasses_4.png/revision/latest?cb=20200410173042"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Accessory-Glass-Flower-0.png/revision/latest?cb=20200401144928"
+    },
+    "Food mess": {
+        "name": "Food mess",
+        "priceBuy": 490,
+        "priceSell": -1,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Accessories-Food_mess.png/revision/latest?cb=20200408211644"
+    },
+    "Funny glasses": {
+        "name": "Funny glasses",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Blue",
+            "Pink"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Accessory-Glasses-Funny.png/revision/latest?cb=20200402180654",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Accessories-Funny_glasses_1.png/revision/latest?cb=20200410173229",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Accessories-Funny_glasses_3.png/revision/latest?cb=20200410173247"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Accessory-Glasses-Funny.png/revision/latest?cb=20200402180654"
+    },
+    "Gas mask": {
+        "name": "Gas mask",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Avocado"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Accessory-Gas_mask.png/revision/latest?cb=20200406194941",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Accessories-Gas_mask_2.png/revision/latest?cb=20200410173323"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Accessory-Gas_mask.png/revision/latest?cb=20200406194941"
+    },
+    "Glass-bottle glasses": {
+        "name": "Glass-bottle glasses",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Accessory-Glasses-Glass_bottle.png/revision/latest?cb=20200403182849"
+    },
+    "Goatee": {
+        "name": "Goatee",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/NH-Accessories-Goatee.png/revision/latest?cb=20200416061142"
+    },
+    "Goggles": {
+        "name": "Goggles",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Black",
+            "Blue",
+            "Green",
+            "Pink",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Accessories-Goggles_1.png/revision/latest?cb=20200410173413",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Accessories-Goggles_2.png/revision/latest?cb=20200410173434",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Accessories-Goggles_3.png/revision/latest?cb=20200410173503",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/38/NH-Accessories-Goggles_4.png/revision/latest?cb=20200410173526",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Accessories-Goggles_5.png/revision/latest?cb=20200410173552",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Accessories-Goggles_6.png/revision/latest?cb=20200410173616"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Accessories-Goggles_1.png/revision/latest?cb=20200410173413"
+    },
+    "Handlebar mustache": {
+        "name": "Handlebar mustache",
+        "priceBuy": 1120,
+        "priceSell": 280,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Accessory-Handlebar_mustache.png/revision/latest?cb=20200410123009"
+    },
+    "Heart shades": {
+        "name": "Heart shades",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Pink",
+            "Yellow",
+            "Purple",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Accessory-Glasses-Heart.png/revision/latest?cb=20200401171600",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Accessories-Heart_shades_5.png/revision/latest?cb=20200410173716",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Accessories-Heart_shades_4.png/revision/latest?cb=20200410173737",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Accessories-Heart_shades_2.png/revision/latest?cb=20200410173803",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Accessories-Heart_shades_1.png/revision/latest?cb=20200410173829"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Accessory-Glasses-Heart.png/revision/latest?cb=20200401171600"
+    },
+    "HMD": {
+        "name": "HMD",
+        "priceBuy": 2000,
+        "priceSell": 500,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Accessories-HMD.png/revision/latest?cb=20200410173854"
+    },
+    "Jester's mask": {
+        "name": "Jester's mask",
+        "priceBuy": 1760,
+        "priceSell": 440,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Red",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Accessories-Jester%27s_mask_1.png/revision/latest?cb=20200410173916",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Accessories-Jester%27s_mask_2.png/revision/latest?cb=20200410173944",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Accessories-Jester%27s_mask_3.png/revision/latest?cb=20200410174003",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Accessories-Jester%27s_mask_4.png/revision/latest?cb=20200410174025"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Accessories-Jester%27s_mask_1.png/revision/latest?cb=20200410173916"
+    },
+    "Labelle sunglasses": {
+        "name": "Labelle sunglasses",
+        "priceBuy": 2000,
+        "priceSell": -1,
+        "source": [
+            "Able SistersLabel"
+        ],
+        "variations": [
+            "Twilight",
+            "Ocean",
+            "Sunset",
+            "Passion",
+            "Love",
+            "Midnight"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Accessories-Labelle_sunglasses_1.png/revision/latest?cb=20200410174050",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Accessories-Labelle_sunglasses_4.png/revision/latest?cb=20200410174129",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Accessories-Labelle_sunglasses_5.png/revision/latest?cb=20200410174201",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Accessories-Labelle_sunglasses_3.png/revision/latest?cb=20200410174242",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Accessories-Labelle_sunglasses_6.png/revision/latest?cb=20200410174338",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Accessories-Labelle_sunglasses_2.png/revision/latest?cb=20200410174509"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Accessories-Labelle_sunglasses_1.png/revision/latest?cb=20200410174050"
+    },
+    "Ladder shades": {
+        "name": "Ladder shades",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Yellow",
+            "Pink",
+            "Green",
+            "Gold",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Accessory-Glasses-Ladder_shades.png/revision/latest?cb=20200402195520",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Accessories-Ladder_shades_6.png/revision/latest?cb=20200410174618",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-Accessories-Ladder_shades_4.png/revision/latest?cb=20200410174649",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Accessories-Ladder_shades_3.png/revision/latest?cb=20200410174718",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Accessories-Ladder_shades_2.png/revision/latest?cb=20200410174740",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Accessories-Ladder_shades_1.png/revision/latest?cb=20200410174803"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Accessory-Glasses-Ladder_shades.png/revision/latest?cb=20200402195520"
+    },
+    "Leaf": {
+        "name": "Leaf",
+        "priceBuy": -1,
+        "priceSell": -1,
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Accessory-Mouth-Leaf.png/revision/latest?cb=20200401160819"
+    },
+    "Masquerade mask": {
+        "name": "Masquerade mask",
+        "priceBuy": 910,
+        "priceSell": 227,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Red",
+            "Purple",
+            "Gold",
+            "Green",
+            "Blue"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Accessories-Masquerade_mask_1.png/revision/latest?cb=20200410174917",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Accessories-Masquerade_mask_2.png/revision/latest?cb=20200410174941",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Accessories-Masquerade_mask_3.png/revision/latest?cb=20200410175002",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Accessories-Masquerade_mask_4.png/revision/latest?cb=20200410175027",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Accessories-Masquerade_mask_5.png/revision/latest?cb=20200410175051",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Accessories-Masquerade_mask_6.png/revision/latest?cb=20200410175110"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Accessories-Masquerade_mask_1.png/revision/latest?cb=20200410174917"
+    },
+    "Monocle": {
+        "name": "Monocle",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Gold",
+            "Silver"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Accessory-Glasses-Monocle.png/revision/latest?cb=20200406195110",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Accessories-Monocle_2.png/revision/latest?cb=20200410175211",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Accessories-Monocle_3.png/revision/latest?cb=20200410175235"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Accessory-Glasses-Monocle.png/revision/latest?cb=20200406195110"
+    },
+    "Night-vision goggles": {
+        "name": "Night-vision goggles",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Accessories-Night-vision_goggles.png/revision/latest?cb=20200408211800"
+    },
+    "Nook Inc. eye mask": {
+        "name": "Nook Inc. eye mask",
+        "priceBuy": 400,
+        "priceSell": -1,
+        "source": [
+            "Nook Stop"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Accessory-Glass-Nook-0.png/revision/latest?cb=20200401150225"
+    },
+    "Nose drip": {
+        "name": "Nose drip",
+        "priceBuy": 490,
+        "priceSell": -1,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-Accessory-Nose_drip.png/revision/latest?cb=20200405005748"
+    },
+    "Octagonal glasses": {
+        "name": "Octagonal glasses",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Gray",
+            "Purple",
+            "Green",
+            "Gold",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Accessory-Glasses-Octagonal.png/revision/latest?cb=20200406195213",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Accessories-Octagonal_glasses_4.png/revision/latest?cb=20200410175354",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Accessories-Octagonal_glasses_3.png/revision/latest?cb=20200410175431",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Accessories-Octagonal_glasses_2.png/revision/latest?cb=20200410175459",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Accessories-Octagonal_glasses_1.png/revision/latest?cb=20200410175533"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Accessory-Glasses-Octagonal.png/revision/latest?cb=20200406195213"
+    },
+    "Oval glasses": {
+        "name": "Oval glasses",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [
+            "Nook StopAble Sisters"
+        ],
+        "variations": [
+            "Green",
+            "Purple",
+            "Blue",
+            "Mustard",
+            "Orange",
+            "Magenta",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Accessory-Glasses-Oval.png/revision/latest?cb=20200402154423",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Accessories-Oval_glasses_7.png/revision/latest?cb=20200410175700",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Accessories-Oval_glasses_6.png/revision/latest?cb=20200410175725",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Accessories-Oval_glasses_4.png/revision/latest?cb=20200410175747",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Accessories-Oval_glasses_3.png/revision/latest?cb=20200410175919",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Accessories-Oval_glasses_2.png/revision/latest?cb=20200410175950",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Accessories-Oval_glasses_1.png/revision/latest?cb=20200410180017"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Accessory-Glasses-Oval.png/revision/latest?cb=20200402154423"
+    },
+    "Pacifier": {
+        "name": "Pacifier",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Baby mint",
+            "Baby gray",
+            "Baby pink",
+            "Baby yellow",
+            "Baby orange",
+            "Baby blue",
+            "Baby green",
+            "Baby purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Accessory-Pacifier.png/revision/latest?cb=20200406195302",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Accessories-Pacifier_5.png/revision/latest?cb=20200410180246",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Accessories-Pacifier_4.png/revision/latest?cb=20200410180223",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Accessories-Pacifier_6.png/revision/latest?cb=20200410180313",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Accessories-Pacifier_1.png/revision/latest?cb=20200410180116",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Accessories-Pacifier_7.png/revision/latest?cb=20200410180339",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Accessories-Pacifier_8.png/revision/latest?cb=20200410180404",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Accessories-Pacifier_3.png/revision/latest?cb=20200410180151"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Accessory-Pacifier.png/revision/latest?cb=20200406195302"
+    },
+    "Pig nose": {
+        "name": "Pig nose",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Accessory-Mouth-Pig-Pink.png/revision/latest?cb=20200401145945"
+    },
+    "Pilot shades": {
+        "name": "Pilot shades",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Gold"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Accessory-Glasses-Pilot_shades.png/revision/latest?cb=20200406160411",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Accessories-Pilot_shades_2.png/revision/latest?cb=20200410180515"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Accessory-Glasses-Pilot_shades.png/revision/latest?cb=20200406160411"
+    },
+    "Pixel shades": {
+        "name": "Pixel shades",
+        "priceBuy": 1320,
+        "priceSell": 330,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Accessory-Glasses-Pixel_shades.png/revision/latest?cb=20200403183210",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Accessories-Pixel_shades_2.png/revision/latest?cb=20200410180624",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Accessories-Pixel_shades_3.png/revision/latest?cb=20200410180643",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Accessories-Pixel_shades_4.png/revision/latest?cb=20200410180707"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Accessory-Glasses-Pixel_shades.png/revision/latest?cb=20200403183210"
+    },
+    "Pleather mask": {
+        "name": "Pleather mask",
+        "priceBuy": 770,
+        "priceSell": -1,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Accessory-Mouth-Pleather_mask.png/revision/latest?cb=20200401181450"
+    },
+    "Post-op patch": {
+        "name": "Post-op patch",
+        "priceBuy": 490,
+        "priceSell": 122,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Accessory-Glasses-Postop_patch.png/revision/latest?cb=20200406135946"
+    },
+    "Privacy mask": {
+        "name": "Privacy mask",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Accessory-Mask-Privacy.png/revision/latest?cb=20200402195638"
+    },
+    "Reflector": {
+        "name": "Reflector",
+        "priceBuy": 560,
+        "priceSell": 140,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Accessories-Reflector.png/revision/latest?cb=20200410180809"
+    },
+    "Retro shades": {
+        "name": "Retro shades",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Yellow",
+            "Gray",
+            "Blue",
+            "Green",
+            "Purple",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Accessory-Glasses-Retro_shades.png/revision/latest?cb=20200406135601",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Accessories-Retro_shades_1.png/revision/latest?cb=20200410180858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Accessories-Retro_shades_2.png/revision/latest?cb=20200410180921",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Accessories-Retro_shades_3.png/revision/latest?cb=20200410180949",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Accessories-Retro_shades_5.png/revision/latest?cb=20200410181016",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Accessories-Retro_shades_6.png/revision/latest?cb=20200410181046"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Accessory-Glasses-Retro_shades.png/revision/latest?cb=20200406135601"
+    },
+    "Rhinestone shades": {
+        "name": "Rhinestone shades",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "Ochre",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Accessory-Glasses-Rhinestone_shades.png/revision/latest?cb=20200406133808",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Accessories-Rhinestone_shades_1.png/revision/latest?cb=20200410181155",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Accessories-Rhinestone_shades_2.png/revision/latest?cb=20200410181227"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Accessory-Glasses-Rhinestone_shades.png/revision/latest?cb=20200406133808"
+    },
+    "Rimmed glasses": {
+        "name": "Rimmed glasses",
+        "priceBuy": 630,
+        "priceSell": 157,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Gray",
+            "Brown",
+            "Gold",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Accessory-Glasses-Rimmed.png/revision/latest?cb=20200402200033",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Accessories-Rimmed_glasses_2.png/revision/latest?cb=20200410181506",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Accessories-Rimmed_glasses_4.png/revision/latest?cb=20200410181632",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Accessories-Rimmed_glasses_5.png/revision/latest?cb=20200410181726",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Accessories-Rimmed_glasses_1.png/revision/latest?cb=20200410181412"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Accessory-Glasses-Rimmed.png/revision/latest?cb=20200402200033"
+    },
+    "Round shades": {
+        "name": "Round shades",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Green",
+            "Blue",
+            "Yellow",
+            "Pink",
+            "Red",
+            "White",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Accessories-Round_shades_1.png/revision/latest?cb=20200410181804",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Accessories-Round_shades_2.png/revision/latest?cb=20200410181834",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Accessories-Round_shades_3.png/revision/latest?cb=20200410181910",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Accessories-Round_shades_4.png/revision/latest?cb=20200410181935",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Accessories-Round_shades_5.png/revision/latest?cb=20200410182000",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Accessories-Round_shades_6.png/revision/latest?cb=20200410182025",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Accessories-Round_shades_7.png/revision/latest?cb=20200410182051",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Accessories-Round_shades_8.png/revision/latest?cb=20200410182122"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Accessories-Round_shades_1.png/revision/latest?cb=20200410181804"
+    },
+    "Round tinted shades": {
+        "name": "Round tinted shades",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Dark brown",
+            "Green",
+            "Light brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Accessory-Glasses-Round_tinted_shades.png/revision/latest?cb=20200402180754",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Accessories-Round_tinted_shades_1.png/revision/latest?cb=20200410182251",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/NH-Accessories-Round_tinted_shades_3.png/revision/latest?cb=20200410182339",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Accessories-Round_tinted_shades_4.png/revision/latest?cb=20200410182414"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Accessory-Glasses-Round_tinted_shades.png/revision/latest?cb=20200402180754"
+    },
+    "Rounded beard": {
+        "name": "Rounded beard",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Accessories-Rounded_beard.png/revision/latest?cb=20200416061023"
+    },
+    "Shattered glasses": {
+        "name": "Shattered glasses",
+        "priceBuy": -1,
+        "priceSell": 10,
+        "source": [
+            "Recycle Box"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Accessories-Shattered_glasses.png/revision/latest?cb=20200410182647"
+    },
+    "Ski goggles": {
+        "name": "Ski goggles",
+        "priceBuy": 980,
+        "priceSell": 245,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Yellow",
+            "Purple",
+            "Pink",
+            "Green",
+            "Orange",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Accessories-Ski_goggles_1.png/revision/latest?cb=20200410182726",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Accessories-Ski_goggles_2.png/revision/latest?cb=20200410182801",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Accessories-Ski_goggles_3.png/revision/latest?cb=20200410182825",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Accessories-Ski_goggles_4.png/revision/latest?cb=20200410182906",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Accessories-Ski_goggles_5.png/revision/latest?cb=20200410182936",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Accessories-Ski_goggles_6.png/revision/latest?cb=20200410183003"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Accessories-Ski_goggles_1.png/revision/latest?cb=20200410182726"
+    },
+    "Sporty shades": {
+        "name": "Sporty shades",
+        "priceBuy": 1300,
+        "priceSell": 325,
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
+        "variations": [
+            "Black",
+            "Pink",
+            "Lime",
+            "Light blue",
+            "White"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Accessories-Sporty_shades_1.png/revision/latest?cb=20200410183044",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Accessories-Sporty_shades_4.png/revision/latest?cb=20200410183205",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Accessories-Sporty_shades_3.png/revision/latest?cb=20200410183140",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Accessories-Sporty_shades_2.png/revision/latest?cb=20200410183111",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Accessories-Sporty_shades_5.png/revision/latest?cb=20200410183232"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Accessory-Glasses-Sporty_shades.png/revision/latest?cb=20200406195403"
+    },
+    "Square glasses": {
+        "name": "Square glasses",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Gray",
+            "Black",
+            "Blue",
+            "Brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Accessories-Square_glasses_1.png/revision/latest?cb=20200410183300",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Accessories-Square_glasses_2.png/revision/latest?cb=20200410183327",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Accessories-Square_glasses_3.png/revision/latest?cb=20200410183348",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Accessories-Square_glasses_4.png/revision/latest?cb=20200410183416"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Accessories-Square_glasses_1.png/revision/latest?cb=20200410183300"
+    },
+    "Stache & glasses": {
+        "name": "Stache & glasses",
+        "priceBuy": 770,
+        "priceSell": 192,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Black",
+            "Red"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Accessory-Stache_and_glasses_black.png/revision/latest?cb=20200410103556",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Accessory-Stache_and_glasses_red.png/revision/latest?cb=20200410103619"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Accessory-Glass-Stache.png/revision/latest?cb=20200401151513"
+    },
+    "Star shades": {
+        "name": "Star shades",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Yellow",
+            "Blue",
+            "Green",
+            "Pink",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Glasses-Star_shades.png/revision/latest?cb=20200401181352",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Accessories-Star_shades_2.png/revision/latest?cb=20200410183536",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Accessories-Star_shades_3.png/revision/latest?cb=20200410183605",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Accessories-Star_shades_4.png/revision/latest?cb=20200410183635",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Accessories-Star_shades_5.png/revision/latest?cb=20200410183700"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Glasses-Star_shades.png/revision/latest?cb=20200401181352"
+    },
+    "Steampunk glasses": {
+        "name": "Steampunk glasses",
+        "priceBuy": 1300,
+        "priceSell": 425,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Green",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Accessories-Steampunk_glasses-brown.png/revision/latest?cb=20200408211852",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Accessories-Steampunk_glasses_2.png/revision/latest?cb=20200410183754"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Accessories-Steampunk_glasses-brown.png/revision/latest?cb=20200408211852"
+    },
+    "Sticky rice": {
+        "name": "Sticky rice",
+        "priceBuy": 490,
+        "priceSell": -1,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Accessory-Sticky_rice.png/revision/latest?cb=20200406195459"
+    },
+    "Superhero mask": {
+        "name": "Superhero mask",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [],
+        "variationImageLinks": [],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Accessory-Superhero_mask.png/revision/latest?cb=20200403200727"
+    },
+    "Tiny shades": {
+        "name": "Tiny shades",
+        "priceBuy": 1100,
+        "priceSell": 275,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Berry red",
+            "Gold",
+            "Black"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Accessories-Tiny_shades_1.png/revision/latest?cb=20200410183858",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Accessories-Tiny_shades_2.png/revision/latest?cb=20200410183923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Accessories-Tiny_shades_3.png/revision/latest?cb=20200410183946"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Accessories-Tiny_shades_1.png/revision/latest?cb=20200410183858"
+    },
+    "Tortoise specs": {
+        "name": "Tortoise specs",
+        "priceBuy": 1040,
+        "priceSell": 260,
+        "source": [
+            "Nook Stop"
+        ],
+        "variations": [
+            "Black",
+            "Brown",
+            "Beige"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Accessories-Tortoise_specs_2.png/revision/latest?cb=20200410184035",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Accessories-Tortoise_specs_1.png/revision/latest?cb=20200410184013",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Accessories-Tortoise_specs_3.png/revision/latest?cb=20200410184057"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Accessories-Tortoise_specs_1.png/revision/latest?cb=20200410184013"
+    },
+    "Triangle shades": {
+        "name": "Triangle shades",
+        "priceBuy": 880,
+        "priceSell": 220,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Red",
+            "White",
+            "Black",
+            "Orange",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Accessory-Glass-Triangle-0.png/revision/latest?cb=20200401150025",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Accessories-Triangle_shades_7.png/revision/latest?cb=20200410184141",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Accessories-Triangle_shades_1.png/revision/latest?cb=20200410184354",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Accessories-Triangle_shades_4.png/revision/latest?cb=20200410184233",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Accessories-Triangle_shades_3.png/revision/latest?cb=20200410184259",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-Accessories-Triangle_shades_2.png/revision/latest?cb=20200410184330",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Accessories-Triangle_shades_5.png/revision/latest?cb=20200410184205"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Accessory-Glass-Triangle-0.png/revision/latest?cb=20200401150025"
+    },
+    "Wooden-frame glasses": {
+        "name": "Wooden-frame glasses",
+        "priceBuy": 1560,
+        "priceSell": 390,
+        "source": [
+            "Able Sisters"
+        ],
+        "variations": [
+            "Brown",
+            "Dark brown"
+        ],
+        "variationImageLinks": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Accessory-Glasses-Wooden_frame.png/revision/latest?cb=20200406195549",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Accessories-Wooden-frame_glasses_1.png/revision/latest?cb=20200410184437"
+        ],
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Accessory-Glasses-Wooden_frame.png/revision/latest?cb=20200406195549"
+    }
+}
