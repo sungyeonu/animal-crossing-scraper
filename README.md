@@ -31,6 +31,13 @@ All JSON files are stored in /data
 /clothing
 - tops.json
 - bottoms.json
+- dresses.json
+- hats.json
+- accessories.json
+- socks.json
+- shoes.json
+- bags.json
+- umbrellas.json
 
 ## JSON fields
 -1 for price means the data is not available yet. 
