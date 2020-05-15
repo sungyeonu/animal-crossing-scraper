@@ -19,10 +19,12 @@ def convert_checkmark(string): # take str and returns True if str represents ava
         return False
 
 def strip_price(string): # take str and return integer only
+
     try: 
         return int(''.join(filter(str.isdigit, string)))
     except:
         return -1
+
 
 def get_image_links(images): # take html and return all imageLinks in a list. Strip out downscale property
     result = []

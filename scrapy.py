@@ -3,6 +3,7 @@ import requests
 import io
 from util import separate_by_br, convert_checkmark, strip_price, get_image_links, parse_variations, parse_source, dump_data
 
+
 URLS = {
     # --- New Horizons ---
     # Museum
@@ -399,4 +400,5 @@ if __name__ == "__main__":
     # -- Clothing --
     scrape_tops("tops")
     scrape_tops("bottoms")
+
     pass
