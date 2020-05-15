@@ -41,9 +41,15 @@ def parse_variations(tag):
     return separate_by_br(tag).strip().split(", ")
 
 def parse_source(tag):
+    # print(tag.prettify())
     if tag.text.strip() == "*" or tag.text.strip() == "N/A":
         return []
-    return tag.text.strip()
+    if tag.img:
+        if tag.img['alt'] == "NH-Inventory Icons-DIY Recipe":
+            return ["DIY Recipes"]
+        if tag.img['alt'] == "72px-Timmy Icon":
+            return ["Nook's Cranny"]
+    return [tag.text.strip()]
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:

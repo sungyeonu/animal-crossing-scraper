@@ -3,7 +3,9 @@
         "name": "Acorn knit cap",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Chestnut",
             "Mustard",
@@ -26,7 +28,9 @@
         "name": "Alpinist hat",
         "priceBuy": -1,
         "priceSell": 500,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Green",
             "Blue",
@@ -43,7 +47,9 @@
         "name": "Ancient administrator hat",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Headwear-Ancient_administrator_hat.png/revision/latest?cb=20200411174528"
@@ -52,7 +58,9 @@
         "name": "Apple hat",
         "priceBuy": -1,
         "priceSell": 1000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Apple_Hat.png/revision/latest?cb=20200415185509"
@@ -61,7 +69,9 @@
         "name": "Aran-knit cap",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Red",
@@ -80,7 +90,9 @@
         "name": "Baby's hat",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Baby mint",
             "Baby purple",
@@ -107,7 +119,9 @@
         "name": "Balloon hat",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "VillagerAble Sisters",
+        "source": [
+            "VillagerAble Sisters"
+        ],
         "variations": [
             "Rainbow",
             "Orange",
@@ -126,7 +140,9 @@
         "name": "Bamboo hat",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Headwear-Bamboo_hat.png/revision/latest?cb=20200411174907"
@@ -135,7 +151,9 @@
         "name": "Barrette",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Headwear-Barrette.png/revision/latest?cb=20200411174947"
@@ -144,7 +162,9 @@
         "name": "Baseball cap",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Navy blue",
@@ -165,7 +185,9 @@
         "name": "Batter's helmet",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Navy blue",
@@ -186,7 +208,9 @@
         "name": "Bear cap",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Black",
@@ -205,7 +229,9 @@
         "name": "Beret",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Berry red",
             "Blue",
@@ -228,7 +254,9 @@
         "name": "Bicycle helmet",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Navy blue",
@@ -255,7 +283,9 @@
         "name": "Birthday hat",
         "priceBuy": -1,
         "priceSell": 600,
-        "source": "Birthday",
+        "source": [
+            "Birthday"
+        ],
         "variations": [
             "Blue",
             "Yellow",
@@ -272,7 +302,9 @@
         "name": "Bowler hat with ribbon",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Beige",
@@ -293,7 +325,9 @@
         "name": "Bridal veil",
         "priceBuy": 4600,
         "priceSell": 1150,
-        "source": "Wedding Season",
+        "source": [
+            "Wedding Season"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Hat-Bridal_veil.png/revision/latest?cb=20200503215509"
@@ -302,7 +336,9 @@
         "name": "Bun wig",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -327,7 +363,9 @@
         "name": "Bunny Day crown",
         "priceBuy": -1,
         "priceSell": 2400,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Headwear-Bunny_day_crown.png/revision/latest?cb=20200411175745"
@@ -336,7 +374,9 @@
         "name": "Bunny ears",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -355,7 +395,9 @@
         "name": "Bunny hood",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -372,7 +414,9 @@
         "name": "Captain's hat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Hat-Captain%27s_hat_white.png/revision/latest?cb=20200422133657"
@@ -381,7 +425,9 @@
         "name": "Cat cap",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Brown",
@@ -398,7 +444,9 @@
         "name": "Catcher's mask",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Navy blue",
@@ -419,7 +467,9 @@
         "name": "Cavalier hat",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Red",
@@ -436,7 +486,9 @@
         "name": "Chef's hat",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Headwear-Chef%27s_hat.png/revision/latest?cb=20200411175934"
@@ -445,7 +497,9 @@
         "name": "Cherry hat",
         "priceBuy": -1,
         "priceSell": 1000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-cherry_hat.png/revision/latest?cb=20200415185736"
@@ -454,7 +508,9 @@
         "name": "Coin headpiece",
         "priceBuy": 5400,
         "priceSell": 1350,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Headwear-Coin_headpiece.png/revision/latest?cb=20200411180036"
@@ -486,7 +542,9 @@
         "name": "Combat helmet",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Avocado",
             "Brown"
@@ -501,7 +559,9 @@
         "name": "Composer's wig",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "/wiki/Special:Upload?wpDestFile=NH-Composer%27s_wig.png"
@@ -510,7 +570,9 @@
         "name": "Cool pansy crown",
         "priceBuy": -1,
         "priceSell": 960,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Cool_pansy_crown.png/revision/latest?cb=20200329072546"
@@ -519,7 +581,9 @@
         "name": "Cosmos crown",
         "priceBuy": -1,
         "priceSell": 4803360,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Colorful",
             "Lovely",
@@ -536,7 +600,9 @@
         "name": "Crown",
         "priceBuy": 1000000,
         "priceSell": 250000,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Headwear-Crown_%28small%29.png/revision/latest?cb=20200411180341"
@@ -545,7 +611,9 @@
         "name": "Cycling cap",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Black & blue",
@@ -581,7 +649,9 @@
         "name": "Dandy hat",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Camel",
             "Blue",
@@ -604,7 +674,9 @@
         "name": "Denim cap",
         "priceBuy": 770,
         "priceSell": 192,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Light blue",
@@ -623,7 +695,9 @@
         "name": "Detective hat",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Gray",
@@ -640,7 +714,9 @@
         "name": "DJ cap",
         "priceBuy": 770,
         "priceSell": 192,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Pink",
@@ -659,7 +735,9 @@
         "name": "Do-rag",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Blue",
@@ -701,7 +779,9 @@
         "name": "Earth-egg shell",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Earth-egg_shell.png/revision/latest?cb=20200402000413"
@@ -710,7 +790,9 @@
         "name": "Egg party hat",
         "priceBuy": 19200,
         "priceSell": 4800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Headwear-Egg_party_hat.png/revision/latest?cb=20200411180909"
@@ -719,7 +801,9 @@
         "name": "Eggshell",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Hat-Eggshell.png/revision/latest?cb=20200402195849"
@@ -728,7 +812,9 @@
         "name": "Elder mask",
         "priceBuy": 6000,
         "priceSell": 1500,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Headwear-Elder_mask.png/revision/latest?cb=20200411180956"
@@ -737,7 +823,9 @@
         "name": "Elegant hat",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Green",
@@ -758,7 +846,9 @@
         "name": "Explorer's hat",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Camel",
             "Avocado",
@@ -777,7 +867,9 @@
         "name": "Fairy-tale hood",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Pink",
@@ -804,7 +896,9 @@
         "name": "Faux-fur hat",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Brown",
@@ -829,7 +923,9 @@
         "name": "Fedora",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Black",
@@ -852,7 +948,9 @@
         "name": "Firefighter's hat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Flame orange",
@@ -873,7 +971,9 @@
         "name": "Flashy hairpin",
         "priceBuy": 2340,
         "priceSell": 585,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -898,7 +998,9 @@
         "name": "Floral hairpin",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -919,7 +1021,9 @@
         "name": "Football helmet",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "White",
@@ -946,7 +1050,9 @@
         "name": "Fox mask",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black"
@@ -980,7 +1086,9 @@
         "name": "Frugal hat",
         "priceBuy": 350,
         "priceSell": 87,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Green",
@@ -997,7 +1105,9 @@
         "name": "Geisha wig",
         "priceBuy": 5400,
         "priceSell": 1350,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Red",
             "Pink",
@@ -1022,7 +1132,9 @@
         "name": "Giant ribbon",
         "priceBuy": 1470,
         "priceSell": 368,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -1049,7 +1161,9 @@
         "name": "Glengarry",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-Headwear-Glengarry.png/revision/latest?cb=20200411181404"
@@ -1058,7 +1172,9 @@
         "name": "Gold helmet",
         "priceBuy": -1,
         "priceSell": 50000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Hat-Gold_helmet_gold.png/revision/latest?cb=20200422142009"
@@ -1067,7 +1183,9 @@
         "name": "Gothic headdress",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Black",
@@ -1090,7 +1208,9 @@
         "name": "Grape hat",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-grape_hat.png/revision/latest?cb=20200415190012"
@@ -1099,7 +1219,9 @@
         "name": "Halo",
         "priceBuy": 2220,
         "priceSell": 555,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Hat-Halo.png/revision/latest?cb=20200403182750"
@@ -1108,7 +1230,9 @@
         "name": "Handmade crown",
         "priceBuy": 300,
         "priceSell": 75,
-        "source": "International Chidren's Day",
+        "source": [
+            "International Chidren's Day"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Hat-Handmade_crown.png/revision/latest?cb=20200503215509"
@@ -1117,7 +1241,9 @@
         "name": "Headband",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -1136,7 +1262,9 @@
         "name": "Headgear",
         "priceBuy": 910,
         "priceSell": 227,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -1153,7 +1281,9 @@
         "name": "Headkerchief",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Hat-Headkerchief.png/revision/latest?cb=20200406155647"
@@ -1162,7 +1292,9 @@
         "name": "Heart hairpin",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -1183,7 +1315,9 @@
         "name": "Helmet with goggles",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green",
@@ -1210,7 +1344,9 @@
         "name": "Hibiscus hairpin",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -1229,7 +1365,9 @@
         "name": "Hockey mask",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Headwear-Hockey_mask.png/revision/latest?cb=20200411181509"
@@ -1238,7 +1376,9 @@
         "name": "Hot-dog hood",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Hats_Hot-dog_hood.png/revision/latest?cb=20200408154332"
@@ -1247,7 +1387,9 @@
         "name": "Hyacinth crown",
         "priceBuy": -1,
         "priceSell": 6402880,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Red",
             "Cool",
@@ -1264,7 +1406,9 @@
         "name": "Imitation cow skull",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Hat-Imitation_Cow_Skull.png/revision/latest?cb=20200406201941"
@@ -1273,7 +1417,9 @@
         "name": "Imp hood",
         "priceBuy": 1760,
         "priceSell": 440,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red"
@@ -1288,7 +1434,9 @@
         "name": "Jester's cap",
         "priceBuy": 1900,
         "priceSell": 475,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple & yellow",
             "Black & white",
@@ -1307,7 +1455,9 @@
         "name": "Jockey's helmet",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Orange",
@@ -1334,7 +1484,9 @@
         "name": "Kaffiyeh",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Red",
             "Black",
@@ -1351,7 +1503,9 @@
         "name": "Kappa cap",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Pink"
@@ -1366,7 +1520,9 @@
         "name": "Kiwi hat",
         "priceBuy": 770,
         "priceSell": 192,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Hat-Kiwi.png/revision/latest?cb=20200401171836"
@@ -1375,7 +1531,9 @@
         "name": "Knight's helmet",
         "priceBuy": 15000,
         "priceSell": 3750,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-Headwear-Knight%27s_helmet.png/revision/latest?cb=20200411182047"
@@ -1384,7 +1542,9 @@
         "name": "Knit cap with earflaps",
         "priceBuy": 1000,
         "priceSell": -1,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Beige",
             "Blue",
@@ -1409,7 +1569,9 @@
         "name": "Knit hat",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -1436,7 +1598,9 @@
         "name": "Labelle cap",
         "priceBuy": 2400,
         "priceSell": 600,
-        "source": "Able SistersLabel",
+        "source": [
+            "Able SistersLabel"
+        ],
         "variations": [
             "Twilight",
             "Midnight",
@@ -1459,7 +1623,9 @@
         "name": "Labelle hat",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able SistersLabel",
+        "source": [
+            "Able SistersLabel"
+        ],
         "variations": [
             "Twilight",
             "Midnight",
@@ -1482,7 +1648,9 @@
         "name": "Leaf-egg shell",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Headwear-Leaf-egg_shell.png/revision/latest?cb=20200411182323"
@@ -1491,7 +1659,9 @@
         "name": "Leaf mask",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Hats-Masks-Leaf.png/revision/latest?cb=20200406202124"
@@ -1500,7 +1670,9 @@
         "name": "Lettered cap",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Beige",
@@ -1517,7 +1689,9 @@
         "name": "Lily crown",
         "priceBuy": -1,
         "priceSell": 480900,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Colorful",
             "Cute",
@@ -1534,7 +1708,9 @@
         "name": "Mage's hat",
         "priceBuy": 3440,
         "priceSell": 860,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Blue",
@@ -1553,7 +1729,9 @@
         "name": "Matanpushi",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Brown",
@@ -1570,7 +1748,9 @@
         "name": "Matronly bun",
         "priceBuy": 1280,
         "priceSell": 320,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Hat-Matronly_bun.png/revision/latest?cb=20200403153121"
@@ -1579,7 +1759,9 @@
         "name": "Mesh cap",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Red",
@@ -1604,7 +1786,9 @@
         "name": "Milkmaid hat",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Headwear-Milkmaid_hat.png/revision/latest?cb=20200411182619"
@@ -1613,7 +1797,9 @@
         "name": "Mohawk wig",
         "priceBuy": 1280,
         "priceSell": 320,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Hats-Wigs-Mohawk.png/revision/latest?cb=20200408201504"
@@ -1622,7 +1808,9 @@
         "name": "Mum crown",
         "priceBuy": -1,
         "priceSell": 4802880,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Colorful",
             "Chic",
@@ -1639,7 +1827,9 @@
         "name": "Mummy mask",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Headwear-Mummy_mask.png/revision/latest?cb=20200411182753"
@@ -1648,7 +1838,9 @@
         "name": "New year's hat",
         "priceBuy": -1,
         "priceSell": 125,
-        "source": "New Years",
+        "source": [
+            "New Years"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -1675,7 +1867,9 @@
         "name": "New year's silk hat",
         "priceBuy": -1,
         "priceSell": 125,
-        "source": "New Years",
+        "source": [
+            "New Years"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -1702,7 +1896,9 @@
         "name": "Ninja hood",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Gray",
@@ -1729,7 +1925,9 @@
         "name": "Noh mask",
         "priceBuy": 2400,
         "priceSell": 600,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Headwear-Noh_mask.png/revision/latest?cb=20200411182916"
@@ -1738,7 +1936,9 @@
         "name": "Nook Inc. bandanna",
         "priceBuy": 500,
         "priceSell": 2500,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Headwear-Nook_Inc._bandana.png/revision/latest?cb=20200411182946"
@@ -1747,7 +1947,9 @@
         "name": "Nook Inc. cap",
         "priceBuy": 500,
         "priceSell": -1,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Headwear-Nook_Inc._cap.png/revision/latest?cb=20200411183111"
@@ -1756,7 +1958,9 @@
         "name": "Nurse's cap",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "White",
@@ -1773,7 +1977,9 @@
         "name": "Ok motors cap",
         "priceBuy": 770,
         "priceSell": 192,
-        "source": "Pocket Camp",
+        "source": [
+            "Pocket Camp"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Hat-Ok_motors_cap_white.png/revision/latest?cb=20200422171506"
@@ -1782,7 +1988,9 @@
         "name": "Orange hat",
         "priceBuy": -1,
         "priceSell": 1000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-orange_hat.png/revision/latest?cb=20200415190228"
@@ -1791,7 +1999,9 @@
         "name": "Outback hat",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Beige",
@@ -1812,7 +2022,9 @@
         "name": "Outdoor hat",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Orange",
             "Blue",
@@ -1839,7 +2051,9 @@
         "name": "Paintball mask",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -1858,7 +2072,9 @@
         "name": "Paisley bandanna",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -1885,7 +2101,9 @@
         "name": "Pansy crown",
         "priceBuy": -1,
         "priceSell": 4802880,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Colorful",
             "Cool",
@@ -1902,7 +2120,9 @@
         "name": "Paper bag",
         "priceBuy": 140,
         "priceSell": 35,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Hat-Paper_bag.png/revision/latest?cb=20200406202301"
@@ -1911,7 +2131,9 @@
         "name": "Paperboy cap",
         "priceBuy": 1470,
         "priceSell": 367,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Gray",
@@ -1932,7 +2154,9 @@
         "name": "Patchwork tulip hat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -1949,7 +2173,9 @@
         "name": "Peach hat",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-peach_hat.png/revision/latest?cb=20200415190428"
@@ -1958,7 +2184,9 @@
         "name": "Pear hat",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-pear_hat.png/revision/latest?cb=20200415190506"
@@ -1967,7 +2195,9 @@
         "name": "Pigtail",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/38/NH-Hat-Pigtail_hair_color.png/revision/latest?cb=20200422155644"
@@ -1976,7 +2206,9 @@
         "name": "Pilot's cap",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Black",
@@ -1993,7 +2225,9 @@
         "name": "Pilot's hat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Black",
@@ -2010,7 +2244,9 @@
         "name": "Pineapple cap",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-pineapple_hat.png/revision/latest?cb=20200415190641"
@@ -2019,7 +2255,9 @@
         "name": "Plain cap",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [
             "Gray",
             "Beige",
@@ -2040,7 +2278,9 @@
         "name": "Police cap",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Hat-Police.png/revision/latest?cb=20200401171911"
@@ -2049,7 +2289,9 @@
         "name": "Pom casquette",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "White",
@@ -2072,7 +2314,9 @@
         "name": "Pompadour wig",
         "priceBuy": 1280,
         "priceSell": 320,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Hats-Wig-Pompadour.png/revision/latest?cb=20200406190833"
@@ -2081,7 +2325,9 @@
         "name": "Power helmet",
         "priceBuy": 3220,
         "priceSell": 805,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -2100,7 +2346,9 @@
         "name": "Racing helmet",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "White",
@@ -2127,7 +2375,9 @@
         "name": "Rain hat",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [
             "Yellow",
             "Green",
@@ -2154,7 +2404,9 @@
         "name": "Ribbon",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -2181,7 +2433,9 @@
         "name": "Ribboned garden hat",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Pink",
@@ -2200,7 +2454,9 @@
         "name": "Ribboned straw hat",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Pink",
@@ -2217,7 +2473,9 @@
         "name": "Rose crown",
         "priceBuy": -1,
         "priceSell": 48012000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Colorful",
             "Cute",
@@ -2238,7 +2496,9 @@
         "name": "Royal crown",
         "priceBuy": 1200000,
         "priceSell": 300000,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Hat-Royal_crown.png/revision/latest?cb=20200403143515"
@@ -2247,7 +2507,9 @@
         "name": "Safety helmet",
         "priceBuy": 770,
         "priceSell": 192,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Blue",
@@ -2268,7 +2530,9 @@
         "name": "Sailor's hat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Navy blue",
@@ -2285,7 +2549,9 @@
         "name": "Samurai helmet",
         "priceBuy": 5880,
         "priceSell": 1470,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Black",
@@ -2306,7 +2572,9 @@
         "name": "Samurai wig",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Headwear-Samurai_wig.png/revision/latest?cb=20200411183658"
@@ -2315,7 +2583,9 @@
         "name": "Scholar's hat",
         "priceBuy": 3010,
         "priceSell": 752,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -2334,7 +2604,9 @@
         "name": "School hat",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Navy blue"
@@ -2349,7 +2621,9 @@
         "name": "Shallow knit cap",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Beige",
@@ -2374,7 +2648,9 @@
         "name": "Sheep hood",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Pink",
@@ -2412,7 +2688,9 @@
         "name": "Skateboarding helmet",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Olive",
@@ -2433,7 +2711,9 @@
         "name": "Skeleton hood",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Headwear-Skeleton_hood.png/revision/latest?cb=20200411184130"
@@ -2442,7 +2722,9 @@
         "name": "Ski mask",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Black",
@@ -2463,7 +2745,9 @@
         "name": "Sky-egg shell",
         "priceBuy": -1,
         "priceSell": 800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Sky-egg_shell.png/revision/latest?cb=20200401234727"
@@ -2472,7 +2756,9 @@
         "name": "Small silk hat",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Black",
@@ -2552,7 +2838,9 @@
         "name": "Sombrero",
         "priceBuy": -1,
         "priceSell": 500,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Natural & red",
             "Natural & green",
@@ -2579,7 +2867,9 @@
         "name": "Space helmet",
         "priceBuy": 4300,
         "priceSell": 1075,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Headwear-Space_helmet.png/revision/latest?cb=20200411193144"
@@ -2588,7 +2878,9 @@
         "name": "Sports cap",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "White & red",
@@ -2607,7 +2899,9 @@
         "name": "Stagehand hat",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Headwear-Stagehand_hat.png/revision/latest?cb=20200411193402"
@@ -2616,7 +2910,9 @@
         "name": "Star hairpin",
         "priceBuy": 350,
         "priceSell": 87,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Pink",
@@ -2637,7 +2933,9 @@
         "name": "Star head",
         "priceBuy": -1,
         "priceSell": 2500,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Hat-Star_head_yellow.png/revision/latest?cb=20200422163103"
@@ -2646,7 +2944,9 @@
         "name": "Stone-egg shell",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Stone-egg_shell.png/revision/latest?cb=20200401234813"
@@ -2655,7 +2955,9 @@
         "name": "Straw boater",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Cream",
             "Beige",
@@ -2708,7 +3010,9 @@
         "name": "Strawberry hat",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Hat-Strawberry.png/revision/latest?cb=20200401172014"
@@ -2717,7 +3021,9 @@
         "name": "Student cap",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Berry red",
@@ -2742,7 +3048,9 @@
         "name": "Summer solstice crown",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Summer Solstice Festival",
+        "source": [
+            "Summer Solstice Festival"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Hat-Summer-solstice_crown.png/revision/latest?cb=20200503215509"
@@ -2766,7 +3074,9 @@
         "name": "Swimming cap",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Light blue",
@@ -2793,7 +3103,9 @@
         "name": "Tam-o'-shanter",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Red",
             "Gray",
@@ -2812,7 +3124,9 @@
         "name": "Terry-cloth do-rag",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "White",
             "Black",
@@ -2835,7 +3149,9 @@
         "name": "Terry-cloth nightcap",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Blue",
@@ -2862,7 +3178,9 @@
         "name": "Tiara",
         "priceBuy": 4300,
         "priceSell": 1075,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Silver",
             "Rose gold",
@@ -2879,7 +3197,9 @@
         "name": "Tiara hair",
         "priceBuy": 2940,
         "priceSell": 735,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Silver",
             "Gold",
@@ -2896,7 +3216,9 @@
         "name": "Top hat",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -2940,7 +3262,9 @@
         "name": "Tubeteika",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -2959,7 +3283,9 @@
         "name": "Tulip crown",
         "priceBuy": -1,
         "priceSell": 4001440,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Colorful",
             "Chic",
@@ -2976,7 +3302,9 @@
         "name": "Tulip hat",
         "priceBuy": 630,
         "priceSell": 157,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Brown",
@@ -2993,7 +3321,9 @@
         "name": "Turban",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Purple",
             "Blue",
@@ -3012,7 +3342,9 @@
         "name": "Tweed cap",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Blue",
@@ -3029,7 +3361,9 @@
         "name": "Veil",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "Mail from Gulliver",
+        "source": [
+            "Mail from Gulliver"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -3048,7 +3382,9 @@
         "name": "Veiled gardening hat",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Green",
@@ -3069,7 +3405,9 @@
         "name": "Viking helmet",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Blue",
@@ -3086,7 +3424,9 @@
         "name": "Visual-punk wig",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Hat-Wig-Visual-punk.png/revision/latest?cb=20200401161756"
@@ -3095,7 +3435,9 @@
         "name": "Water-egg shell",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Water-egg_shell.png/revision/latest?cb=20200401234949"
@@ -3113,7 +3455,9 @@
         "name": "Welding mask",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Headwear-Welding_mask.png/revision/latest?cb=20200411195053"
@@ -3122,7 +3466,9 @@
         "name": "Wide-brim straw hat",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3139,7 +3485,9 @@
         "name": "Windflower crown",
         "priceBuy": -1,
         "priceSell": 4802880,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [
             "Colorful",
             "Cool",
@@ -3156,7 +3504,9 @@
         "name": "Wizard's cap",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Purple"
@@ -3171,7 +3521,9 @@
         "name": "Wood-egg shell",
         "priceBuy": 3200,
         "priceSell": 800,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Wood-egg_shell.png/revision/latest?cb=20200401235056"
@@ -3180,7 +3532,9 @@
         "name": "Wrestling mask",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -3230,7 +3584,9 @@
         "name": "Zen hair clip",
         "priceBuy": 4300,
         "priceSell": 1075,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Aqua",

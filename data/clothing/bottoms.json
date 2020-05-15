@@ -3,7 +3,9 @@
         "name": "Acid-washed jeans",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Black"
@@ -18,7 +20,9 @@
         "name": "Animal-stripes skirt",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Tiger",
             "Zebra"
@@ -33,7 +37,9 @@
         "name": "Apron skirt",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Blue",
@@ -50,7 +56,9 @@
         "name": "Athletic pants",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -73,7 +81,9 @@
         "name": "Athletic shorts",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -123,7 +133,9 @@
         "name": "Bell-bottoms",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Brown",
@@ -144,7 +156,9 @@
         "name": "Belted wraparound skirt",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Red",
@@ -217,7 +231,9 @@
         "name": "Bomber-style skirt",
         "priceBuy": 1320,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Avocado",
             "Black",
@@ -236,7 +252,9 @@
         "name": "Botanical shorts",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White"
@@ -251,7 +269,9 @@
         "name": "Box-pleated skirt",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Beige",
@@ -270,7 +290,9 @@
         "name": "Buttoned lace skirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "White",
@@ -291,7 +313,9 @@
         "name": "Buttoned wraparound skirt",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Blue",
@@ -314,7 +338,9 @@
         "name": "Camo pants",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Avocado",
@@ -339,7 +365,9 @@
         "name": "Camo skirt",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Avocado",
@@ -364,7 +392,9 @@
         "name": "Career skirt",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Beige",
@@ -391,7 +421,9 @@
         "name": "Cargo pants",
         "priceBuy": 1080,
         "priceSell": 270,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Avocado",
             "Beige",
@@ -412,7 +444,9 @@
         "name": "Cargo shorts",
         "priceBuy": 1080,
         "priceSell": 270,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Navy blue",
@@ -433,7 +467,9 @@
         "name": "Casual pants",
         "priceBuy": 1300,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Gray",
@@ -456,7 +492,9 @@
         "name": "Chain pants",
         "priceBuy": 1300,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -475,7 +513,9 @@
         "name": "Chino pants",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Nook Stop\nAble Sisters",
+        "source": [
+            "Nook Stop\nAble Sisters"
+        ],
         "variations": [
             "Beige",
             "Brown",
@@ -502,7 +542,9 @@
         "name": "Colorful skirt",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -523,7 +565,9 @@
         "name": "Comedian's pants",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Blue",
@@ -550,7 +594,9 @@
         "name": "Comic shorts",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Bottoms-Comic_shorts_black.png/revision/latest?cb=20200421022658"
@@ -582,7 +628,9 @@
         "name": "Corduroy skirt",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Camel",
@@ -605,7 +653,9 @@
         "name": "Corte skirt",
         "priceBuy": 880,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Magenta",
@@ -622,7 +672,9 @@
         "name": "Cropped pants",
         "priceBuy": 920,
         "priceSell": 230,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -649,7 +701,9 @@
         "name": "Cuffed pants",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Purple",
@@ -668,7 +722,9 @@
         "name": "Culottes",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Light blue",
             "White",
@@ -687,7 +743,9 @@
         "name": "Cut-pleather skirt",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Pink",
@@ -706,7 +764,9 @@
         "name": "Cycling shorts",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue & red",
             "Black & blue",
@@ -733,7 +793,9 @@
         "name": "Dance warm-up pants",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -752,7 +814,9 @@
         "name": "Denim cutoffs",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Blue",
             "Light blue",
@@ -794,7 +858,9 @@
         "name": "Denim pants",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Blue",
             "Light blue",
@@ -815,7 +881,9 @@
         "name": "Denim skirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Blue",
             "Light blue",
@@ -836,7 +904,9 @@
         "name": "Dotted shorts",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Gray"
@@ -905,7 +975,9 @@
         "name": "Draped skirt",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -932,7 +1004,9 @@
         "name": "Dreamy pants",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green",
@@ -951,7 +1025,9 @@
         "name": "Dress pants",
         "priceBuy": 1300,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Navy blue",
@@ -1010,7 +1086,9 @@
         "name": "Embroidered floral skirt",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Blue",
@@ -1027,7 +1105,9 @@
         "name": "Embroidered-pattern skirt",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Green",
@@ -1044,7 +1124,9 @@
         "name": "Explorer shorts",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Camel",
             "Avocado",
@@ -1063,7 +1145,9 @@
         "name": "Faux-fur skirt",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Pink",
@@ -1084,7 +1168,9 @@
         "name": "Faux-shearling skirt",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Pink",
@@ -1105,7 +1191,9 @@
         "name": "Flare skirt",
         "priceBuy": 1140,
         "priceSell": 285,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Black",
@@ -1126,7 +1214,9 @@
         "name": "Flashy slacks",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -1149,7 +1239,9 @@
         "name": "Floral lace skirt",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Pink",
@@ -1176,7 +1268,9 @@
         "name": "Floral skirt",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Yellow",
@@ -1247,7 +1341,9 @@
         "name": "Frilly pants",
         "priceBuy": 1200,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Mint",
@@ -1268,7 +1364,9 @@
         "name": "Frilly skirt",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -1291,7 +1389,9 @@
         "name": "Frilly sweatpants",
         "priceBuy": 880,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Pink",
@@ -1314,7 +1414,9 @@
         "name": "Fringe skirt",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Camel",
             "Black",
@@ -1408,7 +1510,9 @@
         "name": "Gobelin shorts",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Black"
@@ -1423,7 +1527,9 @@
         "name": "Grass skirt",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "DIY Recipe",
+        "source": [
+            "DIY Recipe"
+        ],
         "variations": [
             "Brown",
             "Green"
@@ -1438,7 +1544,9 @@
         "name": "Hickory-stripe pants",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Light blue"
@@ -1453,7 +1561,9 @@
         "name": "Jogging shorts",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Light blue",
@@ -1480,7 +1590,9 @@
         "name": "Kilt",
         "priceBuy": 1000,
         "priceSell": 250,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Black",
@@ -1499,7 +1611,9 @@
         "name": "Knit pants",
         "priceBuy": 910,
         "priceSell": 227,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Brown",
@@ -1518,7 +1632,9 @@
         "name": "Knit skirt",
         "priceBuy": 910,
         "priceSell": 227,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Light blue",
@@ -1537,7 +1653,9 @@
         "name": "Kung-fu pants",
         "priceBuy": 1680,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "White",
@@ -1644,7 +1762,9 @@
         "name": "Lemon skirt",
         "priceBuy": 880,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "White",
@@ -1661,7 +1781,9 @@
         "name": "Leopard miniskirt",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Gray",
@@ -1684,7 +1806,9 @@
         "name": "Long chino skirt",
         "priceBuy": -1,
         "priceSell": 1560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Brown",
@@ -1705,7 +1829,9 @@
         "name": "Long denim skirt",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Light blue",
@@ -1745,7 +1871,9 @@
         "name": "Long pleated skirt",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Ruby red",
             "White",
@@ -1766,7 +1894,9 @@
         "name": "Long polka skirt",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -1793,7 +1923,9 @@
         "name": "Long sailor skirt",
         "priceBuy": 1560,
         "priceSell": 312,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Orange",
@@ -1820,7 +1952,9 @@
         "name": "Long sweatskirt",
         "priceBuy": 1000,
         "priceSell": 250,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Gray",
@@ -1839,7 +1973,9 @@
         "name": "Muay-thai shorts",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Red",
@@ -1858,7 +1994,9 @@
         "name": "Multicolor shorts",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -1877,7 +2015,9 @@
         "name": "Noble pants",
         "priceBuy": 4300,
         "priceSell": 1075,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Ruby red",
@@ -1904,7 +2044,9 @@
         "name": "Outdoor shorts",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Yellow",
             "Black",
@@ -1931,7 +2073,9 @@
         "name": "Patched-knee pants",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Purple",
@@ -1950,7 +2094,9 @@
         "name": "Patchwork skirt",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Red",
@@ -1969,7 +2115,9 @@
         "name": "Pearl skirt",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Bottoms-Pearl_skirt_navy_blue.png/revision/latest?cb=20200421035136"
@@ -1978,7 +2126,9 @@
         "name": "Petal skirt",
         "priceBuy": 1540,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Cool",
             "Rainbow",
@@ -2020,7 +2170,9 @@
         "name": "Plaid shorts",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Brown",
@@ -2039,7 +2191,9 @@
         "name": "Pleather flare skirt",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Black",
@@ -2066,7 +2220,9 @@
         "name": "Pleather pants",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Brown",
@@ -2089,7 +2245,9 @@
         "name": "Pleather patch skirt",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -2108,7 +2266,9 @@
         "name": "Pleather shorts",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Brown",
@@ -2127,7 +2287,9 @@
         "name": "Plover skirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Black",
@@ -2144,7 +2306,9 @@
         "name": "Pleather skirt",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Brown",
@@ -2167,7 +2331,9 @@
         "name": "Polka-dot mini skirt",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Pink",
@@ -2186,7 +2352,9 @@
         "name": "Punk pants",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -2205,7 +2373,9 @@
         "name": "Rain pants",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Green",
@@ -2232,7 +2402,9 @@
         "name": "Sailor skirt",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Orange",
@@ -2259,7 +2431,9 @@
         "name": "Satin pants",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Blue",
@@ -2284,7 +2458,9 @@
         "name": "School pants",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Berry red",
@@ -2309,7 +2485,9 @@
         "name": "Silk floral-print pants",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -2334,7 +2512,9 @@
         "name": "Silk pants",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -2355,7 +2535,9 @@
         "name": "Ski pants",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Turquoise",
             "Red",
@@ -2378,7 +2560,9 @@
         "name": "Slacks",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Gray",
@@ -2457,7 +2641,9 @@
         "name": "Sporty skirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters\nNook Stop",
+        "source": [
+            "Able Sisters\nNook Stop"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -2476,7 +2662,9 @@
         "name": "Striped bell-bottoms",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Red",
@@ -2495,7 +2683,9 @@
         "name": "Striped pants",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Orange",
@@ -2516,7 +2706,9 @@
         "name": "Striped shorts",
         "priceBuy": -1,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -2535,7 +2727,9 @@
         "name": "Surfing shorts",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Purple",
@@ -2556,7 +2750,9 @@
         "name": "Sweatpants",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Nook StopAble Sisters",
+        "source": [
+            "Nook StopAble Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -2583,7 +2779,9 @@
         "name": "Tennis skirt",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Navy blue",
@@ -2602,7 +2800,9 @@
         "name": "Terry-cloth shorts",
         "priceBuy": 1260,
         "priceSell": 315,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -2621,7 +2821,9 @@
         "name": "Three-quarter sweatpants",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Mint",
             "Pink",
@@ -2648,7 +2850,9 @@
         "name": "Tie-dye Skirt",
         "priceBuy": 1260,
         "priceSell": 315,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -2669,7 +2873,9 @@
         "name": "Tiered Skirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Mint",
@@ -2690,7 +2896,9 @@
         "name": "Torn pants",
         "priceBuy": -1,
         "priceSell": 10,
-        "source": "Lost & Found",
+        "source": [
+            "Lost & Found"
+        ],
         "variations": [
             "Brown",
             "Black",
@@ -2707,7 +2915,9 @@
         "name": "Track pants",
         "priceBuy": 770,
         "priceSell": 192,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Gray",
@@ -2732,7 +2942,9 @@
         "name": "Traditional monpe pants",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Blue",
@@ -2774,7 +2986,9 @@
         "name": "Tweed frilly skirt",
         "priceBuy": 1560,
         "priceSell": 390,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Gray",
@@ -2793,7 +3007,9 @@
         "name": "Tweed pants",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Blue",
@@ -2816,7 +3032,9 @@
         "name": "Tweed skirt",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Pink",
@@ -2833,7 +3051,9 @@
         "name": "Two-tone pants",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Monotone",
             "Yellow",
@@ -2852,7 +3072,9 @@
         "name": "Upcycled skirt",
         "priceBuy": 1320,
         "priceSell": 330,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Pink",
@@ -2869,7 +3091,9 @@
         "name": "Vibrant shorts",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Avocado",
@@ -2890,7 +3114,9 @@
         "name": "Western Pants",
         "priceBuy": 1540,
         "priceSell": 385,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Bottoms-Western_pants_brown.png/revision/latest?cb=20200421044457"
@@ -2899,7 +3125,9 @@
         "name": "Wide chino pants",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Beige",
@@ -2920,7 +3148,9 @@
         "name": "Workout pants",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Lime",
             "Pink",
@@ -2937,7 +3167,9 @@
         "name": "Worn-out cutoffs",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Light blue",
             "Blue",
@@ -2956,7 +3188,9 @@
         "name": "Worn-out jeans",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Blue",
@@ -2975,7 +3209,9 @@
         "name": "Yacht shorts",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Red",

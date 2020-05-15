@@ -3,7 +3,9 @@
         "name": "A tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Tops-A_tee.png/revision/latest?cb=20200409110625"
@@ -12,7 +14,9 @@
         "name": "Acid-washed jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Blue"
@@ -27,7 +31,9 @@
         "name": "After-school jacket",
         "priceBuy": 1050,
         "priceSell": 262,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -52,7 +58,9 @@
         "name": "Animal-print coat",
         "priceBuy": 2320,
         "priceSell": 580,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Green",
@@ -71,7 +79,9 @@
         "name": "Animal-stripes tee",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Tiger",
             "Zebra,"
@@ -86,7 +96,9 @@
         "name": "Annyeong tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Clothing-Annyeong_tee.png/revision/latest?cb=20200408140415"
@@ -95,7 +107,9 @@
         "name": "Anorak jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -112,7 +126,9 @@
         "name": "Apron",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -139,7 +155,9 @@
         "name": "Aran-knit cardigan",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Light blue",
@@ -158,7 +176,9 @@
         "name": "Aran-knit sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -183,7 +203,9 @@
         "name": "Argyle sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Gray",
@@ -210,7 +232,9 @@
         "name": "Argyle vest",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Green",
@@ -233,7 +257,9 @@
         "name": "Athletic jacket",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Berry red",
@@ -256,7 +282,9 @@
         "name": "Baggy shirt",
         "priceBuy": -1,
         "priceSell": 10,
-        "source": "Lost & Found",
+        "source": [
+            "Lost & Found"
+        ],
         "variations": [
             "Brown",
             "Gray",
@@ -273,7 +301,9 @@
         "name": "Baseball shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -296,7 +326,9 @@
         "name": "Basketball tank",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -323,7 +355,9 @@
         "name": "Bear tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Tops-Bear_tee.png/revision/latest?cb=20200403092426"
@@ -332,7 +366,9 @@
         "name": "Big-star tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Tops-Big-star_tee.png/revision/latest?cb=20200403092704"
@@ -341,7 +377,9 @@
         "name": "Biker jacket",
         "priceBuy": 1750,
         "priceSell": 437,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -364,7 +402,9 @@
         "name": "Blossom tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -385,7 +425,9 @@
         "name": "Boa blouson",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Blue",
@@ -404,7 +446,9 @@
         "name": "Boa fleece",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Green",
@@ -431,7 +475,9 @@
         "name": "Bold aloha shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Pink"
@@ -446,7 +492,9 @@
         "name": "Bomber-style jacket",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Avocado",
@@ -465,7 +513,9 @@
         "name": "Bone tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Tops-Bone_tee.png/revision/latest?cb=20200411121314"
@@ -474,7 +524,9 @@
         "name": "Bonjour tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Tops-Bonjour.png/revision/latest?cb=20200403195433"
@@ -483,7 +535,9 @@
         "name": "Botanical tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Black",
             "White"
@@ -498,7 +552,9 @@
         "name": "Bowling shirt",
         "priceBuy": 1260,
         "priceSell": 315,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -525,7 +581,9 @@
         "name": "Bug aloha shirt",
         "priceBuy": -1,
         "priceSell": 240,
-        "source": "Bug Off",
+        "source": [
+            "Bug Off"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Tops-Bug_aloha_shirt.png/revision/latest?cb=20200411121539"
@@ -534,7 +592,9 @@
         "name": "Bulldog jacket",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -551,7 +611,9 @@
         "name": "Business suitcoat",
         "priceBuy": 1960,
         "priceSell": 490,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -572,7 +634,9 @@
         "name": "Caf\u00e9 uniform",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -591,7 +655,9 @@
         "name": "Camo bomber-style jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Gray",
@@ -608,7 +674,9 @@
         "name": "Camo tee",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Avocado",
             "Purple",
@@ -633,7 +701,9 @@
         "name": "Camper tee",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Nook Stop Promotional",
+        "source": [
+            "Nook Stop Promotional"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Tops-Camper_tee.png/revision/latest?cb=20200411144330"
@@ -642,7 +712,9 @@
         "name": "Cardigan-shirt combo",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Mint",
             "Gray",
@@ -665,7 +737,9 @@
         "name": "Career Jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -692,7 +766,9 @@
         "name": "Cavalier shirt",
         "priceBuy": 2080,
         "priceSell": 520,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -709,7 +785,9 @@
         "name": "Checkered chesterfield coat",
         "priceBuy": 2380,
         "priceSell": 595,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Green",
@@ -728,7 +806,9 @@
         "name": "Checkered muffler",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -747,7 +827,9 @@
         "name": "Chef's outfit",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -772,7 +854,9 @@
         "name": "Chesterfield coat",
         "priceBuy": 2320,
         "priceSell": 580,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Camel",
             "Brown",
@@ -791,7 +875,9 @@
         "name": "Chick tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Tops-Chick_tee.png/revision/latest?cb=20200411122628"
@@ -800,7 +886,9 @@
         "name": "Chimayo vest",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Red",
@@ -819,7 +907,9 @@
         "name": "Ciao Tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Tops-Ciao_tee.png/revision/latest?cb=20200407153140"
@@ -828,7 +918,9 @@
         "name": "Coatigan",
         "priceBuy": 2380,
         "priceSell": 595,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Pink",
@@ -849,7 +941,9 @@
         "name": "Collarless coat",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -866,7 +960,9 @@
         "name": "Collarless shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black"
@@ -881,7 +977,9 @@
         "name": "College cardigan",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Red",
@@ -902,7 +1000,9 @@
         "name": "Color-block dress shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -925,7 +1025,9 @@
         "name": "Colorful striped sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "yellow & red",
@@ -954,7 +1056,9 @@
         "name": "Comedian's outfit",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Red",
@@ -981,7 +1085,9 @@
         "name": "Coral Nook Inc. aloha shirt",
         "priceBuy": 600,
         "priceSell": 3000,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Tops-Coral_Nook_Inc._aloha_shirt.png/revision/latest?cb=20200503220649"
@@ -990,7 +1096,9 @@
         "name": "Coverall coat",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Avocado",
             "Navy blue",
@@ -1009,7 +1117,9 @@
         "name": "Cowboy shirt",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Brown",
@@ -1030,7 +1140,9 @@
         "name": "Cycling shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue & white",
             "Yellow & black",
@@ -1057,7 +1169,9 @@
         "name": "DAL apron",
         "priceBuy": -1,
         "priceSell": 1010,
-        "source": "Mail from Dodo Airlines",
+        "source": [
+            "Mail from Dodo Airlines"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Tops-Dal_apron.png/revision/latest?cb=20200411123214"
@@ -1066,7 +1180,9 @@
         "name": "DAL pilot jacket",
         "priceBuy": -1,
         "priceSell": 1010,
-        "source": "Mail from Dodo Airlines",
+        "source": [
+            "Mail from Dodo Airlines"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Tops-Dal_pilot_jacket_0.png/revision/latest?cb=20200411123215"
@@ -1075,7 +1191,9 @@
         "name": "DAL tee",
         "priceBuy": -1,
         "priceSell": 1010,
-        "source": "Mail from Dodo Airlines",
+        "source": [
+            "Mail from Dodo Airlines"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Tops-DAL_tee.png/revision/latest?cb=20200401185410"
@@ -1084,7 +1202,9 @@
         "name": "Dance-team jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -1103,7 +1223,9 @@
         "name": "Danger tank",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Tops-Danger_tank.png/revision/latest?cb=20200411130627"
@@ -1112,7 +1234,9 @@
         "name": "Denim jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "",
             "Blue",
@@ -1134,7 +1258,9 @@
         "name": "Denim vest",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Washed out",
             "Black",
@@ -1155,7 +1281,9 @@
         "name": "Detective's coat",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Brown",
@@ -1172,7 +1300,9 @@
         "name": "Diner apron",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Cream",
@@ -1197,7 +1327,9 @@
         "name": "Doctor's coat",
         "priceBuy": 2160,
         "priceSell": 540,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black necktie",
             "Red necktie"
@@ -1212,7 +1344,9 @@
         "name": "Dolly shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Purple",
@@ -1231,7 +1365,9 @@
         "name": "Dotted raincoat",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -1254,7 +1390,9 @@
         "name": "Doublet",
         "priceBuy": 1520,
         "priceSell": 380,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -1273,7 +1411,9 @@
         "name": "Down jacket",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Black",
@@ -1300,7 +1440,9 @@
         "name": "Down ski jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red & yellow",
             "Blue & green",
@@ -1319,7 +1461,9 @@
         "name": "Dragon jacket",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Tops-Dragon_jacket.png/revision/latest?cb=20200412121119"
@@ -1328,7 +1472,9 @@
         "name": "Dreamy sweater",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue"
@@ -1343,7 +1489,9 @@
         "name": "Dress shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -1364,7 +1512,9 @@
         "name": "Earbuds combo",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Blue",
@@ -1383,7 +1533,9 @@
         "name": "Eight-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Tops-Numberball8.png/revision/latest?cb=20200402151207"
@@ -1392,7 +1544,9 @@
         "name": "Emblem blazer",
         "priceBuy": 1960,
         "priceSell": 490,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Berry red",
             "Green",
@@ -1411,7 +1565,9 @@
         "name": "Embroidered tank",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Purple",
@@ -1436,7 +1592,9 @@
         "name": "Energetic sweater",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -1455,7 +1613,9 @@
         "name": "Explorer shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Avocado",
@@ -1474,7 +1634,9 @@
         "name": "Faux-hair sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "White"
@@ -1489,7 +1651,9 @@
         "name": "Faux-shearling coat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Pink",
@@ -1510,7 +1674,9 @@
         "name": "Fischerhemd",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Tops-Fischerhemd.png/revision/latest?cb=20200412122035"
@@ -1519,7 +1685,9 @@
         "name": "Fish-print tee",
         "priceBuy": -1,
         "priceSell": 160,
-        "source": "Fishing Tourney reward from C.J.",
+        "source": [
+            "Fishing Tourney reward from C.J."
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Tops-Fish-print_tee.png/revision/latest?cb=20200412122107"
@@ -1528,7 +1696,9 @@
         "name": "Fishing vest",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -1555,7 +1725,9 @@
         "name": "Fitness tank",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -1582,7 +1754,9 @@
         "name": "Five-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Tops-Five-ball_tee.png/revision/latest?cb=20200403100729"
@@ -1591,7 +1765,9 @@
         "name": "Flame tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Tops-Flame_tee.png/revision/latest?cb=20200412122150"
@@ -1600,7 +1776,9 @@
         "name": "Flannel shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -1621,7 +1799,9 @@
         "name": "Flashy cardigan",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue"
@@ -1636,7 +1816,9 @@
         "name": "Flashy jacket",
         "priceBuy": 1960,
         "priceSell": 490,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -1659,7 +1841,9 @@
         "name": "Flight jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Avocado",
@@ -1676,7 +1860,9 @@
         "name": "Flower sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -1695,7 +1881,9 @@
         "name": "Folk shirt",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Brown",
@@ -1712,7 +1900,9 @@
         "name": "Football shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -1739,7 +1929,9 @@
         "name": "Four-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Tops-Four-ball_tee.png/revision/latest?cb=20200408173832"
@@ -1748,7 +1940,9 @@
         "name": "Frog tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Tops-Frog_tee.png/revision/latest?cb=20200408174650"
@@ -1757,7 +1951,9 @@
         "name": "Front-tie button-down shirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -1776,7 +1972,9 @@
         "name": "Front-tie tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -1795,7 +1993,9 @@
         "name": "Fuzzy vest",
         "priceBuy": 1300,
         "priceSell": 325,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -1816,7 +2016,9 @@
         "name": "Garden tank",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -1835,7 +2037,9 @@
         "name": "Gilet and shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Blue",
@@ -1854,7 +2058,9 @@
         "name": "Gingham picnic shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -1881,7 +2087,9 @@
         "name": "Gold-print tee",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White"
@@ -1896,7 +2104,9 @@
         "name": "Gown coat",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Black",
@@ -1915,7 +2125,9 @@
         "name": "Graduation gown",
         "priceBuy": 3360,
         "priceSell": 840,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -1934,7 +2146,9 @@
         "name": "Green Nook Inc. aloha shirt",
         "priceBuy": 600,
         "priceSell": 3000,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Tops-Green_Nook_Inc._aloha_shirt.png/revision/latest?cb=20200503220649"
@@ -1943,7 +2157,9 @@
         "name": "Groovy shirt",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Orange",
@@ -1960,7 +2176,9 @@
         "name": "Groovy tunic",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Brown",
@@ -1977,7 +2195,9 @@
         "name": "Guayabera shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -1996,7 +2216,9 @@
         "name": "Guide shirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -2013,7 +2235,9 @@
         "name": "Gym tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -2032,7 +2256,9 @@
         "name": "Hallo tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Tops-Hallo.png/revision/latest?cb=20200401203622"
@@ -2041,7 +2267,9 @@
         "name": "Handmade cape",
         "priceBuy": 500,
         "priceSell": 125,
-        "source": "International Children's Day",
+        "source": [
+            "International Children's Day"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Tops-Handmade_cape.png/revision/latest?cb=20200503220650"
@@ -2050,7 +2278,9 @@
         "name": "Hand-knit tank",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Camel",
             "White",
@@ -2073,7 +2303,9 @@
         "name": "Hanten jacket",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Green",
@@ -2092,7 +2324,9 @@
         "name": "Happi tee",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Red",
@@ -2113,7 +2347,9 @@
         "name": "Hawk jacket",
         "priceBuy": 1750,
         "priceSell": 437,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Tops-Hawk_jacket.png/revision/latest?cb=20200412123845"
@@ -2122,7 +2358,9 @@
         "name": "Heart apron",
         "priceBuy": 1000,
         "priceSell": 250,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Purple",
@@ -2143,7 +2381,9 @@
         "name": "Heart sweater",
         "priceBuy": 1000,
         "priceSell": 250,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Red"
@@ -2158,7 +2398,9 @@
         "name": "Heavy-duty shirt",
         "priceBuy": 1000,
         "priceSell": 250,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Ochre",
@@ -2177,7 +2419,9 @@
         "name": "Hello tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Tops-Hello_tee.png/revision/latest?cb=20200412124030"
@@ -2186,7 +2430,9 @@
         "name": "Henley shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able SistersBalloon",
+        "source": [
+            "Able SistersBalloon"
+        ],
         "variations": [
             "Mustard",
             "Green",
@@ -2205,7 +2451,9 @@
         "name": "Hi tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Tops-Hi_tee.png/revision/latest?cb=20200409121239"
@@ -2214,7 +2462,9 @@
         "name": "Hip-wrap shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Blue",
@@ -2231,7 +2481,9 @@
         "name": "Hoi tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Tops-Hoi.png/revision/latest?cb=20200401203725"
@@ -2240,7 +2492,9 @@
         "name": "Hola tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Tops-Hola.png/revision/latest?cb=20200401203805"
@@ -2249,7 +2503,9 @@
         "name": "Holiday sweater",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -2266,7 +2522,9 @@
         "name": "Hula top",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -2287,7 +2545,9 @@
         "name": "Humble sweater",
         "priceBuy": 1150,
         "priceSell": 287,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Blue",
@@ -2306,7 +2566,9 @@
         "name": "Kanji tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Pink",
@@ -2325,7 +2587,9 @@
         "name": "Kids' smock",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Tulip,\n Cherry blossom,\n Chick,\n Frog"
         ],
@@ -2341,7 +2605,9 @@
         "name": "Konnichiwa tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Tops-Konnichiwa.png/revision/latest?cb=20200401203649"
@@ -2350,7 +2616,9 @@
         "name": "Kung-fu tee",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White,\n Yellow,\n Green,\n Light blue,\n Navy blue"
         ],
@@ -2367,7 +2635,9 @@
         "name": "Kurta",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green,\n Gray,\n Blue,\n Beige,"
         ],
@@ -2383,7 +2653,9 @@
         "name": "Labelle coat",
         "priceBuy": 3900,
         "priceSell": 975,
-        "source": "Able Sisters\nLabel",
+        "source": [
+            "Able Sisters\nLabel"
+        ],
         "variations": [
             "Midnight",
             "Passion",
@@ -2406,7 +2678,9 @@
         "name": "Labelle knit shirt",
         "priceBuy": 2270,
         "priceSell": 567,
-        "source": "Able SistersLabel",
+        "source": [
+            "Able SistersLabel"
+        ],
         "variations": [
             "Midnight",
             "Passion",
@@ -2429,7 +2703,9 @@
         "name": "Lacy shirt",
         "priceBuy": 850,
         "priceSell": 212,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Beige"
@@ -2444,7 +2720,9 @@
         "name": "Lacy tank",
         "priceBuy": 850,
         "priceSell": 212,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Pink",
@@ -2465,7 +2743,9 @@
         "name": "Layered shirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Orange",
@@ -2484,7 +2764,9 @@
         "name": "Layered tank",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Pink",
@@ -2511,7 +2793,9 @@
         "name": "Leopard tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Pink",
@@ -2530,7 +2814,9 @@
         "name": "Letter jacket",
         "priceBuy": 1080,
         "priceSell": 270,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Red",
@@ -2549,7 +2835,9 @@
         "name": "Madras plaid shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Default shirtAble Sisters",
+        "source": [
+            "Default shirtAble Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -2572,7 +2860,9 @@
         "name": "Marble-dots tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White"
@@ -2587,7 +2877,9 @@
         "name": "Meme shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Blue",
@@ -2606,7 +2898,9 @@
         "name": "Military uniform",
         "priceBuy": 3360,
         "priceSell": 840,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Red",
@@ -2625,7 +2919,9 @@
         "name": "Misty tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Tops-Misty_tee.png/revision/latest?cb=20200409122830"
@@ -2634,7 +2930,9 @@
         "name": "Mod parka",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Brown"
@@ -2649,7 +2947,9 @@
         "name": "Mom's hand-knit sweater",
         "priceBuy": -1,
         "priceSell": 88,
-        "source": "Mail from Mom",
+        "source": [
+            "Mail from Mom"
+        ],
         "variations": [
             "M",
             "Flowers",
@@ -2676,7 +2976,9 @@
         "name": "Mom's handmade apron",
         "priceBuy": -1,
         "priceSell": 88,
-        "source": "Mail from Mom",
+        "source": [
+            "Mail from Mom"
+        ],
         "variations": [
             "M",
             "Flowers",
@@ -2703,7 +3005,9 @@
         "name": "Morning coat",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Tops-Morning_coat.png/revision/latest?cb=20200403182550"
@@ -2712,7 +3016,9 @@
         "name": "Mountain parka",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -2731,7 +3037,9 @@
         "name": "Multipurpose vest",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Avocado",
@@ -2748,7 +3056,9 @@
         "name": "Muscle tank",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Black",
@@ -2775,7 +3085,9 @@
         "name": "Music-fest shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -2794,7 +3106,9 @@
         "name": "MVP tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Tops-MVP.png/revision/latest?cb=20200401203830"
@@ -2803,7 +3117,9 @@
         "name": "Ni hao tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Tops-Ni_hao_tee.png/revision/latest?cb=20200414125448"
@@ -2812,7 +3128,9 @@
         "name": "Nine-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Tops-Numberball9.png/revision/latest?cb=20200402151239"
@@ -2821,7 +3139,9 @@
         "name": "No. 1 Shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Tops-No.1_shirt.png/revision/latest?cb=20200408174231"
@@ -2830,7 +3150,9 @@
         "name": "No. 2 Shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Tops-No.2_Shirt.png/revision/latest?cb=20200408174419"
@@ -2839,7 +3161,9 @@
         "name": "No. 3 shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Tops-No.3_Shirt.png/revision/latest?cb=20200408174445"
@@ -2848,7 +3172,9 @@
         "name": "No. 4 shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Tops-No._4_Shirt.png/revision/latest?cb=20200408174549"
@@ -2857,7 +3183,9 @@
         "name": "Noble coat",
         "priceBuy": 4800,
         "priceSell": 1200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Ruby red",
@@ -2884,7 +3212,9 @@
         "name": "Nook Inc. aloha shirt",
         "priceBuy": 600,
         "priceSell": 3000,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Tops-Nook_Inc._aloha_shirt.png/revision/latest?cb=20200408174957"
@@ -2893,7 +3223,9 @@
         "name": "Nook Inc. blouson",
         "priceBuy": 600,
         "priceSell": 4000,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Tops-Nook_inc._blouson.png/revision/latest?cb=20200414125612"
@@ -2902,7 +3234,9 @@
         "name": "Nook Inc. tee",
         "priceBuy": 600,
         "priceSell": 3000,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Tops-Nook_Inc._tee.png/revision/latest?cb=20200408174805"
@@ -2911,7 +3245,9 @@
         "name": "Nurse's jacket",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Pink",
@@ -2928,7 +3264,9 @@
         "name": "Nylon jacket",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -2947,7 +3285,9 @@
         "name": "Oilskin coat",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Red",
@@ -2964,7 +3304,9 @@
         "name": "OK Motors jacket",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Nook Stop Promotional",
+        "source": [
+            "Nook Stop Promotional"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Tops-OK_Motors_jacket.png/revision/latest?cb=20200411144330"
@@ -2973,7 +3315,9 @@
         "name": "Old-school jacket",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -2990,7 +3334,9 @@
         "name": "One-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Tops-Numberball1.png/revision/latest?cb=20200402150926"
@@ -2999,7 +3345,9 @@
         "name": "Open-collar shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Coral",
             "Green",
@@ -3018,7 +3366,9 @@
         "name": "Oversized shawl overshirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Pink",
@@ -3035,7 +3385,9 @@
         "name": "Parka undercoat",
         "priceBuy": 2320,
         "priceSell": 580,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Yellow",
@@ -3058,7 +3410,9 @@
         "name": "Patchwork coat",
         "priceBuy": 2380,
         "priceSell": 595,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Brown",
             "Green",
@@ -3075,7 +3429,9 @@
         "name": "Peacoat",
         "priceBuy": 1960,
         "priceSell": 490,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Gray",
@@ -3094,7 +3450,9 @@
         "name": "Peasant blouse",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3115,7 +3473,9 @@
         "name": "Pineapple aloha shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Default Shirt",
+        "source": [
+            "Default Shirt"
+        ],
         "variations": [
             "Yellow",
             "Blue",
@@ -3140,7 +3500,9 @@
         "name": "Plaid puffed-sleeve shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Fancy plaid",
             "Energetic plaid",
@@ -3159,7 +3521,9 @@
         "name": "Pleather trench coat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Purple",
@@ -3176,7 +3540,9 @@
         "name": "Plover cardigan",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Black",
@@ -3193,7 +3559,9 @@
         "name": "Plushie-muffler coat",
         "priceBuy": 1960,
         "priceSell": 490,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Pink",
@@ -3210,7 +3578,9 @@
         "name": "Pocket tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Balloon",
+        "source": [
+            "Balloon"
+        ],
         "variations": [
             "Black",
             "White",
@@ -3237,7 +3607,9 @@
         "name": "Polo shirt",
         "priceBuy": 720,
         "priceSell": 180,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Black",
@@ -3264,7 +3636,9 @@
         "name": "Pom-pom sweater",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Pink",
@@ -3280,7 +3654,9 @@
         "name": "Poncho coat",
         "priceBuy": 2320,
         "priceSell": 580,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -3299,7 +3675,9 @@
         "name": "Poncho-style sweater",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Orange",
@@ -3320,7 +3698,9 @@
         "name": "Prince's tunic",
         "priceBuy": 4800,
         "priceSell": 1200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -3341,7 +3721,9 @@
         "name": "Printed fleece sweater",
         "priceBuy": 1260,
         "priceSell": 315,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Moss green",
             "Blue",
@@ -3362,7 +3744,9 @@
         "name": "Printed layered shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3379,7 +3763,9 @@
         "name": "Printed-sleeve sweater",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3396,7 +3782,9 @@
         "name": "Priv\u00e9t tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Tops-Privet_tee.png/revision/latest?cb=20200409121126"
@@ -3405,7 +3793,9 @@
         "name": "Puffy vest",
         "priceBuy": 1250,
         "priceSell": 312,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Camel",
@@ -3426,7 +3816,9 @@
         "name": "Puffy-sleeve blouse",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -3445,7 +3837,9 @@
         "name": "Pullover jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Red",
@@ -3466,7 +3860,9 @@
         "name": "Quilted down jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Gray",
@@ -3487,7 +3883,9 @@
         "name": "Quilted jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Brown",
@@ -3508,7 +3906,9 @@
         "name": "Rabbit tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Tops-Rabbit_tee.png/revision/latest?cb=20200403123129"
@@ -3517,7 +3917,9 @@
         "name": "Raglan shirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -3538,7 +3940,9 @@
         "name": "Rainbow sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Light blue",
@@ -3559,7 +3963,9 @@
         "name": "Raincoat",
         "priceBuy": 1280,
         "priceSell": 320,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -3586,7 +3992,9 @@
         "name": "Reindeer sweater",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Brown",
@@ -3603,7 +4011,9 @@
         "name": "Relay tank",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3630,7 +4040,9 @@
         "name": "Retro coat",
         "priceBuy": 2380,
         "priceSell": 595,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Mustard",
@@ -3649,7 +4061,9 @@
         "name": "Retro sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Purple",
@@ -3668,7 +4082,9 @@
         "name": "Ribbon-straps tank",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -3685,7 +4101,9 @@
         "name": "Royal shirt",
         "priceBuy": 6720,
         "priceSell": 1680,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Tops-Royal_shirt.png/revision/latest?cb=20200402201624"
@@ -3694,7 +4112,9 @@
         "name": "Rubber apron",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White"
@@ -3709,7 +4129,9 @@
         "name": "Safety vest",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Orange"
@@ -3724,7 +4146,9 @@
         "name": "Sailor-style shirt",
         "priceBuy": 1050,
         "priceSell": 262,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Light blue",
@@ -3741,7 +4165,9 @@
         "name": "Sailor's tee",
         "priceBuy": 1050,
         "priceSell": 262,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Red",
@@ -3768,7 +4194,9 @@
         "name": "Samurai shirt",
         "priceBuy": 6720,
         "priceSell": 1680,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3789,7 +4217,9 @@
         "name": "School jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -3814,7 +4244,9 @@
         "name": "Sea hanten shirt",
         "priceBuy": 1450,
         "priceSell": 362,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Blue"
@@ -3829,7 +4261,9 @@
         "name": "Seven-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Tops-Numberball7.png/revision/latest?cb=20200402151135"
@@ -3838,7 +4272,9 @@
         "name": "Shirt with camera",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Black"
@@ -3853,7 +4289,9 @@
         "name": "Short peacoat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Navy blue",
@@ -3878,7 +4316,9 @@
         "name": "Short-sleeve dress shirt",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Blue",
@@ -3899,7 +4339,9 @@
         "name": "Silk floral-print shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -3924,7 +4366,9 @@
         "name": "Silk shirt",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -3945,7 +4389,9 @@
         "name": "Simple knit sweater",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -3962,7 +4408,9 @@
         "name": "Simple parka",
         "priceBuy": 1060,
         "priceSell": 265,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -3989,7 +4437,9 @@
         "name": "Simple-dots tee",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Default shirt",
+        "source": [
+            "Default shirt"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -4010,7 +4460,9 @@
         "name": "Six-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Tops-Numberball6.png/revision/latest?cb=20200402151105"
@@ -4019,7 +4471,9 @@
         "name": "Skiwear",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -4042,7 +4496,9 @@
         "name": "Skull tee",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Purple",
@@ -4059,7 +4515,9 @@
         "name": "Sleeved apron",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Orange",
@@ -4080,7 +4538,9 @@
         "name": "Sleeveless dress shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Pink",
@@ -4101,7 +4561,9 @@
         "name": "Sleeveless parka",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Green",
@@ -4122,7 +4584,9 @@
         "name": "Sleeveless tunic",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Yellow",
@@ -4145,7 +4609,9 @@
         "name": "Snowflake sweater",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Light blue"
@@ -4160,7 +4626,9 @@
         "name": "Snowy sweater",
         "priceBuy": 1450,
         "priceSell": 362,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Blue",
@@ -4177,7 +4645,9 @@
         "name": "Soccer-uniform top",
         "priceBuy": 1330,
         "priceSell": 332,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Green",
@@ -4204,7 +4674,9 @@
         "name": "Space parka",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Purple"
@@ -4219,7 +4691,9 @@
         "name": "Sparkly embroidered tank",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -4236,7 +4710,9 @@
         "name": "Spider-web tee",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Tops-Spider-web_tee.png/revision/latest?cb=20200414180146"
@@ -4245,7 +4721,9 @@
         "name": "Sports tank",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "1",
             "2",
@@ -4272,7 +4750,9 @@
         "name": "Staff uniform",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -4289,7 +4769,9 @@
         "name": "Starry tank",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Tops-Starry_tank.png/revision/latest?cb=20200414180218"
@@ -4298,7 +4780,9 @@
         "name": "Striped shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -4321,7 +4805,9 @@
         "name": "Striped tank",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Yellow",
@@ -4348,7 +4834,9 @@
         "name": "Striped tee",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Red",
@@ -4371,7 +4859,9 @@
         "name": "Sushi chef's outfit",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Dark blue"
@@ -4386,7 +4876,9 @@
         "name": "Sweater on shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -4407,7 +4899,9 @@
         "name": "Sweater-vest",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "White",
@@ -4426,7 +4920,9 @@
         "name": "Sweatshirt",
         "priceBuy": 700,
         "priceSell": 175,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -4449,7 +4945,9 @@
         "name": "Sweetheart tank and shirt",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -4470,7 +4968,9 @@
         "name": "Tailcoat",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black"
@@ -4485,7 +4985,9 @@
         "name": "Tailored jacket",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -4506,7 +5008,9 @@
         "name": "Tank",
         "priceBuy": 350,
         "priceSell": 87,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -4527,7 +5031,9 @@
         "name": "Tee-parka combo",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Orange",
@@ -4548,7 +5054,9 @@
         "name": "Tennis sweater",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Ivory",
             "Red",
@@ -4567,7 +5075,9 @@
         "name": "Terry-cloth nightgown",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Light blue",
@@ -4594,7 +5104,9 @@
         "name": "Text shirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -4611,7 +5123,9 @@
         "name": "Thick-stripes shirt",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy & gray",
             "Yellow & red",
@@ -4638,7 +5152,9 @@
         "name": "Thief's costume",
         "priceBuy": 2600,
         "priceSell": 650,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Tops-Thief%27s_costume.png/revision/latest?cb=20200414180819"
@@ -4647,7 +5163,9 @@
         "name": "Thread-worn sweater",
         "priceBuy": 980,
         "priceSell": 245,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -4666,7 +5184,9 @@
         "name": "Three-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters\n Nook Stop",
+        "source": [
+            "Able Sisters\n Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Tops-Numberball3.png/revision/latest?cb=20200402151037"
@@ -4675,7 +5195,9 @@
         "name": "Tie-dye shirt",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Tops-Tie-dye_shirt.png/revision/latest?cb=20200403130910"
@@ -4684,7 +5206,9 @@
         "name": "Tiger jacket",
         "priceBuy": 1750,
         "priceSell": 437,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Tops-Tiger_jacket.png/revision/latest?cb=20200414180820"
@@ -4693,7 +5217,9 @@
         "name": "Tight-knit sweater",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -4710,7 +5236,9 @@
         "name": "Top coat",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Light blue",
@@ -4729,7 +5257,9 @@
         "name": "Track jacket",
         "priceBuy": 910,
         "priceSell": 227,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -4754,7 +5284,9 @@
         "name": "Traditional straw coat",
         "priceBuy": -1,
         "priceSell": 160,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Tops-Traditional_straw_coat.png/revision/latest?cb=20200414180956"
@@ -4763,7 +5295,9 @@
         "name": "Tree sweater",
         "priceBuy": 880,
         "priceSell": 220,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Tops-Tree_sweater.png/revision/latest?cb=20200414180956"
@@ -4772,7 +5306,9 @@
         "name": "Trench coat",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Orange",
@@ -4793,7 +5329,9 @@
         "name": "Tube top",
         "priceBuy": 640,
         "priceSell": 160,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -4818,7 +5356,9 @@
         "name": "Tunic tank",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Yellow",
@@ -4837,7 +5377,9 @@
         "name": "Tuxedo jacket",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -4854,7 +5396,9 @@
         "name": "Tweed jacket",
         "priceBuy": 1680,
         "priceSell": 420,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Berry red",
             "Pink",
@@ -4877,7 +5421,9 @@
         "name": "Tweed vest",
         "priceBuy": 1400,
         "priceSell": 350,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -4894,7 +5440,9 @@
         "name": "Two-ball tee",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters Nook Stop",
+        "source": [
+            "Able Sisters Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Tops-Numberball2.png/revision/latest?cb=20200402151006"
@@ -4903,7 +5451,9 @@
         "name": "V-neck sweater",
         "priceBuy": 840,
         "priceSell": 210,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -4920,7 +5470,9 @@
         "name": "Vampire costume",
         "priceBuy": 2600,
         "priceSell": 650,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Purple"
@@ -4935,7 +5487,9 @@
         "name": "Vertical-stripes shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -4960,7 +5514,9 @@
         "name": "Vest with binoculars",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Tops-Vest_with_binoculars.png/revision/latest?cb=20200414181125"
@@ -4969,7 +5525,9 @@
         "name": "Viking top",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Blue",
@@ -4986,7 +5544,9 @@
         "name": "Waistcoat",
         "priceBuy": 1750,
         "priceSell": 437,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -5007,7 +5567,9 @@
         "name": "Western shirt",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -5026,7 +5588,9 @@
         "name": "Winter-solstice sweater",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Winter Solstice Festival",
+        "source": [
+            "Winter Solstice Festival"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Tops-Winter-solstice_sweater.png/revision/latest?cb=20200503230354"
@@ -5035,7 +5599,9 @@
         "name": "Work apron",
         "priceBuy": 1100,
         "priceSell": 275,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Avocado"
@@ -5050,7 +5616,9 @@
         "name": "Work shirt",
         "priceBuy": 1040,
         "priceSell": 260,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White-striped necktie",
             "Red-striped necktie",
@@ -5071,7 +5639,9 @@
         "name": "Worker's jacket",
         "priceBuy": 800,
         "priceSell": 200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light blue",
             "Navy blue",
@@ -5088,7 +5658,9 @@
         "name": "Workout top",
         "priceBuy": 560,
         "priceSell": 140,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Orange",
@@ -5105,7 +5677,9 @@
         "name": "Yodel cardigan",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Ice blue",
             "Beige",
@@ -5128,7 +5702,9 @@
         "name": "Yodel sweater",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Light gray",
             "Camel",
@@ -5149,7 +5725,9 @@
         "name": "Young-royal shirt",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -5170,7 +5748,9 @@
         "name": "Zigzag shirt",
         "priceBuy": 960,
         "priceSell": 240,
-        "source": "Nook Stop",
+        "source": [
+            "Nook Stop"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Tops-Zigzag_shirt.png/revision/latest?cb=20200414181419"

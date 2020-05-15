@@ -3,7 +3,9 @@
         "name": "Academy uniform",
         "priceBuy": 2080,
         "priceSell": 520,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -20,7 +22,9 @@
         "name": "Adventure dress",
         "priceBuy": 2800,
         "priceSell": 700,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Dresses-Adventure.png/revision/latest?cb=20200406133920"
@@ -29,7 +33,9 @@
         "name": "Alpinist dress",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -46,7 +52,9 @@
         "name": "Alpinist overalls",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -63,7 +71,9 @@
         "name": "Ancient belted robe",
         "priceBuy": 3640,
         "priceSell": 910,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Purple",
@@ -84,7 +94,9 @@
         "name": "Ancient sashed robe",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Red",
@@ -105,7 +117,9 @@
         "name": "\u00c1o d\u00e0i",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Pink",
@@ -126,7 +140,9 @@
         "name": "Apple dress",
         "priceBuy": -1,
         "priceSell": 1600,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Clothing-Apple_dress.png/revision/latest?cb=20200408012123"
@@ -135,7 +151,9 @@
         "name": "Astro dress",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green",
@@ -152,7 +170,9 @@
         "name": "Attus robe",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -169,7 +189,9 @@
         "name": "Baby-chick costume",
         "priceBuy": 1700,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Yellow",
@@ -186,7 +208,9 @@
         "name": "Baby romper",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Baby gray",
             "Baby pink",
@@ -213,7 +237,9 @@
         "name": "Baji Jeogori",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Aqua",
@@ -232,7 +258,9 @@
         "name": "Ballet outfit",
         "priceBuy": 2880,
         "priceSell": 720,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -276,7 +304,9 @@
         "name": "Baseball uniform",
         "priceBuy": 1760,
         "priceSell": 440,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Orange",
@@ -297,7 +327,9 @@
         "name": "Bathrobe",
         "priceBuy": 720,
         "priceSell": 180,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -322,7 +354,9 @@
         "name": "Bath-towel wrap",
         "priceBuy": 630,
         "priceSell": 157,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Black",
@@ -347,7 +381,9 @@
         "name": "Bear costume",
         "priceBuy": 1700,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -404,7 +440,9 @@
         "name": "Bingata dress",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Dresses-Bingata_dress.png/revision/latest?cb=20200417024014"
@@ -413,7 +451,9 @@
         "name": "Blossom dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -434,7 +474,9 @@
         "name": "Blossoming kimono",
         "priceBuy": 3220,
         "priceSell": 805,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green tea"
@@ -468,7 +510,9 @@
         "name": "Bohemian tunic dress",
         "priceBuy": 1900,
         "priceSell": 475,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -528,7 +572,9 @@
         "name": "Box-skirt uniform",
         "priceBuy": 2300,
         "priceSell": 575,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -570,7 +616,9 @@
         "name": "Butterfly visiting kimono",
         "priceBuy": 2660,
         "priceSell": 665,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Indigo blue",
@@ -587,7 +635,9 @@
         "name": "Cake dress",
         "priceBuy": 20000,
         "priceSell": 5000,
-        "source": "Wedding Season",
+        "source": [
+            "Wedding Season"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Dresses-Cake_dress.png/revision/latest?cb=20200503221227"
@@ -596,7 +646,9 @@
         "name": "Casual chic dress",
         "priceBuy": 2400,
         "priceSell": 600,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -618,7 +670,9 @@
         "name": "Casual kimono",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Aqua",
@@ -654,7 +708,9 @@
         "name": "Caterpillar costume",
         "priceBuy": 1700,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Green",
@@ -671,7 +727,9 @@
         "name": "Caveman tank",
         "priceBuy": 1050,
         "priceSell": 262,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Gray",
@@ -688,7 +746,9 @@
         "name": "Checkered jumper dress",
         "priceBuy": 1840,
         "priceSell": 460,
-        "source": "*Able Sisters",
+        "source": [
+            "*Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -707,7 +767,9 @@
         "name": "Cheerleading uniform",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Red",
@@ -734,7 +796,9 @@
         "name": "Cherry dress",
         "priceBuy": -1,
         "priceSell": 1600,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Dresses-Cherry_dress.png/revision/latest?cb=20200417204025"
@@ -743,7 +807,9 @@
         "name": "Chic tuxedo dress",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -762,7 +828,9 @@
         "name": "Chima jeogori",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Red",
@@ -783,7 +851,9 @@
         "name": "China poblana",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Dresses-China_poblana.png/revision/latest?cb=20200417204026"
@@ -792,7 +862,9 @@
         "name": "Chiton",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Dresses-Chiton.png/revision/latest?cb=20200406194601"
@@ -850,7 +922,9 @@
         "name": "Concierge uniform",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Red",
@@ -871,7 +945,9 @@
         "name": "Coveralls with arm covers",
         "priceBuy": 1600,
         "priceSell": -1,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Blue",
@@ -892,7 +968,9 @@
         "name": "Cyber suit",
         "priceBuy": 3500,
         "priceSell": 875,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -926,7 +1004,9 @@
         "name": "Denim overalls",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Gift from Villager",
+        "source": [
+            "Gift from Villager"
+        ],
         "variations": [
             "White",
             "Black",
@@ -972,7 +1052,9 @@
         "name": "Desert-princess outfit",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -991,7 +1073,9 @@
         "name": "Diner uniform",
         "priceBuy": 1600,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -1041,7 +1125,9 @@
         "name": "Dragon suit",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Dresses-Dragon_suit.png/revision/latest?cb=20200417214649"
@@ -1050,7 +1136,9 @@
         "name": "Dreamy dress",
         "priceBuy": 2080,
         "priceSell": 520,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow,Green",
@@ -1068,7 +1156,9 @@
         "name": "Earth-egg outfit",
         "priceBuy": -1,
         "priceSell": 1200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Earth-egg_outfit.png/revision/latest?cb=20200402000401"
@@ -1077,7 +1167,9 @@
         "name": "Egg party dress",
         "priceBuy": -1,
         "priceSell": 7200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Dresses-Egg_party.png/revision/latest?cb=20200405010453"
@@ -1086,7 +1178,9 @@
         "name": "Egg-sushi costume",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Dresses-Egg_sushi_costume.png/revision/latest?cb=20200417214649"
@@ -1116,7 +1210,9 @@
         "name": "Fairy dress",
         "priceBuy": 3640,
         "priceSell": 910,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -1137,7 +1233,9 @@
         "name": "Fairy-tale dress",
         "priceBuy": 2400,
         "priceSell": 600,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Red",
@@ -1163,7 +1261,9 @@
         "name": "Fancy kimono",
         "priceBuy": 5200,
         "priceSell": 1300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Vermilion",
             "Pink",
@@ -1190,7 +1290,9 @@
         "name": "Fancy party dress",
         "priceBuy": 2400,
         "priceSell": 600,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green",
@@ -1209,7 +1311,9 @@
         "name": "Farmer overalls",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Red",
@@ -1230,7 +1334,9 @@
         "name": "Fashionable royal dress",
         "priceBuy": 6000,
         "priceSell": 1500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Yellow",
@@ -1283,7 +1389,9 @@
         "name": "Figure-skating costume",
         "priceBuy": 2880,
         "priceSell": 720,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -1308,7 +1416,9 @@
         "name": "Figure-skating dress",
         "priceBuy": 2880,
         "priceSell": 720,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -1333,7 +1443,9 @@
         "name": "Firefighter uniform",
         "priceBuy": 2250,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Flame orange",
@@ -1354,7 +1466,9 @@
         "name": "Fishing waders",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Orange",
@@ -1373,7 +1487,9 @@
         "name": "Flapper dress",
         "priceBuy": 2600,
         "priceSell": 650,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Silver",
             "Black",
@@ -1394,7 +1510,9 @@
         "name": "Flashy kimono",
         "priceBuy": 4800,
         "priceSell": 1200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Fuchsia",
@@ -1417,7 +1535,9 @@
         "name": "Fleece PJ's",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink,Beige"
         ],
@@ -1452,7 +1572,9 @@
         "name": "Floral lace dress",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Ruby red",
@@ -1479,7 +1601,9 @@
         "name": "Flower-print dress",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green"
@@ -1494,7 +1618,9 @@
         "name": "Folk-dance outfit",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Dresses-Folk_dance_outfit.png/revision/latest?cb=20200417223817"
@@ -1503,7 +1629,9 @@
         "name": "Forest-print dress",
         "priceBuy": 1540,
         "priceSell": 385,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Green",
@@ -1523,7 +1651,9 @@
         "name": "Frilly dress",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Brown",
@@ -1542,7 +1672,9 @@
         "name": "Frog costume",
         "priceBuy": 1700,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Yellow",
@@ -1561,7 +1693,9 @@
         "name": "Frugal dress",
         "priceBuy": 490,
         "priceSell": 122,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Blue-gray",
@@ -1595,7 +1729,9 @@
         "name": "Full-body tights",
         "priceBuy": 1120,
         "priceSell": 280,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "White",
@@ -1622,7 +1758,9 @@
         "name": "Full-length dress with pearls",
         "priceBuy": 2600,
         "priceSell": 650,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Berry red",
@@ -1641,7 +1779,9 @@
         "name": "Gizzard-shad-sushi costume",
         "priceBuy": 1440,
         "priceSell": 360,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Dresses-Gizzard-shad-sushi_costume.png/revision/latest?cb=20200419133701"
@@ -1650,7 +1790,9 @@
         "name": "Gold armor",
         "priceBuy": -1,
         "priceSell": 80000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Dresses-Gold_armor.png/revision/latest?cb=20200419133627"
@@ -1659,7 +1801,9 @@
         "name": "Grape dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Dresses-Grape_dress.png/revision/latest?cb=20200419133511"
@@ -1668,7 +1812,9 @@
         "name": "Gumdrop dress",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pop",
             "Cool"
@@ -1683,7 +1829,9 @@
         "name": "Hakama",
         "priceBuy": 3180,
         "priceSell": 795,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Plum",
             "Green",
@@ -1700,7 +1848,9 @@
         "name": "Hakama with crest",
         "priceBuy": 4800,
         "priceSell": 1200,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Dresses-Hakama_with_crest.png/revision/latest?cb=20200419133341"
@@ -1726,7 +1876,9 @@
         "name": "Hot-dog costume",
         "priceBuy": 1280,
         "priceSell": 320,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Tops-Hot-dog_costume.png/revision/latest?cb=20200403141330"
@@ -1735,7 +1887,9 @@
         "name": "House-print dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Yellow"
@@ -1786,7 +1940,9 @@
         "name": "Impish costume",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red"
@@ -1801,7 +1957,9 @@
         "name": "Instant-muscles suit",
         "priceBuy": 2280,
         "priceSell": 570,
-        "source": "Able Sisters/ Gift from Villager",
+        "source": [
+            "Able Sisters/ Gift from Villager"
+        ],
         "variations": [
             "Purple",
             "Green",
@@ -1828,7 +1986,9 @@
         "name": "Iron armor",
         "priceBuy": -1,
         "priceSell": 6000,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Dresses-Iron_armor.png/revision/latest?cb=20200419133031"
@@ -1837,7 +1997,9 @@
         "name": "Jester costume",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple & yellow",
             "Black & white",
@@ -1856,7 +2018,9 @@
         "name": "Jinbei",
         "priceBuy": 1820,
         "priceSell": 455,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Fuchsia",
@@ -1873,7 +2037,9 @@
         "name": "Jockey uniform",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Sash",
             "Checkered",
@@ -1900,7 +2066,9 @@
         "name": "Judogi",
         "priceBuy": 1760,
         "priceSell": 440,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Blue"
@@ -1915,7 +2083,9 @@
         "name": "Jumper work suit",
         "priceBuy": 1050,
         "priceSell": 262,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Orange",
             "Red",
@@ -1942,7 +2112,9 @@
         "name": "Junihitoe kimono",
         "priceBuy": 7000,
         "priceSell": 1750,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Dresses-Junihitoe_kimono.png/revision/latest?cb=20200419132830"
@@ -1951,7 +2123,9 @@
         "name": "Kabuki-actor yukata",
         "priceBuy": 2400,
         "priceSell": 600,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Fuchsia",
             "Dark blue",
@@ -1968,7 +2142,9 @@
         "name": "Kandoora",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Gray",
@@ -1985,7 +2161,9 @@
         "name": "Kappa costume",
         "priceBuy": 1700,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Pink"
@@ -2000,7 +2178,9 @@
         "name": "Kiwi dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Dresses-Kiwi_dress.png/revision/latest?cb=20200418172455"
@@ -2032,7 +2212,9 @@
         "name": "Lace-up dress",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -2049,7 +2231,9 @@
         "name": "Lacy dress",
         "priceBuy": 1520,
         "priceSell": 380,
-        "source": "",
+        "source": [
+            ""
+        ],
         "variations": [
             "Blue",
             "Yellow",
@@ -2102,7 +2286,9 @@
         "name": "Leaf-egg outfit",
         "priceBuy": -1,
         "priceSell": 1200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Leaf-egg_outfit.png/revision/latest?cb=20200401234645"
@@ -2111,7 +2297,9 @@
         "name": "Linen dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -2132,7 +2320,9 @@
         "name": "Lively plaid dress",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Dresses-Lively_plaid_dress.png/revision/latest?cb=20200418172419"
@@ -2160,7 +2350,9 @@
         "name": "Long denim cardigan",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Pink",
@@ -2215,7 +2407,9 @@
         "name": "Loose fall dress",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Peacock blue",
@@ -2234,7 +2428,9 @@
         "name": "Mage's robe",
         "priceBuy": 4000,
         "priceSell": 1000,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Blue",
@@ -2253,7 +2449,9 @@
         "name": "Magical dress",
         "priceBuy": 3180,
         "priceSell": 795,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -2280,7 +2478,9 @@
         "name": "Maid dress",
         "priceBuy": 2320,
         "priceSell": 580,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -2322,7 +2522,9 @@
         "name": "Marble-print dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Pink",
@@ -2343,7 +2545,9 @@
         "name": "Mariachi clothing",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Green",
@@ -2366,7 +2570,9 @@
         "name": "Maxi shirtdress",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Red",
@@ -2389,7 +2595,9 @@
         "name": "Miko attire",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Vermilion",
             "Aqua"
@@ -2404,7 +2612,9 @@
         "name": "Milkmaid dress",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -2421,7 +2631,9 @@
         "name": "Moldy dress",
         "priceBuy": -1,
         "priceSell": 10,
-        "source": "Lost & Found",
+        "source": [
+            "Lost & Found"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Dresses-Moldy.png/revision/latest?cb=20200401203359"
@@ -2430,7 +2642,9 @@
         "name": "Morning-glory yukata",
         "priceBuy": 2280,
         "priceSell": 570,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Aqua",
             "White",
@@ -2449,7 +2663,9 @@
         "name": "Mummy outfit",
         "priceBuy": 700,
         "priceSell": 195,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Dresses-Mummy_outfit.png/revision/latest?cb=20200418171607"
@@ -2458,7 +2674,9 @@
         "name": "Mysterious dress",
         "priceBuy": 3120,
         "priceSell": 780,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Black",
@@ -2496,7 +2714,9 @@
         "name": "Ninja costume",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Gray",
@@ -2523,7 +2743,9 @@
         "name": "Noble dress",
         "priceBuy": 5200,
         "priceSell": 1300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Ruby red",
@@ -2550,7 +2772,9 @@
         "name": "Noble zap suit",
         "priceBuy": 2760,
         "priceSell": 690,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Silver",
@@ -2577,7 +2801,9 @@
         "name": "Nurse's dress uniform",
         "priceBuy": 2200,
         "priceSell": 550,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "White",
@@ -2594,7 +2820,9 @@
         "name": "Office uniform",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Pink",
@@ -2611,7 +2839,9 @@
         "name": "Old commoner's kimono",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Golden yellow",
             "Blue",
@@ -2630,7 +2860,9 @@
         "name": "Orange dress",
         "priceBuy": -1,
         "priceSell": 1600,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Dresses-Orange_dress.png/revision/latest?cb=20200418171505"
@@ -2639,7 +2871,9 @@
         "name": "Overall dress",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Denim",
             "Yellow",
@@ -2683,7 +2917,9 @@
         "name": "Oversized-sweats dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Light blue",
@@ -2704,7 +2940,9 @@
         "name": "Painter's coverall",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Beige",
             "Green",
@@ -2721,7 +2959,9 @@
         "name": "Pajama dress",
         "priceBuy": 1200,
         "priceSell": 300,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Green",
@@ -2742,7 +2982,9 @@
         "name": "Palatial tank dress",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b6/NH-Dresses-Palatial_tank_dress.png/revision/latest?cb=20200418171300"
@@ -2751,7 +2993,9 @@
         "name": "Parka and shirtdress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Yellow",
@@ -2768,7 +3012,9 @@
         "name": "Parka dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Orange",
@@ -2804,7 +3050,9 @@
         "name": "Peach dress",
         "priceBuy": -1,
         "priceSell": 1600,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Dresses-Peach.png/revision/latest?cb=20200401172645"
@@ -2813,7 +3061,9 @@
         "name": "Pear dress",
         "priceBuy": 6400,
         "priceSell": 1600,
-        "source": "DIY Recipes",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Dresses-Pear_dress.png/revision/latest?cb=20200418171004"
@@ -2822,7 +3072,9 @@
         "name": "Pharaoh's outfit",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Dresses-Pharaoh_s_outfit.png/revision/latest?cb=20200418171114"
@@ -2848,7 +3100,9 @@
         "name": "Pinafore",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Dark blue",
             "Pink",
@@ -2865,7 +3119,9 @@
         "name": "Pineapple dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Dresses-Pineapple_dress.png/revision/latest?cb=20200418171154"
@@ -2874,7 +3130,9 @@
         "name": "Pintuck-pleated dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Lime",
@@ -2954,7 +3212,9 @@
         "name": "Power suit",
         "priceBuy": 3780,
         "priceSell": 945,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -2990,7 +3250,9 @@
         "name": "Princess dress",
         "priceBuy": 5500,
         "priceSell": 1375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Green",
@@ -3036,7 +3298,9 @@
         "name": "Rad power skirt suit",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Pink",
@@ -3061,7 +3325,9 @@
         "name": "Renaissance dress",
         "priceBuy": 6000,
         "priceSell": 1500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Green",
@@ -3084,7 +3350,9 @@
         "name": "Retro A-line dress",
         "priceBuy": 2550,
         "priceSell": 637,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Blue",
@@ -3105,7 +3373,9 @@
         "name": "Retro dress",
         "priceBuy": 2550,
         "priceSell": 637,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Black",
@@ -3128,7 +3398,9 @@
         "name": "Retro sleeveless dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Green",
@@ -3149,7 +3421,9 @@
         "name": "Ruffled dress",
         "priceBuy": 4240,
         "priceSell": 1060,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Black",
@@ -3193,7 +3467,9 @@
         "name": "Rumba costume",
         "priceBuy": 2600,
         "priceSell": 650,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Orange",
@@ -3246,7 +3522,9 @@
         "name": "Sari",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Garnet",
             "Aquamarine",
@@ -3265,7 +3543,9 @@
         "name": "Satin dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Berry red",
             "Pink",
@@ -3295,7 +3575,9 @@
         "name": "Security uniform",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Dresses-Security_uniform.png/revision/latest?cb=20200418024307"
@@ -3323,7 +3605,9 @@
         "name": "Sheep costume",
         "priceBuy": 1700,
         "priceSell": 425,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pink",
             "Light blue",
@@ -3365,7 +3649,9 @@
         "name": "Shirtdress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Olive",
             "Navy blue",
@@ -3441,7 +3727,9 @@
         "name": "Simple visiting kimono",
         "priceBuy": 2480,
         "priceSell": 620,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Pale green",
             "Wisteria",
@@ -3468,7 +3756,9 @@
         "name": "Skirt with suspenders",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Orange",
@@ -3489,7 +3779,9 @@
         "name": "Sky-egg outfit",
         "priceBuy": -1,
         "priceSell": 1200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Sky-egg_outfit.png/revision/latest?cb=20200402000447"
@@ -3498,7 +3790,9 @@
         "name": "Sleeveless shirtdress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "White",
@@ -3517,7 +3811,9 @@
         "name": "Sleeveless silk dress",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Pink",
@@ -3542,7 +3838,9 @@
         "name": "Sleeveless sweater dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -3565,7 +3863,9 @@
         "name": "Space suit",
         "priceBuy": 5000,
         "priceSell": 1250,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Dresses-Space_suit.png/revision/latest?cb=20200418022910"
@@ -3574,7 +3874,9 @@
         "name": "Sprite costume",
         "priceBuy": 2500,
         "priceSell": 625,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Green",
             "Red",
@@ -3620,7 +3922,9 @@
         "name": "Steampunk costume",
         "priceBuy": 2240,
         "priceSell": 560,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Purple"
@@ -3635,7 +3939,9 @@
         "name": "Stellar jumpsuit",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able SistersGift from Villager",
+        "source": [
+            "Able SistersGift from Villager"
+        ],
         "variations": [
             "Green",
             "Blue",
@@ -3656,7 +3962,9 @@
         "name": "Stone-egg outfit",
         "priceBuy": -1,
         "priceSell": 1200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Stone-egg_outfit.png/revision/latest?cb=20200401234845"
@@ -3665,7 +3973,9 @@
         "name": "Strawberry dress",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Dresses-Strawberry_dress.png/revision/latest?cb=20200418021358"
@@ -3739,7 +4049,9 @@
         "name": "Stylish jumpsuit",
         "priceBuy": 2100,
         "priceSell": 525,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Gray",
@@ -3760,7 +4072,9 @@
         "name": "Suit of lights",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able SistersGift from Villager",
+        "source": [
+            "Able SistersGift from Villager"
+        ],
         "variations": [
             "Black",
             "Red",
@@ -3781,7 +4095,9 @@
         "name": "Suit with stand-up collar",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Avocado",
@@ -3817,7 +4133,9 @@
         "name": "Superhero uniform",
         "priceBuy": 3640,
         "priceSell": 910,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Red",
@@ -3836,7 +4154,9 @@
         "name": "Suspender outfit",
         "priceBuy": 1900,
         "priceSell": 475,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Gray",
             "Black",
@@ -3874,7 +4194,9 @@
         "name": "Sweet dress",
         "priceBuy": 2700,
         "priceSell": 675,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Purple"
@@ -3889,7 +4211,9 @@
         "name": "Sweetheart dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Peacock blue",
@@ -3910,7 +4234,9 @@
         "name": "Tango dress",
         "priceBuy": 2600,
         "priceSell": 650,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Pink",
@@ -3933,7 +4259,9 @@
         "name": "Tee dress",
         "priceBuy": 1500,
         "priceSell": 375,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Beige",
@@ -3977,7 +4305,9 @@
         "name": "Tight punk outfit",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Black",
             "Red"
@@ -3992,7 +4322,9 @@
         "name": "Toga",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Purple"
@@ -4007,7 +4339,9 @@
         "name": "Tropical muumuu",
         "priceBuy": 1800,
         "priceSell": 450,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Mint",
             "White",
@@ -4028,7 +4362,9 @@
         "name": "Tuna-sushi costume",
         "priceBuy": 1920,
         "priceSell": 480,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Dresses-Tuna_sushi_costume.png/revision/latest?cb=20200402200418"
@@ -4037,7 +4373,9 @@
         "name": "Tweed dress",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Yellow",
             "Pink",
@@ -4054,7 +4392,9 @@
         "name": "Victorian dress",
         "priceBuy": 2520,
         "priceSell": 630,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Navy blue",
             "Green",
@@ -4077,7 +4417,9 @@
         "name": "Visual-punk dress",
         "priceBuy": 2040,
         "priceSell": 510,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Dresses-Visual_punk_dress.png/revision/latest?cb=20200403185227"
@@ -4086,7 +4428,9 @@
         "name": "Visual-punk outfit",
         "priceBuy": 2040,
         "priceSell": 510,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/Visual-Punk_O.png/revision/latest?cb=20200402212251"
@@ -4095,7 +4439,9 @@
         "name": "Water-egg outfit",
         "priceBuy": -1,
         "priceSell": 1200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Water-egg_outfit.png/revision/latest?cb=20200401235010"
@@ -4113,7 +4459,9 @@
         "name": "Wedding tuxedo",
         "priceBuy": 12000,
         "priceSell": 3000,
-        "source": "Wedding Season",
+        "source": [
+            "Wedding Season"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Dresses-Wedding_tuxedo.png/revision/latest?cb=20200503221228"
@@ -4122,7 +4470,9 @@
         "name": "Wizard's robe",
         "priceBuy": 4000,
         "priceSell": 1000,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Blue",
             "Purple"
@@ -4137,7 +4487,9 @@
         "name": "Wood-egg outfit",
         "priceBuy": -1,
         "priceSell": 1200,
-        "source": "DIY RecipesBunny Day series",
+        "source": [
+            "DIY Recipes"
+        ],
         "variations": [],
         "variationImageLinks": [],
         "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Wood-egg_outfit.png/revision/latest?cb=20200416023802"
@@ -4146,7 +4498,9 @@
         "name": "Wrestler uniform",
         "priceBuy": 1600,
         "priceSell": 400,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -4169,7 +4523,9 @@
         "name": "Wrestling singlet",
         "priceBuy": 1540,
         "priceSell": 385,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Red",
             "Blue",
@@ -4186,7 +4542,9 @@
         "name": "Zap suit",
         "priceBuy": 2760,
         "priceSell": 690,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "White",
             "Silver",
@@ -4213,7 +4571,9 @@
         "name": "Zigzag-print dress",
         "priceBuy": 2000,
         "priceSell": 500,
-        "source": "Able Sisters",
+        "source": [
+            "Able Sisters"
+        ],
         "variations": [
             "Purple",
             "Green",
