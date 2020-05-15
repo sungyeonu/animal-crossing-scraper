@@ -378,6 +378,31 @@ def scrape_tops(key):
     dump_data(items, "clothing/" + key)
     return items
 
+
+def scrape_hats(key):
+    url = URLS.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "roundy"})
+    items = {}
+    for tableNumber in range(2,10):
+        for tr in table[tableNumber].find_all("tr")[2:]:
+            name = tr.find_all("td")[0].text.strip()
+            item = {
+                "name": name,
+                # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
+                "priceBuy": strip_price(tr.find_all("td")[2].text),
+                "priceSell": strip_price(tr.find_all("td")[3].text),
+                "source": parse_source(tr.find_all("td")[4]),
+                "variations": parse_variations(tr.find_all("td")[5]),
+                "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
+            }
+            if tr.find_all("td")[1].find_all("a"):
+                item["imageLink"] = tr.find_all("td")[1].find_all("a")[0]["href"]
+            items[name] = item
+    dump_data(items, "clothing/" + key)
+    return items
+
 if __name__ == "__main__":
     # -- Museum --
     # scrape_bugs("bugs")
@@ -398,7 +423,8 @@ if __name__ == "__main__":
     # scrape_wallpapers("wallpaperRugsFloorings")
 
     # -- Clothing --
-    scrape_tops("tops")
-    scrape_tops("bottoms")
-    scrape_tops("dresses")
+    # scrape_tops("tops")
+    # scrape_tops("bottoms")
+    # scrape_tops("dresses")
+    scrape_hats("hats")
     pass
