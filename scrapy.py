@@ -400,5 +400,5 @@ if __name__ == "__main__":
     # -- Clothing --
     scrape_tops("tops")
     scrape_tops("bottoms")
-
+    scrape_tops("dresses")
     pass
