@@ -499,12 +499,7 @@ def scrape_flowers(key):
             }
         }
         items[name] = item
-
-    # item["imageURLs"] = imageURLs
-    # items[name] = item
-
-    dump_data(items, "flower/" + key)
-    # print(tables[7].prettify())
+    dump_data(items, "flower/availability")
 
 
 if __name__ == "__main__":
