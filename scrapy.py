@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import io
-from util import separate_by_br, convert_checkmark, parse_price, get_image_links, parse_months, parse_variations, parse_source, parse_imageURLs, dump_data
+from util import separate_by_br, convert_checkmark, parse_price, get_image_links, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
 
 
 URLS = {
@@ -486,13 +486,15 @@ def scrape_flowers(key):
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     tables = soup("table")
+
+    # availability
     items = {}
     for tr in tables[0]("tr")[2:10]:
         name = tr("td")[0].text.strip()
         t = tables[0]("tr")[2]("td")
         parse_months([tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13]])
         item = {
-            "imageURLs": parse_imageURLs(tr("td")[1]),
+            "color_image_urls": parse_image_URLs(tr("td")[1]),
             "months": {
                 "northern": parse_months([tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13]]),
                 "southern": parse_months([tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7]])
@@ -501,6 +503,43 @@ def scrape_flowers(key):
         items[name] = item
     dump_data(items, "flower/availability")
 
+    # genetics_rose
+    items = []
+    for tr in tables[5]("tr")[2:29]:
+        item = {
+            "genotype": {
+                "red": int(tr("td")[0].text.strip()),
+                "yellow": int(tr("td")[1].text.strip()),
+                "white": int(tr("td")[2].text.strip())
+            },
+            "phenotype": parse_rose_image_URLs([tr("td")[3].img, tr("td")[4].img, tr("td")[5].img])
+        }
+        items.append(item)
+    
+    # genetics_others
+    items = []
+    for tr in tables[6]("tr")[3:30]:
+        item = {
+            "genotype": {
+                "red": int(tr("td")[0].text.strip()),
+                "yellow": int(tr("td")[1].text.strip()),
+                "white": int(tr("td")[2].text.strip())
+            },
+            "phenotype": {
+                "tulips_image_URL": tr("td")[3].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "pansies_image_URL": tr("td")[4].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "cosmos_image_URL": tr("td")[5].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "lilies_image_URL": tr("td")[6].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "hyacinths_image_URL": tr("td")[7].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "windflowers_image_URL": tr("td")[8].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "mums_image_URL": tr("td")[9].img.get("data-src").replace("/scale-to-width-down/50", "")
+            }
+        }
+        items.append(item)
+    dump_data(items, "flower/genetics_others")
+
+    # simple_hybridization TODO
+    # advanced_hybridization TODO
 
 if __name__ == "__main__":
     # -- Museum --

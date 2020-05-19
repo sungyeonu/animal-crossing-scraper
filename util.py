@@ -53,7 +53,7 @@ def parse_source(tag):
         #     return ["Bug Off"]
     return [tag.text.strip()]
 
-def parse_imageURLs(tag):
+def parse_image_URLs(tag):
     result = []
     for image in tag("img"):
         if image.get("data-src") is not None:
@@ -69,6 +69,13 @@ def parse_months(months):
             result.append(counter)
         counter += 1
     return (result)
+
+
+def parse_rose_image_URLs(tags):
+    result = []
+    for tag in tags:
+        result.append(tag.get("data-src").replace("/scale-to-width-down/50", ""))
+    return result
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:

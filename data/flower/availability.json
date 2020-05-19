@@ -1,6 +1,6 @@
 {
     "Rose": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
@@ -25,7 +25,7 @@
         }
     },
     "Tulip": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907"
@@ -46,7 +46,7 @@
         }
     },
     "Pansy": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949"
@@ -71,7 +71,7 @@
         }
     },
     "Cosmos": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606"
@@ -94,7 +94,7 @@
         }
     },
     "Lily": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938"
@@ -115,7 +115,7 @@
         }
     },
     "Hyacinth": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932"
@@ -134,7 +134,7 @@
         }
     },
     "Windflower": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536"
@@ -159,7 +159,7 @@
         }
     },
     "Mum": {
-        "imageURLs": [
+        "color_image_urls": [
             "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009",
             "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
