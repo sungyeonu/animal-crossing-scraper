@@ -18,8 +18,7 @@ def convert_checkmark(string): # take str and returns True if str represents ava
     else:
         return False
 
-def strip_price(string): # take str and return integer only
-
+def parse_price(string): # take str and return integer only
     try: 
         return int(''.join(filter(str.isdigit, string)))
     except:
@@ -45,11 +44,38 @@ def parse_source(tag):
     if tag.text.strip() == "*" or tag.text.strip() == "N/A":
         return []
     if tag.img:
-        if tag.img['alt'] == "NH-Inventory Icons-DIY Recipe":
+        if tag.img['alt'] == "NH-Inventory Icons-DIY Recipe" or tag.img['alt'] == "DIY Icon":
             return ["DIY Recipes"]
         if tag.img['alt'] == "72px-Timmy Icon":
             return ["Nook's Cranny"]
+        # if tag.img['alt'] == "72px-Timmy Icon":
+        #     return ["Fishing Tourney"]
+        #     return ["Bug Off"]
     return [tag.text.strip()]
+
+def parse_image_URLs(tag):
+    result = []
+    for image in tag("img"):
+        if image.get("data-src") is not None:
+            result.append(image.get("data-src").replace("/scale-to-width-down/24", ""))
+    return result
+
+
+def parse_months(months):
+    result = []
+    counter = 1
+    for m in months:
+        if convert_checkmark(m.text.strip()):
+            result.append(counter)
+        counter += 1
+    return (result)
+
+
+def parse_rose_image_URLs(tags):
+    result = []
+    for tag in tags:
+        result.append(tag.get("data-src").replace("/scale-to-width-down/50", ""))
+    return result
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:

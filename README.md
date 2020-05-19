@@ -39,8 +39,11 @@ All JSON files are stored in /data
 - bags.json
 - umbrellas.json
 
+/flowers
+- availability.json
+
 ## JSON fields
--1 for price means the data is not available yet. 
+Price: -1 indicates the data is not available yet. 
 
 ## Set Up
 1. In the animal-crossing-scraper root directory, clone the project using 
