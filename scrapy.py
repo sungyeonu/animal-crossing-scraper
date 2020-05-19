@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import io
-from util import separate_by_br, convert_checkmark, strip_price, get_image_links, parse_variations, parse_source, dump_data
+from util import separate_by_br, convert_checkmark, parse_price, get_image_links, parse_months, parse_variations, parse_source, parse_imageURLs, dump_data
 
 
 URLS = {
@@ -15,7 +15,7 @@ URLS = {
     # Characters
     "villagers": "https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)",
 
-    # DIY Recipes
+    # Crafting
     "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
     "housewares": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Housewares",
     "miscellaneous": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Miscellaneous",
@@ -33,8 +33,13 @@ URLS = {
     "socks": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Socks",
     "shoes": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Shoes",
     "bags": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Bags",
-    "umbrellas": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Umbrellas"
+    "umbrellas": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Umbrellas",
     
+    # Furnitures
+    "furniture_housewares": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Housewares",
+    
+    # Flowers
+    "flowers": "https://animalcrossing.fandom.com/wiki/Flower/New_Horizons_mechanics"
     # --- New Leaf ---
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)",
@@ -113,7 +118,7 @@ def scrape_fish(key):  # same logic as scrapeBugs
         item = {
             "name": name,
             "imageLink": tr.find_all("a")[1]['href'],
-            "price": strip_price(tableData[2]),
+            "price": parse_price(tableData[2]),
             "location": tr.find_all("td")[3].text.strip('\n').strip(),
             "shadowSize": tableData[4],
             "time": tr.find_all("small")[0].text,
@@ -166,7 +171,7 @@ def scrape_fossils(key):  # same logic as scrapeBugs and scrapeFish
         item = {
             "name": name,
             "imageLink": tr.find_all("a")[1]['href'],
-            "price": strip_price(tableData[2]),
+            "price": parse_price(tableData[2]),
             "isMultipart": False
         }
         tableData.append(item)
@@ -184,7 +189,7 @@ def scrape_fossils(key):  # same logic as scrapeBugs and scrapeFish
         item = {
             "name": name,
             "imageLink": tr.find_all("a")[1]['href'],
-            "price": strip_price(tableData[2]),
+            "price": parse_price(tableData[2]),
             "isMultipart": True,
             "category": currentCategory
         }
@@ -270,7 +275,7 @@ def scrape_tools(key):
         if tr.find_all("td")[4].text:
             item["obtainedFrom"] = tr.find_all("td")[4].text.strip().strip("\n").splitlines()
         if tr.find_all("td")[5]:
-            item["price"] = strip_price(tr.find_all("td")[5].text)
+            item["price"] = parse_price(tr.find_all("td")[5].text)
         items[name] = item
     dump_data(items, "crafting/" + key)
     return items
@@ -291,7 +296,7 @@ def scrape_equipments(key):
             "materialsImageLink": get_image_links(tr.find_all("td")[2].find_all("img")),
             "sizeImageLink": tr.find_all("td")[3].img.get("data-src"),
             "obtainedFrom": tr.find_all("td")[4].text.strip().strip("\n").splitlines(),
-            "price": strip_price(tr.find_all("td")[5].text)
+            "price": parse_price(tr.find_all("td")[5].text)
         }
         items[name] = item
     dump_data(items, "crafting/" + key)
@@ -347,7 +352,7 @@ def scrape_DIYothers(key):
             "materialsImageLink": get_image_links(tr.find_all("td")[2].find_all("img")),
             "sizeImageLink": tr.find_all("td")[3].img.get("data-src"),
             "obtainedFrom": tr.find_all("td")[4].text.strip().strip("\n").splitlines(),
-            "price": strip_price(tr.find_all("td")[5].text)
+            "price": parse_price(tr.find_all("td")[5].text)
         }
         if (item["obtainedFrom"] == ["Nook Stop (1,000 )"]): # TODO: rewrite this lazy code
             item["obtainedFrom"] = ["Nook Stop (1,000 Nook Miles)"]
@@ -367,8 +372,8 @@ def scrape_tops(key):
         item = {
             "name": name,
             # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
-            "priceBuy": strip_price(tr.find_all("td")[2].text),
-            "priceSell": strip_price(tr.find_all("td")[3].text),
+            "priceBuy": parse_price(tr.find_all("td")[2].text),
+            "priceSell": parse_price(tr.find_all("td")[3].text),
             "source": parse_source(tr.find_all("td")[4]),
             "variations": parse_variations(tr.find_all("td")[5]),
             "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
@@ -392,8 +397,8 @@ def scrape_hats(key):
             item = {
                 "name": name,
                 # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
-                "priceBuy": strip_price(tr.find_all("td")[2].text),
-                "priceSell": strip_price(tr.find_all("td")[3].text),
+                "priceBuy": parse_price(tr.find_all("td")[2].text),
+                "priceSell": parse_price(tr.find_all("td")[3].text),
                 "source": parse_source(tr.find_all("td")[4]),
                 "variations": parse_variations(tr.find_all("td")[5]),
                 "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
@@ -417,8 +422,8 @@ def scrape_shoes(key):
             item = {
                 "name": name,
                 # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
-                "priceBuy": strip_price(tr.find_all("td")[2].text),
-                "priceSell": strip_price(tr.find_all("td")[3].text),
+                "priceBuy": parse_price(tr.find_all("td")[2].text),
+                "priceSell": parse_price(tr.find_all("td")[3].text),
                 "source": parse_source(tr.find_all("td")[4]),
                 "variations": parse_variations(tr.find_all("td")[5]),
                 "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
@@ -443,12 +448,64 @@ def scrape_umbrellas(key):
             "name": name,
             "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
             "source": parse_source(tr.find_all("td")[2]),
-            "priceBuy": strip_price(tr.find_all("td")[3].text),
-            "priceSell": strip_price(tr.find_all("td")[4].text),
+            "priceBuy": parse_price(tr.find_all("td")[3].text),
+            "priceSell": parse_price(tr.find_all("td")[4].text),
         }
         items[name] = item
     dump_data(items, "clothing/" + key)
     return items
+
+
+def scrape_furniture_housewares(key):
+    url = URLS.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find_all("table", {"class": "roundy"})
+    items = {}
+    for tr in table[3]("tr")[2:]:
+        name = tr.find_all("td")[1].text.strip()
+        item = {
+            "name": name,
+            # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
+            "priceBuy": parse_price(tr.find_all("td")[2].text),
+            "priceSell": parse_price(tr.find_all("td")[3].text),
+            "source": parse_source(tr.find_all("td")[4]),
+            "variations": parse_variations(tr.find_all("td")[5]),
+            "customization": False,
+            "sizeLink": tr.find_all("td")[6].img.get("data-src")
+        }
+        if tr.find_all("td")[1].find_all("a"):
+            item["imageLink"] = tr.find_all("td")[0].find_all("a")[0]["href"]
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
+
+
+def scrape_flowers(key):
+    url = URLS.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    tables = soup("table")
+    items = {}
+    for tr in tables[0]("tr")[2:10]:
+        name = tr("td")[0].text.strip()
+        t = tables[0]("tr")[2]("td")
+        parse_months([tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13]])
+        item = {
+            "imageURLs": parse_imageURLs(tr("td")[1]),
+            "months": {
+                "northern": parse_months([tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13]]),
+                "southern": parse_months([tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7]])
+            }
+        }
+        items[name] = item
+
+    # item["imageURLs"] = imageURLs
+    # items[name] = item
+
+    dump_data(items, "flower/" + key)
+    # print(tables[7].prettify())
+
 
 if __name__ == "__main__":
     # -- Museum --
@@ -470,13 +527,17 @@ if __name__ == "__main__":
     # scrape_wallpapers("wallpaperRugsFloorings")
 
     # -- Clothing --
-    scrape_tops("tops")
-    scrape_tops("bottoms")
-    scrape_tops("dresses")
-    scrape_hats("hats")
-    scrape_tops("accessories")
-    scrape_tops("socks")
-    scrape_shoes("shoes")
-    scrape_tops("bags")
-    scrape_umbrellas("umbrellas")
+    # scrape_tops("tops")
+    # scrape_tops("bottoms")
+    # scrape_tops("dresses")
+    # scrape_hats("hats")
+    # scrape_tops("accessories")
+    # scrape_tops("socks")
+    # scrape_shoes("shoes")
+    # scrape_tops("bags")
+    # scrape_umbrellas("umbrellas")
+
+    # -- Furniture --
+    scrape_furniture_housewares("furniture_housewares")
+    scrape_flowers("flowers")
     pass
