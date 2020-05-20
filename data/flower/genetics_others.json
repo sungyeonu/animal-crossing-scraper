@@ -5,14 +5,14 @@
             "yellow": 0,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
         }
     },
     {
@@ -21,14 +21,14 @@
             "yellow": 0,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
         }
     },
     {
@@ -37,14 +37,14 @@
             "yellow": 0,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
         }
     },
     {
@@ -53,14 +53,14 @@
             "yellow": 1,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
         }
     },
     {
@@ -69,14 +69,14 @@
             "yellow": 1,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
         }
     },
     {
@@ -85,14 +85,14 @@
             "yellow": 1,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-white_cosmos-icon.png/revision/latest?cb=20200414010606",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-white_mum_icon.png/revision/latest?cb=20200407141942"
         }
     },
     {
@@ -101,14 +101,14 @@
             "yellow": 2,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
         }
     },
     {
@@ -117,14 +117,14 @@
             "yellow": 2,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
         }
     },
     {
@@ -133,14 +133,14 @@
             "yellow": 2,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-yellow_cosmos-icon.png/revision/latest?cb=20200414010649",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
         }
     },
     {
@@ -149,14 +149,14 @@
             "yellow": 0,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
         }
     },
     {
@@ -165,14 +165,14 @@
             "yellow": 0,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-pink_tulips-icon.png/revision/latest?cb=20200414014939",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-pink_hyacinths-icon.png/revision/latest?cb=20200414011630",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-pink_tulips-icon.png/revision/latest?cb=20200414014939",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-pink_hyacinths-icon.png/revision/latest?cb=20200414011630",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
         }
     },
     {
@@ -181,14 +181,14 @@
             "yellow": 0,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-white_tulips-icon.png/revision/latest?cb=20200414014907",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/NH-white_hyacinth_icon.png/revision/latest?cb=20200407141932",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
         }
     },
     {
@@ -197,14 +197,14 @@
             "yellow": 1,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-orange_tulips-icon.png/revision/latest?cb=20200414015000",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-orange_hyacinth_icon.png/revision/latest?cb=20200407141822",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-orange_tulips-icon.png/revision/latest?cb=20200414015000",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-orange_hyacinth_icon.png/revision/latest?cb=20200407141822",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-yellow_mum_icon.png/revision/latest?cb=20200407142009"
         }
     },
     {
@@ -213,14 +213,14 @@
             "yellow": 1,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         }
     },
     {
@@ -229,14 +229,14 @@
             "yellow": 1,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-pink_cosmos-icon.png/revision/latest?cb=20200414010708",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-pink_mum_icon.png/revision/latest?cb=20200407141850"
         }
     },
     {
@@ -245,14 +245,14 @@
             "yellow": 2,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-orange_tulips-icon.png/revision/latest?cb=20200414015000",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-orange_hyacinth_icon.png/revision/latest?cb=20200407141822",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-orange_tulips-icon.png/revision/latest?cb=20200414015000",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-orange_hyacinth_icon.png/revision/latest?cb=20200407141822",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
         }
     },
     {
@@ -261,14 +261,14 @@
             "yellow": 2,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
         }
     },
     {
@@ -277,14 +277,14 @@
             "yellow": 2,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-yellow_tulips-icon.png/revision/latest?cb=20200414014848",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-yellow_pansies-icon.png/revision/latest?cb=20200414012157",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-yellow_lily_icon.png/revision/latest?cb=20200407142003",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-yellow_hyacinths-icon.png/revision/latest?cb=20200414011344",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-orange_windflowers-icon.png/revision/latest?cb=20200414004736",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
         }
     },
     {
@@ -293,14 +293,14 @@
             "yellow": 0,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-black_tulips-icon.png/revision/latest?cb=20200414015020",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-black_lilies-icon.png/revision/latest?cb=20200414014729",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-black_tulips-icon.png/revision/latest?cb=20200414015020",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-black_lilies-icon.png/revision/latest?cb=20200414014729",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         }
     },
     {
@@ -309,14 +309,14 @@
             "yellow": 0,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         }
     },
     {
@@ -325,14 +325,14 @@
             "yellow": 0,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         }
     },
     {
@@ -341,14 +341,14 @@
             "yellow": 1,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-black_tulips-icon.png/revision/latest?cb=20200414015020",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-black_lilies-icon.png/revision/latest?cb=20200414014729",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-black_tulips-icon.png/revision/latest?cb=20200414015020",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-black_lilies-icon.png/revision/latest?cb=20200414014729",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
         }
     },
     {
@@ -357,14 +357,14 @@
             "yellow": 1,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-orange_cosmos-icon.png/revision/latest?cb=20200414010731",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-red_lily_icon.png/revision/latest?cb=20200407141910",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-blue_hyacinth_icon.png/revision/latest?cb=20200407141804",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
         }
     },
     {
@@ -373,14 +373,14 @@
             "yellow": 1,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_tulips-icon.png/revision/latest?cb=20200414014822",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-pink_lilies-icon.png/revision/latest?cb=20200414014651",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-red_hyacinth_icon.png/revision/latest?cb=20200407141905",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         }
     },
     {
@@ -389,14 +389,14 @@
             "yellow": 2,
             "white": 0
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-black_cosmos-icon.png/revision/latest?cb=20200414010804",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-black_cosmos-icon.png/revision/latest?cb=20200414010804",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344"
         }
     },
     {
@@ -405,14 +405,14 @@
             "yellow": 2,
             "white": 1
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-black_cosmos-icon.png/revision/latest?cb=20200414010804",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-orange_pansy_icon.png/revision/latest?cb=20200407141833",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-black_cosmos-icon.png/revision/latest?cb=20200414010804",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-orange_lily_icon.png/revision/latest?cb=20200407141828",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-pink_windflowers-icon.png/revision/latest?cb=20200414004847",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344"
         }
     },
     {
@@ -421,14 +421,14 @@
             "yellow": 2,
             "white": 2
         },
-        "phenotype": {
-            "tulips_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308",
-            "pansies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
-            "cosmos_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
-            "lilies_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
-            "hyacinths_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608",
-            "windflowers_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
-            "mums_image_URL": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
+        "phenotypes_image_url": {
+            "tulips": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-purple_tulips-icon.png/revision/latest?cb=20200414014308",
+            "pansies": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
+            "cosmos": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-red_cosmos-icon.png/revision/latest?cb=20200414010628",
+            "lilies": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-white_lily_icon.png/revision/latest?cb=20200407141938",
+            "hyacinths": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-purple_hyacinths-icon.png/revision/latest?cb=20200429032608",
+            "windflowers": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
+            "mums": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914"
         }
     }
 ]

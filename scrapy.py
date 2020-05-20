@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import io
-from util import separate_by_br, convert_checkmark, parse_price, get_image_links, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
+from util import separate_by_br, convert_checkmark, parse_price, get_image_links, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
 
 
 URLS = {
@@ -492,7 +492,6 @@ def scrape_flowers(key):
     for tr in tables[0]("tr")[2:10]:
         name = tr("td")[0].text.strip()
         t = tables[0]("tr")[2]("td")
-        parse_months([tr("td")[2], tr("td")[3], tr("td")[4], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13]])
         item = {
             "color_image_urls": parse_image_URLs(tr("td")[1]),
             "months": {
@@ -512,9 +511,10 @@ def scrape_flowers(key):
                 "yellow": int(tr("td")[1].text.strip()),
                 "white": int(tr("td")[2].text.strip())
             },
-            "phenotype": parse_rose_image_URLs([tr("td")[3].img, tr("td")[4].img, tr("td")[5].img])
+            "phenotypes_image_url": parse_rose_image_URLs([tr("td")[3].img, tr("td")[4].img, tr("td")[5].img])
         }
         items.append(item)
+    dump_data(items, "flower/genetics_rose")
     
     # genetics_others
     items = []
@@ -525,21 +525,62 @@ def scrape_flowers(key):
                 "yellow": int(tr("td")[1].text.strip()),
                 "white": int(tr("td")[2].text.strip())
             },
-            "phenotype": {
-                "tulips_image_URL": tr("td")[3].img.get("data-src").replace("/scale-to-width-down/50", ""),
-                "pansies_image_URL": tr("td")[4].img.get("data-src").replace("/scale-to-width-down/50", ""),
-                "cosmos_image_URL": tr("td")[5].img.get("data-src").replace("/scale-to-width-down/50", ""),
-                "lilies_image_URL": tr("td")[6].img.get("data-src").replace("/scale-to-width-down/50", ""),
-                "hyacinths_image_URL": tr("td")[7].img.get("data-src").replace("/scale-to-width-down/50", ""),
-                "windflowers_image_URL": tr("td")[8].img.get("data-src").replace("/scale-to-width-down/50", ""),
-                "mums_image_URL": tr("td")[9].img.get("data-src").replace("/scale-to-width-down/50", "")
+            "phenotypes_image_url": {
+                "tulips": tr("td")[3].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "pansies": tr("td")[4].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "cosmos": tr("td")[5].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "lilies": tr("td")[6].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "hyacinths": tr("td")[7].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "windflowers": tr("td")[8].img.get("data-src").replace("/scale-to-width-down/50", ""),
+                "mums": tr("td")[9].img.get("data-src").replace("/scale-to-width-down/50", "")
             }
         }
         items.append(item)
     dump_data(items, "flower/genetics_others")
 
-    # simple_hybridization TODO
-    # advanced_hybridization TODO
+    # hybridization_simple
+    items = {}
+    for table_number in range(7, 15):
+        temp = []
+        species = tables[table_number]("tr")[0].text.strip()
+        for tr in tables[table_number]("tr")[2:8]:
+            if len(tr("abbr")) > 0: # some trs do not contain hybridization data
+                item = {
+                    "parent_a": {
+                        "gene": tr("abbr")[0].get("title"),
+                        "image_url": tr("abbr")[0]("img")[0].get("data-src").replace("/scale-to-width-down/50", "")
+                    },
+                    "parent_b": {
+                        "gene": tr("abbr")[1].get("title"),
+                        "image_url": tr("abbr")[1]("img")[0].get("data-src").replace("/scale-to-width-down/50", "")
+                    },
+                    "children": parse_hybridization_children(tr("td")[2])
+            }
+            temp.append(item)
+        items[species] = temp
+    dump_data(items, "flower/hybridization_simple")
+
+    # hybridization_advanced
+    items = {}
+    for table_number in range(15, 17):
+        temp = []
+        species = tables[table_number]("tr")[0].text.strip()
+        for tr in tables[table_number]("tr")[2:8]:
+            if len(tr("abbr")) > 0:
+                item = {
+                    "parent_a": {
+                        "gene": tr("abbr")[0].get("title"),
+                        "image_url": tr("abbr")[0]("img")[0].get("data-src").replace("/scale-to-width-down/50", "")
+                    },
+                    "parent_b": {
+                        "gene": tr("abbr")[1].get("title"),
+                        "image_url": tr("abbr")[1]("img")[0].get("data-src").replace("/scale-to-width-down/50", "")
+                    },
+                    "children": parse_hybridization_children(tr("td")[2])
+                }
+            temp.append(item)
+        items[species] = temp
+    dump_data(items, "flower/hybridization_advanced")
 
 if __name__ == "__main__":
     # -- Museum --
@@ -572,6 +613,6 @@ if __name__ == "__main__":
     # scrape_umbrellas("umbrellas")
 
     # -- Furniture --
-    scrape_furniture_housewares("furniture_housewares")
+    # scrape_furniture_housewares("furniture_housewares")
     scrape_flowers("flowers")
     pass

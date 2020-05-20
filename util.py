@@ -77,6 +77,24 @@ def parse_rose_image_URLs(tags):
         result.append(tag.get("data-src").replace("/scale-to-width-down/50", ""))
     return result
 
+
+def parse_hybridization_children(tag):
+    result = []
+    abbrs = tag("abbr")
+    percentages = [i for i in tag.text.split("\n") if i]
+    counter = 0
+    for abbr in abbrs:
+        child = {
+            "image_url": abbr("img")[0].get("data-src").replace("/scale-to-width-down/30", ""),
+            # return percentage in int
+            "gene": abbr.get("title"),
+            "probability": float(percentages[counter].strip("%"))/100
+        }
+        counter += 1
+        result.append(child)
+    return result
+
+
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w') as f:
         json.dump(itemList, f, indent=4)
