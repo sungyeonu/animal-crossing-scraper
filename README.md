@@ -18,6 +18,13 @@ All JSON files are stored in /data
 /characters
 - villagers.json
 
+/flowers
+- availability.json
+- genetics_others.json
+- genetics_rose.json
+- hybridization_advanced.json
+- hybridization_simple.json
+
 *-- Incomplete --*  
 /crafting
 - tools.json
@@ -39,12 +46,7 @@ All JSON files are stored in /data
 - bags.json
 - umbrellas.json
 
-/flowers
-- availability.json
-- genetics_others.json
-- genetics_rose.json
-- hybridization_advanced.json
-- hybridization_simple.json
+
 
 ## JSON fields
 Price: -1 indicates the data is not available yet. 
