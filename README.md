@@ -41,6 +41,10 @@ All JSON files are stored in /data
 
 /flowers
 - availability.json
+- genetics_others.json
+- genetics_rose.json
+- hybridization_advanced.json
+- hybridization_simple.json
 
 ## JSON fields
 Price: -1 indicates the data is not available yet. 
