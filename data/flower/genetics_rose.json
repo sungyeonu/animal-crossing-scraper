@@ -1,1 +1,326 @@
-[]
+[
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 0,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 0,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 0,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 1,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 1,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 1,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 2,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 2,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 0,
+            "yellow": 2,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 0,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 0,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 0,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 1,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 1,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 1,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 2,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 2,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 1,
+            "yellow": 2,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 0,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-black_roses-icon.png/revision/latest?cb=20200414014535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 0,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-black_roses-icon.png/revision/latest?cb=20200414014535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 0,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-black_roses-icon.png/revision/latest?cb=20200414014535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-pink_rose_icon.png/revision/latest?cb=20200407141856"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 1,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 1,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 1,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-black_roses-icon.png/revision/latest?cb=20200414014535",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-purple_roses-icon.png/revision/latest?cb=20200414014508"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 2,
+            "white": 0
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 2,
+            "white": 1
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-orange_rose_icon.png/revision/latest?cb=20200407141838",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-yellow_rose_icon.png/revision/latest?cb=20200407142014"
+        ]
+    },
+    {
+        "genotype": {
+            "red": 2,
+            "yellow": 2,
+            "white": 2
+        },
+        "phenotypes_image_url": [
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-blue_roses-icon.png/revision/latest?cb=20200414014604",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-red_rose_icon.png/revision/latest?cb=20200407141923",
+            "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-white_rose_icon.png/revision/latest?cb=20200407141957"
+        ]
+    }
+]
