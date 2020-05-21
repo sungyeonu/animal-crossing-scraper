@@ -100,63 +100,9 @@
                     "probability": 0.25
                 }
             ]
-        },
-        {
-            "parent_a": {
-                "gene": "RRYyww",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
-            },
-            "parent_b": {
-                "gene": "RRYyww",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
-            },
-            "children": [
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914",
-                    "gene": "RRyyww",
-                    "probability": 0.25
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900",
-                    "gene": "RRYyww",
-                    "probability": 0.5
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344",
-                    "gene": "RRYYww",
-                    "probability": 0.25
-                }
-            ]
-        },
-        {
-            "parent_a": {
-                "gene": "RRYyww",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
-            },
-            "parent_b": {
-                "gene": "RRYyww",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900"
-            },
-            "children": [
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-red_mum_icon.png/revision/latest?cb=20200407141914",
-                    "gene": "RRyyww",
-                    "probability": 0.25
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-purple_mum_icon.png/revision/latest?cb=20200407141900",
-                    "gene": "RRYyww",
-                    "probability": 0.5
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-green_mums-icon.png/revision/latest?cb=20200414014344",
-                    "gene": "RRYYww",
-                    "probability": 0.25
-                }
-            ]
         }
     ],
-    "Pansies": [
+    "Pansies and Windflowers": [
         {
             "parent_a": {
                 "gene": "rryyWW",
@@ -169,6 +115,23 @@
             "children": [
                 {
                     "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+                    "gene": "RryyWw",
+                    "probability": 1.0
+                }
+            ]
+        },
+        {
+            "parent_a": {
+                "gene": "rryyWW",
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935"
+            },
+            "parent_b": {
+                "gene": "RRyyww",
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717"
+            },
+            "children": [
+                {
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
                     "gene": "RryyWw",
                     "probability": 1.0
                 }
@@ -234,112 +197,55 @@
         {
             "parent_a": {
                 "gene": "RryyWw",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918"
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717"
             },
             "parent_b": {
                 "gene": "RryyWw",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918"
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717"
             },
             "children": [
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
                     "gene": "rryyww",
                     "probability": 0.06
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-white_windflowers-icon.png/revision/latest?cb=20200414004536",
                     "gene": "rryyWw",
                     "probability": 0.13
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
                     "gene": "rryyWW",
                     "probability": 0.06
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
                     "gene": "Rryyww",
                     "probability": 0.13
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
                     "gene": "RryyWw",
                     "probability": 0.25
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NH-blue_windflowers-icon.png/revision/latest?cb=20200414004935",
                     "gene": "RryyWW",
                     "probability": 0.13
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
                     "gene": "RRyyww",
                     "probability": 0.06
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-red_windflowers-icon.png/revision/latest?cb=20200414004717",
                     "gene": "RRyyWw",
                     "probability": 0.13
                 },
                 {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
-                    "gene": "RRyyWW",
-                    "probability": 0.06
-                }
-            ]
-        },
-        {
-            "parent_a": {
-                "gene": "RryyWw",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918"
-            },
-            "parent_b": {
-                "gene": "RryyWw",
-                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918"
-            },
-            "children": [
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
-                    "gene": "rryyww",
-                    "probability": 0.06
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-white_pansy_icon.png/revision/latest?cb=20200407141949",
-                    "gene": "rryyWw",
-                    "probability": 0.13
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
-                    "gene": "rryyWW",
-                    "probability": 0.06
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-                    "gene": "Rryyww",
-                    "probability": 0.13
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-                    "gene": "RryyWw",
-                    "probability": 0.25
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-blue_pansy_icon.png/revision/latest?cb=20200407141809",
-                    "gene": "RryyWW",
-                    "probability": 0.13
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-                    "gene": "RRyyww",
-                    "probability": 0.06
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-red_pansy_icon.png/revision/latest?cb=20200407141918",
-                    "gene": "RRyyWw",
-                    "probability": 0.13
-                },
-                {
-                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-purple_pansies-icon.png/revision/latest?cb=20200414012319",
+                    "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-purple_windflowers-icon.png/revision/latest?cb=20200414004913",
                     "gene": "RRyyWW",
                     "probability": 0.06
                 }

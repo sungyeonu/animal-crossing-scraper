@@ -6,14 +6,14 @@ from util import separate_by_br, convert_checkmark, parse_price, get_image_links
 
 URLS = {
     # --- New Horizons ---
+    # Characters
+    "villagers": "https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)",
+
     # Museum
     "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)",
     "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)",
     "fossils": "https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)",
     "artworks": "https://animalcrossing.fandom.com/wiki/Artwork_(New_Horizons)",
-
-    # Characters
-    "villagers": "https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)",
 
     # Crafting
     "tools": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Tools",
@@ -45,6 +45,37 @@ URLS = {
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)",
 }
 
+
+def scrape_villagers(key):
+    # get list of villager urls
+    url = URLS.get(key)
+    response = (requests.get(url, timeout=5))
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup("table", {"class": "sortable"})
+    villagers_urls = []
+    for tr in table[0]("tr")[1:]:
+        villagers_urls.append("https://animalcrossing.fandom.com" + tr("td")[0].a.get("href"))
+    # scrape each villager page
+    villagers_info = {}
+    for vu in villagers_urls:
+        response = requests.get(vu, timeout=5)
+        soup = BeautifulSoup(response.content, "html.parser")
+        asides = soup("aside")
+        name = asides[0]("h2")[0].text
+        item = {}
+        item["image_url"] = asides[0]("img")[0].get("src").replace("/scale-to-width-down/350", "")
+        if len(asides[0]("figcaption")) > 0:
+            item["caption"] = asides[0]("figcaption")[0].text
+        else:
+            item["caption"] = None
+        for div in asides[0]("div", {"class": "pi-item"}):
+            if div.find("div").text == "Unknown":
+                item[div("h3")[0].text.lower().replace(" ", "_")] = None
+            else:
+                item[div("h3")[0].text.lower().replace(
+                    " ", "_")] = div.find("div").text
+        villagers_info[name] = item
+    dump_data(villagers_info, "characters/villagers")
 
 def scrape_bugs(key):  # take url and return object containing bugs data
     url = URLS.get(key)
@@ -230,28 +261,6 @@ def scrape_artworks(key):
         items[name] = item
     dump_data(items, "museum/" + key)
     return items
-
-
-def scrape_villagers(key):
-    url = URLS.get(key)
-    response = (requests.get(url, timeout=5))
-    soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "sortable"})
-    items = {}
-    for tr in table[0].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
-        item = {
-            "name": name,
-            "imageLink": tr.find_all("td")[1].a['href'],
-            "personality": tr.find_all("td")[2].text.strip("\n").lstrip(),
-            "species": tr.find_all("td")[3].text.strip("\n").lstrip(),
-            "birthday": tr.find_all("td")[4].text.strip("\n").lstrip(),
-            "catchPhrase": tr.find_all("td")[5].text.strip("\n").lstrip()
-        }
-        items[name] = item
-    dump_data(items, "characters/" + key)
-    return items
-
 
 def scrape_tools(key):
     url = URLS.get(key)
@@ -565,7 +574,7 @@ def scrape_flowers(key):
     for table_number in range(15, 17):
         temp = []
         species = tables[table_number]("tr")[0].text.strip()
-        for tr in tables[table_number]("tr")[2:8]:
+        for tr in tables[table_number]("tr")[2:6]:
             if len(tr("abbr")) > 0:
                 item = {
                     "parent_a": {
@@ -582,15 +591,16 @@ def scrape_flowers(key):
         items[species] = temp
     dump_data(items, "flower/hybridization_advanced")
 
+
 if __name__ == "__main__":
+    # -- Characters --
+    # scrape_villagers("villagers")
+
     # -- Museum --
     # scrape_bugs("bugs")
     # scrape_fish("fish")
     # scrape_fossils("fossils")
     # scrape_artworks("artworks")
-
-    # -- Characters --
-    # scrape_villagers("villagers")
 
     # -- Crafting --
     # scrape_equipments("tools")
@@ -614,5 +624,7 @@ if __name__ == "__main__":
 
     # -- Furniture --
     # scrape_furniture_housewares("furniture_housewares")
+
+    # -- Flower -- 
     scrape_flowers("flowers")
     pass

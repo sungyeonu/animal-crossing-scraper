@@ -96,5 +96,5 @@ def parse_hybridization_children(tag):
 
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
-    with open(("data/" + path + ".json"), 'w') as f:
-        json.dump(itemList, f, indent=4)
+    with open(("data/" + path + ".json"), 'w', encoding='utf-8') as f:
+        json.dump(itemList, f, ensure_ascii=False, indent=4)
