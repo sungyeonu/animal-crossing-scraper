@@ -594,7 +594,7 @@ def scrape_flowers(key):
 
 if __name__ == "__main__":
     # -- Characters --
-    # scrape_villagers("villagers")
+    scrape_villagers("villagers")
 
     # -- Museum --
     # scrape_bugs("bugs")
@@ -626,5 +626,5 @@ if __name__ == "__main__":
     # scrape_furniture_housewares("furniture_housewares")
 
     # -- Flower -- 
-    scrape_flowers("flowers")
+    # scrape_flowers("flowers")
     pass
