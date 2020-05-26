@@ -72,10 +72,10 @@ def scrape_villagers(key):
             if div.find("div").text == "Unknown":
                 item[div("h3")[0].text.lower().replace(" ", "_")] = None
             else:
-                item[div("h3")[0].text.lower().replace(
-                    " ", "_")] = div.find("div").text
+                item[div("h3")[0].text.lower().replace(" ", "_")] = div.find("div").text
         villagers_info[name] = item
     dump_data(villagers_info, "characters/villagers")
+
 
 def scrape_bugs(key):  # take url and return object containing bugs data
     url = URLS.get(key)
@@ -83,53 +83,24 @@ def scrape_bugs(key):  # take url and return object containing bugs data
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     # find the target table
-    table = soup.find_all("table", {"class": "sortable"})
+    table = soup("table", {"class": "sortable"})
     items = {}
     # go through each tr in the table, ignoring the table header
-    for tr in table[0].find_all("tr")[1:]:
-        tableData = []
-        # get rid of empty space
-        for td in tr.find_all("td"):
-            tableData.append(td.next.strip())
+    for tr in table[0]("tr")[1:]:
         # scrape each item
-        name = tr.find_all("td")[0].a.text
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
-            "imageLink": tr.find_all("a")[1]['href'],
-            "price": int(tableData[2]),
-            "location": tr.find_all("td")[3].text.strip('\n').strip(),
-            "time": tr.find_all("small")[0].text,
-            "seasonsNorthernHemisphere": {
-                "jan": convert_checkmark(tableData[5]),
-                "feb": convert_checkmark(tableData[6]),
-                "mar": convert_checkmark(tableData[7]),
-                "apr": convert_checkmark(tableData[8]),
-                "may": convert_checkmark(tableData[9]),
-                "jun": convert_checkmark(tableData[10]),
-                "jul": convert_checkmark(tableData[11]),
-                "aug": convert_checkmark(tableData[12]),
-                "sep": convert_checkmark(tableData[13]),
-                "oct": convert_checkmark(tableData[14]),
-                "nov": convert_checkmark(tableData[15]),
-                "dec": convert_checkmark(tableData[16])
-            },
-            "seasonsSouthernHemisphere": {  # shift northern hemisphere by 6 months
-                "jan": convert_checkmark(tableData[11]),
-                "feb": convert_checkmark(tableData[12]),
-                "mar": convert_checkmark(tableData[13]),
-                "apr": convert_checkmark(tableData[14]),
-                "may": convert_checkmark(tableData[15]),
-                "jun": convert_checkmark(tableData[16]),
-                "jul": convert_checkmark(tableData[5]),
-                "aug": convert_checkmark(tableData[6]),
-                "sep": convert_checkmark(tableData[7]),
-                "oct": convert_checkmark(tableData[8]),
-                "nov": convert_checkmark(tableData[9]),
-                "dec": convert_checkmark(tableData[10])
+            "image_url": tr("a")[1]['href'],
+            "price": parse_price(tr("td")[2].text),
+            "location": tr("td")[3].text.strip(),
+            "time": tr("small")[0].text,
+            "months": {
+                "northern": parse_months([tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16]]),
+                "southern": parse_months([tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10]]),
             }
         }
-        # add to the json
         items[name] = item
+    # dump data in a json
     dump_data(items, "museum/" + key)
     # return for debugging
     return items
@@ -139,47 +110,19 @@ def scrape_fish(key):  # same logic as scrapeBugs
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "sortable"})
+    table = soup("table", {"class": "sortable"})
     items = {}
-    for tr in table[0].find_all("tr")[1:]:
-        tableData = []
-        for td in tr.find_all("td"):
-            tableData.append(td.next.strip())
-        name = tr.find_all("td")[0].a.text
+    for tr in table[0]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
-            "imageLink": tr.find_all("a")[1]['href'],
-            "price": parse_price(tableData[2]),
-            "location": tr.find_all("td")[3].text.strip('\n').strip(),
-            "shadowSize": tableData[4],
-            "time": tr.find_all("small")[0].text,
-            "seasonsNorthernHemisphere": {
-                "jan": convert_checkmark(tableData[6]),
-                "feb": convert_checkmark(tableData[7]),
-                "mar": convert_checkmark(tableData[8]),
-                "apr": convert_checkmark(tableData[9]),
-                "may": convert_checkmark(tableData[10]),
-                "jun": convert_checkmark(tableData[11]),
-                "jul": convert_checkmark(tableData[12]),
-                "aug": convert_checkmark(tableData[13]),
-                "sep": convert_checkmark(tableData[14]),
-                "oct": convert_checkmark(tableData[15]),
-                "nov": convert_checkmark(tableData[16]),
-                "dec": convert_checkmark(tableData[17])
-            },
-            "seasonsSouthernHemisphere": {
-                "jan": convert_checkmark(tableData[12]),
-                "feb": convert_checkmark(tableData[13]),
-                "mar": convert_checkmark(tableData[14]),
-                "apr": convert_checkmark(tableData[15]),
-                "may": convert_checkmark(tableData[16]),
-                "jun": convert_checkmark(tableData[17]),
-                "jul": convert_checkmark(tableData[6]),
-                "aug": convert_checkmark(tableData[7]),
-                "sep": convert_checkmark(tableData[8]),
-                "oct": convert_checkmark(tableData[9]),
-                "nov": convert_checkmark(tableData[10]),
-                "dec": convert_checkmark(tableData[11])
+            "image_url": tr("a")[1]['href'],
+            "price": parse_price(tr("td")[2].text),
+            "location": tr("td")[3].text.strip(),
+            "shadow_size": tr("td")[4].text.strip(),
+            "time": tr("small")[0].text,
+            "months": {
+                "northern": parse_months([tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[17]]),
+                "southern": parse_months([tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[17], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11]]),
             }
         }
         items[name] = item
@@ -187,44 +130,35 @@ def scrape_fish(key):  # same logic as scrapeBugs
     return items
 
 
-def scrape_fossils(key):  # same logic as scrapeBugs and scrapeFish
+def scrape_fossils(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "sortable"})
+    table = soup("table", {"class": "sortable"})
     items = {}
     # Stand-alone fossils
-    for tr in table[0].find_all("tr")[1:]:
-        tableData = []
-        for td in tr.find_all("td"):
-            tableData.append(td.next.strip())
-        name = tr.find_all("td")[0].a.text
+    items["stand_alone"] = {}
+    for tr in table[0]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
-            "imageLink": tr.find_all("a")[1]['href'],
-            "price": parse_price(tableData[2]),
-            "isMultipart": False
+            "image_url": tr("a")[1]['href'],
+            "price": parse_price(tr("td")[2].text),
         }
-        tableData.append(item)
-        items[name] = item
+        items["stand_alone"][name] = item
     # Multi-part fossils
-    for tr in table[1].find_all("tr")[1:]:
-        tableData = []
-        tds = tr.find_all("td")
+    items["multi_part"] = {}
+    for tr in table[1]("tr")[1:]:
+        tds = tr("td")
         if not tds:
-            currentCategory = tr.find_all("a")[0].text
+            currentCategory = tr("a")[0].text
             continue
-        for td in tr.find_all("td"):
-            tableData.append(td.next.strip())
-        name = tr.find_all("td")[0].a.text
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
-            "imageLink": tr.find_all("a")[1]['href'],
-            "price": parse_price(tableData[2]),
-            "isMultipart": True,
+            "image_url": tr("a")[1]['href'],
+            "price": parse_price(tr("td")[2].text),
             "category": currentCategory
         }
-        items[name] = item
+        items["multi_part"][name] = item
     dump_data(items, "museum/" + key)
     return items
 
@@ -233,32 +167,40 @@ def scrape_artworks(key):
     url = URLS.get(key)
     response = requests.get(url, timeout=5)
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "wikitable"})
+    table = soup("table", {"class": "wikitable"})
     items = {}
-    for tr in table[0].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
+    # paintings
+    items["paintings"] = {}
+    for tr in table[0]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
+            "description": tr("td")[3].text.strip(),
         }
-        if tr.find_all("td")[1].a:
-            item["fakeImageLink"] = tr.find_all("td")[1].a['href']
-        if tr.find_all("td")[2].a:
-            item["realImageLink"] = tr.find_all("td")[2].a['href']
-        if tr.find_all("td")[3]:
-            item["description"] = tr.find_all("td")[3].text.strip('\n').lstrip()
-        items[name] = item
-    for tr in table[1].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
+        if tr("td")[1].a:
+            item["fake_image_url"] = tr("td")[1].a['href']
+        else:
+            item["fake_image_url"] = None
+        if tr("td")[2].a:
+            item["real_image_url"] = tr("td")[2].a['href']
+        else:
+            item["real_image_url"] = None
+        items["paintings"][name] = item
+    # sculptures
+    items["sculptures"] = {}
+    for tr in table[1]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
+            "description": tr("td")[3].text.strip(),
         }
-        if tr.find_all("td")[1].a:
-            item["fakeImageLink"] = tr.find_all("td")[1].a['href']
-        if tr.find_all("td")[2].a:
-            item["realImageLink"] = tr.find_all("td")[2].a['href']
-        if tr.find_all("td")[3]:
-            item["description"] = tr.find_all("td")[3].text.strip('\n').lstrip()
-        items[name] = item
+        if tr("td")[1].a:
+            item["fake_image_url"] = tr("td")[1].a['href']
+        else:
+            item["fake_image_url"] = None
+        if tr("td")[2].a:
+            item["real_image_url"] = tr("td")[2].a['href']
+        else:
+            item["real_image_url"] = None
+        items["sculptures"][name] = item
     dump_data(items, "museum/" + key)
     return items
 
@@ -471,6 +413,7 @@ def scrape_furniture_housewares(key):
     soup = BeautifulSoup(response.content, "html.parser")
     table = soup.find_all("table", {"class": "roundy"})
     items = {}
+    print(table[3]("tr"))
     for tr in table[3]("tr")[2:]:
         name = tr.find_all("td")[1].text.strip()
         item = {
@@ -594,7 +537,7 @@ def scrape_flowers(key):
 
 if __name__ == "__main__":
     # -- Characters --
-    scrape_villagers("villagers")
+    # scrape_villagers("villagers")
 
     # -- Museum --
     # scrape_bugs("bugs")
