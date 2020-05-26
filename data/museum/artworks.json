@@ -1,238 +1,221 @@
 {
-    "Academic painting": {
-        "name": "Academic painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-academic-painting-texture-fake.png/revision/latest?cb=20200423210753",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/Animal-crossing-new-horizons-guide-redd-academic-painting-texture-real.png/revision/latest?cb=20200423210828",
-        "description": "The forged painting has a coffee stain on the top right whereas the genuine does not."
+    "paintings": {
+        "Academic painting": {
+            "description": "The forged painting has a coffee stain on the top right whereas the genuine does not. The forgery also has a strange key taped to the back.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-academic-painting-texture-fake.png/revision/latest?cb=20200423210753",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/Animal-crossing-new-horizons-guide-redd-academic-painting-texture-real.png/revision/latest?cb=20200423210828"
+        },
+        "Amazing painting": {
+            "description": "In the forged painting, the man with the red sash is not wearing a hat; whereas in the genuine painting, he is.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/Animal-crossing-new-horizons-guide-redd-amazing-painting-texture-fake.png/revision/latest?cb=20200423211039",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/Animal-crossing-new-horizons-guide-redd-amazing-painting-texture-real.png/revision/latest?cb=20200423211202"
+        },
+        "Basic painting": {
+            "description": "In the forged painting, the boy has bangs covering his entire forehead; whereas in the genuine one, there is less hair covering his forehead.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/Animal-crossing-new-horizons-guide-redd-basic-painting-texture-fake.png/revision/latest?cb=20200423212235",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/Animal-crossing-new-horizons-guide-redd-basic-painting-texture-real.png/revision/latest?cb=20200423212204"
+        },
+        "Calm painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/Animal-crossing-new-horizons-guide-redd-calm-painting-texture-real.png/revision/latest?cb=20200423212405"
+        },
+        "Common painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/Animal-crossing-new-horizons-guide-redd-common-painting-texture-real.png/revision/latest?cb=20200423212448"
+        },
+        "Detailed painting": {
+            "description": "The forged painting has purple flowers, whereas the genuine one has blue flowers.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/Animal-crossing-new-horizons-guide-redd-detailed-painting-texture-fake.png/revision/latest?cb=20200423220925",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/Animal-crossing-new-horizons-guide-redd-detailed-painting-texture-real.png/revision/latest?cb=20200423220858"
+        },
+        "Dynamic painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/Animal-crossing-new-horizons-guide-redd-dynamic-painting-texture-real.png/revision/latest?cb=20200423212654"
+        },
+        "Famous painting": {
+            "description": "In the forged painting, the woman has raised eyebrows, which makes her look angry, whereas in the genuine one, she has no (or very faint) eyebrows, which makes her look calm.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/Animal-crossing-new-horizons-guide-redd-famous-painting-texture-fake.png/revision/latest?cb=20200423212804",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/Animal-crossing-new-horizons-guide-redd-famous-painting-texture-real.png/revision/latest?cb=20200423212742"
+        },
+        "Flowery painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-flowery-painting-texture-real.png/revision/latest?cb=20200423212936"
+        },
+        "Glowing painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Animal-crossing-new-horizons-guide-redd-glowing-painting-texture-real.png/revision/latest?cb=20200423221135"
+        },
+        "Graceful painting": {
+            "description": "The forged painting has the lady taking up almost the entire painting, but the lady takes up only 2/3 of the painting instead. The forgery also looks to the left during the evening and has a shadowy figure on the back.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/Animal-crossing-new-horizons-guide-redd-graceful-painting-texture-fake.png/revision/latest?cb=20200423213114",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/Animal-crossing-new-horizons-guide-redd-graceful-painting-texture-real.png/revision/latest?cb=20200423213048"
+        },
+        "Jolly painting": {
+            "description": "The forged painting is missing the artichoke bud sticking out of the chest, whereas in the genuine one it is present.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/Animal-crossing-new-horizons-guide-redd-jolly-painting-texture-fake.png/revision/latest?cb=20200423213309",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/Animal-crossing-new-horizons-guide-redd-jolly-painting-texture-real.png/revision/latest?cb=20200423213243"
+        },
+        "Moody painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/Animal-crossing-new-horizons-guide-redd-moody-painting-texture-real.png/revision/latest?cb=20200423213432"
+        },
+        "Moving painting": {
+            "description": "There are no trees in the forged painting, whereas the genuine one has them.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/Animal-crossing-new-horizons-guide-redd-moving-painting-texture-fake.png/revision/latest?cb=20200423213556",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/Animal-crossing-new-horizons-guide-redd-moving-painting-texture-real.png/revision/latest?cb=20200423213517"
+        },
+        "Mysterious painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/Animal-crossing-new-horizons-guide-redd-mysterious-painting-texture-real.png/revision/latest?cb=20200423220251"
+        },
+        "Nice painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/Animal-crossing-new-horizons-guide-redd-nice-painting-texture-real.png/revision/latest?cb=20200423213800"
+        },
+        "Perfect painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/Animal-crossing-new-horizons-guide-redd-perfect-painting-texture-real.png/revision/latest?cb=20200423213849"
+        },
+        "Proper painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/Animal-crossing-new-horizons-guide-redd-proper-painting-texture-real.png/revision/latest?cb=20200423213920"
+        },
+        "Quaint painting": {
+            "description": "In the forged painting, there is lots of milk pouring out of the container; whereas in the genuine one, there is only a small amount.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/Animal-crossing-new-horizons-guide-redd-quaint-painting-texture-fake.png/revision/latest?cb=20200423214024",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/Animal-crossing-new-horizons-guide-redd-quaint-painting-texture-real.png/revision/latest?cb=20200423213953"
+        },
+        "Scary painting": {
+            "description": "In the forged painting, the man's eyebrows are pointing up in the middle, making him seem concerned, while they point down in the middle in the authentic painting. During the evening, the man smiles in the forgery.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/Animal-crossing-new-horizons-guide-redd-scary-painting-texture-fake.png/revision/latest?cb=20200423214227",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/Animal-crossing-new-horizons-guide-redd-scary-painting-texture-real.png/revision/latest?cb=20200423214201"
+        },
+        "Scenic painting": {
+            "description": "The forged painting has one person on the hill, whereas the genuine painting has three people and more dogs.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/Animal-crossing-new-horizons-guide-redd-scenic-painting-texture-fake.png/revision/latest?cb=20200423214351",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/Animal-crossing-new-horizons-guide-redd-scenic-painting-texture-real.png/revision/latest?cb=20200423214326"
+        },
+        "Serene painting": {
+            "description": "In the forged painting, the stoat has a grey coloration; whereas in the genuine one, it is a white ermine.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/Animal-crossing-new-horizons-guide-redd-serene-painting-texture-fake.png/revision/latest?cb=20200423214544",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Animal-crossing-new-horizons-guide-redd-serene-painting-texture-real.png/revision/latest?cb=20200423214505"
+        },
+        "Sinking painting": {
+            "description": "The forged painting has pink flowers, whereas the genuine one has white flowers.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/Animal-crossing-new-horizons-guide-redd-sinking-painting-texture-real.png/revision/latest?cb=20200423221351",
+            "real_image_url": null
+        },
+        "Solemn painting": {
+            "description": "In the forged painting, the man in the far back is pointing upwards, whereas in the genuine one, he is touching the wall.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Animal-crossing-new-horizons-guide-redd-solemn-painting-texture-fake.png/revision/latest?cb=20200423214756",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/Animal-crossing-new-horizons-guide-redd-solemn-painting-texture-real.png/revision/latest?cb=20200423214710"
+        },
+        "Twinkling painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/Animal-crossing-new-horizons-guide-redd-twinkling-painting-texture-real.png/revision/latest?cb=20200423221506"
+        },
+        "Warm painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/Animal-crossing-new-horizons-guide-redd-warm-painting-texture-real.png/revision/latest?cb=20200423214954"
+        },
+        "Wild painting left half": {
+            "description": "The forged painting has a light figure, whereas the genuine one has a dark figure.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/Animal-crossing-new-horizons-guide-redd-wild-painting-left-half-texture-fake.png/revision/latest?cb=20200423215517",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/Animal-crossing-new-horizons-guide-redd-wild-painting-left-half-texture-real.png/revision/latest?cb=20200423215445"
+        },
+        "Wild painting right half": {
+            "description": "The forged painting has a light figure, whereas the genuine one has a dark figure.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/Animal-crossing-new-horizons-guide-redd-wild-painting-right-half-texture-fake.png/revision/latest?cb=20200423215801",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/Animal-crossing-new-horizons-guide-redd-wild-painting-right-half-texture-real.png/revision/latest?cb=20200423215733"
+        },
+        "Wistful painting": {
+            "description": "In the forged painting, the woman is wearing a star-shaped earring; whereas in the genuine one, the earring is sphere-shaped. The woman also closes her eyes during the evening and reopens them the following day.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/Animal-crossing-new-horizons-guide-redd-wistful-painting-texture-fake.png/revision/latest?cb=20200423215934",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/Animal-crossing-new-horizons-guide-redd-wistful-painting-texture-real.png/revision/latest?cb=20200423215902"
+        },
+        "Worthy painting": {
+            "description": "This painting is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-worthy-painting-texture-real.png/revision/latest?cb=20200423220056"
+        }
     },
-    "Amazing painting": {
-        "name": "Amazing painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/Animal-crossing-new-horizons-guide-redd-amazing-painting-texture-fake.png/revision/latest?cb=20200423211039",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/Animal-crossing-new-horizons-guide-redd-amazing-painting-texture-real.png/revision/latest?cb=20200423211202",
-        "description": "In the forged painting, the man with the red sash is not wearing a hat; whereas in the genuine painting, he is."
-    },
-    "Basic painting": {
-        "name": "Basic painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/Animal-crossing-new-horizons-guide-redd-basic-painting-texture-fake.png/revision/latest?cb=20200423212235",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/Animal-crossing-new-horizons-guide-redd-basic-painting-texture-real.png/revision/latest?cb=20200423212204",
-        "description": "In the forged painting, the boy has bangs covering his entire forehead; whereas in the genuine one, there is less hair covering his forehead."
-    },
-    "Calm painting": {
-        "name": "Calm painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/Animal-crossing-new-horizons-guide-redd-calm-painting-texture-real.png/revision/latest?cb=20200423212405",
-        "description": "This painting is always authentic."
-    },
-    "Common painting": {
-        "name": "Common painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/Animal-crossing-new-horizons-guide-redd-common-painting-texture-real.png/revision/latest?cb=20200423212448",
-        "description": "This painting is always authentic."
-    },
-    "Dynamic painting": {
-        "name": "Dynamic painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/Animal-crossing-new-horizons-guide-redd-dynamic-painting-texture-real.png/revision/latest?cb=20200423212654",
-        "description": "This painting is always authentic."
-    },
-    "Detailed painting": {
-        "name": "Detailed painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/Animal-crossing-new-horizons-guide-redd-detailed-painting-texture-fake.png/revision/latest?cb=20200423220925",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/Animal-crossing-new-horizons-guide-redd-detailed-painting-texture-real.png/revision/latest?cb=20200423220858",
-        "description": "The forged painting has purple flowers, whereas the genuine one has blue flowers."
-    },
-    "Famous painting": {
-        "name": "Famous painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f6/Animal-crossing-new-horizons-guide-redd-famous-painting-texture-fake.png/revision/latest?cb=20200423212804",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/Animal-crossing-new-horizons-guide-redd-famous-painting-texture-real.png/revision/latest?cb=20200423212742",
-        "description": "In the forged painting, the woman has eyebrows which makes her look angry; whereas in the genuine one, she has no (or very faint) eyebrows which makes her look calm."
-    },
-    "Glowing painting": {
-        "name": "Glowing painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Animal-crossing-new-horizons-guide-redd-glowing-painting-texture-real.png/revision/latest?cb=20200423221135",
-        "description": "This painting is always authentic."
-    },
-    "Flowery painting": {
-        "name": "Flowery painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-flowery-painting-texture-real.png/revision/latest?cb=20200423212936",
-        "description": "This painting is always authentic."
-    },
-    "Graceful painting": {
-        "name": "Graceful painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/Animal-crossing-new-horizons-guide-redd-graceful-painting-texture-fake.png/revision/latest?cb=20200423213114",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/Animal-crossing-new-horizons-guide-redd-graceful-painting-texture-real.png/revision/latest?cb=20200423213048",
-        "description": "In the forged painting, the woman takes up most of the space and covers the stain on the painting; whereas in the genuine painting, she only takes up around two-thirds of the painting."
-    },
-    "Jolly painting": {
-        "name": "Jolly painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/Animal-crossing-new-horizons-guide-redd-jolly-painting-texture-fake.png/revision/latest?cb=20200423213309",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/Animal-crossing-new-horizons-guide-redd-jolly-painting-texture-real.png/revision/latest?cb=20200423213243",
-        "description": "The forged painting is missing the artichoke bud sticking out of the chest, whereas the genuine one does."
-    },
-    "Mysterious painting": {
-        "name": "Mysterious painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/Animal-crossing-new-horizons-guide-redd-mysterious-painting-texture-real.png/revision/latest?cb=20200423220251",
-        "description": "This painting is always authentic."
-    },
-    "Moody painting": {
-        "name": "Moody painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/Animal-crossing-new-horizons-guide-redd-moody-painting-texture-real.png/revision/latest?cb=20200423213432",
-        "description": "This painting is always authentic."
-    },
-    "Moving painting": {
-        "name": "Moving painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/Animal-crossing-new-horizons-guide-redd-moving-painting-texture-fake.png/revision/latest?cb=20200423213556",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/Animal-crossing-new-horizons-guide-redd-moving-painting-texture-real.png/revision/latest?cb=20200423213517",
-        "description": "There are no trees in the forged painting, whereas the genuine one does."
-    },
-    "Nice painting": {
-        "name": "Nice painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/Animal-crossing-new-horizons-guide-redd-nice-painting-texture-real.png/revision/latest?cb=20200423213800",
-        "description": "This painting is always authentic."
-    },
-    "Perfect painting": {
-        "name": "Perfect painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/Animal-crossing-new-horizons-guide-redd-perfect-painting-texture-real.png/revision/latest?cb=20200423213849",
-        "description": "This painting is always authentic."
-    },
-    "Proper painting": {
-        "name": "Proper painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/Animal-crossing-new-horizons-guide-redd-proper-painting-texture-real.png/revision/latest?cb=20200423213920",
-        "description": "This painting is always authentic."
-    },
-    "Quaint painting": {
-        "name": "Quaint painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/Animal-crossing-new-horizons-guide-redd-quaint-painting-texture-fake.png/revision/latest?cb=20200423214024",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/Animal-crossing-new-horizons-guide-redd-quaint-painting-texture-real.png/revision/latest?cb=20200423213953",
-        "description": "In the forged painting, there is lots of milk pouring out of the container; whereas in the genuine one, there is only a small amount."
-    },
-    "Scary painting": {
-        "name": "Scary painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/Animal-crossing-new-horizons-guide-redd-scary-painting-texture-fake.png/revision/latest?cb=20200423214227",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/Animal-crossing-new-horizons-guide-redd-scary-painting-texture-real.png/revision/latest?cb=20200423214201",
-        "description": "In the forged painting, the man looks scared; whereas in the genuine one, he looks angry."
-    },
-    "Scenic painting": {
-        "name": "Scenic painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/Animal-crossing-new-horizons-guide-redd-scenic-painting-texture-fake.png/revision/latest?cb=20200423214351",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/Animal-crossing-new-horizons-guide-redd-scenic-painting-texture-real.png/revision/latest?cb=20200423214326",
-        "description": "The forged painting has one person on the hill, whereas the genuine painting has three people and more dogs."
-    },
-    "Serene painting": {
-        "name": "Serene painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/Animal-crossing-new-horizons-guide-redd-serene-painting-texture-fake.png/revision/latest?cb=20200423214544",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Animal-crossing-new-horizons-guide-redd-serene-painting-texture-real.png/revision/latest?cb=20200423214505",
-        "description": "In the forged painting, the stoat has a grey coloration; whereas in the genuine one, it is a white ermine."
-    },
-    "Sinking painting": {
-        "name": "Sinking painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/Animal-crossing-new-horizons-guide-redd-sinking-painting-texture-real.png/revision/latest?cb=20200423221351",
-        "description": "This painting is always authentic."
-    },
-    "Solemn painting": {
-        "name": "Solemn painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Animal-crossing-new-horizons-guide-redd-solemn-painting-texture-fake.png/revision/latest?cb=20200423214756",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/Animal-crossing-new-horizons-guide-redd-solemn-painting-texture-real.png/revision/latest?cb=20200423214710",
-        "description": "In the forged painting, the man in the far back is pointing upwards; whereas in the genuine one, he is touching the wall."
-    },
-    "Twinkling painting": {
-        "name": "Twinkling painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/Animal-crossing-new-horizons-guide-redd-twinkling-painting-texture-real.png/revision/latest?cb=20200423221506",
-        "description": "This painting is always authentic."
-    },
-    "Warm painting": {
-        "name": "Warm painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/Animal-crossing-new-horizons-guide-redd-warm-painting-texture-real.png/revision/latest?cb=20200423214954",
-        "description": "This painting is always authentic."
-    },
-    "Wild painting": {
-        "name": "Wild painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/Animal-crossing-new-horizons-guide-redd-wild-painting-right-half-texture-fake.png/revision/latest?cb=20200423215801",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/Animal-crossing-new-horizons-guide-redd-wild-painting-right-half-texture-real.png/revision/latest?cb=20200423215733",
-        "description": "The forged painting has a light figure, whereas the genuine one has a dark figure."
-    },
-    "Wistful painting": {
-        "name": "Wistful painting",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/Animal-crossing-new-horizons-guide-redd-wistful-painting-texture-fake.png/revision/latest?cb=20200423215934",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/Animal-crossing-new-horizons-guide-redd-wistful-painting-texture-real.png/revision/latest?cb=20200423215902",
-        "description": "In the forged painting, the woman is wearing a star-shaped earring; whereas in the genuine one, the earring is sphere-shaped."
-    },
-    "Worthy painting": {
-        "name": "Worthy painting",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Animal-crossing-new-horizons-guide-redd-worthy-painting-texture-real.png/revision/latest?cb=20200423220056",
-        "description": "This painting is always authentic."
-    },
-    "Ancient statue": {
-        "name": "Ancient statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/ACNH_AncientStatue_Fake1.jpg/revision/latest?cb=20200503185633",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/ACNH_AncientStatue_True1.jpg/revision/latest?cb=20200503185709",
-        "description": "The forged statue has antennae, whereas the genuine statue does not."
-    },
-    "Beautiful statue": {
-        "name": "Beautiful statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/ACNH_BeautifulStatue_False1.jpg/revision/latest?cb=20200503185824",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/ACNH_BeautifulStatue_True1.jpg/revision/latest?cb=20200503185751",
-        "description": "The forged statue has a set of necklaces, whereas the genuine statue does not."
-    },
-    "Familiar statue": {
-        "name": "Familiar statue",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/A40_r.png/revision/latest?cb=20200503190936",
-        "description": "This statue is always authentic."
-    },
-    "Gallant statue": {
-        "name": "Gallant statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/A42_f.png/revision/latest?cb=20200503192720",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/A42_r.png/revision/latest?cb=20200503191048",
-        "description": "The forged statue holds a book in its right hand, whereas the genuine statue does not."
-    },
-    "Great statue": {
-        "name": "Great statue",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/A21_r.png/revision/latest?cb=20200503190653",
-        "description": "This statue is always authentic."
-    },
-    "Informative statue": {
-        "name": "Informative statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Statue_Informative_Forged.png/revision/latest?cb=20200426194842",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Statue_Informative_Genuine.jpg/revision/latest?cb=20200501104944",
-        "description": "The forged statue is blue, whereas the genuine one is grey."
-    },
-    "Motherly statue": {
-        "name": "Motherly statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/MotherlyStatueFake.jpg/revision/latest?cb=20200427104536",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/A41_r.png/revision/latest?cb=20200503191009",
-        "description": "The forged statue has its tongue sticking out, whereas the genuine one does not."
-    },
-    "Mystic statue": {
-        "name": "Mystic statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/20200426_092011.jpg/revision/latest?cb=20200426142234",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/A17_r.png/revision/latest?cb=20200503190548",
-        "description": "The forged statue has an earring, whereas the genuine statue does not."
-    },
-    "Robust statue": {
-        "name": "Robust statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/A83_f.png/revision/latest?cb=20200503192655",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/A83_r.png/revision/latest?cb=20200503190822",
-        "description": "The forged statue is wearing a watch on its right arm, whereas the genuine statue is not."
-    },
-    "Rock-head statue": {
-        "name": "Rock-head statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/A46_f.png/revision/latest?cb=20200503190724",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/ACNH_RockHeadStatue_True1.jpg/revision/latest?cb=20200503185936",
-        "description": "The forged statue is smiling, whereas the genuine one is not."
-    },
-    "Tremendous statue": {
-        "name": "Tremendous statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/ACNH_TremendousStatue_False1.jpg/revision/latest?cb=20200503190028",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/86ce5e0f738a53ca5847588f8392a53e.jpg/revision/latest?cb=20200503192625",
-        "description": "The forged statue has a lid with a handle in the middle, whereas the genuine only has the handles on the side."
-    },
-    "Valiant statue": {
-        "name": "Valiant statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/ACNH_ValiantStatue_Fake1.jpg/revision/latest?cb=20200503190250",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/98a9b069622225ac10c76a461244b3f6.jpg/revision/latest?cb=20200503192547",
-        "description": "The forged statue is mirrored, with the left leg in front, whereas the genuine statue has the right leg in front."
-    },
-    "Warrior statue": {
-        "name": "Warrior statue",
-        "fakeImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/ACNH_WarriorStatue_False1.jpg/revision/latest?cb=20200503190333",
-        "realImageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/ACNH_WarriorStatue_True1.jpg/revision/latest?cb=20200503190356",
-        "description": "The forged statue is holding a shovel, whereas the genuine one is not."
+    "sculptures": {
+        "Ancient statue": {
+            "description": "The forged statue has antennae, whereas the genuine statue does not. The eyes on the forgery glow blue during the evening and can float for a short duration when interacted with.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/ACNH_AncientStatue_Fake1.jpg/revision/latest?cb=20200503185633",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/ACNH_AncientStatue_True1.jpg/revision/latest?cb=20200503185709"
+        },
+        "Beautiful statue": {
+            "description": "The forged statue has a set of necklaces, whereas the genuine statue does not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/ACNH_BeautifulStatue_False1.jpg/revision/latest?cb=20200503185824",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/ACNH_BeautifulStatue_True1.jpg/revision/latest?cb=20200503185751"
+        },
+        "Familiar statue": {
+            "description": "This statue is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/A40_r.png/revision/latest?cb=20200503190936"
+        },
+        "Gallant statue": {
+            "description": "The forged statue holds a book in its right hand, whereas the genuine statue does not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/A42_f.png/revision/latest?cb=20200503192720",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/A42_r.png/revision/latest?cb=20200503191048"
+        },
+        "Great statue": {
+            "description": "This statue is always authentic.",
+            "fake_image_url": null,
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/A21_r.png/revision/latest?cb=20200503190653"
+        },
+        "Informative statue": {
+            "description": "The forged statue is blue, whereas the genuine one is grey. The forgery also glows during the evening.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Statue_Informative_Forged.png/revision/latest?cb=20200426194842",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Statue_Informative_Genuine.jpg/revision/latest?cb=20200501104944"
+        },
+        "Motherly statue": {
+            "description": "The forged statue has its tongue sticking out, whereas the genuine one does not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/MotherlyStatueFake.jpg/revision/latest?cb=20200427104536",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/A41_r.png/revision/latest?cb=20200503191009"
+        },
+        "Mystic statue": {
+            "description": "The forged statue has an earring, whereas the genuine statue does not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/20200426_092011.jpg/revision/latest?cb=20200426142234",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/A17_r.png/revision/latest?cb=20200503190548"
+        },
+        "Robust statue": {
+            "description": "The forged statue is wearing a watch on its right arm, whereas the genuine statue is not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/A83_f.png/revision/latest?cb=20200503192655",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/A83_r.png/revision/latest?cb=20200503190822"
+        },
+        "Rock-head statue": {
+            "description": "The forged statue is smiling, whereas the genuine one is not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/A46_f.png/revision/latest?cb=20200503190724",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/ACNH_RockHeadStatue_True1.jpg/revision/latest?cb=20200503185936"
+        },
+        "Tremendous statue": {
+            "description": "The forged statue has a lid with a handle in the middle, whereas the genuine only has the handles on the side.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/ACNH_TremendousStatue_False1.jpg/revision/latest?cb=20200503190028",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/86ce5e0f738a53ca5847588f8392a53e.jpg/revision/latest?cb=20200503192625"
+        },
+        "Valiant statue": {
+            "description": "The forged statue is mirrored, with the left leg in front, whereas the genuine statue has the right leg in front.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/ACNH_ValiantStatue_Fake1.jpg/revision/latest?cb=20200503190250",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/98a9b069622225ac10c76a461244b3f6.jpg/revision/latest?cb=20200503192547"
+        },
+        "Warrior statue": {
+            "description": "The forged statue is holding a shovel, whereas the genuine one is not.",
+            "fake_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/ACNH_WarriorStatue_False1.jpg/revision/latest?cb=20200503190333",
+            "real_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/ACNH_WarriorStatue_True1.jpg/revision/latest?cb=20200503190356"
+        }
     }
 }
