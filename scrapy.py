@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import io
-from util import separate_by_br, convert_checkmark, parse_price, get_image_links, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
+from util import separate_by_br, parse_obtained_from, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
 
 
 URLS = {
@@ -21,8 +21,8 @@ URLS = {
     "miscellaneous": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Miscellaneous",
     "equipments": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Equipment",
     "others": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Other",
-    "wallMounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
-    "wallpaperRugsFloorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
+    "wall_mounteds": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wall-mounted",
+    "wallpaper_rugs_floorings": "https://animalcrossing.fandom.com/wiki/DIY_recipes/Wallpaper,_rugs_and_flooring",
 
     # Clothing
     "tops": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Tops",
@@ -51,9 +51,9 @@ def scrape_villagers(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup("table", {"class": "sortable"})
+    tables = soup("table", {"class": "sortable"})
     villagers_urls = []
-    for tr in table[0]("tr")[1:]:
+    for tr in tables[0]("tr")[1:]:
         villagers_urls.append("https://animalcrossing.fandom.com" + tr("td")[0].a.get("href"))
     # scrape each villager page
     villagers_info = {}
@@ -83,10 +83,12 @@ def scrape_bugs(key):  # take url and return object containing bugs data
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     # find the target table
-    table = soup("table", {"class": "sortable"})
+
+    tables = soup("table", {"class": "sortable"})
     items = {}
     # go through each tr in the table, ignoring the table header
-    for tr in table[0]("tr")[1:]:
+    for tr in tables[0]("tr")[1:]:
+
         # scrape each item
         name = tr("td")[0].a.text
         item = {
@@ -110,9 +112,10 @@ def scrape_fish(key):  # same logic as scrapeBugs
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup("table", {"class": "sortable"})
+    tables = soup("table", {"class": "sortable"})
     items = {}
-    for tr in table[0]("tr")[1:]:
+    for tr in tables[0]("tr")[1:]:
+
         name = tr("td")[0].a.text
         item = {
             "image_url": tr("a")[1]['href'],
@@ -134,11 +137,11 @@ def scrape_fossils(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup("table", {"class": "sortable"})
+    tables = soup("table", {"class": "sortable"})
     items = {}
     # Stand-alone fossils
     items["stand_alone"] = {}
-    for tr in table[0]("tr")[1:]:
+    for tr in tables[0]("tr")[1:]:
         name = tr("td")[0].a.text
         item = {
             "image_url": tr("a")[1]['href'],
@@ -147,7 +150,7 @@ def scrape_fossils(key):
         items["stand_alone"][name] = item
     # Multi-part fossils
     items["multi_part"] = {}
-    for tr in table[1]("tr")[1:]:
+    for tr in tables[1]("tr")[1:]:
         tds = tr("td")
         if not tds:
             currentCategory = tr("a")[0].text
@@ -167,11 +170,11 @@ def scrape_artworks(key):
     url = URLS.get(key)
     response = requests.get(url, timeout=5)
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup("table", {"class": "wikitable"})
+    tables = soup("table", {"class": "wikitable"})
     items = {}
     # paintings
     items["paintings"] = {}
-    for tr in table[0]("tr")[1:]:
+    for tr in tables[0]("tr")[1:]:
         name = tr("td")[0].a.text
         item = {
             "description": tr("td")[3].text.strip(),
@@ -187,7 +190,7 @@ def scrape_artworks(key):
         items["paintings"][name] = item
     # sculptures
     items["sculptures"] = {}
-    for tr in table[1]("tr")[1:]:
+    for tr in tables[1]("tr")[1:]:
         name = tr("td")[0].a.text
         item = {
             "description": tr("td")[3].text.strip(),
@@ -208,105 +211,66 @@ def scrape_tools(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "sortable"})
+    tables = soup("table", {"class": "sortable"})
     items = {}
-    for tr in table[0].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
+    for tr in tables[0]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
-        }
-        if tr.find_all("a")[1]['href']:
-            item["imageLink"] = tr.find_all("a")[1]['href']
-        if tr.find_all("td")[2]:
-            item["materials"] = separate_by_br(tr.find_all("td")[2]).lstrip().strip("\n").split(",")
-        if tr.find_all("td")[2].find_all("img"):
-            item["materialsImageLink"] = get_image_links(tr.find_all("td")[2].find_all("img"))
-        if tr.find_all("td")[3].img.get("data-src"):
-            item["sizeImageLink"] = tr.find_all("td")[3].img.get("data-src")
-        if tr.find_all("td")[4].text:
-            item["obtainedFrom"] = tr.find_all("td")[4].text.strip().strip("\n").splitlines()
-        if tr.find_all("td")[5]:
-            item["price"] = parse_price(tr.find_all("td")[5].text)
-        items[name] = item
-    dump_data(items, "crafting/" + key)
-    return items
-
-
-def scrape_equipments(key):
-    url = URLS.get(key)
-    response = (requests.get(url, timeout=5))
-    soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "sortable"})
-    items = {}
-    for tr in table[0].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
-        item = {
-            "name": name,
-            "imageLink": tr.find_all("a")[1]['href'],
-            "materials": separate_by_br(tr.find_all("td")[2]).lstrip().strip("\n").split(","),
-            "materialsImageLink": get_image_links(tr.find_all("td")[2].find_all("img")),
-            "sizeImageLink": tr.find_all("td")[3].img.get("data-src"),
-            "obtainedFrom": tr.find_all("td")[4].text.strip().strip("\n").splitlines(),
-            "price": parse_price(tr.find_all("td")[5].text)
+            "image_url": tr("a")[1]['href'],
+            "materials": parse_materials(tr("td")[2]),
+            "size_image_url": tr("td")[3].img.get("data-src"),
+            "obtained_from": parse_obtained_from(tr("td")[4]),
+            "price": parse_price(tr("td")[5].text)
         }
         items[name] = item
     dump_data(items, "crafting/" + key)
     return items
-
 
 def scrape_wallpapers(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "sortable"})
+    tables = soup("table", {"class": "sortable"})
     items = {}
-    for tr in table[0].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
+    for tr in tables[0]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
+            "image_url": tr("a")[1]['href'],
+            "materials": parse_materials(tr("td")[2]),
+            "obtained_from": parse_obtained_from(tr("td")[4]),
+            "price": parse_price(tr("td")[5].text)
         }
-        if tr.find_all("a")[1]['href']:
-            item["imageLink"] = tr.find_all("a")[1]['href']
-        if tr.find_all("td")[2]:
-            item["materials"] = separate_by_br(
-                tr.find_all("td")[2]).strip("\n").split(",")
-            item["materialsImageLink"] = get_image_links(
-                tr.find_all("td")[2].find_all("img"))
-        if tr.find_all("td")[3].find_all("a"):
-            item["sizeLink"] = tr.find_all(
-                "td")[3].find_all("a")[0]['href']
-        if tr.find_all("td")[4].text:
-            if (tr.find_all("td")[4].text.strip('\n').splitlines() == []):
-                pass
-            else:
-                item["obtainedFrom"] = tr.find_all("td")[4].text.strip('\n').splitlines()
-        if tr.find_all("td")[5].text.strip().replace(",", ""):
-            item["price"] = int(tr.find_all(
-                "td")[5].text.strip().replace(",", ""))
+        if tr("td")[3].img:
+            item["size_image_url"] = tr("td")[3].img.get("src")
+        else:
+            item["size_image_url"] = None
         items[name] = item
     dump_data(items, "crafting/" + key)
     return items
 
 
-def scrape_DIYothers(key):
+def scrape_crafting_others(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "roundy"})
+    tables = soup("table", {"class": "roundy"})
     items = {}
-    for tr in table[2].find_all("tr")[1:]:
-        name = tr.find_all("td")[0].a.text
+    for tr in tables[2]("tr")[1:]:
+        name = tr("td")[0].a.text
         item = {
-            "name": name,
-            "imageLink": tr.find_all("a")[1]['href'],
-            "materials": separate_by_br(tr.find_all("td")[2]).lstrip().strip("\n").split(","),
-            "materialsImageLink": get_image_links(tr.find_all("td")[2].find_all("img")),
-            "sizeImageLink": tr.find_all("td")[3].img.get("data-src"),
-            "obtainedFrom": tr.find_all("td")[4].text.strip().strip("\n").splitlines(),
-            "price": parse_price(tr.find_all("td")[5].text)
+            "image_url": tr("a")[1]['href'],
+            "materials": parse_materials(tr("td")[2]),
+            "obtained_from": parse_obtained_from(tr("td")[4]), # TODO add nook miles  .replace(")", "Nook Miles)")
+            "price": parse_price(tr("td")[5].text)
         }
-        if (item["obtainedFrom"] == ["Nook Stop (1,000 )"]): # TODO: rewrite this lazy code
-            item["obtainedFrom"] = ["Nook Stop (1,000 Nook Miles)"]
+        if tr("td")[3].img.get("data-src"):
+            item["size_image_url"] = tr("td")[3].img.get("data-src")
+        elif tr("td")[3].img:
+            item["size_image_url"] = tr("td")[3].img.get("src") # ????
+        else:
+            item["size_image_url"] = None
+
+        
         items[name] = item
     dump_data(items, "crafting/" + key)
     return items
@@ -327,7 +291,7 @@ def scrape_tops(key):
             "priceSell": parse_price(tr.find_all("td")[3].text),
             "source": parse_source(tr.find_all("td")[4]),
             "variations": parse_variations(tr.find_all("td")[5]),
-            "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
+            "variationImageLinks": get_image_urls(tr.find_all("td")[5].find_all("img"))
         }
         if tr.find_all("td")[1].find_all("a"):
             item["imageLink"] = tr.find_all("td")[1].find_all("a")[0]["href"]
@@ -352,7 +316,7 @@ def scrape_hats(key):
                 "priceSell": parse_price(tr.find_all("td")[3].text),
                 "source": parse_source(tr.find_all("td")[4]),
                 "variations": parse_variations(tr.find_all("td")[5]),
-                "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
+                "variationImageLinks": get_image_urls(tr.find_all("td")[5].find_all("img"))
             }
             if tr.find_all("td")[1].find_all("a"):
                 item["imageLink"] = tr.find_all("td")[1].find_all("a")[0]["href"]
@@ -377,7 +341,7 @@ def scrape_shoes(key):
                 "priceSell": parse_price(tr.find_all("td")[3].text),
                 "source": parse_source(tr.find_all("td")[4]),
                 "variations": parse_variations(tr.find_all("td")[5]),
-                "variationImageLinks": get_image_links(tr.find_all("td")[5].find_all("img"))
+                "variationImageLinks": get_image_urls(tr.find_all("td")[5].find_all("img"))
             }
             if tr.find_all("td")[1].find_all("a"):
                 item["imageLink"] = tr.find_all(
@@ -411,26 +375,26 @@ def scrape_furniture_housewares(key):
     url = URLS.get(key)
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    table = soup.find_all("table", {"class": "roundy"})
+    tables = soup("table", {"class": "roundy"})
     items = {}
-    print(table[3]("tr"))
-    for tr in table[3]("tr")[2:]:
-        name = tr.find_all("td")[1].text.strip()
-        item = {
-            "name": name,
-            # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
-            "priceBuy": parse_price(tr.find_all("td")[2].text),
-            "priceSell": parse_price(tr.find_all("td")[3].text),
-            "source": parse_source(tr.find_all("td")[4]),
-            "variations": parse_variations(tr.find_all("td")[5]),
-            "customization": False,
-            "sizeLink": tr.find_all("td")[6].img.get("data-src")
-        }
-        if tr.find_all("td")[1].find_all("a"):
-            item["imageLink"] = tr.find_all("td")[0].find_all("a")[0]["href"]
-        items[name] = item
-    dump_data(items, "furniture/" + key)
-    return items
+    print(len(tables))
+    # for tr in table[3]("tr")[2:]:
+    #     name = tr.find_all("td")[1].text.strip()
+    #     item = {
+    #         "name": name,
+    #         # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
+    #         "priceBuy": parse_price(tr.find_all("td")[2].text),
+    #         "priceSell": parse_price(tr.find_all("td")[3].text),
+    #         "source": parse_source(tr.find_all("td")[4]),
+    #         "variations": parse_variations(tr.find_all("td")[5]),
+    #         "customization": False,
+    #         "sizeLink": tr.find_all("td")[6].img.get("data-src")
+    #     }
+    #     if tr.find_all("td")[1].find_all("a"):
+    #         item["imageLink"] = tr.find_all("td")[0].find_all("a")[0]["href"]
+    #     items[name] = item
+    # dump_data(items, "furniture/" + key)
+    # return items
 
 
 def scrape_flowers(key):
@@ -546,13 +510,13 @@ if __name__ == "__main__":
     # scrape_artworks("artworks")
 
     # -- Crafting --
-    # scrape_equipments("tools")
-    # scrape_equipments("housewares")
-    # scrape_equipments("equipments")
-    # scrape_equipments("miscellaneous")
-    # scrape_equipments("wallMounteds")
-    # scrape_DIYothers("others")
-    # scrape_wallpapers("wallpaperRugsFloorings")
+    scrape_tools("tools")
+    # scrape_tools("housewares")
+    # scrape_tools("equipments")
+    # scrape_tools("miscellaneous")
+    # scrape_tools("wall_mounteds")
+    # scrape_crafting_others("others")
+    # scrape_wallpapers("wallpaper_rugs_floorings")
 
     # -- Clothing --
     # scrape_tops("tops")

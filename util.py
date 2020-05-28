@@ -1,11 +1,12 @@
 from bs4 import Tag
 import simplejson as json
+import re
 
 def separate_by_br(tag, result=''): # take html element and replace <br/> tag with comma
     for c in tag.contents:
         if isinstance(c, Tag):
-            if c.name == 'br':
-                result += ","
+            if c.name == 'br' or c.name == "\n":
+                result += "|"
             else:
                 result = separate_by_br(c, result)
         else:
@@ -25,7 +26,7 @@ def parse_price(string): # take str and return integer only
         return -1
 
 
-def get_image_links(images): # take html and return all imageLinks in a list. Strip out downscale property
+def get_image_urls(images): # take html and return all imageLinks in a list. Strip out downscale property
     result = []
     for image in images:
         t = image.get("src")
@@ -94,6 +95,30 @@ def parse_hybridization_children(tag):
         result.append(child)
     return result
 
+def parse_materials(tag):
+    items = {}
+    materials_separated = separate_by_br(tag).strip().split("|")
+    counter = 0
+    image_urls = get_image_urls(tag("img"))
+    for material in materials_separated:
+        if (material != ""):
+            item = {
+                "amount": int(re.sub("\D", "", material.split(" ")[0])), # scrape only digits
+            }
+            try: 
+                item["image_url"] = image_urls[counter]
+            except IndexError:
+                item["image_url"] = None
+
+            name = material.replace(material.split(" ")[0], "").strip()
+            counter += 1
+            items[name] = item
+    return items
+
+def parse_obtained_from(tag):
+    if "\n" in tag.text: # some pages use \n to break, some use <br> 
+        return tag.text.strip().split("\n")
+    return separate_by_br(tag).strip().split(",")
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w', encoding='utf-8') as f:

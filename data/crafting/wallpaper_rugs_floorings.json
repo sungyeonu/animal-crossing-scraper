@@ -1,0 +1,1343 @@
+{
+    "Apple rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Furniture-Apple_rug.png/revision/latest?cb=20200329070930",
+        "materials": {
+            "apple": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-apple-icon.png/revision/latest?cb=20200414005455"
+            }
+        },
+        "obtained_from": [
+            "Uchi island resident"
+        ],
+        "price": 1200,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH3.0x3.0sq.jpg/revision/latest?cb=20200324215104"
+    },
+    "Apple wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Furniture-Apple_wall.png/revision/latest?cb=20200326055058",
+        "materials": {
+            "apple": {
+                "amount": 20,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-apple-icon.png/revision/latest?cb=20200414005455"
+            }
+        },
+        "obtained_from": [
+            "Uchi island resident",
+            "Message in a bottle"
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Autumn wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Autumn_wall.png/revision/latest?cb=20200409050126",
+        "materials": {
+            "maple leaf": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-maple_leaf-icon.png/revision/latest?cb=20200423202131"
+            },
+            "wood": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            },
+            "clump of weeds": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 4700,
+        "size_image_url": null
+    },
+    "Backyard lawn": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Backyard_lawn.png/revision/latest?cb=20200326060311",
+        "materials": {
+            "clump of weeds": {
+                "amount": 30,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            }
+        },
+        "obtained_from": [
+            "Peppy island resident"
+        ],
+        "price": 600,
+        "size_image_url": null
+    },
+    "Bamboo flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/Bamboo_flooring.png/revision/latest?cb=20200329083743",
+        "materials": {
+            "bamboo piece": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-bamboo_piece-icon.png/revision/latest?cb=20200414010828"
+            }
+        },
+        "obtained_from": [
+            "Cranky island resident"
+        ],
+        "price": 2400,
+        "size_image_url": null
+    },
+    "Bamboo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/Bamboo_wall.png/revision/latest?cb=20200329083809",
+        "materials": {
+            "bamboo piece": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-bamboo_piece-icon.png/revision/latest?cb=20200414010828"
+            }
+        },
+        "obtained_from": [
+            "Cranky island resident"
+        ],
+        "price": 2400,
+        "size_image_url": null
+    },
+    "Bamboo-grove wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Bamboo-grove_wall.png/revision/latest?cb=20200326044637",
+        "materials": {
+            "young spring bamboo": {
+                "amount": 7,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-young_spring_bamboo-icon.png/revision/latest?cb=20200414010849"
+            },
+            "bamboo shoot": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-bamboo_shoot-icon.png/revision/latest?cb=20200414015501"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 4300,
+        "size_image_url": null
+    },
+    "Basement flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Basement_flooring.png/revision/latest?cb=20200409050131",
+        "materials": {
+            "stone": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest?cb=20200414012041"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident"
+        ],
+        "price": 1500,
+        "size_image_url": null
+    },
+    "Brown herringbone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Furniture-Brown_herringbone_wall.png/revision/latest?cb=20200409044424",
+        "materials": {
+            "softwood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
+            }
+        },
+        "obtained_from": [
+            "Uchi island resident",
+            "Message in a bottle"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Bunny Day flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Furniture-Bunny_Day_flooring.png/revision/latest?cb=20200402053447",
+        "materials": {
+            "earth egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest?cb=20200401165851"
+            },
+            "stone egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest?cb=20200401165902"
+            },
+            "leaf egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest?cb=20200401165910"
+            },
+            "wood egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest?cb=20200401165920"
+            },
+            "sky egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest?cb=20200401165931"
+            },
+            "water egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest?cb=20200401165941"
+            }
+        },
+        "obtained_from": [
+            "Bunny Day"
+        ],
+        "price": 4800,
+        "size_image_url": null
+    },
+    "Bunny Day rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Bunny_Day_rug.png/revision/latest?cb=20200402000308",
+        "materials": {
+            "earth egg": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest?cb=20200401165851"
+            },
+            "stone egg": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest?cb=20200401165902"
+            },
+            "leaf egg": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest?cb=20200401165910"
+            },
+            "wood egg": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest?cb=20200401165920"
+            },
+            "sky egg": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest?cb=20200401165931"
+            },
+            "water egg": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest?cb=20200401165941"
+            }
+        },
+        "obtained_from": [
+            "Bunny Day"
+        ],
+        "price": 2400,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Bunny Day wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Furniture-Bunny_Day_wall.png/revision/latest?cb=20200402000316",
+        "materials": {
+            "earth egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-earth_egg-icon.png/revision/latest?cb=20200401165851"
+            },
+            "stone egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-stone_egg-icon.png/revision/latest?cb=20200401165902"
+            },
+            "leaf egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-leaf_egg-icon.png/revision/latest?cb=20200401165910"
+            },
+            "wood egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-wood_egg-icon.png/revision/latest?cb=20200401165920"
+            },
+            "sky egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-sky_egg-icon.png/revision/latest?cb=20200401165931"
+            },
+            "water egg": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-water_egg-icon.png/revision/latest?cb=20200401165941"
+            }
+        },
+        "obtained_from": [
+            "Bunny Day"
+        ],
+        "price": 4800,
+        "size_image_url": null
+    },
+    "Cabin wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Furniture-Cabin_wall.png/revision/latest?cb=20200325181558",
+        "materials": {
+            "hardwood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
+            }
+        },
+        "obtained_from": [
+            "Peppy island resident"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Cherry rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Furniture-Cherry_rug.png/revision/latest?cb=20200329071017",
+        "materials": {
+            "cherry": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-cherry-icon.png/revision/latest?cb=20200414010531"
+            }
+        },
+        "obtained_from": [
+            "Peppy island resident"
+        ],
+        "price": 1200,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Cherry wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Cherry_wall.png/revision/latest?cb=20200329072823",
+        "materials": {
+            "cherry": {
+                "amount": 20,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-cherry-icon.png/revision/latest?cb=20200414010531"
+            }
+        },
+        "obtained_from": [
+            "Peppy island resident",
+            "Balloon"
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Cherry-blossom flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Cherry-blossom_flooring_DIY.png/revision/latest?cb=20200409051920",
+        "materials": {
+            "cherry-blossom petal": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-cherry-blossom_petal-icon.png/revision/latest?cb=20200414012614"
+            },
+            "clump of weeds": {
+                "amount": 20,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 4400,
+        "size_image_url": null
+    },
+    "Cherry-blossom-trees wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Cherry-blossom-trees_wall_DIY.png/revision/latest?cb=20200409051928",
+        "materials": {
+            "cherry-blossom petal": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-cherry-blossom_petal-icon.png/revision/latest?cb=20200414012614"
+            },
+            "hardwood": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 4600,
+        "size_image_url": null
+    },
+    "Chocolate herringbone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Furniture-Chocolate_herringbone_wall.png/revision/latest?cb=20200409050153",
+        "materials": {
+            "softwood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Classic-library wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Classic-library_wall.png/revision/latest?cb=20200409050159",
+        "materials": {
+            "book": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-furniture-icon.png/revision/latest?cb=20200414011740"
+            }
+        },
+        "obtained_from": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "price": 1450,
+        "size_image_url": null
+    },
+    "Colored-leaves flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Colored-leaves_flooring.png/revision/latest?cb=20200409050206",
+        "materials": {
+            "maple leaf": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-maple_leaf-icon.png/revision/latest?cb=20200423202131"
+            },
+            "clump of weeds": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 4300,
+        "size_image_url": null
+    },
+    "Dark bamboo rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Furniture-Dark_bamboo_rug.png/revision/latest?cb=20200329071218",
+        "materials": {
+            "bamboo piece": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-bamboo_piece-icon.png/revision/latest?cb=20200414010828"
+            }
+        },
+        "obtained_from": [
+            "Cranky island resident"
+        ],
+        "price": 960,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Dark wooden-mosaic wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-Dark_wooden-mosaic_wall.png/revision/latest?cb=20200409050211",
+        "materials": {
+            "wood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            }
+        },
+        "obtained_from": [
+            "Uchi island resident"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Forest flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Forest_flooring.png/revision/latest?cb=20200409050217",
+        "materials": {
+            "rare mushroom": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-rare_mushroom-icon.png/revision/latest?cb=20200423201615"
+            },
+            "round mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-round_mushroom-icon.png/revision/latest?cb=20200423201602"
+            },
+            "skinny mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-skinny_mushroom-icon.png/revision/latest?cb=20200423201606"
+            },
+            "flat mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-flat_mushroom-icon.png/revision/latest?cb=20200423201611"
+            },
+            "clump of weeds": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 35000,
+        "size_image_url": null
+    },
+    "Forest wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Furniture-Forest_wall.png/revision/latest?cb=20200409050222",
+        "materials": {
+            "elegant mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-elegant_mushroom-icon.png/revision/latest?cb=20200423201510"
+            },
+            "round mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-round_mushroom-icon.png/revision/latest?cb=20200423201602"
+            },
+            "skinny mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-skinny_mushroom-icon.png/revision/latest?cb=20200423201606"
+            },
+            "flat mushroom": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-flat_mushroom-icon.png/revision/latest?cb=20200423201611"
+            },
+            "wood": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 44000,
+        "size_image_url": null
+    },
+    "Galaxy flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Furniture-Galaxy_flooring.png/revision/latest?cb=20200409050226",
+        "materials": {
+            "star fragment": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
+            },
+            "large star fragment": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-large_star_fragment-icon.png/revision/latest?cb=20200414013038"
+            }
+        },
+        "obtained_from": [
+            "Celeste"
+        ],
+        "price": 7500,
+        "size_image_url": null
+    },
+    "Garbage-heap flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Furniture-Garbage-heap_flooring.png/revision/latest?cb=20200325181813",
+        "materials": {
+            "empty can": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-empty_can-icon.png/revision/latest?cb=20200414010516"
+            },
+            "boot": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-boot-icon.png/revision/latest?cb=20200414010450"
+            },
+            "old tire": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-old_tire-icon.png/revision/latest?cb=20200414015144"
+            }
+        },
+        "obtained_from": [
+            "Fishing up trash"
+        ],
+        "price": 120,
+        "size_image_url": null
+    },
+    "Garbage-heap wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Garbage-heap_wall.png/revision/latest?cb=20200325181819",
+        "materials": {
+            "empty can": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-empty_can-icon.png/revision/latest?cb=20200414010516"
+            },
+            "boot": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-boot-icon.png/revision/latest?cb=20200414010450"
+            },
+            "old tire": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-old_tire-icon.png/revision/latest?cb=20200414015144"
+            }
+        },
+        "obtained_from": [
+            "Fishing up trash"
+        ],
+        "price": 120,
+        "size_image_url": null
+    },
+    "Golden flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Golden_flooring.png/revision/latest?cb=20200409050231",
+        "materials": {
+            "gold nugget": {
+                "amount": 4,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest?cb=20200414015430"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident",
+            "Balloon"
+        ],
+        "price": 40000,
+        "size_image_url": null
+    },
+    "Golden wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Furniture-Golden_wall.png/revision/latest?cb=20200409050236",
+        "materials": {
+            "gold nugget": {
+                "amount": 4,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest?cb=20200414015430"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident"
+        ],
+        "price": 40000,
+        "size_image_url": null
+    },
+    "Gold-screen wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Gold-screen_wall.png/revision/latest?cb=20200409050241",
+        "materials": {
+            "gold nugget": {
+                "amount": 2,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-gold_nugget-icon.png/revision/latest?cb=20200414015430"
+            },
+            "screen wall": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-wallpaper-icon.png/revision/latest?cb=20200424030139"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident"
+        ],
+        "price": 20750,
+        "size_image_url": null
+    },
+    "Honeycomb flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Furniture-Honeycomb_flooring.png/revision/latest?cb=20200329070314",
+        "materials": {
+            "wasp nest": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-wasp_nest-icon.png/revision/latest?cb=20200414011312"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident"
+        ],
+        "price": 3000,
+        "size_image_url": null
+    },
+    "Honeycomb wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Furniture-Honeycomb_wall.png/revision/latest?cb=20200325181847",
+        "materials": {
+            "wasp nest": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-wasp_nest-icon.png/revision/latest?cb=20200414011312"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident",
+            "Message in a bottle"
+        ],
+        "price": 3600,
+        "size_image_url": null
+    },
+    "Ice flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Furniture-Ice_flooring.png/revision/latest?cb=20200409050247",
+        "materials": {
+            "large snowflake": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-large_snowflake-icon.png/revision/latest?cb=20200423201500"
+            },
+            "snowflake": {
+                "amount": 8,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 8200,
+        "size_image_url": null
+    },
+    "Ice wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Furniture-Ice_wall.png/revision/latest?cb=20200409050252",
+        "materials": {
+            "large snowflake": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-large_snowflake-icon.png/revision/latest?cb=20200423201500"
+            },
+            "snowflake": {
+                "amount": 8,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 8200,
+        "size_image_url": null
+    },
+    "Iceberg flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Furniture-Iceberg_flooring.png/revision/latest?cb=20200409050256",
+        "materials": {
+            "snowflake": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Iceberg wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Furniture-Iceberg_wall.png/revision/latest?cb=20200409050301",
+        "materials": {
+            "snowflake": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Jingle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Furniture-Jingle_wall.png/revision/latest?cb=20200409050305",
+        "materials": {
+            "red ornament": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-red_ornament-icon.png/revision/latest?cb=20200423201455"
+            },
+            "blue ornament": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-blue_ornament-icon.png/revision/latest?cb=20200423201451"
+            },
+            "gold ornament": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-gold_ornament-icon.png/revision/latest?cb=20200423201445"
+            },
+            "clay": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 2500,
+        "size_image_url": null
+    },
+    "Jungle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Jungle_flooring.png/revision/latest?cb=20200409050310",
+        "materials": {
+            "clump of weeds": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            },
+            "clay": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
+            }
+        },
+        "obtained_from": [
+            "Jock island residentBalloonMessage in a bottle"
+        ],
+        "price": 2200,
+        "size_image_url": null
+    },
+    "Jungle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Furniture-Jungle_wall.png/revision/latest?cb=20200331025325",
+        "materials": {
+            "clump of weeds": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            },
+            "wood": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            },
+            "hardwood": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
+            },
+            "softwood": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident",
+            "Balloon"
+        ],
+        "price": 1380,
+        "size_image_url": null
+    },
+    "Light bamboo rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Furniture-Light_bamboo_rug.png/revision/latest?cb=20200328032942",
+        "materials": {
+            "young spring bamboo": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-young_spring_bamboo-icon.png/revision/latest?cb=20200414010849"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 2400,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Lunar surface": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Lunar_surface.png/revision/latest?cb=20200409050314",
+        "materials": {
+            "star fragment": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
+            },
+            "large star fragment": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-large_star_fragment-icon.png/revision/latest?cb=20200414013038"
+            }
+        },
+        "obtained_from": [
+            "Celeste"
+        ],
+        "price": 7500,
+        "size_image_url": null
+    },
+    "Manga-library wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Manga-library_wall.png/revision/latest?cb=20200331025249",
+        "materials": {
+            "magazine": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-furniture-icon.png/revision/latest?cb=20200414011740"
+            }
+        },
+        "obtained_from": [
+            "Peppy island resident",
+            "Message in a bottle"
+        ],
+        "price": 1050,
+        "size_image_url": null
+    },
+    "Modern wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Furniture-Modern_wood_wall.png/revision/latest?cb=20200409050320",
+        "materials": {
+            "wood": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            },
+            "softwood": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
+            },
+            "hardwood": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
+            }
+        },
+        "obtained_from": [
+            "Snooty island resident"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Money flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-Money_flooring.png/revision/latest?cb=20200409050324",
+        "materials": {
+            "bag of 50,000 bells": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-large_bag_of_bells-icon.png/revision/latest?cb=20200424030133"
+            }
+        },
+        "obtained_from": [
+            "Snooty island resident"
+        ],
+        "price": 25000,
+        "size_image_url": null
+    },
+    "Mush wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Mush_wall.png/revision/latest?cb=20200409050330",
+        "materials": {
+            "elegant mushroom": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-elegant_mushroom-icon.png/revision/latest?cb=20200423201510"
+            },
+            "round mushroom": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-round_mushroom-icon.png/revision/latest?cb=20200423201602"
+            },
+            "skinny mushroom": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-skinny_mushroom-icon.png/revision/latest?cb=20200423201606"
+            },
+            "flat mushroom": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-flat_mushroom-icon.png/revision/latest?cb=20200423201611"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 21400,
+        "size_image_url": null
+    },
+    "Orange rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Orange_rug.png/revision/latest?cb=20200329071057",
+        "materials": {
+            "orange": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-orange-icon.png/revision/latest?cb=20200414011924"
+            }
+        },
+        "obtained_from": [
+            "Lazy island resident"
+        ],
+        "price": 1200,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Orange wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Orange_wall.png/revision/latest?cb=20200329072708",
+        "materials": {
+            "orange": {
+                "amount": 20,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-orange-icon.png/revision/latest?cb=20200414011924"
+            }
+        },
+        "obtained_from": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Peach rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Furniture-Peach_rug.png/revision/latest?cb=20200329062724",
+        "materials": {
+            "peach": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-peach-icon.png/revision/latest?cb=20200414012353"
+            }
+        },
+        "obtained_from": [
+            "Normal island resident"
+        ],
+        "price": 1200,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Peach wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Furniture-Peach_wall.png/revision/latest?cb=20200329072652",
+        "materials": {
+            "peach": {
+                "amount": 20,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-peach-icon.png/revision/latest?cb=20200414012353"
+            }
+        },
+        "obtained_from": [
+            "Normal island resident"
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Pear rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Pear_rug.png/revision/latest?cb=20200329071134",
+        "materials": {
+            "pear": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Pear-icon.png/revision/latest?cb=20200414012420"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident"
+        ],
+        "price": 1200,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Pear wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Pear_wall.png/revision/latest?cb=20200329072635",
+        "materials": {
+            "pear": {
+                "amount": 20,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Pear-icon.png/revision/latest?cb=20200414012420"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident"
+        ],
+        "price": 4000,
+        "size_image_url": null
+    },
+    "Rustic-stone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Rustic_stone_wall.png/revision/latest?cb=20200409050335",
+        "materials": {
+            "stone": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest?cb=20200414012041"
+            },
+            "clay": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-clay-icon.png/revision/latest?cb=20200414011942"
+            }
+        },
+        "obtained_from": [
+            "Snooty island resident"
+        ],
+        "price": 1750,
+        "size_image_url": null
+    },
+    "Sakura-wood flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Sakura-wood_flooring_DIY.png/revision/latest?cb=20200409051345",
+        "materials": {
+            "cherry-blossom petal": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-cherry-blossom_petal-icon.png/revision/latest?cb=20200414012614"
+            },
+            "wood": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 3200,
+        "size_image_url": null
+    },
+    "Sakura-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Sakura-wood_wall_DIY.png/revision/latest?cb=20200409051351",
+        "materials": {
+            "cherry-blossom petal": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-cherry-blossom_petal-icon.png/revision/latest?cb=20200414012614"
+            },
+            "wood": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 3200,
+        "size_image_url": null
+    },
+    "Sandy-beach flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Sandy-beach_flooring.png/revision/latest?cb=20200329072800",
+        "materials": {
+            "sea snail": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-snail_shell-icon.png/revision/latest?cb=20200414012739"
+            },
+            "venus comb": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-venus_comb-icon.png/revision/latest?cb=20200414012720"
+            },
+            "sand dollar": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-sand_dollar-icon.png/revision/latest?cb=20200414012802"
+            },
+            "coral": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-coral-icon.png/revision/latest?cb=20200414012655"
+            },
+            "giant clam": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-giant_clam-icon.png/revision/latest?cb=20200414012635"
+            },
+            "cowrie": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-cowries-icon.png/revision/latest?cb=20200414012824"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident"
+        ],
+        "price": 4120,
+        "size_image_url": null
+    },
+    "Sci-fi flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Sci-fi_flooring.png/revision/latest?cb=20200409050432",
+        "materials": {
+            "star fragment": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
+            },
+            "large star fragment": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-large_star_fragment-icon.png/revision/latest?cb=20200414013038"
+            }
+        },
+        "obtained_from": [
+            "Celeste"
+        ],
+        "price": 7500,
+        "size_image_url": null
+    },
+    "Sci-fi wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Furniture-Sci-fi_wall.png/revision/latest?cb=20200409050437",
+        "materials": {
+            "star fragment": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
+            },
+            "large star fragment": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-large_star_fragment-icon.png/revision/latest?cb=20200414013038"
+            }
+        },
+        "obtained_from": [
+            "Celeste",
+            "Balloon"
+        ],
+        "price": 7500,
+        "size_image_url": null
+    },
+    "Shell rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Shell_rug.png/revision/latest?cb=20200326055931",
+        "materials": {
+            "giant clam": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-giant_clam-icon.png/revision/latest?cb=20200414012635"
+            }
+        },
+        "obtained_from": [
+            "Peppy island resident"
+        ],
+        "price": 5400,
+        "size_image_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+    },
+    "Ski-slope flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Ski-slope_flooring.png/revision/latest?cb=20200409050443",
+        "materials": {
+            "snowflake": {
+                "amount": 8,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 3200,
+        "size_image_url": null
+    },
+    "Ski-slope wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Furniture-Ski-slope_wall.png/revision/latest?cb=20200409050447",
+        "materials": {
+            "snowflake": {
+                "amount": 8,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 3200,
+        "size_image_url": null
+    },
+    "Snowflake wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Snowflake_wall.png/revision/latest?cb=20200409050454",
+        "materials": {
+            "snowflake": {
+                "amount": 12,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-snowflake-icon.png/revision/latest?cb=20200423201505"
+            }
+        },
+        "obtained_from": [
+            ""
+        ],
+        "price": 4800,
+        "size_image_url": null
+    },
+    "Stacked-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Stacked-wood_wall.png/revision/latest?cb=20200409050459",
+        "materials": {
+            "hardwood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
+            }
+        },
+        "obtained_from": [
+            "Jock island resident"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Starry wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Starry_wall.png/revision/latest?cb=20200409050504",
+        "materials": {
+            "star fragment": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
+            },
+            "large star fragment": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-large_star_fragment-icon.png/revision/latest?cb=20200414013038"
+            }
+        },
+        "obtained_from": [
+            "Celeste"
+        ],
+        "price": 7500,
+        "size_image_url": null
+    },
+    "Starry-sands flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Furniture-Starry-sands_flooring.png/revision/latest?cb=20200409050510",
+        "materials": {
+            "summer shell": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest?cb=20200407141927"
+            },
+            "sandy-beach flooring": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-flooring-icon.png/revision/latest?cb=20200408135557"
+            }
+        },
+        "obtained_from": [
+            "Message in a bottle"
+        ],
+        "price": 7720,
+        "size_image_url": null
+    },
+    "Starry-sky wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Furniture-Starry-sky_wall.png/revision/latest?cb=20200409050520",
+        "materials": {
+            "star fragment": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-star_fragment-icon.png/revision/latest?cb=20200414013012"
+            },
+            "large star fragment": {
+                "amount": 1,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-large_star_fragment-icon.png/revision/latest?cb=20200414013038"
+            }
+        },
+        "obtained_from": [
+            "Celeste"
+        ],
+        "price": 7500,
+        "size_image_url": null
+    },
+    "Steel flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-Steel_flooring.png/revision/latest?cb=20200409050726",
+        "materials": {
+            "iron nugget": {
+                "amount": 7,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "price": 5250,
+        "size_image_url": null
+    },
+    "Steel-frame wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Furniture-Steel-frame_wall.png/revision/latest?cb=20200409050530",
+        "materials": {
+            "iron nugget": {
+                "amount": 8,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-iron_nugget-icon.png/revision/latest?cb=20200414012022"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "price": 6000,
+        "size_image_url": null
+    },
+    "Stone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Stone_wall.png/revision/latest?cb=20200409050536",
+        "materials": {
+            "stone": {
+                "amount": 10,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-stone-icon.png/revision/latest?cb=20200414012041"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident"
+        ],
+        "price": 1500,
+        "size_image_url": null
+    },
+    "Tropical Vista": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Tropical_vista.png/revision/latest?cb=20200409050543",
+        "materials": {
+            "summer shell": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest?cb=20200407141927"
+            }
+        },
+        "obtained_from": [
+            "Message in a bottle"
+        ],
+        "price": 6000,
+        "size_image_url": null
+    },
+    "Underwater flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Furniture-Underwater_flooring.png/revision/latest?cb=20200409050549",
+        "materials": {
+            "summer shell": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest?cb=20200407141927"
+            },
+            "coral": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-coral-icon.png/revision/latest?cb=20200414012655"
+            }
+        },
+        "obtained_from": [
+            "Message in a bottle"
+        ],
+        "price": 6600,
+        "size_image_url": null
+    },
+    "Underwater wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Underwater_wall.png/revision/latest?cb=20200409050604",
+        "materials": {
+            "summer shell": {
+                "amount": 3,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest?cb=20200407141927"
+            },
+            "coral": {
+                "amount": 5,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-coral-icon.png/revision/latest?cb=20200414012655"
+            }
+        },
+        "obtained_from": [
+            "Message in a bottle"
+        ],
+        "price": 8600,
+        "size_image_url": null
+    },
+    "Water flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Furniture-Water_flooring.png/revision/latest?cb=20200409050555",
+        "materials": {
+            "summer shell": {
+                "amount": 6,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-summer_shell_icon.png/revision/latest?cb=20200407141927"
+            }
+        },
+        "obtained_from": [
+            "Balloon"
+        ],
+        "price": 7200,
+        "size_image_url": null
+    },
+    "Wild-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Wild-wood_wall.png/revision/latest?cb=20200409050612",
+        "materials": {
+            "wood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            }
+        },
+        "obtained_from": [
+            "Cranky island resident"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Wooden-knot wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Wooden-knot_wall.png/revision/latest?cb=20200409050618",
+        "materials": {
+            "hardwood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-hardwood-icon.png/revision/latest?cb=20200414010908"
+            }
+        },
+        "obtained_from": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Wooden-mosaic wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Wooden-mosiac_wall.png/revision/latest?cb=20200409050623",
+        "materials": {
+            "wood": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-wood-icon.png/revision/latest?cb=20200414011011"
+            }
+        },
+        "obtained_from": [
+            "Normal island residentMessage in a bottle"
+        ],
+        "price": 1800,
+        "size_image_url": null
+    },
+    "Woodland wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Woodland_wall.png/revision/latest?cb=20200409044819",
+        "materials": {
+            "clump of weeds": {
+                "amount": 15,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Icon-Weed.png/revision/latest?cb=20200427153009"
+            },
+            "softwood": {
+                "amount": 9,
+                "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-softwood-icon.png/revision/latest?cb=20200414010926"
+            }
+        },
+        "obtained_from": [
+            "Normal island resident"
+        ],
+        "price": 1380,
+        "size_image_url": null
+    }
+}
