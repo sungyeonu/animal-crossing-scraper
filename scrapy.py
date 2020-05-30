@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
+import html5lib
 import requests
 import io
-from util import separate_by_br, parse_obtained_from, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
+from util import parse_image_img_url, parse_image_url, parse_customization, parse_obtained_from, parse_furniture_variations, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
+
 
 
 URLS = {
@@ -35,8 +37,14 @@ URLS = {
     "bags": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Bags",
     "umbrellas": "https://animalcrossing.fandom.com/wiki/Clothing_(New_Horizons)/Umbrellas",
     
-    # Furnitures
-    "furniture_housewares": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Housewares",
+    "furniture": {
+        "housewares": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Housewares",
+        "miscellaneous": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Miscellaneous",
+        "wall_mounted": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Wall-mounted",
+        "wallpapers": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Wallpaper",
+        "floorings": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Flooring",
+        "rugs": "https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)/Rugs"
+    },
     
     # Flowers
     "flowers": "https://animalcrossing.fandom.com/wiki/Flower/New_Horizons_mechanics"
@@ -372,30 +380,76 @@ def scrape_umbrellas(key):
 
 
 def scrape_furniture_housewares(key):
-    url = URLS.get(key)
-    response = (requests.get(url, timeout=5))
-    soup = BeautifulSoup(response.content, "html.parser")
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(response.content, "html5lib") # html.parser does not scrape all html contents
     tables = soup("table", {"class": "roundy"})
     items = {}
-    print(len(tables))
-    # for tr in table[3]("tr")[2:]:
-    #     name = tr.find_all("td")[1].text.strip()
-    #     item = {
-    #         "name": name,
-    #         # "imageLink": tr.find_all("td")[1].find_all("a")[0]["href"],
-    #         "priceBuy": parse_price(tr.find_all("td")[2].text),
-    #         "priceSell": parse_price(tr.find_all("td")[3].text),
-    #         "source": parse_source(tr.find_all("td")[4]),
-    #         "variations": parse_variations(tr.find_all("td")[5]),
-    #         "customization": False,
-    #         "sizeLink": tr.find_all("td")[6].img.get("data-src")
-    #     }
-    #     if tr.find_all("td")[1].find_all("a"):
-    #         item["imageLink"] = tr.find_all("td")[0].find_all("a")[0]["href"]
-    #     items[name] = item
-    # dump_data(items, "furniture/" + key)
-    # return items
+    for table_number in range(3, 29): # a - z
+        if len(tables[table_number]("tr")) > 3: # some tables are empty
+            for tr in tables[table_number]("tr")[2:]:
+                name = tr("td")[1].text.strip()
+                item = {
+                    "image_url": parse_image_url(tr("td")[0]),
+                    "price": {
+                        "buy": parse_price(tr("td")[2].text),
+                        "sell": parse_price(tr("td")[3].text)
+                    },
+                    "source": parse_source(tr("td")[4]),
+                    "variations": parse_furniture_variations(tr("td")[5]),
+                    "customization": parse_customization(tr("td")[6]),
+                    "size_image_url": parse_image_img_url(tr("td")[7]),
+                }
 
+
+                items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
+
+def scrape_furniture_wallpapers(key):
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(response.content, "html5lib") # html.parser does not scrape all html contents
+    tables = soup("table", {"class": "roundy"})
+    items = {}
+    for tr in tables[3]("tr")[2:]:
+        name = tr("td")[1].text.strip()
+        item = {
+            "image_url": parse_image_url(tr("td")[0]),
+            "price": {
+                "buy": parse_price(tr("td")[2].text),
+                "sell": parse_price(tr("td")[3].text)
+            },
+            "source": parse_source(tr("td")[4]),
+        }
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
+
+
+
+def scrape_furniture_rugs(key):
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    # html.parser does not scrape all html contents
+    soup = BeautifulSoup(response.content, "html5lib")
+    tables = soup("table", {"class": "roundy"})
+    items = {}
+    for tr in tables[3]("tr")[2:]:
+        name = tr("td")[1].text.strip()
+        item = {
+            "image_url": parse_image_url(tr("td")[0]),
+            "price": {
+                "buy": parse_price(tr("td")[2].text),
+                "sell": parse_price(tr("td")[3].text)
+            },
+            "source": parse_source(tr("td")[4]),
+            "size_image_url": parse_image_img_url(tr("td")[5]),
+
+        }
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
 
 def scrape_flowers(key):
     url = URLS.get(key)
@@ -530,7 +584,12 @@ if __name__ == "__main__":
     # scrape_umbrellas("umbrellas")
 
     # -- Furniture --
-    # scrape_furniture_housewares("furniture_housewares")
+    scrape_furniture_housewares("housewares")
+    scrape_furniture_housewares("miscellaneous")
+    scrape_furniture_housewares("wall_mounted")
+    scrape_furniture_wallpapers("wallpapers")
+    scrape_furniture_wallpapers("floorings")
+    scrape_furniture_rugs("rugs")
 
     # -- Flower -- 
     # scrape_flowers("flowers")

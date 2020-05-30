@@ -41,18 +41,33 @@ def parse_variations(tag):
     return separate_by_br(tag).strip().split(", ")
 
 def parse_source(tag):
-    # print(tag.prettify())
     if tag.text.strip() == "*" or tag.text.strip() == "N/A":
         return []
     if tag.img:
         if tag.img['alt'] == "NH-Inventory Icons-DIY Recipe" or tag.img['alt'] == "DIY Icon":
             return ["DIY Recipes"]
-        if tag.img['alt'] == "72px-Timmy Icon":
+        if tag.img['alt'] == "72px-Timmy Icon" or tag.img['alt'] == "NH-Icon-Timmy":
             return ["Nook's Cranny"]
-        # if tag.img['alt'] == "72px-Timmy Icon":
-        #     return ["Fishing Tourney"]
-        #     return ["Bug Off"]
-    return [tag.text.strip()]
+        if tag.img['alt'] == "FishIconTest":
+            return ["Fishing Tourney"]
+        if tag.img['alt'] == "BugIconTest":
+            return ["Bug Off"]
+        if tag.img['alt'] == "NH-Icon-Flick":
+            return ["Flick"]
+        if tag.img['alt'] == "NH-Icon-CJ":
+            return ["C.J."]
+        if tag.img['alt'] == "NHnookstop":
+            return ["Nook Stop"]
+        if tag.img['alt'] == "NH-Icon-Gulliver":
+            return ["Gulliver"]
+        if tag.img['alt'] == "HHA logo":
+            return ["Happy Home Academy"]
+        if tag.img['alt'] == "NH-Icon-Saharah":
+            return ["Saharah"]
+        if tag.img['alt'] == "NH-Icon-Present":
+            return ["Mom"]
+
+    return []
 
 def parse_image_URLs(tag):
     result = []
@@ -115,11 +130,51 @@ def parse_materials(tag):
             items[name] = item
     return items
 
+def parse_customization(tag):
+    if tag.text.strip() == "N/A": 
+        return None
+    if tag.text.strip() == "': Custom Design":
+        return None
+    try:
+
+        item = {}
+        item["detail"] = tag.text.strip().split()[0]
+        item["number_kits"] = int(re.sub("\D", "", tag.text.strip()))
+        return item
+    except:
+        return None
+
+def parse_image_url(tag):
+    try: 
+        img_url = tag("img")[1]["src"]
+        if img_url[:5] == "https":
+            return img_url.replace("/scale-to-width-down/30", "")
+    except:
+        return None
+
+def parse_furniture_variations(tag):
+    if tag.text.strip() == "N/A":
+        return None
+    text = tag.text.strip()
+    if ":" in text: # remove header
+        text = text.split(":", 1)[-1].strip()
+    text = text.split(",")
+    return [t.strip() for t in text]
+
+
 def parse_obtained_from(tag):
     if "\n" in tag.text: # some pages use \n to break, some use <br> 
         return tag.text.strip().split("\n")
     return separate_by_br(tag).strip().split(",")
 
+def parse_image_img_url(tag):
+    try:
+        return tag.img.get("data-src")
+    except:
+        return None
+
+
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w', encoding='utf-8') as f:
         json.dump(itemList, f, ensure_ascii=False, indent=4)
+

@@ -1,0 +1,2131 @@
+{
+    "Air conditioner": {
+        "image_url": null,
+        "price": {
+            "buy": 63000,
+            "sell": 15750
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "White",
+            "Gray",
+            "Black",
+            "Pink",
+            "Blue",
+            "Brown"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Antique phone": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Furniture-Antique_phone.png/revision/latest?cb=20200326171850",
+        "price": {
+            "buy": 16000,
+            "sell": 4000
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Brown",
+            "Natural",
+            "Black"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Autograph cards": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Furniture-Autograph_cards.png/revision/latest?cb=20200327083615",
+        "price": {
+            "buy": 1400,
+            "sell": 350
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Signature",
+            "Handprints",
+            "Illustration",
+            "Words of wisdom"
+        ],
+        "customization": {
+            "detail": "Signature:",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Bamboo wall decoration": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Bamboo_wall_decoration.png/revision/latest?cb=20200327083756",
+        "price": {
+            "buy": -1,
+            "sell": 160
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Green bamboo",
+            "Dried bamboo",
+            "Smoke-cured bamboo"
+        ],
+        "customization": {
+            "detail": "Bamboo",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH0.5x1.0sq.jpg/revision/latest?cb=20200327084338"
+    },
+    "Bathroom towel rack": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Furniture-Bathroom_towel_rack.png/revision/latest?cb=20200403140618",
+        "price": {
+            "buy": 1400,
+            "sell": 350
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Silver",
+            "Gold",
+            "Copper",
+            "Black"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Blue rose wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 20000
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Bone doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Bone_doorplate.png/revision/latest?cb=20200326034639",
+        "price": {
+            "buy": -1,
+            "sell": 360
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Brown",
+            "White",
+            "Black",
+            "Pink",
+            "Red",
+            "Yellow",
+            "Blue",
+            "Natural wood"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Boomerang": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Furniture-Boomerang.png/revision/latest?cb=20200328162504",
+        "price": {
+            "buy": -1,
+            "sell": 360
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Natural",
+            "Green & orange",
+            "Dark brown",
+            "Red & black",
+            "White & blue"
+        ],
+        "customization": {
+            "detail": "Design",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH1.0x0.5sq.jpg/revision/latest?cb=20200327084231"
+    },
+    "Breaker": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-Breaker.png/revision/latest?cb=20200403140449",
+        "price": {
+            "buy": 820,
+            "sell": 205
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Bronze HHA plaque": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Furniture-Bronze_HHA_plaque.png/revision/latest?cb=20200404045558",
+        "price": {
+            "buy": -1,
+            "sell": 400
+        },
+        "source": [
+            "Happy Home Academy"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Broom and dustpan": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-Broom_and_dustpan.png/revision/latest?cb=20200402123035",
+        "price": {
+            "buy": 910,
+            "sell": 227
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Natural",
+            "White",
+            "Dark brown",
+            "Colorful"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Bug plaque": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 300
+        },
+        "source": [],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Bunny Day glowy garland": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-Bunny_Day_glowy_garland.png/revision/latest?cb=20200402000242",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Bunny Day wall clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Bunny_Day_wall_clock.png/revision/latest?cb=20200402001048",
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Bunny Day wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Furniture-Bunny_Day_wreath.png/revision/latest?cb=20200403142914",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Butterfly-fish model": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/NH-Furniture-Butterfly-fish_model.png/revision/latest?cb=20200516221207",
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Cherry lamp": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Furniture-Cherry_lamp.png/revision/latest?cb=20200326044022",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Cherry",
+            "Black cherry"
+        ],
+        "customization": {
+            "detail": "Fruit",
+            "number_kits": 4
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Cherry-blossom clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Furniture-Cherry-blossom_clock.png/revision/latest?cb=20200329082912",
+        "price": {
+            "buy": -1,
+            "sell": 2750
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Pink",
+            "Pink-white"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 4
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Chic cosmos wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Chic windflower wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Coconut wall planter": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Coconut_wall_planter.png/revision/latest?cb=20200408051043",
+        "price": {
+            "buy": -1,
+            "sell": 600
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Cool hyacinth wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Cool_hyacinth_wreath.png/revision/latest?cb=20200423194716",
+        "price": {
+            "buy": -1,
+            "sell": 1440
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Cool pansy wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Cool windflower wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Corkboard": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Furniture-Corkboard.png/revision/latest?cb=20200402123843",
+        "price": {
+            "buy": 1400,
+            "sell": 350
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Natural",
+            "White",
+            "Blue"
+        ],
+        "customization": {
+            "detail": "Favorite",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Cosmos wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Furniture-Cosmos_wreath.png/revision/latest?cb=20200327134912",
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Crest doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Furniture-Crest_doorplate.png/revision/latest?cb=20200326034617",
+        "price": {
+            "buy": -1,
+            "sell": 3000
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Silver",
+            "Gold & silver",
+            "Silver & blue",
+            "Red & white",
+            "Silver & green",
+            "Colorful"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Cuckoo clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Cuckoo_clock.png/revision/latest?cb=20200402123854",
+        "price": {
+            "buy": 3200,
+            "sell": 800
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Natural",
+            "Green",
+            "Blue",
+            "Yellow",
+            "Red",
+            "White",
+            "Black"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Cute wall-mounted clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Furniture-Cute_wall-mounted_clock.png/revision/latest?cb=20200402123942",
+        "price": {
+            "buy": 1200,
+            "sell": 300
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "White",
+            "Sky blue",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Dark lily wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1600
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Dark rose wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 4320
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Dark tulip wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1600
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Deer decoration": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Deer_decoration.png/revision/latest?cb=20200328211811",
+        "price": {
+            "buy": -1,
+            "sell": 960
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Natural",
+            "Ash",
+            "Ivory",
+            "White",
+            "Black"
+        ],
+        "customization": {
+            "detail": "Paint",
+            "number_kits": 2
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Diner neon clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Diner_neon_clock.png/revision/latest?cb=20200402110520",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Aquamarine",
+            "Pink",
+            "Cream",
+            "Purple"
+        ],
+        "customization": {
+            "detail": "Clock",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Double-sided wall clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-Double-sided_wall_clock.png/revision/latest?cb=20200402110432",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Black",
+            "White",
+            "Silver",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH0.5x1.0sq.jpg/revision/latest?cb=20200327084338"
+    },
+    "Fancy lily wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fancy mum wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fancy rose wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fish doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Furniture-Fish_doorplate.png/revision/latest?cb=20200412024647",
+        "price": {
+            "buy": -1,
+            "sell": 90
+        },
+        "source": [
+            "Fishing Tourney"
+        ],
+        "variations": [
+            "Light blue",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Black",
+            "Gray"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fish plaque": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 300
+        },
+        "source": [],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fish print": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Furniture-Fish_print.png/revision/latest?cb=20200405105056",
+        "price": {
+            "buy": -1,
+            "sell": 700
+        },
+        "source": [
+            "Fishing Tourney"
+        ],
+        "variations": [
+            "Giant trevally",
+            "Red snapper",
+            "Blue marlin",
+            "Squid",
+            "Black bass",
+            "Carp",
+            "Giant snakehead"
+        ],
+        "customization": {
+            "detail": "Variation",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Fishing-boat flag": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Furniture-Fishing-boat_flag.png/revision/latest?cb=20200402053406",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Nintenmaru - Big Catch",
+            "Tsurukamemaru - Longevity",
+            "Marufukumaru - Bounty",
+            "Uomasamaru III - Launch"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH2.0x1.5sq.jpg/revision/latest?cb=20200507221434"
+    },
+    "Floral swag": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Floral_swag.png/revision/latest?cb=20200331225229",
+        "price": {
+            "buy": -1,
+            "sell": 200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Yellow",
+            "Pink",
+            "Blue",
+            "White",
+            "Colorful"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Formal paper": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Furniture-Formal_paper.png/revision/latest?cb=20200408052102",
+        "price": {
+            "buy": 620,
+            "sell": 155
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Brown",
+            "Light brown",
+            "Dark brown"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fossil doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Furniture-Fossil_doorplate.png/revision/latest?cb=20200326233607",
+        "price": {
+            "buy": -1,
+            "sell": 500
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Gray",
+            "Blue"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fossil plaque": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 300
+        },
+        "source": [],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Fruit wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Furniture-Fruit_wreath.png/revision/latest?cb=20200423194648",
+        "price": {
+            "buy": -1,
+            "sell": 2000
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Gears": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Gears.png/revision/latest?cb=20200401091148",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Silver",
+            "Copper",
+            "Black",
+            "Colorful",
+            "Wooden"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Gold HHA plaque": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Furniture-Gold_HHA_plaque.png/revision/latest?cb=20200406035021",
+        "price": {
+            "buy": -1,
+            "sell": 450
+        },
+        "source": [
+            "Happy Home Academy"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Gold rose wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 20000
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Golden gears": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Furniture-Golden_gears.png/revision/latest?cb=20200329093520",
+        "price": {
+            "buy": -1,
+            "sell": 11125
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Grasshopper-head model": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Furniture-Grasshopper-head_model.png/revision/latest?cb=20200328014625",
+        "price": {
+            "buy": 1400,
+            "sell": 350
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Hanging scroll": {
+        "image_url": null,
+        "price": {
+            "buy": 140000,
+            "sell": 35000
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Green",
+            "Brown",
+            "Pink",
+            "Blue",
+            "Purple"
+        ],
+        "customization": {
+            "detail": "Design:",
+            "number_kits": 7
+        },
+        "size_image_url": null
+    },
+    "Hanging terrarium": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Furniture-Hanging_terrarium.png/revision/latest?cb=20200327134616",
+        "price": {
+            "buy": -1,
+            "sell": 3240
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Black",
+            "Gold",
+            "Brown"
+        ],
+        "customization": {
+            "detail": "Frame",
+            "number_kits": 5
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Heart doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Heart_doorplate.png/revision/latest?cb=20200401091209",
+        "price": {
+            "buy": 600,
+            "sell": 150
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Pink",
+            "Blue",
+            "Monotone",
+            "Light blue",
+            "Green",
+            "Orange",
+            "Red",
+            "Purple"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "HHA pennant": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Furniture-HHA_pennant.png/revision/latest?cb=20200326223407",
+        "price": {
+            "buy": -1,
+            "sell": 375
+        },
+        "source": [
+            "Happy Home Academy"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Hyacinth wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Hyacinth_wreath.png/revision/latest?cb=20200327134428",
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Imperial decorative shelves": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Furniture-Imperial_decorative_shelves.png/revision/latest?cb=20200401094516",
+        "price": {
+            "buy": 8500,
+            "sell": 2125
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Red",
+            "Blue",
+            "Brown",
+            "Black"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH2.0x1.5sq.jpg/revision/latest?cb=20200507221434"
+    },
+    "Imperial dining lantern": {
+        "image_url": null,
+        "price": {
+            "buy": 19000,
+            "sell": 4750
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Gold",
+            "Black",
+            "Blue",
+            "Red"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Intercom monitor": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Furniture-Intercom_monitor.png/revision/latest?cb=20200504124614",
+        "price": {
+            "buy": 860,
+            "sell": 215
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Iron doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Iron_doorplate.png/revision/latest?cb=20200328211919",
+        "price": {
+            "buy": -1,
+            "sell": 1500
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Black",
+            "White",
+            "Blue",
+            "Silver",
+            "Ash brown",
+            "Gold",
+            "Pink",
+            "Brown"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Iron wall lamp": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Furniture-Iron_wall_lamp.png/revision/latest?cb=20200325181906",
+        "price": {
+            "buy": -1,
+            "sell": 3400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Black",
+            "White"
+        ],
+        "customization": {
+            "detail": "Body",
+            "number_kits": 5
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Iron wall rack": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Furniture-Iron_wall_rack.png/revision/latest?cb=20200401094903",
+        "price": {
+            "buy": -1,
+            "sell": 2450
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Black",
+            "White"
+        ],
+        "customization": {
+            "detail": "Body",
+            "number_kits": 4
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Ironwood clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-Ironwood_clock.png/revision/latest?cb=20200326044056",
+        "price": {
+            "buy": -1,
+            "sell": 1740
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Birch",
+            "Teak",
+            "Walnut",
+            "Old",
+            "Oak"
+        ],
+        "customization": {
+            "detail": "Lumber",
+            "number_kits": 3
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Leo sculpture": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Furniture-Leo_sculpture.png/revision/latest?cb=20200328083419",
+        "price": {
+            "buy": -1,
+            "sell": 21975
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Light switch": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Furniture-Light_switch.png/revision/latest?cb=20200516220905",
+        "price": {
+            "buy": 340,
+            "sell": 85
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Gray",
+            "Brown",
+            "White",
+            "Wood grain"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Lily wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Lily_wreath.png/revision/latest?cb=20200326034538",
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Log wall-mounted clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Log_wall-mounted_clock.png/revision/latest?cb=20200328002157",
+        "price": {
+            "buy": -1,
+            "sell": 990
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Dark wood",
+            "Orange wood",
+            "White wood",
+            "White birch"
+        ],
+        "customization": {
+            "detail": "Lumber",
+            "number_kits": 2
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Macrame tapestry": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Furniture-Macrame_tapestry.png/revision/latest?cb=20200326220823",
+        "price": {
+            "buy": 840,
+            "sell": 210
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "White",
+            "Green",
+            "Pink",
+            "Blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Magnetic knife rack": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Furniture-Magnetic_knife_rack.png/revision/latest?cb=20200401112223",
+        "price": {
+            "buy": 1400,
+            "sell": 350
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Stainless steel",
+            "Wooden",
+            "Pop"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Mantis-head model": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Furniture-Mantis-head_model.png/revision/latest?cb=20200328014554",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Mobile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Furniture-Mobile.png/revision/latest?cb=20200402120952",
+        "price": {
+            "buy": 780,
+            "sell": 195
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Hot air balloons",
+            "Sheep",
+            "Ocean creatures",
+            "Space",
+            "Gorgeous"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Mom's art": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 88
+        },
+        "source": [
+            "Mom"
+        ],
+        "variations": [
+            "Still Life",
+            "Street with Trees",
+            "Nostalgia",
+            "Angel",
+            "Sweet Roses",
+            "Field of Flowers",
+            "Dog",
+            "Blooming"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Mom's embroidery": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 88
+        },
+        "source": [
+            "Mom"
+        ],
+        "variations": [
+            "Flowers",
+            "Bird",
+            "Bouquet",
+            "Girl",
+            "Fairy tale",
+            "Trees"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Mounted black bass": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-Mounted_black_bass.png/revision/latest?cb=20200504123851",
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH1.0x0.5sq.jpg/revision/latest?cb=20200327084231"
+    },
+    "Mounted blue marlin": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/NH-Furniture-Mounted_blue_marlin.png/revision/latest?cb=20200328014732",
+        "price": {
+            "buy": 5000,
+            "sell": 1250
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Mum wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Mum_wreath.png/revision/latest?cb=20200327134941",
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Mushroom wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-Mushroom_wreath.png/revision/latest?cb=20200423194553",
+        "price": {
+            "buy": -1,
+            "sell": 1500
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Orange wall-mounted clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Furniture-Orange_wall-mounted_clock.png/revision/latest?cb=20200326064426",
+        "price": {
+            "buy": -1,
+            "sell": 2240
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Orange",
+            "Blood orange"
+        ],
+        "customization": {
+            "detail": "Fruit",
+            "number_kits": 3
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Ornament mobile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Ornament_mobile.png/revision/latest?cb=20200329100649",
+        "price": {
+            "buy": -1,
+            "sell": 340
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Colorful",
+            "Blue",
+            "Red",
+            "Pink",
+            "Gold",
+            "White"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Ornament wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 800
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Blue",
+            "Gold",
+            "Silver",
+            "Green",
+            "Red",
+            "Light green",
+            "Pink",
+            "Purple"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Pansy wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Pansy_wreath.png/revision/latest?cb=20200326034346",
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Party garland": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Furniture-Party_garland.png/revision/latest?cb=20200326223350",
+        "price": {
+            "buy": 650,
+            "sell": 162
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Colorful",
+            "Pastel",
+            "Boating stripes",
+            "Orange & black",
+            "Pop",
+            "Gorgeous"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Paw-print doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-Paw-print_doorplate.png/revision/latest?cb=20200329062624",
+        "price": {
+            "buy": -1,
+            "sell": 360
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Light wood",
+            "Light blue",
+            "Dark gray",
+            "Natural wood",
+            "Dark brown",
+            "White",
+            "Blue",
+            "Pink"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Pendulum clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Furniture-Pendulum_clock.png/revision/latest?cb=20200402123431",
+        "price": {
+            "buy": 1900,
+            "sell": 475
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Pennant": {
+        "image_url": null,
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Sports",
+            "University",
+            "Classic",
+            "Sponsor",
+            "Souvenir"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Pot rack": {
+        "image_url": null,
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Wooden",
+            "Stainless steel",
+            "Pop"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Potted ivy": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1100
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Light green",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 2
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Pretty cosmos wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Pretty tulip wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Purple hyacinth wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Retro radiator": {
+        "image_url": null,
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Rose wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Sagittarius arrow": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Sagittarius_arrow.png/revision/latest?cb=20200328084140",
+        "price": {
+            "buy": -1,
+            "sell": 21750
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Shell wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 4720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Shower set": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Furniture-Shower_set.png/revision/latest?cb=20200326212750",
+        "price": {
+            "buy": 1800,
+            "sell": 450
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Silver",
+            "Gold",
+            "Copper",
+            "Black"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Silver HHA plaque": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Furniture-Silver_HHA_plaque.png/revision/latest?cb=20200406035005",
+        "price": {
+            "buy": -1,
+            "sell": 425
+        },
+        "source": [
+            "Happy Home Academy"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Skull doorplate": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Furniture-Skull_doorplate.png/revision/latest?cb=20200504124854",
+        "price": {
+            "buy": 540,
+            "sell": 135
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Brown",
+            "White"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Snazzy pansy wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Snowflake wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 1600
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Spider doorplate": {
+        "image_url": null,
+        "price": {
+            "buy": 360,
+            "sell": 90
+        },
+        "source": [
+            "Bug Off"
+        ],
+        "variations": [
+            "Black",
+            "Yellow",
+            "Green",
+            "Pink",
+            "Purple",
+            "Red",
+            "Gray",
+            "Blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Spider web": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 25
+        },
+        "source": [
+            "Bug Off"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Starry garland": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Starry_garland.png/revision/latest?cb=20200329093557",
+        "price": {
+            "buy": -1,
+            "sell": 5000
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Pink",
+            "Orange",
+            "White"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 7
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Studio wall spotlight": {
+        "image_url": null,
+        "price": {
+            "buy": 2300,
+            "sell": 575
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "White",
+            "Yellow",
+            "Orange",
+            "Red",
+            "Pink",
+            "Purple",
+            "Blue",
+            "Green"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Surveillance camera": {
+        "image_url": null,
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Tapestry": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Furniture-Tapestry.png/revision/latest?cb=20200413135252",
+        "price": {
+            "buy": 880,
+            "sell": 220
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Geometric pattern",
+            "Animal",
+            "Floral",
+            "Fairy tale",
+            "Bird",
+            "Snow"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Throwback wall clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Furniture-Throwback_wall_clock.png/revision/latest?cb=20200328013844",
+        "price": {
+            "buy": 4200,
+            "sell": 1050
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Yellow",
+            "Red",
+            "Green",
+            "Blue",
+            "White",
+            "Gray",
+            "Purple"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH2.0x1.5sq.jpg/revision/latest?cb=20200507221434"
+    },
+    "Timber doorplate": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Natural wood",
+            "Brown",
+            "Dark brown",
+            "Light brown",
+            "Ash brown",
+            "Black",
+            "Blue",
+            "Pink"
+        ],
+        "customization": {
+            "detail": "Color",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Tree branch wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Tree_branch_wreath.png/revision/latest?cb=20200428002615",
+        "price": {
+            "buy": -1,
+            "sell": 100
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Tree's bounty mobile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Furniture-Tree%27s_bounty_mobile.png/revision/latest?cb=20200329100702",
+        "price": {
+            "buy": -1,
+            "sell": 2030
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Brown",
+            "White"
+        ],
+        "customization": {
+            "detail": "Nut",
+            "number_kits": 3
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH1.0x1.5sq.jpg/revision/latest?cb=20200329042842"
+    },
+    "Tulip wreath": {
+        "image_url": null,
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wall clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Furniture-Wall_clock.png/revision/latest?cb=20200404091007",
+        "price": {
+            "buy": 690,
+            "sell": 172
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Silver",
+            "White",
+            "Black",
+            "Red",
+            "Blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wall fan": {
+        "image_url": null,
+        "price": {
+            "buy": 1400,
+            "sell": 350
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow",
+            "White",
+            "Black",
+            "Silver",
+            "Brown"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wall-mounted candle": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Wall-mounted_candle.png/revision/latest?cb=20200401095139",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Gold",
+            "Silver",
+            "Copper",
+            "Black",
+            "White"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wall-mounted phone": {
+        "image_url": null,
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "White",
+            "Black",
+            "Silver",
+            "Gray",
+            "Red",
+            "Blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wall-mounted tool board": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Furniture-Wall-mounted_tool_board.png/revision/latest?cb=20200413135014",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "White",
+            "Camel",
+            "Yellow",
+            "Red",
+            "Blue",
+            "Black"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Wall-mounted TV (20 in.)": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Furniture-Wall-mounted_TV_%2820_in.%29.png/revision/latest?cb=20200408080514",
+        "price": {
+            "buy": 8900,
+            "sell": 2225
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Black",
+            "White",
+            "Silver",
+            "Red",
+            "Yellow",
+            "Blue",
+            "Pink",
+            "Light blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wall-mounted TV (50 in.)": {
+        "image_url": null,
+        "price": {
+            "buy": 22000,
+            "sell": 5500
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Black",
+            "White",
+            "Silver",
+            "Red",
+            "Blue"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Wasp-head model": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Furniture-Wasp-head_model.png/revision/latest?cb=20200328014311",
+        "price": {
+            "buy": 2500,
+            "sell": 625
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wedding decoration": {
+        "image_url": null,
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [],
+        "variations": [
+            "Cute",
+            "Chic",
+            "Garden"
+        ],
+        "customization": {
+            "detail": "Design",
+            "number_kits": 1
+        },
+        "size_image_url": null
+    },
+    "Windflower wreath": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Furniture-Windflower_wreath.png/revision/latest?cb=20200327134959",
+        "price": {
+            "buy": -1,
+            "sell": 720
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": null,
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wooden-block wall clock": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Wooden-block_wall_clock.png/revision/latest?cb=20200326063150",
+        "price": {
+            "buy": -1,
+            "sell": 1350
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Natural",
+            "Mixed wood",
+            "Colorful",
+            "Pastel",
+            "Vivid"
+        ],
+        "customization": {
+            "detail": "Block",
+            "number_kits": 2
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH1.0x1.0sq.jpg/revision/latest?cb=20200324214412"
+    },
+    "Wooden-plank sign": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Wooden-plank_sign.png/revision/latest?cb=20200424224145",
+        "price": {
+            "buy": -1,
+            "sell": 600
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "variations": [
+            "Natural",
+            "Dark brown",
+            "Brown",
+            "Red"
+        ],
+        "customization": {
+            "detail": "Body",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "World map": {
+        "image_url": null,
+        "price": {
+            "buy": 640,
+            "sell": 160
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Pacific Ocean",
+            "Atlantic Ocean"
+        ],
+        "customization": {
+            "detail": "Map",
+            "number_kits": 1
+        },
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    },
+    "Writing poster": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Furniture-Writing_poster.png/revision/latest?cb=20200401095039",
+        "price": {
+            "buy": 400,
+            "sell": 160
+        },
+        "source": [
+            "Nook's Cranny"
+        ],
+        "variations": [
+            "Alphabet",
+            "Multiplication tables",
+            "Periodic table",
+            "Constellations"
+        ],
+        "customization": null,
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH2.0x1.0sq.jpg/revision/latest?cb=20200324214841"
+    }
+}

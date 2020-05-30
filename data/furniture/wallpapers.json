@@ -1,0 +1,2462 @@
+{
+    "Abstract wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Furniture-Abstract_wall.png/revision/latest?cb=20200414033552",
+        "price": {
+            "buy": 1560,
+            "sell": 390
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Ancient wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Furniture-Ancient_wall.png/revision/latest?cb=20200414033602",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Apple wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Furniture-Apple_wall.png/revision/latest?cb=20200528063814",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Aqua tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Furniture-Aqua_tile_wall.png/revision/latest?cb=20200414033616",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Arched-window wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Furniture-Arched-window_wall.png/revision/latest?cb=20200414033627",
+        "price": {
+            "buy": 2150,
+            "sell": 537
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Autumn wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Autumn_wall.png/revision/latest?cb=20200528063753",
+        "price": {
+            "buy": -1,
+            "sell": 4700
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Backyard-fence wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Furniture-Backyard-fence_wall.png/revision/latest?cb=20200414042706",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Bamboo-grove wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Bamboo-grove_wall.png/revision/latest?cb=20200528063856",
+        "price": {
+            "buy": -1,
+            "sell": 4300
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Bamboo-screen wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/NH-Furniture-Bamboo-screen_wall.png/revision/latest?cb=20200414033916",
+        "price": {
+            "buy": 1770,
+            "sell": 442
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Bamboo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Furniture-Bamboo_wall.png/revision/latest?cb=20200414042711",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Bank-vault wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Furniture-Bank-vault_wall.png/revision/latest?cb=20200414033925",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Basic wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Basic_wall.png/revision/latest?cb=20200414033933",
+        "price": {
+            "buy": 600,
+            "sell": 150
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Beaded-curtain wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Furniture-Beaded-curtain_wall.png/revision/latest?cb=20200414033943",
+        "price": {
+            "buy": 1720,
+            "sell": 430
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Beige art-deco wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Furniture-Beige_art-deco_wall.png/revision/latest?cb=20200415080056",
+        "price": {
+            "buy": 2780,
+            "sell": 695
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Beige blossoming wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Furniture-Beige_blossoming_wall.png/revision/latest?cb=20200414034003",
+        "price": {
+            "buy": 1760,
+            "sell": 440
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Beige desert-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Furniture-Beige_desert-tile_wall.png/revision/latest?cb=20200414034013",
+        "price": {
+            "buy": 2440,
+            "sell": 610
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black botanical-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Black_botanical-tile_wall.png/revision/latest?cb=20200414034054",
+        "price": {
+            "buy": 1240,
+            "sell": 310
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black-brick wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Furniture-Black-brick_wall.png/revision/latest?cb=20200414034123",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black-crown wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Black-crown_wall.png/revision/latest?cb=20200414034134",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black hallway wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Black_hallway_wall.png/revision/latest?cb=20200415080524",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black perforated-board wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Furniture-Black_perforated-board_wall.png/revision/latest?cb=20200414034154",
+        "price": {
+            "buy": 1180,
+            "sell": 295
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black two-toned tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Furniture-Black_two-toned_tile_wall.png/revision/latest?cb=20200414034204",
+        "price": {
+            "buy": 1850,
+            "sell": 462
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blackboard wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Furniture-Blackboard_wall.png/revision/latest?cb=20200414034214",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Blue blossoming wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Furniture-Blue_blossoming_wall.png/revision/latest?cb=20200414034308",
+        "price": {
+            "buy": 1760,
+            "sell": 440
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue camo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Furniture-Blue_camo_wall.png/revision/latest?cb=20200414034317",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue-crown wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Furniture-Blue-crown_wall.png/revision/latest?cb=20200414035017",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue delicate-blooms wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Furniture-Blue_delicate-blooms_wall.png/revision/latest?cb=20200414034328",
+        "price": {
+            "buy": 1900,
+            "sell": 475
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue desert-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Blue_desert-tile_wall.png/revision/latest?cb=20200414034340",
+        "price": {
+            "buy": 2440,
+            "sell": 610
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue diner wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Furniture-Blue_diner_wall.png/revision/latest?cb=20200414034349",
+        "price": {
+            "buy": 2420,
+            "sell": 605
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue flower-print wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Furniture-Blue_flower-print_wall.png/revision/latest?cb=20200414034400",
+        "price": {
+            "buy": 1780,
+            "sell": 445
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue heart-pattern wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-Blue_heart-pattern_wall.png/revision/latest?cb=20200414034612",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue honeycomb-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Furniture-Blue_honeycomb-tile_wall.png/revision/latest?cb=20200414034631",
+        "price": {
+            "buy": 1680,
+            "sell": 420
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue intricate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Furniture-Blue_intricate_wall.png/revision/latest?cb=20200414034645",
+        "price": {
+            "buy": 1570,
+            "sell": 392
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue molded-panel wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Furniture-Blue_molded-panel_wall.png/revision/latest?cb=20200414034657",
+        "price": {
+            "buy": 1980,
+            "sell": 495
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue-paint wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-Blue-paint_wall.png/revision/latest?cb=20200414034713",
+        "price": {
+            "buy": 1600,
+            "sell": 400
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue painted-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Furniture-Blue_painted-wood_wall.png/revision/latest?cb=20200414034735",
+        "price": {
+            "buy": 1650,
+            "sell": 412
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue playroom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Furniture-Blue_playroom_wall.png/revision/latest?cb=20200414042743",
+        "price": {
+            "buy": 2540,
+            "sell": 635
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue quilt wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Furniture-Blue_quilt_wall.png/revision/latest?cb=20200414034801",
+        "price": {
+            "buy": 2150,
+            "sell": 537
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue-rose wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-Blue-rose_wall.png/revision/latest?cb=20200414034837",
+        "price": {
+            "buy": 1720,
+            "sell": 430
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue shanty wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-Furniture-Blue_shanty_wall.png/revision/latest?cb=20200414034812",
+        "price": {
+            "buy": 620,
+            "sell": 155
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue simple-cloth wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Blue_simple-cloth_wall.png/revision/latest?cb=20200414034822",
+        "price": {
+            "buy": 750,
+            "sell": 187
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue-striped wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-Blue-striped_wall.png/revision/latest?cb=20200414034853",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue subway-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Furniture-Blue_subway-tile_wall.png/revision/latest?cb=20200414034933",
+        "price": {
+            "buy": 1340,
+            "sell": 335
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Blue_tile_wall.png/revision/latest?cb=20200414034949",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue two-toned tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Blue_two-toned_tile_wall.png/revision/latest?cb=20200415080556",
+        "price": {
+            "buy": 1850,
+            "sell": 462
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Botanical-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Botanical-tile_wall.png/revision/latest?cb=20200414035120",
+        "price": {
+            "buy": 1240,
+            "sell": 310
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown botanical-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Brown_botanical-tile_wall.png/revision/latest?cb=20200414035129",
+        "price": {
+            "buy": 1240,
+            "sell": 310
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown-brick wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Furniture-Brown-brick_wall.png/revision/latest?cb=20200414035108",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown-crown wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Furniture-Brown-crown_wall.png/revision/latest?cb=20200414035136",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown diner wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Brown_diner_wall.png/revision/latest?cb=20200414035145",
+        "price": {
+            "buy": 2420,
+            "sell": 605
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown hallway wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Brown_hallway_wall.png/revision/latest?cb=20200414035152",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown herringbone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Furniture-Brown_herringbone_wall.png/revision/latest?cb=20200528064601",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Brown shanty wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Furniture-Brown_shanty_wall.png/revision/latest?cb=20200414035200",
+        "price": {
+            "buy": 620,
+            "sell": 155
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown wedding wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Furniture-Brown_wedding_wall.png/revision/latest?cb=20200528063712",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": []
+    },
+    "Bunny Day wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Furniture-Bunny_Day_wall.png/revision/latest?cb=20200402000316",
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Butterflies wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Furniture-Butterflies_wall.png/revision/latest?cb=20200414035308",
+        "price": {
+            "buy": -1,
+            "sell": 840
+        },
+        "source": [
+            "Bug Off"
+        ]
+    },
+    "Cabin wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Furniture-Cabin_wall.png/revision/latest?cb=20200528064649",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Café-curtain wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Furniture-Caf%C3%A9-curtain_wall.png/revision/latest?cb=20200414035320",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Camo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Furniture-Camo_wall.png/revision/latest?cb=20200414035328",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Chain-link fence": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Furniture-Chain-link_fence.png/revision/latest?cb=20200414035338",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Cherry-blossom-trees wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Cherry-blossom-trees_wall.png/revision/latest?cb=20200409052146",
+        "price": {
+            "buy": -1,
+            "sell": 4600
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Cherry wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Cherry_wall.png/revision/latest?cb=20200528063934",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Chic tearoom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Furniture-Chic_tearoom_wall.png/revision/latest?cb=20200414042753",
+        "price": {
+            "buy": 1750,
+            "sell": 437
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Chic wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Furniture-Chic_wall.png/revision/latest?cb=20200414035345",
+        "price": {
+            "buy": 1960,
+            "sell": 490
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Chocolate hallway wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Chocolate_hallway_wall.png/revision/latest?cb=20200414035358",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Chocolate herringbone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Furniture-Chocolate_herringbone_wall.png/revision/latest?cb=20200528064045",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Circuit-board wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Furniture-Circuit-board_wall.png/revision/latest?cb=20200414035433",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Cityscape wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Furniture-Cityscape_wall.png/revision/latest?cb=20200414035444",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Classic-library wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Classic-library_wall.png/revision/latest?cb=20200528064718",
+        "price": {
+            "buy": -1,
+            "sell": 1450
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Colorful puzzle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Furniture-Colorful_puzzle_wall.png/revision/latest?cb=20200414035453",
+        "price": {
+            "buy": 1540,
+            "sell": 385
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Colorful-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Colorful-tile_wall.png/revision/latest?cb=20200414035500",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Common wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Furniture-Common_wall.png/revision/latest?cb=20200414035507",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Concrete wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Furniture-Concrete_wall.png/revision/latest?cb=20200414042800",
+        "price": {
+            "buy": 940,
+            "sell": 235
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Construction-site wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-Construction-site_wall.png/revision/latest?cb=20200414035516",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Crepe-design wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Furniture-Crepe-design_wall.png/revision/latest?cb=20200414035524",
+        "price": {
+            "buy": 1550,
+            "sell": 387
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute blue wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Furniture-Cute_blue_wall.png/revision/latest?cb=20200414035531",
+        "price": {
+            "buy": 1880,
+            "sell": 470
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute red wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Furniture-Cute_red_wall.png/revision/latest?cb=20200414035540",
+        "price": {
+            "buy": 1880,
+            "sell": 470
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute white wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Furniture-Cute_white_wall.png/revision/latest?cb=20200414035547",
+        "price": {
+            "buy": 1880,
+            "sell": 470
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute yellow wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Furniture-Cute_yellow_wall.png/revision/latest?cb=20200414035555",
+        "price": {
+            "buy": 1880,
+            "sell": 470
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Dark-chocolate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Furniture-Dark-chocolate_wall.png/revision/latest?cb=20200414035708",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dark wooden-mosaic wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-Dark_wooden-mosaic_wall.png/revision/latest?cb=20200528064758",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Desert vista": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Desert_vista.png/revision/latest?cb=20200414035715",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dig-site wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Furniture-Dig-site_wall.png/revision/latest?cb=20200414035722",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dirt-clod wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Furniture-Dirt-clod_wall.png/revision/latest?cb=20200414035730",
+        "price": {
+            "buy": 200,
+            "sell": 50
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Dojo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Furniture-Dojo_wall.png/revision/latest?cb=20200414035736",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dungeon wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Furniture-Dungeon_wall.png/revision/latest?cb=20200414035743",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Exquisite wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Furniture-Exquisite_wall.png/revision/latest?cb=20200414035749",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Forest wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Furniture-Forest_wall.png/revision/latest?cb=20200528064838",
+        "price": {
+            "buy": -1,
+            "sell": 44000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Future-tech wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/NH-Furniture-Future-tech_wall.png/revision/latest?cb=20200414035757",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Garbage-heap wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Garbage-heap_wall.png/revision/latest?cb=20200528064927",
+        "price": {
+            "buy": -1,
+            "sell": 120
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Gold-screen wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Gold-screen_wall.png/revision/latest?cb=20200528065016",
+        "price": {
+            "buy": -1,
+            "sell": 20750
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Golden wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Furniture-Golden_wall.png/revision/latest?cb=20200528065041",
+        "price": {
+            "buy": -1,
+            "sell": 40000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Gray diner wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Gray_diner_wall.png/revision/latest?cb=20200414035913",
+        "price": {
+            "buy": 2420,
+            "sell": 605
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Gray molded-panel wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Furniture-Gray_molded-panel_wall.png/revision/latest?cb=20200414035919",
+        "price": {
+            "buy": 1980,
+            "sell": 495
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Gray shanty wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Gray_shanty_wall.png/revision/latest?cb=20200414035926",
+        "price": {
+            "buy": 620,
+            "sell": 155
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Gray-striped wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Furniture-Gray-striped_wall.png/revision/latest?cb=20200414035933",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green blossoming wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Furniture-Green_blossoming_wall.png/revision/latest?cb=20200414040000",
+        "price": {
+            "buy": 1760,
+            "sell": 440
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green delicate-blooms wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Furniture-Green_delicate-blooms_wall.png/revision/latest?cb=20200414040021",
+        "price": {
+            "buy": 1900,
+            "sell": 475
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green flower-print wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Furniture-Green_flower-print_wall.png/revision/latest?cb=20200414040024",
+        "price": {
+            "buy": 1780,
+            "sell": 445
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green honeycomb-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-Furniture-Green_honeycomb-tile_wall.png/revision/latest?cb=20200414040025",
+        "price": {
+            "buy": 1680,
+            "sell": 420
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green intricate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Furniture-Green_intricate_wall.png/revision/latest?cb=20200414040032",
+        "price": {
+            "buy": 1570,
+            "sell": 392
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green molded-panel wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Furniture-Green_molded-panel_wall.png/revision/latest?cb=20200414040153",
+        "price": {
+            "buy": 1980,
+            "sell": 495
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green-paint wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Furniture-Green-paint_wall.png/revision/latest?cb=20200414040207",
+        "price": {
+            "buy": 1600,
+            "sell": 400
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green painted-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Furniture-Green_painted-wood_wall.png/revision/latest?cb=20200414040214",
+        "price": {
+            "buy": 1650,
+            "sell": 412
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green playroom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Furniture-Green_playroom_wall.png/revision/latest?cb=20200414040219",
+        "price": {
+            "buy": 2540,
+            "sell": 635
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green wedding wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Furniture-Green_wedding_wall.png/revision/latest?cb=20200528064105",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": []
+    },
+    "Groovy wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Furniture-Groovy_wall.png/revision/latest?cb=20200414040226",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Harmonious wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Harmonious_wall.png/revision/latest?cb=20200414040234",
+        "price": {
+            "buy": 1780,
+            "sell": 445
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Heavy-curtain wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Furniture-Heavy-curtain_wall.png/revision/latest?cb=20200414040240",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Honeycomb-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Furniture-Honeycomb-tile_wall.png/revision/latest?cb=20200414040248",
+        "price": {
+            "buy": 1680,
+            "sell": 420
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Honeycomb wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Furniture-Honeycomb_wall.png/revision/latest?cb=20200528065059",
+        "price": {
+            "buy": -1,
+            "sell": 3600
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Ice wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Furniture-Ice_wall.png/revision/latest?cb=20200528065114",
+        "price": {
+            "buy": -1,
+            "sell": 8200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Iceberg wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Furniture-Iceberg_wall.png/revision/latest?cb=20200528065158",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Imperial wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Furniture-Imperial_wall.png/revision/latest?cb=20200414040317",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Industrial wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Furniture-Industrial_wall.png/revision/latest?cb=20200414040323",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Ivy wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Ivy_wall.png/revision/latest?cb=20200414040335",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Jingle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Furniture-Jingle_wall.png/revision/latest?cb=20200528065218",
+        "price": {
+            "buy": -1,
+            "sell": 2500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Jungle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Furniture-Jungle_wall.png/revision/latest?cb=20200528065237",
+        "price": {
+            "buy": -1,
+            "sell": 1380
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Kisses wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Kisses_wall.png/revision/latest?cb=20200414040439",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Laboratory wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Furniture-Laboratory_wall.png/revision/latest?cb=20200414040446",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Lattice wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Furniture-Lattice_wall.png/revision/latest?cb=20200414040452",
+        "price": {
+            "buy": 1780,
+            "sell": 445
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Magma-cavern wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Furniture-Magma-cavern_wall.png/revision/latest?cb=20200414040459",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Manga-library wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Manga-library_wall.png/revision/latest?cb=20200528065352",
+        "price": {
+            "buy": -1,
+            "sell": 1050
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Mangrove wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Mangrove_wall.png/revision/latest?cb=20200414040513",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Marine pop wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Furniture-Marine_pop_wall.png/revision/latest?cb=20200414040518",
+        "price": {
+            "buy": -1,
+            "sell": 805
+        },
+        "source": [
+            "Fishing Tourney"
+        ]
+    },
+    "Meadow vista": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Meadow_vista.png/revision/latest?cb=20200414040526",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Misty-garden wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e6/NH-Furniture-Misty-garden_wall.png/revision/latest?cb=20200414040534",
+        "price": {
+            "buy": 3000,
+            "sell": 585
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Mod wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Furniture-Mod_wall.png/revision/latest?cb=20200414040539",
+        "price": {
+            "buy": 1220,
+            "sell": 305
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Modern shoji-screen wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Furniture-Modern_shoji-screen_wall.png/revision/latest?cb=20200414040547",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Modern tearoom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Furniture-Modern_tearoom_wall.png/revision/latest?cb=20200414040552",
+        "price": {
+            "buy": 1750,
+            "sell": 437
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Modern wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Furniture-Modern_wood_wall.png/revision/latest?cb=20200409050320",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Monochromatic dotted wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Furniture-Monochromatic_dotted_wall.png/revision/latest?cb=20200415073126",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Monochromatic-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Furniture-Monochromatic-tile_wall.png/revision/latest?cb=20200415080701",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Mortar wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Furniture-Mortar_wall.png/revision/latest?cb=20200528064133",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Mosaic-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Mosaic-tile_wall.png/revision/latest?cb=20200414040640",
+        "price": {
+            "buy": 1450,
+            "sell": 362
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Mossy-garden wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Furniture-Mossy-garden_wall.png/revision/latest?cb=20200414040647",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Mush wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Mush_wall.png/revision/latest?cb=20200409050330",
+        "price": {
+            "buy": -1,
+            "sell": 21400
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Nook Inc. wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Nook_Inc._wall.png/revision/latest?cb=20200414040710",
+        "price": {
+            "buy": 1200,
+            "sell": 6000
+        },
+        "source": [
+            "Nook Stop"
+        ]
+    },
+    "Ocean-horizon wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Furniture-Ocean-horizon_wall.png/revision/latest?cb=20200414040717",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Office wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Furniture-Office_wall.png/revision/latest?cb=20200414040723",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Old wallpaper": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Old_wallpaper.png/revision/latest?cb=20200414040729",
+        "price": {
+            "buy": 200,
+            "sell": 50
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Olive desert-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Furniture-Olive_desert-tile_wall.png/revision/latest?cb=20200414040736",
+        "price": {
+            "buy": 2440,
+            "sell": 610
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Orange camo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-Orange_camo_wall.png/revision/latest?cb=20200414040742",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Orange molded-panel wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Orange_molded-panel_wall.png/revision/latest?cb=20200414040748",
+        "price": {
+            "buy": 1980,
+            "sell": 495
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Orange-paint wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Furniture-Orange-paint_wall.png/revision/latest?cb=20200414040810",
+        "price": {
+            "buy": 1600,
+            "sell": 400
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Orange wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Orange_wall.png/revision/latest?cb=20200329072708",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Paintball wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Furniture-Paintball_wall.png/revision/latest?cb=20200414040818",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Palace wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Furniture-Palace_wall.png/revision/latest?cb=20200414040824",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Party wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Furniture-Party_wall.png/revision/latest?cb=20200414040830",
+        "price": {
+            "buy": -1,
+            "sell": 370
+        },
+        "source": []
+    },
+    "Pastel dotted wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Furniture-Pastel_dotted_wall.png/revision/latest?cb=20200414040836",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pastel puzzle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Furniture-Pastel_puzzle_wall.png/revision/latest?cb=20200414040842",
+        "price": {
+            "buy": 1540,
+            "sell": 385
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Peach two-toned tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Furniture-Peach_two-toned_tile_wall.png/revision/latest?cb=20200414040849",
+        "price": {
+            "buy": 1850,
+            "sell": 462
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Peach wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Furniture-Peach_wall.png/revision/latest?cb=20200329072652",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Pear wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Pear_wall.png/revision/latest?cb=20200329072635",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Perforated-board wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-Perforated-board_wall.png/revision/latest?cb=20200414040923",
+        "price": {
+            "buy": 1180,
+            "sell": 295
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink blossoming wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Pink_blossoming_wall.png/revision/latest?cb=20200414040929",
+        "price": {
+            "buy": 1760,
+            "sell": 440
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink-crown wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Furniture-Pink-crown_wall.png/revision/latest?cb=20200414041051",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink diner wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Furniture-Pink_diner_wall.png/revision/latest?cb=20200414040936",
+        "price": {
+            "buy": 2420,
+            "sell": 605
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink flower-print wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Furniture-Pink_flower-print_wall.png/revision/latest?cb=20200414040941",
+        "price": {
+            "buy": 1780,
+            "sell": 445
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink heart-pattern wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Furniture-Pink_heart-pattern_wall.png/revision/latest?cb=20200414040948",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink painted-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Furniture-Pink_painted-wood_wall.png/revision/latest?cb=20200414040955",
+        "price": {
+            "buy": 1650,
+            "sell": 412
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink playroom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Furniture-Pink_playroom_wall.png/revision/latest?cb=20200414041002",
+        "price": {
+            "buy": 2540,
+            "sell": 635
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink quilt wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Furniture-Pink_quilt_wall.png/revision/latest?cb=20200414041011",
+        "price": {
+            "buy": 2150,
+            "sell": 537
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink shanty wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-Pink_shanty_wall.png/revision/latest?cb=20200414041019",
+        "price": {
+            "buy": 620,
+            "sell": 155
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink simple-cloth wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Furniture-Pink_simple-cloth_wall.png/revision/latest?cb=20200414041039",
+        "price": {
+            "buy": 750,
+            "sell": 187
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink-striped wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Furniture-Pink-striped_wall.png/revision/latest?cb=20200414041056",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple camo wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Furniture-Purple_camo_wall.png/revision/latest?cb=20200414041123",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple desert-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Furniture-Purple_desert-tile_wall.png/revision/latest?cb=20200414041130",
+        "price": {
+            "buy": 2440,
+            "sell": 610
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple dotted wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Furniture-Purple_dotted_wall.png/revision/latest?cb=20200414041136",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple puzzle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Purple_puzzle_wall.png/revision/latest?cb=20200414041143",
+        "price": {
+            "buy": 1540,
+            "sell": 385
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple quilt wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Furniture-Purple_quilt_wall.png/revision/latest?cb=20200414041150",
+        "price": {
+            "buy": 2150,
+            "sell": 537
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple-rose wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Furniture-Purple-rose_wall.png/revision/latest?cb=20200414041157",
+        "price": {
+            "buy": 1720,
+            "sell": 430
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rammed-earth wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Furniture-Rammed-earth_wall.png/revision/latest?cb=20200414041223",
+        "price": {
+            "buy": 1800,
+            "sell": 450
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Ramshackle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Furniture-Ramshackle_wall.png/revision/latest?cb=20200414041229",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Red art-deco wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Red_art-deco_wall.png/revision/latest?cb=20200414041235",
+        "price": {
+            "buy": 2780,
+            "sell": 695
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red-brick wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Red-brick_wall.png/revision/latest?cb=20200414041244",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red delicate-blooms wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Furniture-Red_delicate-blooms_wall.png/revision/latest?cb=20200414041250",
+        "price": {
+            "buy": 1900,
+            "sell": 475
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red dotted wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Furniture-Red_dotted_wall.png/revision/latest?cb=20200414041256",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red heart-pattern wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Red_heart-pattern_wall.png/revision/latest?cb=20200414041300",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red intricate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Red_intricate_wall.png/revision/latest?cb=20200414041307",
+        "price": {
+            "buy": 1570,
+            "sell": 392
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red perforated-board wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Furniture-Red_perforated-board_wall.png/revision/latest?cb=20200414041313",
+        "price": {
+            "buy": 1180,
+            "sell": 295
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red two-toned tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Red_two-toned_tile_wall.png/revision/latest?cb=20200415082345",
+        "price": {
+            "buy": 1850,
+            "sell": 462
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Retro flower-print wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Retro_flower-print_wall.png/revision/latest?cb=20200414041346",
+        "price": {
+            "buy": 1660,
+            "sell": 415
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rice-paddy wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Rice-paddy_wall.png/revision/latest?cb=20200414041351",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Ringside seating": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Furniture-Ringside_seating.png/revision/latest?cb=20200414041357",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Rock-climbing wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Furniture-Rock-climbing_wall.png/revision/latest?cb=20200414041403",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Rose wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Furniture-Rose_wall.png/revision/latest?cb=20200414041409",
+        "price": {
+            "buy": 1720,
+            "sell": 430
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Ruins wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Furniture-Ruins_wall.png/revision/latest?cb=20200414041416",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Rustic-stone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Furniture-Rustic-stone_wall.png/revision/latest?cb=20200414041423",
+        "price": {
+            "buy": -1,
+            "sell": 1750
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Sakura-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Furniture-Sakura-wood_wall.png/revision/latest?cb=20200409051310",
+        "price": {
+            "buy": -1,
+            "sell": 3200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Sci-fi wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Furniture-Sci-fi_wall.png/revision/latest?cb=20200409050437",
+        "price": {
+            "buy": -1,
+            "sell": 7500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Screen wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Furniture-Screen_wall.png/revision/latest?cb=20200414041450",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Sea view": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Furniture-Sea_view.png/revision/latest?cb=20200414041456",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Security-monitors wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Security-monitors_wall.png/revision/latest?cb=20200414041502",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Sepia puzzle wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Furniture-Sepia_puzzle_wall.png/revision/latest?cb=20200414041536",
+        "price": {
+            "buy": 1540,
+            "sell": 385
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Server-room wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Furniture-Server-room_wall.png/revision/latest?cb=20200414041542",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Shoji screen": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Shoji_screen.png/revision/latest?cb=20200414041550",
+        "price": {
+            "buy": 1880,
+            "sell": 470
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Shutter wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Furniture-Shutter_wall.png/revision/latest?cb=20200414041600",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Ski-slope wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Furniture-Ski-slope_wall.png/revision/latest?cb=20200409050447",
+        "price": {
+            "buy": -1,
+            "sell": 3200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Skull wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Furniture-Skull_wall.png/revision/latest?cb=20200414041621",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Sky wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Furniture-Sky_wall.png/revision/latest?cb=20200414041627",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Skyscraper wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Furniture-Skyscraper_wall.png/revision/latest?cb=20200414041633",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Snowflake wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Snowflake_wall.png/revision/latest?cb=20200409050454",
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Soothing tearoom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Soothing_tearoom_wall.png/revision/latest?cb=20200414041639",
+        "price": {
+            "buy": 1750,
+            "sell": 437
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Stacked-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Stacked-wood_wall.png/revision/latest?cb=20200409050459",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Stadium wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Furniture-Stadium_wall.png/revision/latest?cb=20200414041646",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Standard tearoom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Furniture-Standard_tearoom_wall.png/revision/latest?cb=20200414041654",
+        "price": {
+            "buy": 1750,
+            "sell": 437
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Starry-sky wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Furniture-Starry-sky_wall.png/revision/latest?cb=20200409050520",
+        "price": {
+            "buy": -1,
+            "sell": 7500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Starry wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Starry_wall.png/revision/latest?cb=20200409050504",
+        "price": {
+            "buy": -1,
+            "sell": 7500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Stately wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Furniture-Stately_wall.png/revision/latest?cb=20200414041730",
+        "price": {
+            "buy": 2450,
+            "sell": 612
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Steel-frame wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Furniture-Steel-frame_wall.png/revision/latest?cb=20200409050530",
+        "price": {
+            "buy": -1,
+            "sell": 6000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Stone wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Stone_wall.png/revision/latest?cb=20200409050536",
+        "price": {
+            "buy": -1,
+            "sell": 1500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Stormy-night wall": {
+        "image_url": null,
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Straw wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Furniture-Straw_wall.png/revision/latest?cb=20200414041750",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Strawberry-chocolate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Furniture-Strawberry-chocolate_wall.png/revision/latest?cb=20200414041757",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Street-art wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Furniture-Street-art_wall.png/revision/latest?cb=20200414041802",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Summit wall": {
+        "image_url": null,
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Tree-lined wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Furniture-Tree-lined_wall.png/revision/latest?cb=20200414041817",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Tropical vista": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Tropical_vista.png/revision/latest?cb=20200409050543",
+        "price": {
+            "buy": -1,
+            "sell": 6000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Underwater wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Underwater_wall.png/revision/latest?cb=20200409050604",
+        "price": {
+            "buy": -1,
+            "sell": 8600
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Wavy-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Furniture-Wavy-tile_wall.png/revision/latest?cb=20200414041908",
+        "price": {
+            "buy": 1740,
+            "sell": 435
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Wedding-party wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Furniture-Wedding-party_wall.png/revision/latest?cb=20200528064510",
+        "price": {
+            "buy": 1750,
+            "sell": 438
+        },
+        "source": []
+    },
+    "Western vista": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Furniture-Western_vista.png/revision/latest?cb=20200414041915",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "White botanical-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Furniture-White_botanical-tile_wall.png/revision/latest?cb=20200414041931",
+        "price": {
+            "buy": 1240,
+            "sell": 310
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White-brick wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Furniture-White-brick_wall.png/revision/latest?cb=20200414042034",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White-chocolate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-White-chocolate_wall.png/revision/latest?cb=20200414042040",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "White delicate-blooms wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Furniture-White_delicate-blooms_wall.png/revision/latest?cb=20200414041943",
+        "price": {
+            "buy": 1900,
+            "sell": 475
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White hallway wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Furniture-White_hallway_wall.png/revision/latest?cb=20200414041953",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White honeycomb-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Furniture-White_honeycomb-tile_wall.png/revision/latest?cb=20200414041959",
+        "price": {
+            "buy": 1680,
+            "sell": 420
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White painted-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Furniture-White_painted-wood_wall.png/revision/latest?cb=20200414042006",
+        "price": {
+            "buy": 1650,
+            "sell": 412
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White perforated-board wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-White_perforated-board_wall.png/revision/latest?cb=20200414042013",
+        "price": {
+            "buy": 1180,
+            "sell": 295
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White-rose wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Furniture-White-rose_wall.png/revision/latest?cb=20200414042048",
+        "price": {
+            "buy": 1720,
+            "sell": 430
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White simple-cloth wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Furniture-White_simple-cloth_wall.png/revision/latest?cb=20200414042020",
+        "price": {
+            "buy": 750,
+            "sell": 187
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White subway-tile wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-White_subway-tile_wall.png/revision/latest?cb=20200414042027",
+        "price": {
+            "buy": 1340,
+            "sell": 335
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White wedding wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Furniture-White_wedding_wall.png/revision/latest?cb=20200528064526",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": []
+    },
+    "Wild-wood wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Wild-wood_wall.png/revision/latest?cb=20200409050612",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Wooden-knot wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Wooden-knot_wall.png/revision/latest?cb=20200409050618",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Wooden-mosaic wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-Furniture-Wooden-mosaic_wall.png/revision/latest?cb=20200414042118",
+        "price": {
+            "buy": -1,
+            "sell": 1800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Woodland wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Woodland_wall.png/revision/latest?cb=20200409044819",
+        "price": {
+            "buy": -1,
+            "sell": 1380
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Yellow flower-print wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Furniture-Yellow_flower-print_wall.png/revision/latest?cb=20200414042126",
+        "price": {
+            "buy": 1780,
+            "sell": 445
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow heart-pattern wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Furniture-Yellow_heart-pattern_wall.png/revision/latest?cb=20200414042132",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow intricate wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Yellow_intricate_wall.png/revision/latest?cb=20200414042138",
+        "price": {
+            "buy": 1570,
+            "sell": 392
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow-paint wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Furniture-Yellow-paint_wall.png/revision/latest?cb=20200414042209",
+        "price": {
+            "buy": 1600,
+            "sell": 400
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow playroom wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Furniture-Yellow_playroom_wall.png/revision/latest?cb=20200414042144",
+        "price": {
+            "buy": 2540,
+            "sell": 635
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow quilt wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Furniture-Yellow_quilt_wall.png/revision/latest?cb=20200414042151",
+        "price": {
+            "buy": 2150,
+            "sell": 537
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow simple-cloth wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Furniture-Yellow_simple-cloth_wall.png/revision/latest?cb=20200414042203",
+        "price": {
+            "buy": 750,
+            "sell": 187
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow-striped wall": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Furniture-Yellow-striped_wall.png/revision/latest?cb=20200414042214",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    }
+}
