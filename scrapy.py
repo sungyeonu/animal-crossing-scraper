@@ -90,10 +90,12 @@ def scrape_bugs(key):  # take url and return object containing bugs data
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
     # find the target table
+
     tables = soup("table", {"class": "sortable"})
     items = {}
     # go through each tr in the table, ignoring the table header
     for tr in tables[0]("tr")[1:]:
+
         # scrape each item
         name = tr("td")[0].a.text
         item = {
@@ -120,6 +122,7 @@ def scrape_fish(key):  # same logic as scrapeBugs
     tables = soup("table", {"class": "sortable"})
     items = {}
     for tr in tables[0]("tr")[1:]:
+
         name = tr("td")[0].a.text
         item = {
             "image_url": tr("a")[1]['href'],
