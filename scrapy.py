@@ -5,6 +5,7 @@ import io
 from util import parse_image_img_url, parse_image_url, parse_customization, parse_obtained_from, parse_furniture_variations, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
 
 
+
 URLS = {
     # --- New Horizons ---
     # Characters
@@ -426,6 +427,7 @@ def scrape_furniture_wallpapers(key):
     return items
 
 
+
 def scrape_furniture_rugs(key):
     url = URLS["furniture"][key]
     response = requests.get(url, timeout=5)
@@ -562,7 +564,7 @@ if __name__ == "__main__":
     # scrape_artworks("artworks")
 
     # -- Crafting --
-    # scrape_tools("tools")
+    scrape_tools("tools")
     # scrape_tools("housewares")
     # scrape_tools("equipments")
     # scrape_tools("miscellaneous")

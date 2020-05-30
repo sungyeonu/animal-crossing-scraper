@@ -161,6 +161,7 @@ def parse_furniture_variations(tag):
     text = text.split(",")
     return [t.strip() for t in text]
 
+
 def parse_obtained_from(tag):
     if "\n" in tag.text: # some pages use \n to break, some use <br> 
         return tag.text.strip().split("\n")
@@ -171,6 +172,7 @@ def parse_image_img_url(tag):
         return tag.img.get("data-src")
     except:
         return None
+
 
 def dump_data(itemList, path): # turn object to json and dump it in data/
     with open(("data/" + path + ".json"), 'w', encoding='utf-8') as f:
