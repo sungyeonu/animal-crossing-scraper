@@ -1,0 +1,1754 @@
+{
+    "Aqua tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Furniture-Aqua_tile_flooring.png/revision/latest?cb=20200415101232",
+        "price": {
+            "buy": 900,
+            "sell": 225
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Arabesque flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Furniture-Arabesque_flooring.png/revision/latest?cb=20200415101203",
+        "price": {
+            "buy": 2120,
+            "sell": 530
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Arched-brick flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/NH-Furniture-Arched-brick_flooring.png/revision/latest?cb=20200415101209",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Argyle tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Furniture-Argyle_tile_flooring.png/revision/latest?cb=20200415101216",
+        "price": {
+            "buy": 1750,
+            "sell": 437
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Artsy parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Furniture-Artsy_parquet_flooring.png/revision/latest?cb=20200415101223",
+        "price": {
+            "buy": 1800,
+            "sell": 450
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Backyard lawn": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Backyard_lawn.png/revision/latest?cb=20200326060311",
+        "price": {
+            "buy": -1,
+            "sell": 600
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Bamboo flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Bamboo_flooring.png/revision/latest?cb=20200415101315",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Basement flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Basement_flooring.png/revision/latest?cb=20200409050131",
+        "price": {
+            "buy": -1,
+            "sell": 1500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Beige desert-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Furniture-Beige_desert-tile_flooring.png/revision/latest?cb=20200328161431",
+        "price": {
+            "buy": 2100,
+            "sell": 525
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Berry-chocolates flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Furniture-Berry-chocolates_flooring.png/revision/latest?cb=20200415101323",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Birch flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Birch_flooring.png/revision/latest?cb=20200415101328",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black-brick flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Furniture-Black-brick_flooring.png/revision/latest?cb=20200415101339",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Black iron-parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Furniture-Black_iron-parquet_flooring.png/revision/latest?cb=20200415101334",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue camo flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Furniture-Blue_camo_flooring.png/revision/latest?cb=20200415101346",
+        "price": {
+            "buy": 1320,
+            "sell": 330
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue desert-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Furniture-Blue_desert-tile_flooring.png/revision/latest?cb=20200328161218",
+        "price": {
+            "buy": 2100,
+            "sell": 525
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue dot flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Furniture-Blue_dot_flooring.png/revision/latest?cb=20200415101434",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue floral flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Furniture-Blue_floral_flooring.png/revision/latest?cb=20200415101440",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue honeycomb tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Furniture-Blue_honeycomb_tile.png/revision/latest?cb=20200415101446",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue mosaic-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Blue_mosaic-tile_flooring.png/revision/latest?cb=20200415101453",
+        "price": {
+            "buy": 900,
+            "sell": 225
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue-paint flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Furniture-Blue-paint_flooring.png/revision/latest?cb=20200415101459",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Blue rubber flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Furniture-Blue_rubber_flooring.png/revision/latest?cb=20200415101512",
+        "price": {
+            "buy": 850,
+            "sell": 212
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Boxing-ring mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Boxing-ring_mat.png/revision/latest?cb=20200415101519",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Brown argyle-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Furniture-Brown_argyle-tile_flooring.png/revision/latest?cb=20200415101526",
+        "price": {
+            "buy": 1440,
+            "sell": 360
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown-brick flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Furniture-Brown-brick_flooring.png/revision/latest?cb=20200415101534",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown floral flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Furniture-Brown_floral_flooring.png/revision/latest?cb=20200415101542",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown honeycomb tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Furniture-Brown_honeycomb_tile.png/revision/latest?cb=20200415101550",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown iron-parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Brown_iron-parquet_flooring.png/revision/latest?cb=20200415101557",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Brown wedding flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Furniture-Brown_wedding_flooring.png/revision/latest?cb=20200528062657",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": []
+    },
+    "Bunny Day flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Furniture-Bunny_Day_flooring.png/revision/latest?cb=20200402053447",
+        "price": {
+            "buy": -1,
+            "sell": 4800
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Camo flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Furniture-Camo_flooring.png/revision/latest?cb=20200415101643",
+        "price": {
+            "buy": 1320,
+            "sell": 330
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cherry-blossom flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Furniture-Cherry-blossom_flooring.png/revision/latest?cb=20200409051733",
+        "price": {
+            "buy": -1,
+            "sell": 4400
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Circuit-board flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Circuit-board_flooring.png/revision/latest?cb=20200415101652",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Cloud flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Furniture-Cloud_flooring.png/revision/latest?cb=20200415101656",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Colored-leaves flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Colored-leaves_flooring.png/revision/latest?cb=20200409050206",
+        "price": {
+            "buy": -1,
+            "sell": 4300
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Colorful mosaic-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Colorful_mosaic-tile_flooring.png/revision/latest?cb=20200415101703",
+        "price": {
+            "buy": 900,
+            "sell": 225
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Colorful puzzle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Furniture-Colorful_puzzle_flooring.png/revision/latest?cb=20200415101709",
+        "price": {
+            "buy": 1450,
+            "sell": 362
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Colorful tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Furniture-Colorful_tile_flooring.png/revision/latest?cb=20200415101715",
+        "price": {
+            "buy": 1620,
+            "sell": 405
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Common flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Furniture-Common_flooring.png/revision/latest?cb=20200415101721",
+        "price": {
+            "buy": 720,
+            "sell": 180
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Concrete flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Furniture-Concrete_flooring.png/revision/latest?cb=20200415101727",
+        "price": {
+            "buy": 820,
+            "sell": 205
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Construction-site flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Furniture-Construction-site_flooring.png/revision/latest?cb=20200415101735",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Cool-paint flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Furniture-Cool-paint_flooring.png/revision/latest?cb=20200415101743",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cool vinyl flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Furniture-Cool_vinyl_flooring.png/revision/latest?cb=20200415101831",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cork flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/91/NH-Furniture-Cork_flooring.png/revision/latest?cb=20200415101838",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Crop-circles flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Furniture-Crop-circles_flooring.png/revision/latest?cb=20200415101848",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Crosswalk flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Crosswalk_flooring.png/revision/latest?cb=20200415101855",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Cubic parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Cubic_parquet_flooring.png/revision/latest?cb=20200415101903",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute blue-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Furniture-Cute_blue-tile_flooring.png/revision/latest?cb=20200415101913",
+        "price": {
+            "buy": 780,
+            "sell": 195
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute-paint flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Furniture-Cute-paint_flooring.png/revision/latest?cb=20200328161630",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute red-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Cute_red-tile_flooring.png/revision/latest?cb=20200415101934",
+        "price": {
+            "buy": 780,
+            "sell": 195
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute white-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Furniture-Cute_white-tile_flooring.png/revision/latest?cb=20200415101941",
+        "price": {
+            "buy": 780,
+            "sell": 195
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Cute yellow-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Cute_yellow-tile_flooring.png/revision/latest?cb=20200415101948",
+        "price": {
+            "buy": 780,
+            "sell": 195
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Daisy meadow": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Daisy_meadow.png/revision/latest?cb=20200415101954",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dark-block flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Furniture-Dark-block_flooring.png/revision/latest?cb=20200415102001",
+        "price": {
+            "buy": 1380,
+            "sell": 345
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Dark-chocolates flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Furniture-Dark-chocolates_flooring.png/revision/latest?cb=20200415102009",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dark herringbone flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Furniture-Dark_herringbone_flooring.png/revision/latest?cb=20200415102017",
+        "price": {
+            "buy": 1200,
+            "sell": 300
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Dark parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-Dark_parquet_flooring.png/revision/latest?cb=20200415102031",
+        "price": {
+            "buy": 1560,
+            "sell": 390
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Dark wood-pattern flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Furniture-Dark_wood-pattern_flooring.png/revision/latest?cb=20200415102041",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Dig-site flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Dig-site_flooring.png/revision/latest?cb=20200415102047",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Dirt flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Furniture-Dirt_flooring.png/revision/latest?cb=20200528062759",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Field flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Furniture-Field_flooring.png/revision/latest?cb=20200528062837",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Flagstone flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Furniture-Flagstone_flooring.png/revision/latest?cb=20200415102130",
+        "price": {
+            "buy": 1700,
+            "sell": 425
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Floral mosaic-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Furniture-Floral_mosaic-tile_flooring.png/revision/latest?cb=20200415102136",
+        "price": {
+            "buy": 1080,
+            "sell": 270
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Floral rush-mat flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Furniture-Floral_rush-mat_flooring.png/revision/latest?cb=20200415102143",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Flowing-river flooring": {
+        "image_url": null,
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Forest flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Forest_flooring.png/revision/latest?cb=20200409050217",
+        "price": {
+            "buy": -1,
+            "sell": 35000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Future-tech flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Furniture-Future-tech_flooring.png/revision/latest?cb=20200415102156",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Galaxy flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Furniture-Galaxy_flooring.png/revision/latest?cb=20200409050226",
+        "price": {
+            "buy": -1,
+            "sell": 7500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Garbage-heap flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Furniture-Garbage-heap_flooring.png/revision/latest?cb=20200325181813",
+        "price": {
+            "buy": -1,
+            "sell": 120
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Giraffe-print flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Furniture-Giraffe-print_flooring.png/revision/latest?cb=20200416040044",
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Gold iron-parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Furniture-Gold_iron-parquet_flooring.png/revision/latest?cb=20200416040053",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Golden flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Golden_flooring.png/revision/latest?cb=20200409050231",
+        "price": {
+            "buy": -1,
+            "sell": 40000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Gravel flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Gravel_flooring.png/revision/latest?cb=20200528062916",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Gray argyle-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Furniture-Gray_argyle-tile_flooring.png/revision/latest?cb=20200416040104",
+        "price": {
+            "buy": 1440,
+            "sell": 360
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Gray vinyl flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Furniture-Gray_vinyl_flooring.png/revision/latest?cb=20200416040113",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green floral flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Furniture-Green_floral_flooring.png/revision/latest?cb=20200416035842",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green honeycomb tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Furniture-Green_honeycomb_tile.png/revision/latest?cb=20200416035850",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green-paint flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Furniture-Green-paint_flooring.png/revision/latest?cb=20200416035857",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green retro flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Green_retro_flooring.png/revision/latest?cb=20200416040226",
+        "price": {
+            "buy": 1540,
+            "sell": 385
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green rubber flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Furniture-Green_rubber_flooring.png/revision/latest?cb=20200416040233",
+        "price": {
+            "buy": 850,
+            "sell": 212
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green vinyl flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Furniture-Green_vinyl_flooring.png/revision/latest?cb=20200416040240",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Green wedding flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Furniture-Green_wedding_flooring.png/revision/latest?cb=20200528062937",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": []
+    },
+    "Hexagonal floral flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Furniture-Hexagonal_floral_flooring.png/revision/latest?cb=20200416040248",
+        "price": {
+            "buy": 860,
+            "sell": 215
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Highway flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Furniture-Highway_flooring.png/revision/latest?cb=20200416040255",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Honeycomb flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Furniture-Honeycomb_flooring.png/revision/latest?cb=20200329070314",
+        "price": {
+            "buy": -1,
+            "sell": 3000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Ice flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Furniture-Ice_flooring.png/revision/latest?cb=20200409050247",
+        "price": {
+            "buy": -1,
+            "sell": 8200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Iceberg flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Furniture-Iceberg_flooring.png/revision/latest?cb=20200409050256",
+        "price": {
+            "buy": -1,
+            "sell": 4000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Imperial tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Imperial_tile.png/revision/latest?cb=20200416040303",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Jointed-mat flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Furniture-Jointed-mat_flooring.png/revision/latest?cb=20200416040309",
+        "price": {
+            "buy": 1050,
+            "sell": 262
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Jungle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Jungle_flooring.png/revision/latest?cb=20200409050310",
+        "price": {
+            "buy": -1,
+            "sell": 2200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Kitschy tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Furniture-Kitschy_tile.png/revision/latest?cb=20200416040335",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Lava flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Lava_flooring.png/revision/latest?cb=20200416040344",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Leopard-print flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Leopard-print_flooring.png/revision/latest?cb=20200416040351",
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Light herringbone flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Furniture-Light_herringbone_flooring.png/revision/latest?cb=20200416040357",
+        "price": {
+            "buy": 1200,
+            "sell": 300
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Light parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Furniture-Light_parquet_flooring.png/revision/latest?cb=20200416040402",
+        "price": {
+            "buy": 1560,
+            "sell": 390
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Light wood-pattern flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Furniture-Light_wood-pattern_flooring.png/revision/latest?cb=20200416040409",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Lobby flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Furniture-Lobby_flooring.png/revision/latest?cb=20200416040414",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Lunar surface": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Lunar_surface.png/revision/latest?cb=20200409050314",
+        "price": {
+            "buy": -1,
+            "sell": 7500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Marine pop flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/NH-Furniture-Marine_pop_flooring.png/revision/latest?cb=20200416040421",
+        "price": {
+            "buy": 2020,
+            "sell": 505
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Mint dot flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Furniture-Mint_dot_flooring.png/revision/latest?cb=20200416040429",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Modern wood flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Furniture-Modern_wood_flooring.png/revision/latest?cb=20200416040435",
+        "price": {
+            "buy": 1280,
+            "sell": 320
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Money flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-Money_flooring.png/revision/latest?cb=20200409050324",
+        "price": {
+            "buy": -1,
+            "sell": 25000
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Monochromatic dot flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Monochromatic_dot_flooring.png/revision/latest?cb=20200416040502",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Monochromatic tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Furniture-Monochromatic_tile_flooring.png/revision/latest?cb=20200416040507",
+        "price": {
+            "buy": 1620,
+            "sell": 405
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Mossy-garden flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-Mossy-garden_flooring.png/revision/latest?cb=20200416040515",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Natural-block flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Natural-block_flooring.png/revision/latest?cb=20200416040525",
+        "price": {
+            "buy": 1380,
+            "sell": 345
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Nook Inc. flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Furniture-Nook_Inc._flooring.png/revision/latest?cb=20200416040531",
+        "price": {
+            "buy": 1200,
+            "sell": 6000
+        },
+        "source": [
+            "Nook Stop"
+        ]
+    },
+    "Oasis flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Oasis_flooring.png/revision/latest?cb=20200416040538",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Olive desert-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Olive_desert-tile_flooring.png/revision/latest?cb=20200416040545",
+        "price": {
+            "buy": 2100,
+            "sell": 525
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Orange camo flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Furniture-Orange_camo_flooring.png/revision/latest?cb=20200416040551",
+        "price": {
+            "buy": 1320,
+            "sell": 330
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Orange retro flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Furniture-Orange_retro_flooring.png/revision/latest?cb=20200416040616",
+        "price": {
+            "buy": 1540,
+            "sell": 385
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Paintball flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Furniture-Paintball_flooring.png/revision/latest?cb=20200416040714",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Palace tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Furniture-Palace_tile.png/revision/latest?cb=20200416040745",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Parking flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-Parking_flooring.png/revision/latest?cb=20200416040751",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Party flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Furniture-Party_flooring.png/revision/latest?cb=20200416040757",
+        "price": {
+            "buy": -1,
+            "sell": 370
+        },
+        "source": []
+    },
+    "Pastel puzzle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Pastel_puzzle_flooring.png/revision/latest?cb=20200416040843",
+        "price": {
+            "buy": 1450,
+            "sell": 362
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Patchwork-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Patchwork-tile_flooring.png/revision/latest?cb=20200416040851",
+        "price": {
+            "buy": 2100,
+            "sell": 525
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pine-board flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Furniture-Pine-board_flooring.png/revision/latest?cb=20200416040857",
+        "price": {
+            "buy": 2500,
+            "sell": 625
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pink-paint flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Furniture-Pink-paint_flooring.png/revision/latest?cb=20200416040906",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple camo flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Furniture-Purple_camo_flooring.png/revision/latest?cb=20200416040912",
+        "price": {
+            "buy": 1320,
+            "sell": 330
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple desert-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Purple_desert-tile_flooring.png/revision/latest?cb=20200416040950",
+        "price": {
+            "buy": 2100,
+            "sell": 525
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Purple puzzle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Furniture-Purple_puzzle_flooring.png/revision/latest?cb=20200416040956",
+        "price": {
+            "buy": 1450,
+            "sell": 362
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Pyramid tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Furniture-Pyramid_tile.png/revision/latest?cb=20200416041004",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Racetrack flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Furniture-Racetrack_flooring.png/revision/latest?cb=20200416041054",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Ramshackle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Furniture-Ramshackle_flooring.png/revision/latest?cb=20200416041100",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Random-square-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Furniture-Random-square-tile_flooring.png/revision/latest?cb=20200416041106",
+        "price": {
+            "buy": 1360,
+            "sell": 340
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rattan flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-Rattan_flooring.png/revision/latest?cb=20200416041112",
+        "price": {
+            "buy": 1100,
+            "sell": 275
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red-and-black vinyl flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Furniture-Red-and-black_vinyl_flooring.png/revision/latest?cb=20200416041120",
+        "price": {
+            "buy": 1150,
+            "sell": 287
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red-brick flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Furniture-Red-brick_flooring.png/revision/latest?cb=20200416041126",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Red dot flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Red_dot_flooring.png/revision/latest?cb=20200416041132",
+        "price": {
+            "buy": 800,
+            "sell": 200
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rocky-mountain flooring": {
+        "image_url": null,
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Rose flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Furniture-Rose_flooring.png/revision/latest?cb=20200416041143",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rosewood flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/19/NH-Furniture-Rosewood_flooring.png/revision/latest?cb=20200416041151",
+        "price": {
+            "buy": 2420,
+            "sell": 605
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rubber-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Furniture-Rubber-tile_flooring.png/revision/latest?cb=20200416041159",
+        "price": {
+            "buy": 700,
+            "sell": 175
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rush tatami": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Furniture-Rush_tatami.png/revision/latest?cb=20200416041333",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Rush tatami flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Furniture-Rush_tatami_flooring.png/revision/latest?cb=20200416041252",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Saharah's desert": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Saharah%27s_desert.png/revision/latest?cb=20200416041339",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Sakura-wood flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Furniture-Sakura-wood_flooring.png/revision/latest?cb=20200409051326",
+        "price": {
+            "buy": -1,
+            "sell": 3200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Sandlot": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Furniture-Sandlot.png/revision/latest?cb=20200416042117",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Sandy-beach flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Sandy-beach_flooring.png/revision/latest?cb=20200329072800",
+        "price": {
+            "buy": -1,
+            "sell": 4120
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Sci-fi flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Sci-fi_flooring.png/revision/latest?cb=20200409050432",
+        "price": {
+            "buy": -1,
+            "sell": 7500
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Scramble crosswalk": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Scramble_crosswalk.png/revision/latest?cb=20200528063409",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Sepia puzzle flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Furniture-Sepia_puzzle_flooring.png/revision/latest?cb=20200416042132",
+        "price": {
+            "buy": 1450,
+            "sell": 362
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Ship deck": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Furniture-Ship_deck.png/revision/latest?cb=20200416041427",
+        "price": {
+            "buy": 4000,
+            "sell": 1000
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Sidewalk flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Furniture-Sidewalk_flooring.png/revision/latest?cb=20200416041430",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Simple blue flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Simple_blue_flooring.png/revision/latest?cb=20200416041437",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Simple purple flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/NH-Furniture-Simple_purple_flooring.png/revision/latest?cb=20200416041441",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Simple red flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Furniture-Simple_red_flooring.png/revision/latest?cb=20200416041448",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Simple white flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Furniture-Simple_white_flooring.png/revision/latest?cb=20200416041455",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Ski-slope flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Ski-slope_flooring.png/revision/latest?cb=20200409050443",
+        "price": {
+            "buy": -1,
+            "sell": 3200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Skull-print flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Furniture-Skull-print_flooring.png/revision/latest?cb=20200416041515",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Slate flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Slate_flooring.png/revision/latest?cb=20200416041506",
+        "price": {
+            "buy": 1380,
+            "sell": 345
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Starry-sands flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Furniture-Starry-sands_flooring.png/revision/latest?cb=20200409050510",
+        "price": {
+            "buy": -1,
+            "sell": 7720
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Steel flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-Steel_flooring.png/revision/latest?cb=20200409050726",
+        "price": {
+            "buy": -1,
+            "sell": 5250
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Stone tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Furniture-Stone_tile.png/revision/latest?cb=20200416042208",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Stripe flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Stripe_flooring.png/revision/latest?cb=20200416042217",
+        "price": {
+            "buy": 1200,
+            "sell": 300
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Sumo ring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Furniture-Sumo_ring.png/revision/latest?cb=20200416042226",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Swamp flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Furniture-Swamp_flooring.png/revision/latest?cb=20200416042231",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Tatami": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Furniture-Tatami.png/revision/latest?cb=20200416042247",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Tatami flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Furniture-Tatami_flooring.png/revision/latest?cb=20200416042252",
+        "price": {
+            "buy": 2200,
+            "sell": 550
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Terra-cotta flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Furniture-Terra-cotta_flooring.png/revision/latest?cb=20200416042257",
+        "price": {
+            "buy": 1800,
+            "sell": 450
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Tiger-print flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Tiger-print_flooring.png/revision/latest?cb=20200416042303",
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Train-station flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Furniture-Train-station_flooring.png/revision/latest?cb=20200416042310",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Underwater flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Furniture-Underwater_flooring.png/revision/latest?cb=20200409050549",
+        "price": {
+            "buy": -1,
+            "sell": 6600
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Water flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Furniture-Water_flooring.png/revision/latest?cb=20200409050555",
+        "price": {
+            "buy": -1,
+            "sell": 7200
+        },
+        "source": [
+            "DIY Recipes"
+        ]
+    },
+    "Western desert": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Furniture-Western_desert.png/revision/latest?cb=20200416042335",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "White-brick flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Furniture-White-brick_flooring.png/revision/latest?cb=20200416042341",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White-chocolates flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Furniture-White-chocolates_flooring.png/revision/latest?cb=20200416042348",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "White honeycomb tile": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Furniture-White_honeycomb_tile.png/revision/latest?cb=20200416042402",
+        "price": {
+            "buy": 1420,
+            "sell": 355
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White iron-parquet flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/NH-Furniture-White_iron-parquet_flooring.png/revision/latest?cb=20200416042410",
+        "price": {
+            "buy": 2350,
+            "sell": 587
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White mosaic-tile flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Furniture-White_mosaic-tile_flooring.png/revision/latest?cb=20200416042419",
+        "price": {
+            "buy": 900,
+            "sell": 225
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White-paint flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Furniture-White-paint_flooring.png/revision/latest?cb=20200416042353",
+        "price": {
+            "buy": 1040,
+            "sell": 260
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "White wedding flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Furniture-White_wedding_flooring.png/revision/latest?cb=20200528063005",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": []
+    },
+    "Wildflower meadow": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Furniture-Wildflower_meadow.png/revision/latest?cb=20200416042420",
+        "price": {
+            "buy": 3000,
+            "sell": 750
+        },
+        "source": [
+            "Saharah"
+        ]
+    },
+    "Wooden-knot flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Furniture-Wooden-knot_flooring.png/revision/latest?cb=20200416042426",
+        "price": {
+            "buy": 780,
+            "sell": 195
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Yellow floral flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/72/NH-Furniture-Yellow_floral_flooring.png/revision/latest?cb=20200416042432",
+        "price": {
+            "buy": 1520,
+            "sell": 380
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    },
+    "Zebra-print flooring": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Furniture-Zebra-print_flooring.png/revision/latest?cb=20200416042438",
+        "price": {
+            "buy": 1300,
+            "sell": 325
+        },
+        "source": [
+            "Nook's Cranny"
+        ]
+    }
+}

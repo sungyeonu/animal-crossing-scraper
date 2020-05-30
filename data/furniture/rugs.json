@@ -1,0 +1,1448 @@
+{
+    "Aluminum rug": {
+        "image_url": null,
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Apple rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Furniture-Apple_rug.png/revision/latest?cb=20200329070930",
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Bell-bag rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Furniture-Bell-bag_rug.png/revision/latest?cb=20200528061905",
+        "price": {
+            "buy": 1200,
+            "sell": 6000
+        },
+        "source": [
+            "Nook Stop"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Black blocks rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Furniture-Black_blocks_rug.png/revision/latest?cb=20200416084538",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Black-design kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Furniture-Black-design_kitchen_mat.png/revision/latest?cb=20200416084546",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Black wooden-deck rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Black_wooden-deck_rug.png/revision/latest?cb=20200416084552",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Blue argyle rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Furniture-Blue_argyle_rug.png/revision/latest?cb=20200416084600",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Blue blocks rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Blue_blocks_rug.png/revision/latest?cb=20200416084609",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Blue-design kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/NH-Furniture-Blue-design_kitchen_mat.png/revision/latest?cb=20200416084619",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Blue dotted rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Furniture-Blue_dotted_rug.png/revision/latest?cb=20200416084626",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Blue kilim-style carpet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Blue_kilim-style_carpet.png/revision/latest?cb=20200416084634",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Blue kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Furniture-Blue_kitchen_mat.png/revision/latest?cb=20200416084709",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Blue medium round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Furniture-Blue_medium_round_mat.png/revision/latest?cb=20200416084713",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Blue message mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Furniture-Blue_message_mat.png/revision/latest?cb=20200416084720",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Blue Persian rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Furniture-Blue_Persian_rug.png/revision/latest?cb=20200528062242",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Blue shaggy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Furniture-Blue_shaggy_rug.png/revision/latest?cb=20200416084723",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Blue small round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Furniture-Blue_small_round_mat.png/revision/latest?cb=20200416084730",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Blue stripes rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-Blue_stripes_rug.png/revision/latest?cb=20200416084735",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Blue vinyl sheet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Furniture-Blue_vinyl_sheet.png/revision/latest?cb=20200416084743",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Blue wavy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-Blue_wavy_rug.png/revision/latest?cb=20200416084746",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Blue wedding rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-Blue_wedding_rug.png/revision/latest?cb=20200528062151",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Botanical rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Furniture-Botanical_rug.png/revision/latest?cb=20200416084754",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Brown argyle rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Brown_argyle_rug.png/revision/latest?cb=20200416084801",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Brown kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Furniture-Brown_kitchen_mat.png/revision/latest?cb=20200416084811",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Brown shaggy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/NH-Furniture-Brown_shaggy_rug.png/revision/latest?cb=20200416084819",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Brown wooden-deck rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Brown_wooden-deck_rug.png/revision/latest?cb=20200416084826",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Bunny Day rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Bunny_Day_rug.png/revision/latest?cb=20200402000308",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Cherry rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Furniture-Cherry_rug.png/revision/latest?cb=20200329071017",
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Colorful vinyl sheet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Furniture-Colorful_vinyl_sheet.png/revision/latest?cb=20200416084930",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Dark bamboo rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Furniture-Dark_bamboo_rug.png/revision/latest?cb=20200329071218",
+        "price": {
+            "buy": -1,
+            "sell": 960
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Earth rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Furniture-Earth_rug.png/revision/latest?cb=20200416084939",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Fish rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Furniture-Fish_rug.png/revision/latest?cb=20200416084956",
+        "price": {
+            "buy": -1,
+            "sell": 375
+        },
+        "source": [
+            "Fishing Tourney"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Fluffy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Furniture-Fluffy_rug.png/revision/latest?cb=20200416085003",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Fossil rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/NH-Furniture-Fossil_rug.png/revision/latest?cb=20200326212432",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Green checked rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Furniture-Green_checked_rug.png/revision/latest?cb=20200329110712",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH4.0x4.0sqBig.jpg/revision/latest?cb=20200508221634"
+    },
+    "Green kilim-style carpet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Furniture-Green_kilim-style_carpet.png/revision/latest?cb=20200416085028",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Green kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Furniture-Green_kitchen_mat.png/revision/latest?cb=20200416085034",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Green shaggy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Furniture-Green_shaggy_rug.png/revision/latest?cb=20200416085038",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Green stripes rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Furniture-Green_stripes_rug.png/revision/latest?cb=20200416085045",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Iron entrance mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Furniture-Iron_entrance_mat.png/revision/latest?cb=20200416085052",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Ivory medium round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Furniture-Ivory_medium_round_mat.png/revision/latest?cb=20200416085058",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Ivory simple bath mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Furniture-Ivory_simple_bath_mat.png/revision/latest?cb=20200416085107",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Ivory small round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Furniture-Ivory_small_round_mat.png/revision/latest?cb=20200416085111",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Lacy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Furniture-Lacy_rug.png/revision/latest?cb=20200416085117",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Ladybug rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Ladybug_rug.png/revision/latest?cb=20200416085126",
+        "price": {
+            "buy": -1,
+            "sell": 375
+        },
+        "source": [
+            "Bug Off"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Light bamboo rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Furniture-Light_bamboo_rug.png/revision/latest?cb=20200328032942",
+        "price": {
+            "buy": -1,
+            "sell": 2400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Magic-circle rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Furniture-Magic-circle_rug.png/revision/latest?cb=20200416085150",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Modern wavy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Furniture-Modern_wavy_rug.png/revision/latest?cb=20200416085155",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Mom's cool kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-Mom%27s_cool_kitchen_mat.png/revision/latest?cb=20200416085159",
+        "price": {
+            "buy": -1,
+            "sell": 88
+        },
+        "source": [
+            "Mom"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Mom's lively kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Furniture-Mom%27s_lively_kitchen_mat.png/revision/latest?cb=20200416085207",
+        "price": {
+            "buy": -1,
+            "sell": 88
+        },
+        "source": [
+            "Mom"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Mom's playful kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Furniture-Mom%27s_playful_kitchen_mat.png/revision/latest?cb=20200416085212",
+        "price": {
+            "buy": -1,
+            "sell": 88
+        },
+        "source": [
+            "Mom"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Mom's reliable kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Furniture-Mom%27s_reliable_kitchen_mat.png/revision/latest?cb=20200416085219",
+        "price": {
+            "buy": -1,
+            "sell": 88
+        },
+        "source": [
+            "Mom"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Monochromatic dotted rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/NH-Furniture-Monochromatic_dotted_rug.png/revision/latest?cb=20200416085244",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Monochromatic wavy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Furniture-Monochromatic_wavy_rug.png/revision/latest?cb=20200416085252",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Mush rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Furniture-Mush_rug.png/revision/latest?cb=20200416085258",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Natural wooden-deck rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Furniture-Natural_wooden-deck_rug.png/revision/latest?cb=20200416085303",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Nook Inc. botanical rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Furniture-Nook_Inc._botanical_rug.png/revision/latest?cb=20200410133611",
+        "price": {
+            "buy": 1000,
+            "sell": 5000
+        },
+        "source": [
+            "Nook Stop"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Nook Inc. rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Nook_Inc._rug.png/revision/latest?cb=20200326212524",
+        "price": {
+            "buy": 1000,
+            "sell": 5000
+        },
+        "source": [
+            "Nook Stop"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Nook Inc. silk rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Furniture-Nook_Inc._silk_rug.png/revision/latest?cb=20200416090438",
+        "price": {
+            "buy": 600,
+            "sell": 3000
+        },
+        "source": [
+            "Nook Stop"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Orange rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Orange_rug.png/revision/latest?cb=20200329071057",
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Oval entrance mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-Oval_entrance_mat.png/revision/latest?cb=20200416085316",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Peach checked rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Furniture-Peach_checked_rug.png/revision/latest?cb=20200416085328",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH4.0x4.0sqBig.jpg/revision/latest?cb=20200508221634"
+    },
+    "Peach rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Furniture-Peach_rug.png/revision/latest?cb=20200329062724",
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Peach stripes rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Furniture-Peach_stripes_rug.png/revision/latest?cb=20200416085333",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Pear rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Pear_rug.png/revision/latest?cb=20200329071134",
+        "price": {
+            "buy": -1,
+            "sell": 1200
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Pink heart rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Furniture-Pink_heart_rug.png/revision/latest?cb=20200416085401",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Pink rose rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Furniture-Pink_rose_rug.png/revision/latest?cb=20200416085407",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Purple heart rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/NH-Furniture-Purple_heart_rug.png/revision/latest?cb=20200416085416",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Purple Persian rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Furniture-Purple_Persian_rug.png/revision/latest?cb=20200416085423",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Purple shaggy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Furniture-Purple_shaggy_rug.png/revision/latest?cb=20200416085428",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Red-and-blue checked rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Red-and-blue_checked_rug.png/revision/latest?cb=20200416085609",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH4.0x4.0sqBig.jpg/revision/latest?cb=20200508221634"
+    },
+    "Red argyle rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Red_argyle_rug.png/revision/latest?cb=20200416085435",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Red blocks rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Furniture-Red_blocks_rug.png/revision/latest?cb=20200416085440",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Red carpet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Red_carpet.png/revision/latest?cb=20200416085446",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Red-design kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Furniture-Red-design_kitchen_mat.png/revision/latest?cb=20200416085616",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Red dotted rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Furniture-Red_dotted_rug.png/revision/latest?cb=20200416085453",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Red kilim-style carpet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-Red_kilim-style_carpet.png/revision/latest?cb=20200416085500",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Red medium round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-Red_medium_round_mat.png/revision/latest?cb=20200416085505",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Red message mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Furniture-Red_message_mat.png/revision/latest?cb=20200416085510",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Red Persian rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Furniture-Red_Persian_rug.png/revision/latest?cb=20200416085539",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Red rose rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Furniture-Red_rose_rug.png/revision/latest?cb=20200416085549",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Red small round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-Red_small_round_mat.png/revision/latest?cb=20200416085552",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Red vinyl sheet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Furniture-Red_vinyl_sheet.png/revision/latest?cb=20200416085558",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Red wavy rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Furniture-Red_wavy_rug.png/revision/latest?cb=20200416085604",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Red wedding rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Furniture-Red_wedding_rug.png/revision/latest?cb=20200528062310",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Retro dotted rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Retro_dotted_rug.png/revision/latest?cb=20200416085624",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Rough rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Rough_rug.png/revision/latest?cb=20200416085634",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Rubber mud mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Rubber_mud_mat.png/revision/latest?cb=20200416085640",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Shanty mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Shanty_mat.png/revision/latest?cb=20200416085648",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH4.0x4.0sqBig.jpg/revision/latest?cb=20200508221634"
+    },
+    "Shell rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Shell_rug.png/revision/latest?cb=20200326055931",
+        "price": {
+            "buy": -1,
+            "sell": 5400
+        },
+        "source": [
+            "DIY Recipes"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple green bath mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Simple_green_bath_mat.png/revision/latest?cb=20200416085752",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Simple medium avocado mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Furniture-Simple_medium_avocado_mat.png/revision/latest?cb=20200416085801",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple medium black mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Furniture-Simple_medium_black_mat.png/revision/latest?cb=20200416085808",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple medium blue mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Furniture-Simple_medium_blue_mat.png/revision/latest?cb=20200416085815",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple medium brown mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Furniture-Simple_medium_brown_mat.png/revision/latest?cb=20200416085820",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple medium orange mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Simple_medium_orange_mat.png/revision/latest?cb=20200416085826",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple medium purple mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Furniture-Simple_medium_purple_mat.png/revision/latest?cb=20200416085832",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple medium red mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Furniture-Simple_medium_red_mat.png/revision/latest?cb=20200416085840",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Simple navy bath mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-Simple_navy_bath_mat.png/revision/latest?cb=20200416085843",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Simple pink bath mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Furniture-Simple_pink_bath_mat.png/revision/latest?cb=20200416085850",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Simple small avocado mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Furniture-Simple_small_avocado_mat.png/revision/latest?cb=20200416085856",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Simple small black mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Furniture-Simple_small_black_mat.png/revision/latest?cb=20200416085903",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Simple small blue mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Furniture-Simple_small_blue_mat.png/revision/latest?cb=20200416085934",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Simple small brown mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Furniture-Simple_small_brown_mat.png/revision/latest?cb=20200416085941",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Simple small orange mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Simple_small_orange_mat.png/revision/latest?cb=20200416085947",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Simple small purple mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Furniture-Simple_small_purple_mat.png/revision/latest?cb=20200416085954",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Simple small red mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Furniture-Simple_small_red_mat.png/revision/latest?cb=20200416090000",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Sloppy rug": {
+        "image_url": null,
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH4.0x4.0sqBig.jpg/revision/latest?cb=20200508221634"
+    },
+    "Snowflake rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Snowflake_rug.png/revision/latest?cb=20200416090017",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Tatami mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Furniture-Tatami_mat.png/revision/latest?cb=20200416090022",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Tropical rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/60/NH-Furniture-Tropical_rug.png/revision/latest?cb=20200416090028",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Turquoise heart rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-Turquoise_heart_rug.png/revision/latest?cb=20200416090035",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "White heart rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Furniture-White_heart_rug.png/revision/latest?cb=20200416090042",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "White message mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Furniture-White_message_mat.png/revision/latest?cb=20200416090108",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "White rose rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Furniture-White_rose_rug.png/revision/latest?cb=20200416090114",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "White simple medium mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0e/NH-Furniture-White_simple_medium_mat.png/revision/latest?cb=20200416090119",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "White simple small mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Furniture-White_simple_small_mat.png/revision/latest?cb=20200416090125",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "White wedding rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/NH-Furniture-White_wedding_rug.png/revision/latest?cb=20200528062451",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "White wooden-deck rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Furniture-White_wooden-deck_rug.png/revision/latest?cb=20200416090131",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    },
+    "Yellow argyle rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Furniture-Yellow_argyle_rug.png/revision/latest?cb=20200416090137",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Yellow blocks rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Yellow_blocks_rug.png/revision/latest?cb=20200416090143",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Yellow checked rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Furniture-Yellow_checked_rug.png/revision/latest?cb=20200416090148",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH4.0x4.0sqBig.jpg/revision/latest?cb=20200508221634"
+    },
+    "Yellow-design kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Furniture-Yellow-design_kitchen_mat.png/revision/latest?cb=20200416090155",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Yellow kilim-style carpet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/NH-Furniture-Yellow_kilim-style_carpet.png/revision/latest?cb=20200329110858",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Yellow kitchen mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Furniture-Yellow_kitchen_mat.png/revision/latest?cb=20200416090216",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Yellow medium round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Furniture-Yellow_medium_round_mat.png/revision/latest?cb=20200416090221",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Yellow message mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Furniture-Yellow_message_mat.png/revision/latest?cb=20200416090226",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH2.0x1.0sqBig.jpg/revision/latest?cb=20200508221306"
+    },
+    "Yellow Persian rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Furniture-Yellow_Persian_rug.png/revision/latest?cb=20200416090233",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH5.0x5.0sqBig.jpg/revision/latest?cb=20200508203747"
+    },
+    "Yellow rose rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c8/NH-Furniture-Yellow_rose_rug.png/revision/latest?cb=20200416090239",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH3.0x3.0sqBig.jpg/revision/latest?cb=20200508221339"
+    },
+    "Yellow small round mat": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-Yellow_small_round_mat.png/revision/latest?cb=20200416090244",
+        "price": {
+            "buy": 1000,
+            "sell": 250
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/NH2.0x2.0sqBig.jpg/revision/latest?cb=20200508221525"
+    },
+    "Yellow stripes rug": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Yellow_stripes_rug.png/revision/latest?cb=20200416090252",
+        "price": {
+            "buy": 2000,
+            "sell": 500
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH4.0x3.0sqBig.jpg/revision/latest?cb=20200508221613"
+    },
+    "Yellow vinyl sheet": {
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Furniture-Yellow_vinyl_sheet.png/revision/latest?cb=20200416090259",
+        "price": {
+            "buy": 1500,
+            "sell": 375
+        },
+        "source": [
+            "Saharah"
+        ],
+        "size_image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH3.0x2.0sqBig.jpg/revision/latest?cb=20200508221549"
+    }
+}
