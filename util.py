@@ -80,6 +80,7 @@ def parse_gender(tag):
         return "female"
     return None    
 
+
 def parse_image_URLs(tag):
     result = []
     for image in tag("img"):

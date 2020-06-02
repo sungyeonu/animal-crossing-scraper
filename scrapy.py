@@ -416,7 +416,55 @@ def scrape_furniture_housewares(key):
                     "customization": parse_customization(tr("td")[6]),
                     "size_image_url": parse_image_img_url(tr("td")[7]),
                 }
+                items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
 
+
+def scrape_furniture_wallpapers(key):
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(response.content, "html5lib") # html.parser does not scrape all html contents
+    tables = soup("table", {"class": "roundy"})
+    items = {}
+    for tr in tables[3]("tr")[2:]:
+        name = tr("td")[1].text.strip()
+        item = {
+            "image_url": parse_image_url(tr("td")[0]),
+            "price": {
+                "buy": parse_price(tr("td")[2].text),
+                "sell": parse_price(tr("td")[3].text)
+            },
+            "source": parse_source(tr("td")[4]),
+        }
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
+
+
+
+def scrape_furniture_rugs(key):
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    # html.parser does not scrape all html contents
+    soup = BeautifulSoup(response.content, "html5lib")
+    tables = soup("table", {"class": "roundy"})
+    items = {}
+    for tr in tables[3]("tr")[2:]:
+        name = tr("td")[1].text.strip()
+        item = {
+            "image_url": parse_image_url(tr("td")[0]),
+            "price": {
+                "buy": parse_price(tr("td")[2].text),
+                "sell": parse_price(tr("td")[3].text)
+            },
+            "source": parse_source(tr("td")[4]),
+            "size_image_url": parse_image_img_url(tr("td")[5]),
+
+        }
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
 
                 items[name] = item
     dump_data(items, "furniture/" + key)
@@ -606,6 +654,7 @@ if __name__ == "__main__":
     # scrape_furniture_wallpapers("wallpapers")
     # scrape_furniture_wallpapers("floorings")
     # scrape_furniture_rugs("rugs")
+
 
     # -- Flower -- 
     # scrape_flowers("flowers")
