@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import html5lib
 import requests
 import io
-from util import parse_image_img_url, parse_image_url, parse_customization, parse_obtained_from, parse_furniture_variations, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
+from util import parse_personality, parse_gender, parse_image_img_url, parse_image_url, parse_customization, parse_obtained_from, parse_furniture_variations, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
 
 
 
@@ -55,35 +55,51 @@ URLS = {
 
 
 def scrape_villagers(key):
-    # get list of villager urls
     url = URLS.get(key)
-    response = (requests.get(url, timeout=5))
+    response = requests.get(url, timeout=5)
     soup = BeautifulSoup(response.content, "html.parser")
     tables = soup("table", {"class": "sortable"})
-    villagers_urls = []
+    items = {}
+    # these headers must be scraped from their individual wiki page
+    headers = ["initial_clothes", "caption", "home_request", "skill", "goal", "coffee", "style", "favorite_song", "appearances"]
     for tr in tables[0]("tr")[1:]:
-        villagers_urls.append("https://animalcrossing.fandom.com" + tr("td")[0].a.get("href"))
-    # scrape each villager page
-    villagers_info = {}
-    for vu in villagers_urls:
-        response = requests.get(vu, timeout=5)
-        soup = BeautifulSoup(response.content, "html.parser")
-        asides = soup("aside")
-        name = asides[0]("h2")[0].text
-        item = {}
-        item["image_url"] = asides[0]("img")[0].get("src").replace("/scale-to-width-down/350", "")
-        if len(asides[0]("figcaption")) > 0:
-            item["caption"] = asides[0]("figcaption")[0].text
-        else:
-            item["caption"] = None
-        for div in asides[0]("div", {"class": "pi-item"}):
-            if div.find("div").text == "Unknown":
-                item[div("h3")[0].text.lower().replace(" ", "_")] = None
-            else:
-                item[div("h3")[0].text.lower().replace(" ", "_")] = div.find("div").text
-        villagers_info[name] = item
-    dump_data(villagers_info, "characters/villagers")
-
+        name = tr("td")[0].text.strip()
+        item = {
+            "wiki_url": "https://animalcrossing.fandom.com" + tr("td")[0].a.get("href"),
+            "image_url": tr("td")[1]("a")[0]("img")[-1]["src"].replace("scale-to-width-down/100", ""), # fix data:images
+            "gender": parse_gender(tr("td")[2]),
+            "personality": parse_personality(tr("td")[2]),
+            "species": tr("td")[3].text.strip(),
+            "birthday": tr("td")[4].text.strip(),
+            "initial_phrase": tr("td")[5].text.strip().replace("\"", ""),
+            "hobbies": tr("td")[6].text.strip(),
+        }
+        # scrape additional information from the character's page
+        for header in headers: 
+            item[header] = None
+        villager_response = requests.get(item["wiki_url"], timeout=5)
+        villager_soup = BeautifulSoup(villager_response.content, "html.parser")
+        aside = villager_soup("aside")[0]
+        if len(aside("figcaption")) > 0:
+            item["caption"] = aside("figcaption")[0].text.replace("“", "").replace("”", "")
+        for div in aside("div", {"class": "pi-item"}):
+            if not div.find("div").text == "Unknown":
+                if div("h3")[0].text.lower().replace(" ", "_") in headers:
+                    item[div("h3")[0].text.lower().replace(" ", "_")] = div.find("div").text
+        # format unformatted text 
+        if not item["coffee"] is None: 
+            coffee = item["coffee"].split(",")
+            item["coffee"]  = {
+                "type": coffee[0],
+                "milk": coffee[1],
+                "sugar": coffee[2]
+            }
+        if not item["appearances"] is None:
+            item["appearances"] = item["appearances"].split(", ")
+        if not item["favorite_song"] is None:
+            item["favorite_song"] = item["favorite_song"].replace("[[", "").replace("]]", "")
+        items[name] = item
+    dump_data(items, "characters/villagers")
 
 def scrape_bugs(key):  # take url and return object containing bugs data
     url = URLS.get(key)
@@ -400,7 +416,55 @@ def scrape_furniture_housewares(key):
                     "customization": parse_customization(tr("td")[6]),
                     "size_image_url": parse_image_img_url(tr("td")[7]),
                 }
+                items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
 
+
+def scrape_furniture_wallpapers(key):
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(response.content, "html5lib") # html.parser does not scrape all html contents
+    tables = soup("table", {"class": "roundy"})
+    items = {}
+    for tr in tables[3]("tr")[2:]:
+        name = tr("td")[1].text.strip()
+        item = {
+            "image_url": parse_image_url(tr("td")[0]),
+            "price": {
+                "buy": parse_price(tr("td")[2].text),
+                "sell": parse_price(tr("td")[3].text)
+            },
+            "source": parse_source(tr("td")[4]),
+        }
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
+
+
+
+def scrape_furniture_rugs(key):
+    url = URLS["furniture"][key]
+    response = requests.get(url, timeout=5)
+    # html.parser does not scrape all html contents
+    soup = BeautifulSoup(response.content, "html5lib")
+    tables = soup("table", {"class": "roundy"})
+    items = {}
+    for tr in tables[3]("tr")[2:]:
+        name = tr("td")[1].text.strip()
+        item = {
+            "image_url": parse_image_url(tr("td")[0]),
+            "price": {
+                "buy": parse_price(tr("td")[2].text),
+                "sell": parse_price(tr("td")[3].text)
+            },
+            "source": parse_source(tr("td")[4]),
+            "size_image_url": parse_image_img_url(tr("td")[5]),
+
+        }
+        items[name] = item
+    dump_data(items, "furniture/" + key)
+    return items
 
                 items[name] = item
     dump_data(items, "furniture/" + key)
@@ -555,7 +619,7 @@ def scrape_flowers(key):
 
 if __name__ == "__main__":
     # -- Characters --
-    # scrape_villagers("villagers")
+    scrape_villagers("villagers")
 
     # -- Museum --
     # scrape_bugs("bugs")
@@ -564,7 +628,7 @@ if __name__ == "__main__":
     # scrape_artworks("artworks")
 
     # -- Crafting --
-    scrape_tools("tools")
+    # scrape_tools("tools")
     # scrape_tools("housewares")
     # scrape_tools("equipments")
     # scrape_tools("miscellaneous")
@@ -584,12 +648,13 @@ if __name__ == "__main__":
     # scrape_umbrellas("umbrellas")
 
     # -- Furniture --
-    scrape_furniture_housewares("housewares")
-    scrape_furniture_housewares("miscellaneous")
-    scrape_furniture_housewares("wall_mounted")
-    scrape_furniture_wallpapers("wallpapers")
-    scrape_furniture_wallpapers("floorings")
-    scrape_furniture_rugs("rugs")
+    # scrape_furniture_housewares("housewares")
+    # scrape_furniture_housewares("miscellaneous")
+    # scrape_furniture_housewares("wall_mounted")
+    # scrape_furniture_wallpapers("wallpapers")
+    # scrape_furniture_wallpapers("floorings")
+    # scrape_furniture_rugs("rugs")
+
 
     # -- Flower -- 
     # scrape_flowers("flowers")

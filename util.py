@@ -66,8 +66,20 @@ def parse_source(tag):
             return ["Saharah"]
         if tag.img['alt'] == "NH-Icon-Present":
             return ["Mom"]
-
     return []
+
+
+def parse_personality(tag): 
+    return tag.text.strip()[2:]
+
+
+def parse_gender(tag):
+    if tag.text.strip()[0] == "♂":
+        return "male"
+    elif tag.text.strip()[0] == "♀":
+        return "female"
+    return None    
+
 
 def parse_image_URLs(tag):
     result = []
