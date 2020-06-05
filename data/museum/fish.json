@@ -4,7 +4,9 @@
         "price": 900,
         "location": "River",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -27,7 +29,9 @@
         "price": 200,
         "location": "River",
         "shadow_size": "1",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -64,7 +68,9 @@
         "price": 160,
         "location": "River",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -101,7 +107,9 @@
         "price": 240,
         "location": "River",
         "shadow_size": "3",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -138,7 +146,9 @@
         "price": 300,
         "location": "Pond",
         "shadow_size": "4",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -175,7 +185,9 @@
         "price": 4000,
         "location": "Pond",
         "shadow_size": "4",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -212,7 +224,9 @@
         "price": 1300,
         "location": "Pond",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -249,7 +263,9 @@
         "price": 1300,
         "location": "Pond",
         "shadow_size": "1",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -286,7 +302,9 @@
         "price": 4500,
         "location": "Pond",
         "shadow_size": "2",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -323,7 +341,9 @@
         "price": 300,
         "location": "Pond",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -346,7 +366,9 @@
         "price": 200,
         "location": "Pond",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -371,7 +393,9 @@
         "price": 3750,
         "location": "River",
         "shadow_size": "4",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 8,
@@ -388,7 +412,9 @@
         "price": 5000,
         "location": "River",
         "shadow_size": "5",
-        "time": "9 PM - 4 AM",
+        "time": [
+            "9 PM - 4 AM"
+        ],
         "months": {
             "northern": [
                 4,
@@ -415,7 +441,9 @@
         "price": 100,
         "location": "Pond",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 3,
@@ -438,7 +466,9 @@
         "price": 120,
         "location": "Pond",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 5,
@@ -459,7 +489,9 @@
         "price": 400,
         "location": "River",
         "shadow_size": "2",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -496,7 +528,9 @@
         "price": 400,
         "location": "River",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 3,
@@ -515,7 +549,9 @@
         "price": 800,
         "location": "Pond",
         "shadow_size": "4",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 5,
@@ -540,7 +576,9 @@
         "price": 5500,
         "location": "Pond",
         "shadow_size": "5",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -559,7 +597,9 @@
         "price": 180,
         "location": "River",
         "shadow_size": "2",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -596,7 +636,9 @@
         "price": 300,
         "location": "River",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -621,7 +663,9 @@
         "price": 400,
         "location": "River",
         "shadow_size": "4",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -658,7 +702,9 @@
         "price": 800,
         "location": "River",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 6,
@@ -681,7 +727,9 @@
         "price": 1800,
         "location": "River",
         "shadow_size": "5",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 9,
@@ -702,7 +750,9 @@
         "price": 500,
         "location": "River",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -721,7 +771,9 @@
         "price": 900,
         "location": "River",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 7,
@@ -740,7 +792,9 @@
         "price": 1000,
         "location": "River (Clifftop)",
         "shadow_size": "3",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 3,
@@ -767,7 +821,9 @@
         "price": 3800,
         "location": "River (Clifftop)  Pond",
         "shadow_size": "3",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 3,
@@ -794,7 +850,9 @@
         "price": 15000,
         "location": "River (Clifftop)",
         "shadow_size": "3",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 3,
@@ -819,7 +877,9 @@
         "price": 15000,
         "location": "River (Clifftop)",
         "shadow_size": "5",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -840,7 +900,9 @@
         "price": 700,
         "location": "River (Mouth)",
         "shadow_size": "4",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 9
@@ -855,7 +917,9 @@
         "price": 1800,
         "location": "River (Mouth)",
         "shadow_size": "6",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 9
@@ -870,7 +934,9 @@
         "price": 2000,
         "location": "River",
         "shadow_size": "2",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 9,
@@ -889,7 +955,9 @@
         "price": 1300,
         "location": "River",
         "shadow_size": "1",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 4,
@@ -918,7 +986,9 @@
         "price": 1500,
         "location": "River",
         "shadow_size": "1",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 5,
@@ -941,7 +1011,9 @@
         "price": 3000,
         "location": "River",
         "shadow_size": "2",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 5,
@@ -966,7 +1038,9 @@
         "price": 2500,
         "location": "River",
         "shadow_size": "2",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 5,
@@ -991,7 +1065,9 @@
         "price": 500,
         "location": "River",
         "shadow_size": "1",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 4,
@@ -1020,7 +1096,9 @@
         "price": 800,
         "location": "River",
         "shadow_size": "1",
-        "time": "9 AM - 4 PM",
+        "time": [
+            "9 AM - 4 PM"
+        ],
         "months": {
             "northern": [
                 5,
@@ -1045,7 +1123,10 @@
         "price": 2500,
         "location": "River",
         "shadow_size": "2",
-        "time": "9 AM - 4 PM & 9 PM - 4 AM",
+        "time": [
+            "9 AM - 4 PM",
+            "9 PM - 4 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1066,7 +1147,9 @@
         "price": 10000,
         "location": "River",
         "shadow_size": "4",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1087,7 +1170,9 @@
         "price": 15000,
         "location": "River",
         "shadow_size": "5",
-        "time": "4 AM - 9 PM",
+        "time": [
+            "4 AM - 9 PM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1107,8 +1192,10 @@
         "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Icon-gar.png/revision/latest?cb=20200401003129",
         "price": 6000,
         "location": "Pond",
-        "shadow_size": "6",
-        "time": "4 PM - 9 AM",
+        "shadow_size": "5",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1129,7 +1216,9 @@
         "price": 10000,
         "location": "River",
         "shadow_size": "6",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1150,7 +1239,9 @@
         "price": 4000,
         "location": "River",
         "shadow_size": "4",
-        "time": "9 PM - 4 AM",
+        "time": [
+            "9 PM - 4 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1171,7 +1262,9 @@
         "price": 10000,
         "location": "River (Mouth)",
         "shadow_size": "6",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1198,7 +1291,9 @@
         "price": 1000,
         "location": "Sea",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1219,7 +1314,9 @@
         "price": 1100,
         "location": "Sea",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -1248,7 +1345,9 @@
         "price": 650,
         "location": "Sea",
         "shadow_size": "1",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -1273,7 +1372,9 @@
         "price": 1000,
         "location": "Sea",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -1298,7 +1399,9 @@
         "price": 1000,
         "location": "Sea",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -1323,7 +1426,9 @@
         "price": 10000,
         "location": "Sea",
         "shadow_size": "6",
-        "time": "4 AM - 9 PM",
+        "time": [
+            "4 AM - 9 PM"
+        ],
         "months": {
             "northern": [
                 7,
@@ -1340,7 +1445,9 @@
         "price": 500,
         "location": "Sea",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 4,
@@ -1369,7 +1476,9 @@
         "price": 5000,
         "location": "Sea",
         "shadow_size": "3",
-        "time": "9 PM - 4 AM",
+        "time": [
+            "9 PM - 4 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1390,7 +1499,9 @@
         "price": 250,
         "location": "Sea",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 7,
@@ -1409,7 +1520,9 @@
         "price": 200,
         "location": "Sea",
         "shadow_size": "2",
-        "time": "4 AM - 9 PM",
+        "time": [
+            "4 AM - 9 PM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1446,7 +1559,9 @@
         "price": 150,
         "location": "Sea",
         "shadow_size": "2",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1483,7 +1598,9 @@
         "price": 5000,
         "location": "Sea",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 3,
@@ -1514,7 +1631,9 @@
         "price": 400,
         "location": "Sea",
         "shadow_size": "5",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1551,7 +1670,9 @@
         "price": 3000,
         "location": "Sea",
         "shadow_size": "4",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1588,7 +1709,9 @@
         "price": 300,
         "location": "Sea",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1615,7 +1738,9 @@
         "price": 800,
         "location": "Sea",
         "shadow_size": "5",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1652,7 +1777,9 @@
         "price": 500,
         "location": "Sea",
         "shadow_size": "3",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1683,7 +1810,9 @@
         "price": 2000,
         "location": "Sea",
         "shadow_size": "Narrow",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 8,
@@ -1702,7 +1831,9 @@
         "price": 600,
         "location": "Sea",
         "shadow_size": "Narrow",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1725,7 +1856,9 @@
         "price": 7000,
         "location": "Pier",
         "shadow_size": "6",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1750,7 +1883,9 @@
         "price": 10000,
         "location": "Pier",
         "shadow_size": "6",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1781,7 +1916,9 @@
         "price": 4500,
         "location": "Pier",
         "shadow_size": "5",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 5,
@@ -1806,7 +1943,9 @@
         "price": 6000,
         "location": "Pier",
         "shadow_size": "5",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 5,
@@ -1831,7 +1970,9 @@
         "price": 4000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
-        "time": "4 AM - 9 PM",
+        "time": [
+            "4 AM - 9 PM"
+        ],
         "months": {
             "northern": [
                 7,
@@ -1850,7 +1991,9 @@
         "price": 3000,
         "location": "Sea",
         "shadow_size": "5",
-        "time": "4 AM - 9 PM",
+        "time": [
+            "4 AM - 9 PM"
+        ],
         "months": {
             "northern": [
                 8,
@@ -1871,7 +2014,9 @@
         "price": 12000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1892,7 +2037,9 @@
         "price": 8000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1913,7 +2060,9 @@
         "price": 15000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1934,7 +2083,9 @@
         "price": 13000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1955,7 +2106,9 @@
         "price": 1500,
         "location": "Sea",
         "shadow_size": "4 (Fin)",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 6,
@@ -1976,7 +2129,9 @@
         "price": 2500,
         "location": "Sea",
         "shadow_size": "4",
-        "time": "4 PM - 9 AM",
+        "time": [
+            "4 PM - 9 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -1999,7 +2154,9 @@
         "price": 9000,
         "location": "Sea",
         "shadow_size": "6",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,
@@ -2024,7 +2181,9 @@
         "price": 15000,
         "location": "Sea",
         "shadow_size": "2",
-        "time": "9 PM - 4 AM",
+        "time": [
+            "9 PM - 4 AM"
+        ],
         "months": {
             "northern": [
                 1,
@@ -2059,9 +2218,11 @@
     "Coelacanth": {
         "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Icon-coelacanth.png/revision/latest?cb=20200401003129",
         "price": 15000,
-        "location": "Sea (Raining)",
+        "location": "Sea",
         "shadow_size": "6",
-        "time": "All day",
+        "time": [
+            "All day"
+        ],
         "months": {
             "northern": [
                 1,

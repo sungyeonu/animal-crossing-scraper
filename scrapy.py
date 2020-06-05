@@ -48,6 +48,7 @@ URLS = {
     
     # Flowers
     "flowers": "https://animalcrossing.fandom.com/wiki/Flower/New_Horizons_mechanics"
+    
     # --- New Leaf ---
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)",
@@ -119,7 +120,7 @@ def scrape_bugs(key):  # take url and return object containing bugs data
             "image_url": tr("a")[1]['href'],
             "price": parse_price(tr("td")[2].text),
             "location": tr("td")[3].text.strip(),
-            "time": tr("small")[0].text,
+            "time": tr("small")[0].text.split(" & "),
             "months": {
                 "northern": parse_months([tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16]]),
                 "southern": parse_months([tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10]]),
@@ -146,7 +147,7 @@ def scrape_fish(key):  # same logic as scrapeBugs
             "price": parse_price(tr("td")[2].text),
             "location": tr("td")[3].text.strip(),
             "shadow_size": tr("td")[4].text.strip(),
-            "time": tr("small")[0].text,
+            "time": tr("small")[0].text.split(" & "),
             "months": {
                 "northern": parse_months([tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[17]]),
                 "southern": parse_months([tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[17], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11]]),
@@ -442,56 +443,6 @@ def scrape_furniture_wallpapers(key):
     return items
 
 
-
-def scrape_furniture_rugs(key):
-    url = URLS["furniture"][key]
-    response = requests.get(url, timeout=5)
-    # html.parser does not scrape all html contents
-    soup = BeautifulSoup(response.content, "html5lib")
-    tables = soup("table", {"class": "roundy"})
-    items = {}
-    for tr in tables[3]("tr")[2:]:
-        name = tr("td")[1].text.strip()
-        item = {
-            "image_url": parse_image_url(tr("td")[0]),
-            "price": {
-                "buy": parse_price(tr("td")[2].text),
-                "sell": parse_price(tr("td")[3].text)
-            },
-            "source": parse_source(tr("td")[4]),
-            "size_image_url": parse_image_img_url(tr("td")[5]),
-
-        }
-        items[name] = item
-    dump_data(items, "furniture/" + key)
-    return items
-
-                items[name] = item
-    dump_data(items, "furniture/" + key)
-    return items
-
-def scrape_furniture_wallpapers(key):
-    url = URLS["furniture"][key]
-    response = requests.get(url, timeout=5)
-    soup = BeautifulSoup(response.content, "html5lib") # html.parser does not scrape all html contents
-    tables = soup("table", {"class": "roundy"})
-    items = {}
-    for tr in tables[3]("tr")[2:]:
-        name = tr("td")[1].text.strip()
-        item = {
-            "image_url": parse_image_url(tr("td")[0]),
-            "price": {
-                "buy": parse_price(tr("td")[2].text),
-                "sell": parse_price(tr("td")[3].text)
-            },
-            "source": parse_source(tr("td")[4]),
-        }
-        items[name] = item
-    dump_data(items, "furniture/" + key)
-    return items
-
-
-
 def scrape_furniture_rugs(key):
     url = URLS["furniture"][key]
     response = requests.get(url, timeout=5)
@@ -619,11 +570,11 @@ def scrape_flowers(key):
 
 if __name__ == "__main__":
     # -- Characters --
-    scrape_villagers("villagers")
+    # scrape_villagers("villagers")
 
     # -- Museum --
-    # scrape_bugs("bugs")
-    # scrape_fish("fish")
+    scrape_bugs("bugs")
+    scrape_fish("fish")
     # scrape_fossils("fossils")
     # scrape_artworks("artworks")
 
