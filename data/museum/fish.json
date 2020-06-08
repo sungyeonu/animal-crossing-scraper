@@ -1,6 +1,8 @@
 {
     "Bitterling": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Icon-bitterling.png/revision/latest?cb=20200401003128",
+        "name": "Bitterling",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Bitterling",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Icon-bitterling.png/revision/latest?cb=20200401003128",
         "price": 900,
         "location": "River",
         "shadow_size": "1",
@@ -22,10 +24,15 @@
                 8,
                 9
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/Nh-bitterling.jpg/revision/latest?cb=20200331062501",
+        "museum_phrase": "Bitterlings hide their eggs inside large bivalves—like clams—where the young can stay safe until grown. The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites! It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?",
+        "catch_phrase": "I caught a bitterling! It's mad at me, but only a little."
     },
-    "Pale chub": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-palechub.png/revision/latest?cb=20200401003129",
+    "Pale_chub": {
+        "name": "Pale chub",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Pale_chub",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-palechub.png/revision/latest?cb=20200401003129",
         "price": 200,
         "location": "River",
         "shadow_size": "1",
@@ -61,10 +68,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Nh-pale-chub.jpg/revision/latest?cb=20200331062819",
+        "museum_phrase": "The pale chub is a river fish with simple black-and-silver coloring. Interestingly, the male's coloring becomes more vibrant when he's trying to attract a mate! Though normally plain, these fellows really known how to look stylish when they want to. Perhaps I could learn a thing or two from the pale chub... ",
+        "catch_phrase": "I caught a pale chub! That name seems a bit judgy..."
     },
-    "Crucian carp": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Icon-cruciancarp.png/revision/latest?cb=20200401003129",
+    "Crucian_carp": {
+        "name": "Crucian carp",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Crucian_carp",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Icon-cruciancarp.png/revision/latest?cb=20200401003129",
         "price": 160,
         "location": "River",
         "shadow_size": "2",
@@ -100,10 +112,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/Nh-crucian-carp.jpg/revision/latest?cb=20200331063203",
+        "museum_phrase": "I wonder... Do you know how to tell the difference between a crucian carp and a standard-issue carp? It's quite easy to tell the two apart... One must simply locate the barbels. Or, rather, the lack of them! And just what is a barbel, you ask? Well, a barbel looks a little something like a mustache. A run-of-the-mill carp will sport this unsightly \"facial hair,\" while a crucian carp is considerably better groomed! I tried to grow a mustache when I was younger. It never did fill in quite right... All for the best in the end, as mustaches go so much better with noses than with beaks!",
+        "catch_phrase": "I caught a crucian carp! My skills are sharp!"
     },
     "Dace": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-dace.png/revision/latest?cb=20200401003129",
+        "name": "Dace",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Dace",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-dace.png/revision/latest?cb=20200401003129",
         "price": 240,
         "location": "River",
         "shadow_size": "3",
@@ -139,10 +156,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/Nh_dace.png/revision/latest?cb=20200404222011",
+        "museum_phrase": "Dace are shiny little fish that enjoy freshwater streams with gravelly bottoms and plenty of sunlight. What a fishy paradise...until the larger fish move in and begin eating the dace! Sadly, the shiny dace are easy for other fish to spot, which makes them a popular snack. However, this particular specimen has no need to worry. There's a strict \"No Eating Your Neighbor\" policy at this institution.",
+        "catch_phrase": "I caught a dace! Hope I have some space!"
     },
     "Carp": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-carp.png/revision/latest?cb=20200401003129",
+        "name": "Carp",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Carp",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-carp.png/revision/latest?cb=20200401003129",
         "price": 300,
         "location": "Pond",
         "shadow_size": "4",
@@ -178,10 +200,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/Nh-carp.jpg/revision/latest?cb=20200331063435",
+        "museum_phrase": "Oh, the carp...have you ever seen their teeth? For your sake, I hope you have not! Carp have teeth in their throat strong enough to crunch on hard things like shells and fingers! A good rule of thumb when dealing with other species is to keep your fingers out of their mouths. Although, having neither thumbs nor fingers, I am quite safe from this little fellow!",
+        "catch_phrase": "I caught a carp! If I catch another they can carpool!"
     },
     "Koi": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Icon-koi.png/revision/latest?cb=20200401003129",
+        "name": "Koi",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Koi",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Icon-koi.png/revision/latest?cb=20200401003129",
         "price": 4000,
         "location": "Pond",
         "shadow_size": "4",
@@ -217,10 +244,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/Nh-koi.jpg/revision/latest?cb=20200331063725",
+        "museum_phrase": "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi may look like in another thousand years.",
+        "catch_phrase": "I caught a koi! I don't know why it's so shy... or such a bad speller..."
     },
     "Goldfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Icon-goldfish.png/revision/latest?cb=20200401003129",
+        "name": "Goldfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Goldfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Icon-goldfish.png/revision/latest?cb=20200401003129",
         "price": 1300,
         "location": "Pond",
         "shadow_size": "1",
@@ -256,10 +288,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/Goldfish_NH.png/revision/latest?cb=20200605004246",
+        "museum_phrase": "Goldfish are so cute and delicate... but do you know how big they can get? Why, they can grow up to... a foot in length! Well, sometimes. The size of the tank they're kept in tends to restrict their growth. And just how big will this goldfish get in our large museum tank? I look forward to finding out!",
+        "catch_phrase": "I caught a goldfish! It's worth its weight in fish!"
     },
-    "Pop-eyed goldfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Icon-popeyedgoldfish.png/revision/latest?cb=20200401003129",
+    "Pop-eyed_goldfish": {
+        "name": "Pop-eyed goldfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Pop-eyed_goldfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Icon-popeyedgoldfish.png/revision/latest?cb=20200401003129",
         "price": 1300,
         "location": "Pond",
         "shadow_size": "1",
@@ -295,10 +332,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/Pop-eyed_Goldfish_NH.jpg/revision/latest?cb=20200605004423",
+        "museum_phrase": "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far! ",
+        "catch_phrase": "I got a pop-eyed goldfish! It looks so...surprised!"
     },
-    "Ranchu goldfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Icon-ranchugoldfish.png/revision/latest?cb=20200401003129",
+    "Ranchu_goldfish": {
+        "name": "Ranchu goldfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Ranchu_goldfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Icon-ranchugoldfish.png/revision/latest?cb=20200401003129",
         "price": 4500,
         "location": "Pond",
         "shadow_size": "2",
@@ -334,10 +376,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/Ranchu_Goldfish_NH.jpg/revision/latest?cb=20200605004653",
+        "museum_phrase": "The ranchu goldfish is a charming relative of the goldfish with a bumpy head and stout, round body. They have ordinary heads when born, but develop impressive rectangular heads after about three years. Supposedly their head shape changes depending on factors like the size of their tank... So ranchu goldfish enthusiasts aim to raise perfectly shaped specimens and work hard to achieve this. Of course, no one asks the ranchu goldfish themselves what shape they want their heads to be...",
+        "catch_phrase": "I caught a ranchu goldfish! But I prefer balsamicu goldfish!"
     },
     "Killifish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-killifish.png/revision/latest?cb=20200401003129",
+        "name": "Killifish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Killifish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-killifish.png/revision/latest?cb=20200401003129",
         "price": 300,
         "location": "Pond",
         "shadow_size": "1",
@@ -359,10 +406,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/Killifish_NH.jpg/revision/latest?cb=20200605003908",
+        "museum_phrase": "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either those intrepid explorers?",
+        "catch_phrase": "I caught a killifish! The streams are safe again."
     },
     "Crawfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Icon-crawfish.png/revision/latest?cb=20200401003129",
+        "name": "Crawfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Crawfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Icon-crawfish.png/revision/latest?cb=20200401003129",
         "price": 200,
         "location": "Pond",
         "shadow_size": "2",
@@ -386,10 +438,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/Nh-crawfish.jpg/revision/latest?cb=20200331065624",
+        "museum_phrase": "Ohoo! So you have found a crawfish. Neither crab nor lobster, crawfish evolved in an interesting manner. Beware their fearsome pinchy pinchers! Behold their many legs! I say! It is a bit bug-like, eh wot... The more I look at it, the more unsettled I feel... Let's be done with this and never speak of it again, shall we?",
+        "catch_phrase": "I caught a crawfish! Or else it's a lobster, and I'm a giant!"
     },
-    "Soft-shelled turtle": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-softshelledturtle.png/revision/latest?cb=20200401003129",
+    "Soft-shelled_turtle": {
+        "name": "Soft-shelled turtle",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Soft-shelled_turtle",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-softshelledturtle.png/revision/latest?cb=20200401003129",
         "price": 3750,
         "location": "River",
         "shadow_size": "4",
@@ -405,13 +462,18 @@
                 2,
                 3
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/Soft-shelledTurtleNL.png/revision/latest?cb=20130806151912",
+        "museum_phrase": "The soft-shelled turtle is not one to shy away from biting when provoked. In addition to its powerful bite, this little critter has the ability to breathe both above and below water! It has an unusually long neck which it uses for both breathing and biting. Come to think of it, how did you manage to avoid being bitten? Well, it's a fearsome critter, but just look at that face! Rather silly, wot?",
+        "catch_phrase": "I caught a soft-shelled turtle! I should take a shellfie!"
     },
-    "Snapping Turtle": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-snappingturtle.png/revision/latest?cb=20200401003129",
+    "Snapping_Turtle": {
+        "name": "Snapping Turtle",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Snapping_Turtle",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-snappingturtle.png/revision/latest?cb=20200401003129",
         "price": 5000,
         "location": "River",
-        "shadow_size": "5",
+        "shadow_size": "4",
         "time": [
             "9 PM - 4 AM"
         ],
@@ -434,10 +496,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/NH-Snapping_turtle.png/revision/latest?cb=20200403131941",
+        "museum_phrase": "The snapping turtle is a large turtle known for it's crocodile-like body and long claws. No, wait—it is better known for it's ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT—it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car.",
+        "catch_phrase": "I caught a snapping turtle! How can it snap without fingers?"
     },
     "Tadpole": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-tadpole.png/revision/latest?cb=20200401003129",
+        "name": "Tadpole",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Tadpole",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-tadpole.png/revision/latest?cb=20200401003129",
         "price": 100,
         "location": "Pond",
         "shadow_size": "1",
@@ -459,10 +526,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/Nh-tadpole.jpg/revision/latest?cb=20200331065118",
+        "museum_phrase": "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!",
+        "catch_phrase": "I caught a tadpole... It's just a tad small."
     },
     "Frog": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Icon-frog.png/revision/latest?cb=20200401003129",
+        "name": "Frog",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Frog_(fish)",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Icon-frog.png/revision/latest?cb=20200401003129",
         "price": 120,
         "location": "Pond",
         "shadow_size": "2",
@@ -482,10 +554,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/Frog_NH.png/revision/latest?cb=20200605005516",
+        "museum_phrase": "I understand that frogs converse with fellow frogs through a number of varied calls, as it were. Ribbit! My prince as a arrived! Gribbit riiibbit! This pond is tragic! Ribbity rib't! I think you're splendid! Hoo hoo, of course I have no clue what they're saying, but I like to think if I practice enough, I might!",
+        "catch_phrase": "I caught a frog! Or it's a new neighbor...and I have some apologizing to do."
     },
-    "Freshwater goby": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Icon-freshwatergoby.png/revision/latest?cb=20200401003129",
+    "Freshwater_goby": {
+        "name": "Freshwater goby",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Freshwater_goby",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Icon-freshwatergoby.png/revision/latest?cb=20200401003129",
         "price": 400,
         "location": "River",
         "shadow_size": "2",
@@ -521,10 +598,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/Nh-freshwater-goby.jpg/revision/latest?cb=20200331065447",
+        "museum_phrase": "The freshwater goby is an unassuming specimen. But beneath that calm, fishy exterior, true gluttony resides! It will eat anything that will fit in its mouth... And its mouth is quite the gaping maw, so I recommend you refrain from drawing attention to yourself!",
+        "catch_phrase": "I caught a freshwater goby! Time to go bye-bye!"
     },
     "Loach": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Icon-loach.png/revision/latest?cb=20200401003129",
+        "name": "Loach",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Loach",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Icon-loach.png/revision/latest?cb=20200401003129",
         "price": 400,
         "location": "River",
         "shadow_size": "2",
@@ -542,10 +624,15 @@
                 10,
                 11
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/Nh-loach.jpg/revision/latest?cb=20200331065314",
+        "museum_phrase": "Loaches are a large group of bottom-feeding freshwater fish. Because there are so many species, it is difficult to generalize about them all. The one thing they all have in common is perhaps their most unappealing trait; the name 'loach.' Repellent, isn't it? They should have just called it the 'cockloach' and been done with it, eh wot! Loach...loach... It just tastes terrible in the beak.",
+        "catch_phrase": "I caught a loach! It's ... looking at me with reproach."
     },
     "Catfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Icon-catfish.png/revision/latest?cb=20200401003129",
+        "name": "Catfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Catfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Icon-catfish.png/revision/latest?cb=20200401003129",
         "price": 800,
         "location": "Pond",
         "shadow_size": "4",
@@ -569,10 +656,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/Catfish_NH-0.jpg/revision/latest?cb=20200605010012",
+        "museum_phrase": "Catfish don't have scales and are rather slimy. Believe it or not, this slime helps them breathe! Some species of catfish are nocturnal, and they'll feed on almost anything. They use a suctioning action to pull in their food. Did I mention they can grow as large as you or I...",
+        "catch_phrase": "I caught a catfish! I'm more of a dogfish person..."
     },
-    "Giant snakehead": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-giantsnakehead.png/revision/latest?cb=20200401003129",
+    "Giant_snakehead": {
+        "name": "Giant snakehead",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Giant_snakehead",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-giantsnakehead.png/revision/latest?cb=20200401003129",
         "price": 5500,
         "location": "Pond",
         "shadow_size": "5",
@@ -590,10 +682,15 @@
                 2,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/Giant_Snakehead_NH.jpg/revision/latest?cb=20200605002854",
+        "museum_phrase": "The giant snakehead is quite a sight to behold, wot! One glance conjurs up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head... While odd, I feel a sense of owlship with them.",
+        "catch_phrase": "I caught a giant snakehead! Um...but I asked for a medium?"
     },
     "Bluegill": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Icon-bluegill.png/revision/latest?cb=20200401003129",
+        "name": "Bluegill",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Bluegill",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Icon-bluegill.png/revision/latest?cb=20200401003129",
         "price": 180,
         "location": "River",
         "shadow_size": "2",
@@ -629,10 +726,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4e/Nh-bluegill.jpg/revision/latest?cb=20200331064255",
+        "museum_phrase": "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it...",
+        "catch_phrase": "I caught a bluegill! Do you think it calls me \"pinklung\"?"
     },
-    "Yellow perch": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Icon-yellowperch.png/revision/latest?cb=20200401003129",
+    "Yellow_perch": {
+        "name": "Yellow perch",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Yellow_perch",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Icon-yellowperch.png/revision/latest?cb=20200401003129",
         "price": 300,
         "location": "River",
         "shadow_size": "3",
@@ -656,10 +758,15 @@
                 8,
                 9
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Nh-yellow-perch.jpg/revision/latest?cb=20200331071234",
+        "museum_phrase": "The yellow perch is certainly worth squawking about. I find it a sight to behold! That jagged dorsal fin! Those brilliant stripes! Those glorious colours! Hoo, truly it is quite the specimen. I would be thrilled to witness it firsthand in its natural environment... But the yellow perch's peak season is winter, I'm afraid. (So very afraid... of winter's biting chill...)",
+        "catch_phrase": "I caught a yellow perch! Those yellow birds have to sit somewhere!"
     },
-    "Black bass": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Icon-blackbass.png/revision/latest?cb=20200401003129",
+    "Black_bass": {
+        "name": "Black bass",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Black_bass",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Icon-blackbass.png/revision/latest?cb=20200401003129",
         "price": 400,
         "location": "River",
         "shadow_size": "4",
@@ -695,10 +802,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/New_Horizons_Black_Bass.png/revision/latest?cb=20200401194850",
+        "museum_phrase": "The black bass is a formidably strong fish and, as such, is a common target for sport anglers. In some areas, there are even those who professionally catch just black bass! Yet in other areas where they are NOT native, they are considered an ecological nuisance. Invasive, even. One cannot help but wonder who is to blame for their invasion, hoo.",
+        "catch_phrase": "I caught a black bass! The most metal of all fish!"
     },
     "Tilapia": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Icon-tilapia.png/revision/latest?cb=20200401003129",
+        "name": "Tilapia",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Tilapia",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Icon-tilapia.png/revision/latest?cb=20200401003129",
         "price": 800,
         "location": "River",
         "shadow_size": "3",
@@ -720,10 +832,15 @@
                 4,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/Tilapia_NH_Encyclopedia.png/revision/latest?cb=20200324010531",
+        "museum_phrase": "Wherever the waters are warm, the tilapia can be found. It is a highly adaptable river fish. They mainly feed on algae, but they will also eat larvae and dead fish— or whatever fits in their mouths. I will confess that, as a growing owlet, I similarly defined food as 'anything that fits in my beak.'",
+        "catch_phrase": "I caught a tilapia! It makes me happy-a!"
     },
     "Pike": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-pike.png/revision/latest?cb=20200401003130",
+        "name": "Pike",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Pike",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-pike.png/revision/latest?cb=20200401003130",
         "price": 1800,
         "location": "River",
         "shadow_size": "5",
@@ -743,10 +860,15 @@
                 5,
                 6
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/16918.png/revision/latest?cb=20200528234331",
+        "museum_phrase": "The pike has always reminded me a bit of salmon, although a pike can grow rather larger. These brutes can grow to over four feet long...sometimes MUCH over! Hoo hoo! It is carnivorous and preys not only on other fish, but also mammals and some waterfowl...If I were to meet one in the water, I would have a most difficult time keeping my wits about me.",
+        "catch_phrase": "I caught a pike! Think a swordfish would be up for a duel?"
     },
-    "Pond smelt": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Icon-pondsmelt.png/revision/latest?cb=20200401003130",
+    "Pond_smelt": {
+        "name": "Pond smelt",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Pond_smelt",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Icon-pondsmelt.png/revision/latest?cb=20200401003130",
         "price": 500,
         "location": "River",
         "shadow_size": "2",
@@ -764,10 +886,15 @@
                 7,
                 8
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/PondSmelt.jpg/revision/latest?cb=20130731214944",
+        "museum_phrase": "For many, thinking of pond smelt inevitably leads to thoughts of ice fishing in frozen rivers and lakes. Ice fishing involves making a round hole in the ice, dropping in your fishing line, and...waiting. Not to rain on anyone else's idea of fun, but...well, perhaps I shouldn't say anything.",
+        "catch_phrase": "I caught a pond smelt! Whoever smelt it, dealt it!"
     },
     "Sweetfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Icon-sweetfish.png/revision/latest?cb=20200401003129",
+        "name": "Sweetfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Sweetfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Icon-sweetfish.png/revision/latest?cb=20200401003129",
         "price": 900,
         "location": "River",
         "shadow_size": "3",
@@ -785,10 +912,15 @@
                 2,
                 3
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2d/Sweetfish_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818200558",
+        "museum_phrase": "Sweetfish are the damp heralds of summer! These slippery fellows appear in numbers when it warms up. They hatch in a river, then swim to the ocean. Once mature, they return to the river where they were born. But when they return depends on the temperature—if it's too cold their fishing season will start later. Some even say summer can't start without sweetfish...despite the KEY role played by the earth's axial tilt!",
+        "catch_phrase": "I caught a sweetfish! Hope it's not artificially sweet!"
     },
-    "Cherry salmon": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Icon-cherrysalmon.png/revision/latest?cb=20200401003129",
+    "Cherry_salmon": {
+        "name": "Cherry salmon",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Cherry_salmon",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Icon-cherrysalmon.png/revision/latest?cb=20200401003129",
         "price": 1000,
         "location": "River (Clifftop)",
         "shadow_size": "3",
@@ -814,10 +946,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Cherry-Salmon.png/revision/latest?cb=20200417170136",
+        "museum_phrase": "The cherry salmon is related to the salmon, and is known for its distinctive pattern of \"polka dots\". There polka dots disappear as they mature, but ONLY in the first of certain geographic regions. Pity the poor researchers that must make sense of the cherry salmon's fickle fashion sense.",
+        "catch_phrase": "I caught a cherry salmon! It's the perfect topper for a marlin sundae!"
     },
     "Char": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Icon-char.png/revision/latest?cb=20200401003129",
+        "name": "Char",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Char",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Icon-char.png/revision/latest?cb=20200401003129",
         "price": 3800,
         "location": "River (Clifftop)  Pond",
         "shadow_size": "3",
@@ -843,10 +980,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/CharACNH.png/revision/latest?cb=20200420011011",
+        "museum_phrase": "The char is one of the bigger first around the world, and, in the world of fish, that's quite an accomplishment! They are territorial predators, and therefore must constantly defend their 'turf' from others. So when you see a large char like this one, it is likely a skilled fighter and veteran of many battles. My feathers! I hope it never has cause to go into battle with me!",
+        "catch_phrase": "I caught a char! Now I'm gonna sit on it!"
     },
-    "Golden trout": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Icon-goldentrout.png/revision/latest?cb=20200401003129",
+    "Golden_trout": {
+        "name": "Golden trout",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Golden_trout",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Icon-goldentrout.png/revision/latest?cb=20200401003129",
         "price": 15000,
         "location": "River (Clifftop)",
         "shadow_size": "3",
@@ -870,10 +1012,15 @@
                 10,
                 11
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Golden-Trout.png/revision/latest/scale-to-width-down/349?cb=20200417165851",
+        "museum_phrase": "The golden trouts is a beautifully colored fish that can only live in very clean waters. They are difficult to come across since they are found only in high mountain streams. As a side note, I find it much easier to appreciate fish that aren't such prima donnas about everything.",
+        "catch_phrase": "I caught a golden trout! But the real treasure? Friendship."
     },
     "Stringfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-stringfish.png/revision/latest?cb=20200401003129",
+        "name": "Stringfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Stringfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-stringfish.png/revision/latest?cb=20200401003129",
         "price": 15000,
         "location": "River (Clifftop)",
         "shadow_size": "5",
@@ -893,10 +1040,15 @@
                 8,
                 9
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Stringfish.png/revision/latest?cb=20200327085532",
+        "museum_phrase": "The stringfish grows slowly, but also lives quite a long time for a fish, with up to 15 years being typical. Consequently, while it takes a while, they can get quite large—perhaps even up to six feet long! The stringfish is perhaps the best embodiment in the fish world of 'slow and steady wins the race.' ",
+        "catch_phrase": "OH MY GOSH! I caught a stringfish! Five more and I'll have a guitarfish!"
     },
     "Salmon": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Icon-salmon.png/revision/latest?cb=20200401003129",
+        "name": "Salmon",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Salmon",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Icon-salmon.png/revision/latest?cb=20200401003129",
         "price": 700,
         "location": "River (Mouth)",
         "shadow_size": "4",
@@ -910,10 +1062,15 @@
             "southern": [
                 3
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/Salmon_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818200552",
+        "museum_phrase": "Ah, salmon... Did you know their coloration is due specifically to their diet? Indeed, this is the case! The more they fill their diet with crustaceans such as krill and shrimp, the deeper shade of pink they are. If they ate a bushel of carrots, might they turn orange?",
+        "catch_phrase": "I caught a salmon! It's all upstream from here!"
     },
-    "King salmon": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Icon-kingsalmon.png/revision/latest?cb=20200401003129",
+    "King_salmon": {
+        "name": "King salmon",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/King_salmon",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Icon-kingsalmon.png/revision/latest?cb=20200401003129",
         "price": 1800,
         "location": "River (Mouth)",
         "shadow_size": "6",
@@ -927,10 +1084,15 @@
             "southern": [
                 3
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/King_salmon_encyclopedia_%28New_Leaf%29.JPG/revision/latest?cb=20150821011626",
+        "museum_phrase": "The king salmon didn't get its name from nothing. This stately fish can weigh in at up to 130 pounds! It's clear why it's referred to as the king of salmon. I imagine even the mightiest net can catch no more than a few at a time. I must say it's a miracle to me that you didn't get dragged out to sea by this one, wot!",
+        "catch_phrase": "Yes! I caught a King salmon! Checkmate!"
     },
-    "Mitten crab": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Icon-mittencrab.png/revision/latest?cb=20200401003129",
+    "Mitten_crab": {
+        "name": "Mitten crab",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Mitten_crab",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Icon-mittencrab.png/revision/latest?cb=20200401003129",
         "price": 2000,
         "location": "River",
         "shadow_size": "2",
@@ -948,10 +1110,15 @@
                 4,
                 5
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/Mitten_crab-0.png/revision/latest?cb=20200529034048",
+        "museum_phrase": "The mitten crab was named for its impossibly adorable and fuzzy pincers. These cute crustaceans embark quite the journey. They're first born in brackish waters. Then they mature in freshwater. Finally, they travel to the ocean to create more mitten crabs! Hoo! How I delight in the thought of thousands of tiny mittened crabs scuttling about! ",
+        "catch_phrase": "I caught a mitten crab! One more and I'm ready for winter!"
     },
     "Guppy": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-guppy.png/revision/latest?cb=20200401003129",
+        "name": "Guppy",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Guppy",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-guppy.png/revision/latest?cb=20200401003129",
         "price": 1300,
         "location": "River",
         "shadow_size": "1",
@@ -979,10 +1146,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/Guppy_New_Horizons.jpg/revision/latest?cb=20200506164120",
+        "museum_phrase": "Oh my! Would you look at that! Such a beautiful, snazzy little fellow that guppy is! The shape and coloration of guppy fins are all unique. Quite eye-catching, I must say. Do you imagine they host contests for \"most snazzy\"? And...do you suppose I might receive an invite?",
+        "catch_phrase": "I caught a guppy! Welcome to the team, newbie!"
     },
-    "Nibble fish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Icon-nibblefish.png/revision/latest?cb=20200401003129",
+    "Nibble_fish": {
+        "name": "Nibble fish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Nibble_fish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Icon-nibblefish.png/revision/latest?cb=20200401003129",
         "price": 1500,
         "location": "River",
         "shadow_size": "1",
@@ -1004,10 +1176,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/Nibblefish_NH.jpg/revision/latest?cb=20200605010220",
+        "museum_phrase": "Nibble fish are best known for their use in a certain...skin treatment. This treatment has apparently been used for thousands of years. I have never...experienced said treatment... because they eat your dead skin with their little toothless mouths! Can you imagine anything so repellent?! Please don't ask me any follow-up questions. Hoo.",
+        "catch_phrase": "Yes! I caught a nibble fish! Come to think of it, I could use a bite!"
     },
     "Angelfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-angelfish.png/revision/latest?cb=20200401003128",
+        "name": "Angelfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Angelfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Icon-angelfish.png/revision/latest?cb=20200401003128",
         "price": 3000,
         "location": "River",
         "shadow_size": "2",
@@ -1031,10 +1208,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/Angelfish_NH.jpg/revision/latest?cb=20200605010504",
+        "museum_phrase": "The angelfish is truly a beautiful creature. Just look at the elegance of those fins! Despite the name, however, these lovelies are known to be rather aggressive... They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances—and names—can be deceiving.",
+        "catch_phrase": "I caught an angelfish! That other fish told me to do it!"
     },
     "Betta": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Icon-betta.png/revision/latest?cb=20200401003129",
+        "name": "Betta",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Betta",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Icon-betta.png/revision/latest?cb=20200401003129",
         "price": 2500,
         "location": "River",
         "shadow_size": "2",
@@ -1058,10 +1240,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/Betta-0.jpg/revision/latest?cb=20200519052602",
+        "museum_phrase": "The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They're very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties.",
+        "catch_phrase": "I caught a betta! I betta not drop it!"
     },
-    "Neon tetra": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Icon-neontetra.png/revision/latest?cb=20200401003129",
+    "Neon_tetra": {
+        "name": "Neon tetra",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Neon_tetra",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Icon-neontetra.png/revision/latest?cb=20200401003129",
         "price": 500,
         "location": "River",
         "shadow_size": "1",
@@ -1089,10 +1276,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/Neon_Tetra_NH.png/revision/latest?cb=20200605010738",
+        "museum_phrase": "Hoo! Wonderful! The neon tetra is truly a marvel of the tropical-fish world. Just look at how tiny it is! And how very filled with...neon! I imagine its environment must be just as flashy as it is for it to have developed such colors. I wonder how flashy I might be, had I been raised somewhere even half as vibrant?",
+        "catch_phrase": "I caught a neon tetra! Wasn't hard to track."
     },
     "Rainbowfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Icon-rainbowfish.png/revision/latest?cb=20200401003129",
+        "name": "Rainbowfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Rainbowfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Icon-rainbowfish.png/revision/latest?cb=20200401003129",
         "price": 800,
         "location": "River",
         "shadow_size": "1",
@@ -1116,10 +1308,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/Rainbowfish.png/revision/latest?cb=20200519055236",
+        "museum_phrase": "The rainbowfish is a tropical fish known for its metallic colors and beautiful fins. There are over 50 different species, each unique and pleasing color. I must say, it does make me wish for feathers of a more exciting hue than \"underbaked brownie.\"",
+        "catch_phrase": "I caught a rainbowfish! Where's my pot of goldfish?"
     },
     "Piranha": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-piranha.png/revision/latest?cb=20200401003130",
+        "name": "Piranha",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Piranha",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-piranha.png/revision/latest?cb=20200401003130",
         "price": 2500,
         "location": "River",
         "shadow_size": "2",
@@ -1140,10 +1337,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/Piranha_NH.png/revision/latest?cb=20200605003259",
+        "museum_phrase": "I am not exactly a fan of the piranha...despite knowing that they're mostly harmless. But those nasty, pointy teeth... Hoo. These infamous little blighters will attack when in groups. Imagine all of those hundreds of tiny teeth! To think that they're floundering about our peaceful waters, just waiting to strike. Well, never fear—I shall keep THIS one under the strictest lock and key, with nary a bathroom break allowed!",
+        "catch_phrase": "I caught a piranha! Sure hope it was the only one!"
     },
     "Arowana": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Icon-arowana.png/revision/latest?cb=20200401003128",
+        "name": "Arowana",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Arowana",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Icon-arowana.png/revision/latest?cb=20200401003128",
         "price": 10000,
         "location": "River",
         "shadow_size": "4",
@@ -1163,10 +1365,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/Arowana-0.png/revision/latest?cb=20200605001728",
+        "museum_phrase": "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana is an excellent jumper. Some have been seen leaping six feet out of the water, eh wot! Alas, it has also been on the endangered-species list for some time. It's up to us to do all we can to help preserve such magnificent creatures for the years to come.",
+        "catch_phrase": "I caught an arowana! I'd make a joke, but I don't 'wana."
     },
     "Dorado": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Icon-dorado.png/revision/latest?cb=20200401003129",
+        "name": "Dorado",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Dorado",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Icon-dorado.png/revision/latest?cb=20200401003129",
         "price": 15000,
         "location": "River",
         "shadow_size": "5",
@@ -1186,10 +1393,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/EVwPh-HUYAAyBrU.jpg/revision/latest?cb=20200416210152",
+        "museum_phrase": "Woo-hoo! So shiny! This massive fish's name, dorado, means \"golden\" in Spanish—a fitting title. They are also quite valuable, I understand. I congratulate you on your top-notch angling! They are rather large, eh wot? It makes one wonder what all they might feed on... Fowl, perhaps?! One quivers at the very thought! Well, it'll be safe behind glass, no doubt. Quite safe, hoo...",
+        "catch_phrase": "I caught a dorado! ♪ I say \"dorado\", you say \"doraydo.\"♪"
     },
     "Gar": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Icon-gar.png/revision/latest?cb=20200401003129",
+        "name": "Gar",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Gar",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Icon-gar.png/revision/latest?cb=20200401003129",
         "price": 6000,
         "location": "Pond",
         "shadow_size": "5",
@@ -1209,10 +1421,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/Animal-crossing-new-horizons-gar.jpg/revision/latest?cb=20200605002412",
+        "museum_phrase": "Hoo hoo! So you have snagged a gar. Did you know this beastly fish can grow up to nine feet long? Indeed, the gar is a remnant of times long past—a living fossil, if you will. It not only has sharp teeth and armor-like scales...it has the ability to take breaths of air as well! Ah, to look upon this unusual fish is to get a glimpse of our prehistoric past.",
+        "catch_phrase": "I caught a gar! Yar! It's a gar! Har har!"
     },
     "Arapaima": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Icon-arapaima.png/revision/latest?cb=20200401003128",
+        "name": "Arapaima",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Arapaima",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Icon-arapaima.png/revision/latest?cb=20200401003128",
         "price": 10000,
         "location": "River",
         "shadow_size": "6",
@@ -1232,10 +1449,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/Arapiama_Screen.jpg/revision/latest?cb=20200508163318",
+        "museum_phrase": "The stately arapaima is quite large. Indeed, it is among the largest freshwater fish there are. Furthermore, these fascinating fish make quite the family unit. That is to say, male arapaimas protect their young by holding them gently in their mouths. Meanwhile, female arapaimas swim circles around these full-mouthed fathers fending off predators. It simply goes to show that cold-blooded creatures can be heartwarming too.",
+        "catch_phrase": "I caught an arapaima! How did it get here? Arapaiknow!"
     },
-    "Saddled bichir": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Icon-saddledbichir.png/revision/latest?cb=20200401003130",
+    "Saddled_bichir": {
+        "name": "Saddled bichir",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Saddled_bichir",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Icon-saddledbichir.png/revision/latest?cb=20200401003130",
         "price": 4000,
         "location": "River",
         "shadow_size": "4",
@@ -1255,10 +1477,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/Saddled_Bichir.jpg/revision/latest?cb=20200605001423",
+        "museum_phrase": "What an elegant specimen you've found. The saddled bichir has a look entirely its own. They have poor eyesight, so they use their fine-tuned sniffers to seek out prey. Can you imagine relying solely on your sense of smell to find food? And if one nostril became clogged, would you be unable to tell how far away the scent was?",
+        "catch_phrase": "I caught a saddled bichir! And me without my tiny riding crop..."
     },
     "Sturgeon": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Icon-sturgeon.png/revision/latest?cb=20200401003129",
+        "name": "Sturgeon",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Sturgeon",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Icon-sturgeon.png/revision/latest?cb=20200401003129",
         "price": 10000,
         "location": "River (Mouth)",
         "shadow_size": "6",
@@ -1284,10 +1511,15 @@
                 8,
                 9
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Sturgeon.png/revision/latest?cb=20200326120027",
+        "museum_phrase": "The sturgeon is a large and long-lived fish which has changed little in the last 300 million years. One curious behavior of theirs is leaping high out of the water and falling back in on their sides. The smacking sounds of their re-entry can be heard for up to half a mile away, likely more underwater! No one knows why they do it, but I like to think it's their impression of bread popping out of toaster! ",
+        "catch_phrase": "I caught a sturgeon! Wonder if it can perform sturgery... "
     },
-    "Sea butterfly": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-seabutterfly.png/revision/latest?cb=20200401003129",
+    "Sea_butterfly": {
+        "name": "Sea butterfly",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Sea_butterfly",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-seabutterfly.png/revision/latest?cb=20200401003129",
         "price": 1000,
         "location": "Sea",
         "shadow_size": "1",
@@ -1307,10 +1539,15 @@
                 8,
                 9
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/Nh-sea-butterfly.jpg/revision/latest?cb=20200331063953",
+        "museum_phrase": "Such mystery! Such grace! Did you know that the sea butterfly's scientific name is Thecosomata? A very rough translation of that is 'shell body.' Indeed, this illustrious creature is related to snails! However, it reminds me much more of an elegant feathered friend, the way it flies through the water. With such grace in flying, one shouldn't wonder if it's related to the owl, hoo hoo!",
+        "catch_phrase": "I caught a sea butterfly! Try not to confuse it for a sea moth!"
     },
-    "Sea horse": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Icon-seahorse.png/revision/latest?cb=20200401003129",
+    "Sea_horse": {
+        "name": "Sea horse",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Sea_horse",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Icon-seahorse.png/revision/latest?cb=20200401003129",
         "price": 1100,
         "location": "Sea",
         "shadow_size": "1",
@@ -1338,10 +1575,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/Nh-sea-horse.jpg/revision/latest?cb=20200331070915",
+        "museum_phrase": "Ah, a favorite of mine, to be sure! The sea horse is such a very unique creature and is indeed a fish! Though, as far as fish go, sea horses are not great swimmers. The sea horse, you see, has but a wee fin on its back, which propels it through water rather poorly. Thus these fish are often found using their prehensile tails to hold tight in amongst the sea grass. And here's one final fact for you... Sea horses have no stomach and so must constantly feed to stay alive! Indeed, the life of a land horse sounds far easier than that of the hardworking horse of the sea.",
+        "catch_phrase": "I caught a sea horse! But...where's its sea jockey?"
     },
-    "Clown fish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-clownfish.png/revision/latest?cb=20200401003129",
+    "Clown_fish": {
+        "name": "Clown fish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Clownfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-clownfish.png/revision/latest?cb=20200401003129",
         "price": 650,
         "location": "Sea",
         "shadow_size": "1",
@@ -1365,10 +1607,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/Clownfish_NH.jpg/revision/latest?cb=20200331051834",
+        "museum_phrase": "Few can deny the delightful qualities of the clown fish. These vibrant fish make their home among venomous anemones. It's a mutually beneficial arrangement. The clown fish finds safety in the anemone's wriggling arms, as well as leftover scraps of food. In return, the clown fish ward off parasites and predators for the anemone. Thus these colorful fish remind us of the importance of maintaining good cheer among our roommates.",
+        "catch_phrase": "I caught a clown fish! How many can fit in a carfish? "
     },
     "Surgeonfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Icon-surgeonfish.png/revision/latest?cb=20200401003129",
+        "name": "Surgeonfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Surgeonfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Icon-surgeonfish.png/revision/latest?cb=20200401003129",
         "price": 1000,
         "location": "Sea",
         "shadow_size": "2",
@@ -1392,10 +1639,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/Surgeonfish_NH.jpg/revision/latest?cb=20200605011747",
+        "museum_phrase": "Hoo! Careful, now! These fish are particularly dangerous, despite their seemingly docile appearance. With its saturated blue and yellow tones, the surgeonfish is quite breathtaking. It's got to keep up with all the other vibrant fish that live in the coral too, I wager. Quite the competition! Its spine is sharp as a blade, so care must be taken when handling these beauties...",
+        "catch_phrase": "I caught a surgeonfish! Scalpel! Forceps! Fish hook! "
     },
-    "Butterfly fish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Icon-butterflyfish.png/revision/latest?cb=20200401003129",
+    "Butterfly_fish": {
+        "name": "Butterfly fish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Butterfly_fish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Icon-butterflyfish.png/revision/latest?cb=20200401003129",
         "price": 1000,
         "location": "Sea",
         "shadow_size": "2",
@@ -1419,10 +1671,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/Nh-butterfly-fish.jpg/revision/latest?cb=20200331065936",
+        "museum_phrase": "Ah, the butterfly fish is just charming with its beautiful colors and elegant movements. I refer to it as a butterfly fish, but it's actually a grouping in which there are over 100 types! These beautiful aquatic friends swim in schools amid coral, fluttering back and forth with the tides. The sheer awe one must experience when witnessing such a sight. It must be a dream! So much better than actual butterflies...",
+        "catch_phrase": "I caught a butterfly fish! Did it change from a caterpillar fish?"
     },
     "Napoleonfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Icon-napoleonfish.png/revision/latest?cb=20200401003129",
+        "name": "Napoleonfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Napoleonfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Icon-napoleonfish.png/revision/latest?cb=20200401003129",
         "price": 10000,
         "location": "Sea",
         "shadow_size": "6",
@@ -1438,10 +1695,15 @@
                 1,
                 2
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/Napoleon_Fish_%28New_Horizons%29.jpeg/revision/latest?cb=20200413041220",
+        "museum_phrase": "Quite the catch you've brought! The stately and debonair Napoleonfish is truly something to behold. Those beady eyes! That bumpy head! That bold blue-green coloring! Alas, this quirky creature is quite endangered due to a variety of factors. Needless to say, we must do our very best to take care of our lumpy friend and its environment.",
+        "catch_phrase": "I caught a Napoleonfish! It’s not as big as it thinks!"
     },
-    "Zebra turkeyfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-zebraturkeyfish.png/revision/latest?cb=20200401003130",
+    "Zebra_turkeyfish": {
+        "name": "Zebra turkeyfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Zebra_turkeyfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-zebraturkeyfish.png/revision/latest?cb=20200401003130",
         "price": 500,
         "location": "Sea",
         "shadow_size": "3",
@@ -1469,10 +1731,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/NH-Zebra-Turkeyfish.png/revision/latest?cb=20200417171217",
+        "museum_phrase": "The sheer brilliance and diversity found in the aquatic underworld never cease to amaze me. This zebra turkeyfish is as stunning to gaze upon as it is deadly. Those spines that are part of its defining physique are chock-full of venom. Fortunately, zebra turkeyfish are not susceptible to another's venom. Though solitary, I imagine they give one another a mean fin bump when passing each other by.",
+        "catch_phrase": "I caught a zebra turkeyfish! Land, air, water--make up your mind!"
     },
     "Blowfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Icon-blowfish.png/revision/latest?cb=20200401003129",
+        "name": "Blowfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Blowfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/NH-Icon-blowfish.png/revision/latest?cb=20200401003129",
         "price": 5000,
         "location": "Sea",
         "shadow_size": "3",
@@ -1492,10 +1759,15 @@
                 7,
                 8
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/NewLeafBlowFish.jpg/revision/latest?cb=20130813172735",
+        "museum_phrase": "As you may know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you may not have known is that poison and spines are not the limit of this animal's defenses! A predator that tried to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal.",
+        "catch_phrase": "I caught a blowfish! I'm blown away!"
     },
-    "Puffer fish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Icon-pufferfish.png/revision/latest?cb=20200401003130",
+    "Puffer_fish": {
+        "name": "Puffer fish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Puffer_fish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Icon-pufferfish.png/revision/latest?cb=20200401003130",
         "price": 250,
         "location": "Sea",
         "shadow_size": "3",
@@ -1513,10 +1785,15 @@
                 2,
                 3
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/55._Igelfisch.png/revision/latest?cb=20200325125100",
+        "museum_phrase": "Like its cousin the blowfish, when the puffer fish feels threatened it inflates into a spiky balloon. The biggest difference between them is that the puffer fish is not deadly poisonous like its kin. So while it may look scary, the substantially reduced risk to life and limb makes it much better company.",
+        "catch_phrase": "I caught a puffer fish! I thought you would be tougher, fish!"
     },
     "Anchovy": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-anchovy.png/revision/latest?cb=20200401003129",
+        "name": "Anchovy",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Anchovy_(fish)",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-anchovy.png/revision/latest?cb=20200401003129",
         "price": 200,
         "location": "Sea",
         "shadow_size": "2",
@@ -1552,10 +1829,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/Anchovy_NH.jpg/revision/latest?cb=20200605011532",
+        "museum_phrase": "There are more than 140 species of anchovy, but they do all have some things in common. They are small and feed by simply swimming with their mouths open to filter food particles from the sea. (In my sleepier moments, I sometimes wish I could do that...)",
+        "catch_phrase": "I caught an anchovy! Stay away from my pizza!"
     },
-    "Horse mackerel": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Icon-horsemackerel.png/revision/latest?cb=20200401003129",
+    "Horse_mackerel": {
+        "name": "Horse mackerel",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Horse_mackerel",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Icon-horsemackerel.png/revision/latest?cb=20200401003129",
         "price": 150,
         "location": "Sea",
         "shadow_size": "2",
@@ -1591,10 +1873,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/Nh-horse-mackerel.jpg/revision/latest?cb=20200331070355",
+        "museum_phrase": "Supposedly the horse mackerel derives its name from a—false—myth about its strength as a swimmer. The gist of it is that these fish are so powerful underwater that smaller fish can ride them as steeds! It's absurd, of course. Where would these alleged fish jockeys attach a saddle, much less horseshoes? One does wish that people would construct their legends with a BIT more scientific plausibility! ",
+        "catch_phrase": "I caught a horse mackerel! Of course, Mack...er..el."
     },
-    "Barred knifejaw": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Icon-barredknifejaw.png/revision/latest?cb=20200401003128",
+    "Barred_knifejaw": {
+        "name": "Barred knifejaw",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Barred_knifejaw",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Icon-barredknifejaw.png/revision/latest?cb=20200401003128",
         "price": 5000,
         "location": "Sea",
         "shadow_size": "3",
@@ -1624,10 +1911,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/Nh-barred-knifejaw.jpg/revision/latest?cb=20200331070145",
+        "museum_phrase": "Wonderful! I would love nothing more! The barred knifejaw, also called the striped beakfish, is a lovely fish with a distinctive striped pattern. It is reportedly also a very curious fish in that it has been known to approach swimmers to \"greet\" them. They also tend to be good at avoiding fishing hooks, so well done on outwitting this one!",
+        "catch_phrase": "I caught a barred knifejaw! They must have a hard time eating!"
     },
-    "Sea bass": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-seabass.png/revision/latest?cb=20200401003130",
+    "Sea_bass": {
+        "name": "Sea bass",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Sea_bass",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-seabass.png/revision/latest?cb=20200401003130",
         "price": 400,
         "location": "Sea",
         "shadow_size": "5",
@@ -1663,10 +1955,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/Nh-sea-bass.jpg/revision/latest?cb=20200331064521",
+        "museum_phrase": "Sea bass is a name given to a variety of different species of saltwater fish. They are a varied bunch with some as small as four inches and some as staggeringly ginormous as eight feet! 'Sea bass' is a bit pedestrian though. Many species have better names, such as 'redbanded perch.' Or the delightfully whimsical dusky grouper! Or the potato cod! WILL NO ONE THINK OF THE PINK MAOMAO?!",
+        "catch_phrase": "I caught a sea bass! No, wait- it's at least a C+!"
     },
-    "Red snapper": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Icon-redsnapper.png/revision/latest?cb=20200401003130",
+    "Red_snapper": {
+        "name": "Red snapper",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Red_snapper",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Icon-redsnapper.png/revision/latest?cb=20200401003130",
         "price": 3000,
         "location": "Sea",
         "shadow_size": "4",
@@ -1702,10 +1999,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/Nh-red-snapper.jpg/revision/latest?cb=20200331055452",
+        "museum_phrase": "'Red snapper' is the common name of dozens of fish species, and I wonder why it is so popular. Are there so many types of fish that are both a shade of red and have a tendency to snap? Were there no other names? What about 'burgundy biter'? 'Garnet grasper'? 'Puce pincher'?",
+        "catch_phrase": "I caught a red snapper! It looks pretty dapper!"
     },
     "Dab": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Icon-dab.png/revision/latest?cb=20200401003129",
+        "name": "Dab",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Dab",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Icon-dab.png/revision/latest?cb=20200401003129",
         "price": 300,
         "location": "Sea",
         "shadow_size": "3",
@@ -1731,10 +2033,15 @@
                 9,
                 10
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/B094BB91-6D79-43EA-A366-633AB1205A8F.jpeg/revision/latest?cb=20200417140931",
+        "museum_phrase": "The dab is a flatfish that bears some resemblance to the olive flounder, though their mouths are different. Personally, I am morbidly fascinated by each fish's eye placement. The dab's eyes are both on its right side, while the olive flounder's are on the left. These fish spend lots of time lying on their sides in the sand, so the odd eye placement makes some sense... But it's — how can I put this? Creepy? Viscerally disturbing? Profoundly upsetting to fans of symmetry? ",
+        "catch_phrase": "I caught a dab! Not bad!"
     },
-    "Olive flounder": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-oliveflounder.png/revision/latest?cb=20200401003129",
+    "Olive_flounder": {
+        "name": "Olive flounder",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Olive_flounder",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-oliveflounder.png/revision/latest?cb=20200401003129",
         "price": 800,
         "location": "Sea",
         "shadow_size": "5",
@@ -1770,10 +2077,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Olive_Flounder_NH.png/revision/latest?cb=20200605012051",
+        "museum_phrase": "Did you know that the olive flounder is the same shape as other fish when it hatches? But as it grows, it gets both wider and flatter, and can reach some three feet long. These flat fish spend much of their lives buried under the sandy ocean floor, waiting for prey to happen by. Imagine the surprise for said prey when they strike. It would be as if your kitchen floor were to bite you!",
+        "catch_phrase": "I caught an olive flounder! That's not the pits!"
     },
     "Squid": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Icon-squid.png/revision/latest?cb=20200401003130",
+        "name": "Squid",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Squid",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Icon-squid.png/revision/latest?cb=20200401003130",
         "price": 500,
         "location": "Sea",
         "shadow_size": "3",
@@ -1803,10 +2115,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/Nh-squid.jpg/revision/latest?cb=20200331054636",
+        "museum_phrase": "Well, first off, squids are members of the mollusk family, just like the octopus. Many mollusks like snails and clams have shells, but the squid's body is almost completely soft. The exception is a long, narrow bit of hard material going through its main body - the last remnant of its shell. Of course, having your shell INSIDE is not a best practice. Perhaps they lost the owner's manual!",
+        "catch_phrase": "I caught a squid! I had an inkling I might!"
     },
-    "Moray eel": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Icon-morayeel.png/revision/latest?cb=20200401003130",
+    "Moray_eel": {
+        "name": "Moray eel",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Moray_eel",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Icon-morayeel.png/revision/latest?cb=20200401003130",
         "price": 2000,
         "location": "Sea",
         "shadow_size": "Narrow",
@@ -1824,10 +2141,15 @@
                 3,
                 4
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/MorayEelNL.png/revision/latest?cb=20130724215354",
+        "museum_phrase": "Despite its rather frightening features, the moray eel is really a very cowardly fish.It lives its life hiding in caves, and will only attack if you're looking for a fight.You've heard of a \"bark that is worse than the bite\"? Well, the moray eel has a face that's worse than its fight!",
+        "catch_phrase": "I caught a moray eel! When you're in love, that's a moray!"
     },
-    "Ribbon eel": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Icon-ribboneel.png/revision/latest?cb=20200401003129",
+    "Ribbon_eel": {
+        "name": "Ribbon eel",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Ribbon_eel",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-Icon-ribboneel.png/revision/latest?cb=20200401003129",
         "price": 600,
         "location": "Sea",
         "shadow_size": "Narrow",
@@ -1849,10 +2171,15 @@
                 4,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/Ribbon_the_eel.png/revision/latest?cb=20200529040317",
+        "museum_phrase": "The ribbon eel is related to the moray eel, though its bright coloration distinguishes it. It also hasa an unusual plant=like appendage at the tip of its nose that flutters as the creature moves. I like to think of it as having an extremely friendly nose that waves a greeting to those nearby! ",
+        "catch_phrase": "I caught a ribbon eel! Can it tie itself into a bow?"
     },
     "Tuna": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Icon-tuna.png/revision/latest?cb=20200401003129",
+        "name": "Tuna",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Tuna",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Icon-tuna.png/revision/latest?cb=20200401003129",
         "price": 7000,
         "location": "Pier",
         "shadow_size": "6",
@@ -1876,10 +2203,15 @@
                 9,
                 10
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Tuna.png/revision/latest?cb=20200326120800",
+        "museum_phrase": "The tuna is a large ocean fish that can reach upwards of nine feet long. Besides its great size, it's notable for continuing to swim even when it's sleeping! Well, to be fair, if it doesn't keep swimming, it won't be able to breathe and will of course die... But sleep should be restful, eh wot! If I were the tuna I would feel very hard done by!",
+        "catch_phrase": "I caught a tuna! It's a little off-key!"
     },
-    "Blue marlin": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-bluemarlin.png/revision/latest?cb=20200401003129",
+    "Blue_marlin": {
+        "name": "Blue marlin",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Blue_marlin",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-bluemarlin.png/revision/latest?cb=20200401003129",
         "price": 10000,
         "location": "Pier",
         "shadow_size": "6",
@@ -1909,10 +2241,15 @@
                 9,
                 10
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Blue-Marlin.png/revision/latest/scale-to-width-down/349?cb=20200417171542",
+        "museum_phrase": "The blue marlin has a distinctive angular shape and no scales. It is an unusual relative of the tuna. These mighty fish can exceed 13 feet from bill to tail. Some accounts even have it fighting with whales! No wonder it's a popular target for sport fishing: unlike most fish, it seems like a worthy opponent.",
+        "catch_phrase": "I caught a blue marlin! Listen to this fish. it's got a point."
     },
-    "Giant trevally": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-gianttrevally.png/revision/latest?cb=20200401003129",
+    "Giant_trevally": {
+        "name": "Giant trevally",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Giant_trevally",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-gianttrevally.png/revision/latest?cb=20200401003129",
         "price": 4500,
         "location": "Pier",
         "shadow_size": "5",
@@ -1936,10 +2273,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Giant_Trevally.jpg/revision/latest?cb=20200518101307",
+        "museum_phrase": "The giant trevally, as befits its name, can reach six feet in length and 180 pounds. Its size and strength has made it a favored opponent for anglers since time immemorial. They are also ingenious hunters, sometimes taking advantage of other predators to distract their prey. There have even been documented cases of them attacking - gulp - birds.",
+        "catch_phrase": "I caught a giant trevally! Yeah, I'm pretty well-trevalled."
     },
     "Mahi-mahi": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-mahimahi.png/revision/latest?cb=20200401003129",
+        "name": "Mahi-mahi",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Mahi-mahi",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-mahimahi.png/revision/latest?cb=20200401003129",
         "price": 6000,
         "location": "Pier",
         "shadow_size": "5",
@@ -1963,10 +2305,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/MahiMahi.png/revision/latest?cb=20200501165325",
+        "museum_phrase": "The mahi-mahi is an ocean fish known for its wide, somewhat-cute face. It can reach over six feet long. It is known by different names including \"dolphinfish,\" even though it has no relation to dolphins. They live in only in warm, tropical waters...which perhaps explains the relaxed, happy look on their faces.",
+        "catch_phrase": "I caught a mahi-mahi! It’s all mahine-mahine."
     },
-    "Ocean sunfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Icon-oceansunfish.png/revision/latest?cb=20200401003129",
+    "Ocean_sunfish": {
+        "name": "Ocean sunfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Ocean_sunfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Icon-oceansunfish.png/revision/latest?cb=20200401003129",
         "price": 4000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
@@ -1984,10 +2331,15 @@
                 2,
                 3
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/OceanSunfishNL.png/revision/latest?cb=20130722144947",
+        "museum_phrase": "The ocean sunfish is a large relative of the blowfish with an unusual shape, like a fish head with a tail. They are a fairly relaxed species, often content to ride where the currents take them. This is fortunate as, otherwise, the sight of a large head coming toward you might be alarming!",
+        "catch_phrase": "I caught an ocean sunfish! Good thing I'm wearing ocean sunscreen!"
     },
     "Ray": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Icon-ray.png/revision/latest?cb=20200401003129",
+        "name": "Ray",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Ray",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Icon-ray.png/revision/latest?cb=20200401003129",
         "price": 3000,
         "location": "Sea",
         "shadow_size": "5",
@@ -2007,10 +2359,15 @@
                 4,
                 5
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Ray_%28New_Leaf_crop%29.jpg/revision/latest?cb=20141208005344",
+        "museum_phrase": "The ray is an unusually shaped fish with a flat body and a long body, somewhat related to sharks. Seen from the bottom, the mouth on its stomach appears to be smiling, which is objectively adorable. But be cautious—unlike most cute animals, some rays are extremely venomous. BEWARE THE SMILE.",
+        "catch_phrase": "I caught a ray! A few more and I'll have a tan!"
     },
-    "Saw shark": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Icon-sawshark.png/revision/latest?cb=20200401003129",
+    "Saw_shark": {
+        "name": "Saw shark",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Saw_shark",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Icon-sawshark.png/revision/latest?cb=20200401003129",
         "price": 12000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
@@ -2030,10 +2387,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/Saw.jpg/revision/latest?cb=20200604233453",
+        "museum_phrase": "As you might expect from the name, the saw shark is a shark with a head that resembles a saw. This unusual appendage is used both to dig potential prey out of the sand and as a weapon against said prey. Given that, it seems like a more appropriate name would have been \"shovel-sword shark,\" eh wot?",
+        "catch_phrase": "I caught a saw shark! You could call it sea saw!"
     },
-    "Hammerhead shark": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Icon-hammerheadshark.png/revision/latest?cb=20200401003129",
+    "Hammerhead_shark": {
+        "name": "Hammerhead shark",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Hammerhead_shark",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Icon-hammerheadshark.png/revision/latest?cb=20200401003129",
         "price": 8000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
@@ -2053,10 +2415,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/Hammerhead-Shark-Critterpedia.jpg/revision/latest?cb=20200604235835",
+        "museum_phrase": "The hammerhead shark is known for its distinctive, hammer-shaped head, hence the name. Er, obviously. Anyhoot, this oddly shaped head allows the beast to see 360 degrees around itself, from top to bottom. Imagine being able to see so widely! You could check for untied shoelaces AND imminent rain simultaneously!",
+        "catch_phrase": "I caught a hammerhead shark! I hit the nail on the head!"
     },
-    "Great white shark": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/38/NH-Icon-greatwhiteshark.png/revision/latest?cb=20200401003129",
+    "Great_white_shark": {
+        "name": "Great white shark",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Great_white_shark",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/38/NH-Icon-greatwhiteshark.png/revision/latest?cb=20200401003129",
         "price": 15000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
@@ -2076,10 +2443,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/Great-White-Shark-in-Animal-Crossing-New-Horizons-1024x576.jpg/revision/latest?cb=20200604235139",
+        "museum_phrase": "Great white sharks are obviously known first and foremost for their biting. They are masters of the craft! They do lose teeth regularly through biting-related activities, but, luckily, those teeth grow back quickly. In fact, their missing teeth can be regrown in a single day. Just imagine their tooth-fairy-related income!",
+        "catch_phrase": "I caught a great white shark! Watch out for its jaws!"
     },
-    "Whale shark": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-whaleshark.png/revision/latest?cb=20200401003129",
+    "Whale_shark": {
+        "name": "Whale shark",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Whale_shark",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-whaleshark.png/revision/latest?cb=20200401003129",
         "price": 13000,
         "location": "Sea",
         "shadow_size": "6 (Fin)",
@@ -2099,13 +2471,18 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/Whale_Shark.jpg/revision/latest/scale-to-width-down/349?cb=20200605001052",
+        "museum_phrase": "The mighty whale shark is the largest species of fish in the world with specimens up to 60 feet long! Unlike many of their kin in the shark family, whale sharks are nonviolent, eating only plankton and such. They grow slowly and live long, relaxed lives of filter feeding and leisure in warm waters. So if you ever have to choose a fish as a roommate, you could do worse than the whale shark. Unless you can't swim.",
+        "catch_phrase": "Thar she blows! I caught a whale shark! I'm tellin' ya, it was thiiiiiiiiiiiiiiiiiiiis big!"
     },
     "Suckerfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-suckerfish.png/revision/latest?cb=20200401003131",
+        "name": "Suckerfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Suckerfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b9/NH-Icon-suckerfish.png/revision/latest?cb=20200401003131",
         "price": 1500,
         "location": "Sea",
-        "shadow_size": "4 (Fin)",
+        "shadow_size": "6 (Fin)",
         "time": [
             "All day"
         ],
@@ -2122,10 +2499,15 @@
                 3,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/Download-0.jpeg/revision/latest?cb=20200402045733",
+        "museum_phrase": "The suckerfish is a curious fish that likes to attach itself with its sucker mouth to larger marine animals. The benefit to the suckerfish is that it gets to eat smaller parasites and dead skin off the host's body. Amusingly, some people have used suckerfish on cords to catch large turtles with the fish's own suction! I imagine this practice is the cause of some awkward conversations between fish and turtle, eh wot?",
+        "catch_phrase": "I caught a suckerfish! I thought it was a shark! Oh, wait - now I get it. \"Sucker\"..."
     },
-    "Football fish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Icon-footballfish.png/revision/latest?cb=20200401003129",
+    "Football_fish": {
+        "name": "Football fish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Football_fish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Icon-footballfish.png/revision/latest?cb=20200401003129",
         "price": 2500,
         "location": "Sea",
         "shadow_size": "4",
@@ -2147,10 +2529,15 @@
                 8,
                 9
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/Nh-football-fish.jpg/revision/latest?cb=20200331054117",
+        "museum_phrase": "The football fish is a strange and grotesque deep-sea fish with a lantern-like light on its forehead. Its light is apparently powered by luminous bacteria and other glowing microorganisms. One theory says it can spray these luminescent sidekicks when prey approaches in order to dazzle them... The deep contains many mysteries... as well as some things that are just sort of odd and off-putting.",
+        "catch_phrase": "I caught a football fish! Some countries call it a soccer fish!"
     },
     "Oarfish": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Icon-oarfish.png/revision/latest?cb=20200401003129",
+        "name": "Oarfish",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Oarfish",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Icon-oarfish.png/revision/latest?cb=20200401003129",
         "price": 9000,
         "location": "Sea",
         "shadow_size": "6",
@@ -2174,10 +2561,15 @@
                 10,
                 11
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/Nh-oarfish.jpg/revision/latest?cb=20200331062128",
+        "museum_phrase": "The oarfish is a long, eel-like fish that can supposedly reach up to 36 feet in length. They appear in various legends as things like messengers of the gods. It seems to me a creature like that could explain the myth of massive, ship-crushing sea serpents. It is, of course, well documented that people tend to exaggerate the size of 'the one that got away.' ",
+        "catch_phrase": "I caught an oarfish! I hope I catch morefish!"
     },
     "Barreleye": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Icon-barreleye.png/revision/latest?cb=20200401003128",
+        "name": "Barreleye",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Barreleye",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Icon-barreleye.png/revision/latest?cb=20200401003128",
         "price": 15000,
         "location": "Sea",
         "shadow_size": "2",
@@ -2213,10 +2605,15 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Barreleye.png/revision/latest?cb=20200417171856",
+        "museum_phrase": "The barreleye is a deep-sea fish with protuberant eyes and a clear head, so some of its organs are... visible. At first blush, a transparent head seems absurd, but there is a reason: so it can see things directly above! But I must confess--the more I learn about deep-sea fish, the happier I am to live on dry land, wot.",
+        "catch_phrase": "I caught a barreleye! Like eyeing fish in a barrel!"
     },
     "Coelacanth": {
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Icon-coelacanth.png/revision/latest?cb=20200401003129",
+        "name": "Coelacanth",
+        "wiki_url": "https://animalcrossing.fandom.com/wiki/Coelacanth",
+        "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/NH-Icon-coelacanth.png/revision/latest?cb=20200401003129",
         "price": 15000,
         "location": "Sea",
         "shadow_size": "6",
@@ -2252,6 +2649,9 @@
                 11,
                 12
             ]
-        }
+        },
+        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Coelacanth.png/revision/latest?cb=20200326115007",
+        "museum_phrase": "The coelacanth is a deep-sea fish that has been around since the age of the dinosaurs. They were long thought extinct, so when living specimens were discovered, it was quite a shock! Now I'll just have to figure out where in the museum to display it— fish or fossils!",
+        "catch_phrase": "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN! "
     }
 }
