@@ -1,8 +1,10 @@
 {
     "Common_butterfly": {
         "name": "Common butterfly",
+        "id": 1,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Common_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Icon-commonbutterfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/1",
         "price": 160,
         "location": "Flying",
         "time": [
@@ -34,14 +36,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Common_butterfly.jpg/revision/latest?cb=20200329182747",
-        "museum_phrase": "The common butterfly would have you believe it is but a beautiful friend flitting prettily about the flowers. Bah, I say! They may seem innocent things with their pretty white wings, but they hide a dark side! The common butterfly caterpillar is called a cabbage worm, you see, and it's a most voracious pest. The ravenous beasts chew through cabbage, broccoli, kale and the like with a devastating gusto. And my feathers! Their green coloring is truly GROSS! A hoo-rrific hue, I say.",
-        "catch_phrase": "I caught a common butterfly! They often flutter by!"
+        "catch_phrase": "I caught a common butterfly! They often flutter by!",
+        "museum_phrase": "The common butterfly would have you believe it is but a beautiful friend flitting prettily about the flowers. Bah, I say! They may seem innocent things with their pretty white wings, but they hide a dark side! The common butterfly caterpillar is called a cabbage worm, you see, and it's a most voracious pest. The ravenous beasts chew through cabbage, broccoli, kale and the like with a devastating gusto. And my feathers! Their green coloring is truly GROSS! A hoo-rrific hue, I say."
     },
     "Yellow_butterfly": {
         "name": "Yellow butterfly",
+        "id": 2,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Yellow_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Icon-yellowbutterfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/2",
         "price": 160,
         "location": "Flying",
         "time": [
@@ -65,14 +68,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/NH-Yellow_butterfly.jpg/revision/latest?cb=20200329190009",
-        "museum_phrase": "Allow me to enlighten you... The yellow butterfly is named for its yellow wings. Need I say more? If I must, then allow me to note that the female yellow butterfly can lay up to 600 eggs at a time! Bleech! And their creepy crawly caterpillars just love to chomp on clover plants. A recipe for disaster, I say. Just imagine reaching for a four-leaf clover, only to touch a larva instead! Yuck! The worst of luck!",
-        "catch_phrase": "I caught a yellow butterfly! Shouldn't all BUTTERflies be yellow?"
+        "catch_phrase": "I caught a yellow butterfly! Shouldn't all BUTTERflies be yellow?",
+        "museum_phrase": "Allow me to enlighten you... The yellow butterfly is named for its yellow wings. Need I say more? If I must, then allow me to note that the female yellow butterfly can lay up to 600 eggs at a time! Bleech! And their creepy crawly caterpillars just love to chomp on clover plants. A recipe for disaster, I say. Just imagine reaching for a four-leaf clover, only to touch a larva instead! Yuck! The worst of luck!"
     },
     "Tiger_butterfly": {
         "name": "Tiger butterfly",
+        "id": 3,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Tiger_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-Icon-tigerbutterfly.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/3",
         "price": 240,
         "location": "Flying",
         "time": [
@@ -98,14 +102,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Tiger_butterfly.jpg/revision/latest?cb=20200329192451",
-        "museum_phrase": "Tiger butterflies are known for their majestic wings, which many consider quite beautiful. Truth be told, I find them monstrous! Those strange striped patterns... They give this owl the goose bumps! And while you may imagine young tiger butterfly larvae to look like lovely green caterpillars... it's not so! Why, when tiger butterflies are but babes, they're covered in unsightly white, brown, and black spots. In this way, they camouflage themselves as...as...bird droppings! Putrid pests, indeed!",
-        "catch_phrase": "I caught a tiger butterfly! I've earned my stripes!"
+        "catch_phrase": "I caught a tiger butterfly! I've earned my stripes!",
+        "museum_phrase": "Tiger butterflies are known for their majestic wings, which many consider quite beautiful. Truth be told, I find them monstrous! Those strange striped patterns... They give this owl the goose bumps! And while you may imagine young tiger butterfly larvae to look like lovely green caterpillars...it's not so! Why, when tiger butterflies are but babes, they're covered in unsightly white, brown, and black spots. In this way, they camouflage themselves as...as...bird droppings! Putrid pests, indeed!"
     },
     "Peacock_butterfly": {
         "name": "Peacock butterfly",
+        "id": 4,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Peacock_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-peacockbutterfly.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/4",
         "price": 2500,
         "location": "Flying by Hybrid Flowers",
         "time": [
@@ -125,14 +130,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Peacock_butterfly.jpg/revision/latest?cb=20200327193611",
-        "museum_phrase": "Pretty as a peacock? Bah, I say! The wings of the peacock butterfly may have a pattern similar to that of the beautiful bird... But its forewings are also covered in a dark, velvety hair! You heard right! HAIRY wings! A hair-raising revelation indeed!",
-        "catch_phrase": "I caught a peacock butterfly! Now it's my turn to strut my stuff!"
+        "catch_phrase": "I caught a peacock butterfly! Now it's my turn to strut my stuff!",
+        "museum_phrase": "Pretty as a peacock? Bah, I say! The wings of the peacock butterfly may have a pattern similar to that of the beautiful bird... But its forewings are also often covered in a dark, velvety hair! You heard right! HAIRY wings! A hair-raising revelation indeed!"
     },
     "Common_bluebottle": {
         "name": "Common bluebottle",
+        "id": 5,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Common_bluebottle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Icon-commonbluebottle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/5",
         "price": 300,
         "location": "Flying",
         "time": [
@@ -154,14 +160,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Common_bluebottle.jpg/revision/latest?cb=20200327195344",
-        "museum_phrase": "The common bluebottle is a type of swallowtail butterfly with a bright blue line running down its wings. They fly quite nimbly, it seems, and are thus quite difficult to catch. But seeing as how they've been known to slurp nutrients from MUD puddles... I simply CAN'T imagine wanting to catch one myself. What awful breath!",
-        "catch_phrase": "I caught a common bluebottle! I'll put it in a rare green jar!"
+        "catch_phrase": "I caught a common bluebottle! I'll put it in a rare green jar!",
+        "museum_phrase": "The common bluebottle is a type of swallowtail butterfly with a bright blue line running down its wings. They fly quite nimbly, it seems, and are thus quite difficult to catch. But seeing how they've been known to slurp nutrients from MUD puddles... I simply CAN'T imagine wanting to catch one myself. What awful breath!"
     },
     "Paper_kite_butterfly": {
         "name": "Paper kite butterfly",
+        "id": 6,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Paper_kite_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Icon-paperkitebutterfly.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/6",
         "price": 1000,
         "location": "Flying",
         "time": [
@@ -197,14 +204,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/Paper_Kite_Butterfly.jpeg/revision/latest?cb=20200405003256",
-        "museum_phrase": "With its black-and-white-striped wing pattern, the paper kite butterfly is both elegant and pretty... PRETTY POISONOUS I MEAN! Hoo dear! Where was I? Oh yes... Even this butterfly's black-and-white-striped larva and little golden pupae are toxic to predators. Indeed, the paper kite butterfly's foul flavor is famous, and thus birds, in particular, steer clear of the fiends. THIS bird most of all!",
-        "catch_phrase": "I caught a paper kite butterfly! Do I read it, fly it, or spread it on toast?"
+        "catch_phrase": "I caught a paper kite butterfly! Do I read it, fly it, or spreadit on toast?",
+        "museum_phrase": "With its black-and-white-striped wing pattern, the paper kite butterfly is both elegant and pretty... PRETTY POISONOUS I MEAN! Hoo dear! Where was I? Oh yes... Even this butterfly's black-and-white-striped larva and little golden pupae are toxic to predators. Indeed, the paper kite butterfly's foul flavor is famous, and thus birds, in particular, steer clear of the fiends. THIS bird most of all!"
     },
     "Great_purple_emperor": {
         "name": "Great purple emperor",
+        "id": 7,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Great_purple_emperor",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Icon-greatpurpleemperor.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/7",
         "price": 3000,
         "location": "Flying",
         "time": [
@@ -224,14 +232,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Great_Purple_Emperor.png/revision/latest?cb=20200327064430",
-        "museum_phrase": "The great purple emperor lives high in the treetops and is renowned for its pretty purple-hued wings. Its impressive bird-like wingspan and elusive nature have made it a favorite among butterfly aficionados. But truth be told, the so-called great purple emperor has some not-so-great peculiarities. For one...it has two horrid HORNS upon its head when it is in its caterpillar form. For two...it has been known to dine on feces and animal carcasses! Hoo! That's why I call it the Emperor of EWWW!",
-        "catch_phrase": "I caught a great purple emperor! Its purple reign is over now!"
+        "catch_phrase": "I caught a great purple emperor! Its purple reign is over now!",
+        "museum_phrase": "The great purple emperor lives high in the treetops and is renowned for its pretty purple-hued wings. Its impressive bird-like wingspan and elusive nature have made it a favorite among butterfly aficionados. But truth be told, the so-called great purple emperor has some not-so-great personal peculiarities. For one...it has two horrid HORNS upon its head when it is in its caterpillar form. For two...it has been known to dine on feces and animal carcasses! Hoo! That's why I call it the Emperor of EWWW!"
     },
     "Monarch_butterfly": {
         "name": "Monarch butterfly",
+        "id": 8,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Monarch_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Icon-monarchbutterfly.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/8",
         "price": 140,
         "location": "Flying",
         "time": [
@@ -249,14 +258,15 @@
                 5
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/EVwKcFMUEAAZZax.jpg/revision/latest?cb=20200416203932",
-        "museum_phrase": "Did you know the monarch butterfly migrates south for the winter and returns north for the summer? Indeed, these horrid orange beasties do not tolerate the cold and travel 3,000 miles to escape the winter. During the journey, they cluster together in trees by the thousands just to stay warm. Imagine! Hordes of the foul flittering fiends huddled together in one place! If only they'd put on tiny coats instead.",
-        "catch_phrase": "I caught a monarch butterfly! Guess the butterflies are a democracy now!"
+        "catch_phrase": "I caught a monarch butterfly! Guess the butterflies are a democracy now!",
+        "museum_phrase": "Did you know the monarch butterfly migrates south for the winter and returns north for the summer? Indeed, these horrid orange beasties do not tolerate the cold and travel 3,000 miles to escape the winter. During the journey, they cluster together in trees by the thousands just to stay warm. Imagine! Hordes of the foul flittering fiends huddled together in one place! If only they'd put on tiny coats instead."
     },
     "Emperor_butterfly": {
         "name": "Emperor butterfly",
+        "id": 9,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Emperor_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Icon-emperorbutterfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/9",
         "price": 4000,
         "location": "Flying",
         "time": [
@@ -284,14 +294,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Emperor_butterfly.jpg/revision/latest?cb=20200327210012",
-        "museum_phrase": "The emperor butterfly is called the jewel of the forest. But its vivid blue hue... Ewww, let me tell you! The color does not come from a dye, but rather from light reflecting off layers of translucent scales. Yes, butterfly wings are covered in tiny scales! SCALES! Butterfly? Bah! More like snake of the sky!",
-        "catch_phrase": "I caught an emperor butterfly! It's not your average monarch!"
+        "catch_phrase": "I caught an emperor butterfly! It's not your average monarch!",
+        "museum_phrase": "The emperor butterfly is called the jewel of the forest. But its vivid blue hue... Ewww, let me tell you! The color does not come from a dye, but rather from light reflecting off layers of translucent scales. Yes, butterfly wings are covered in tiny scales! SCALES! Butterfly? Bah! More like snake of the sky!"
     },
     "Agrias_butterfly": {
         "name": "Agrias butterfly",
+        "id": 10,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Agrias_butterfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-agriasbutterfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/10",
         "price": 3000,
         "location": "Flying",
         "time": [
@@ -315,14 +326,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/Agrias_Butterfly.jpeg/revision/latest?cb=20200405003340",
-        "museum_phrase": "Some say the agrias butterfly is one of the most beautiful butterflies in the world. Bah, I say! BAH! They may have brightly colored wings, but the way they flutter and flitter...SO FOUL! In fact, the agrias butterfly flies so fast, it is quite a feat to catch one. I suppose I should congratulate you on your good fortune... But catching any bug seems a misfortune to me.",
-        "catch_phrase": "I caught an agrias butterfly! I wonder if it finds me disagrias-able?"
+        "catch_phrase": "I caught an agrias butterfly! I wonder if it finds me disagrias-able?",
+        "museum_phrase": "Some say the agrias butterfly is one of the most beautiful butterflies in the world. Bah, I say! BAH! They may have brightly colored wings, but the way they flutter and flitter...SO FOUL! In fact, the agrias butterfly flies so fast, it is quite a feat to catch one. I suppose I should congratulate you on your good fortune... But catching any bug seems a misfortune to me."
     },
     "Rajah_Brooke's_birdwing": {
         "name": "Rajah Brooke's birdwing",
+        "id": 11,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Rajah_Brooke%27s_birdwing",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Icon-rajahbrookesbirdwing.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/11",
         "price": 2500,
         "location": "Flying",
         "time": [
@@ -352,14 +364,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-RajaBrookeBirdwing.jpeg/revision/latest?cb=20200330214901",
-        "museum_phrase": "Did you know that the repulsive Rajah Brooke’s birdwing loves to luxur in hot-springs water? It’s true! Hoo! The males gather in groups to sip the moisture while the females hide in jungle trees. And though they dress to impress in red and green, these fluttering fiends are not just stylish... They’re also quite malicious! Their little larvae pack a poisonous punch that’s supposed to protect them from predators... But I suspect more diabolical designs.",
-        "catch_phrase": "I caught a Rajah Brooke's birdwing! Nothing else I'd rajah be doing!"
+        "catch_phrase": "I caught a Rajah Brooke's birdwing! Nothing else I'd rajah be doing!",
+        "museum_phrase": "Did you know that the repulsive Rajah Brooke's birdwing loves to luxuriate in hot-springs water? It's true! Hoo! The males gather in groups to sip the moisture while the females hide in jungle trees. And though they dress to impress in red and green, these fluttering fiends are not just stylish... They're also quite malicious! Their little larvae pack a poisonous punch that's supposed to protect them from predators... But I suspect more diabolical designs."
     },
     "Queen_Alexandra's_birdwing": {
         "name": "Queen Alexandra's birdwing",
+        "id": 12,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Queen_Alexandra%27s_birdwing",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Icon-queenalexandrasbirdwing.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/12",
         "price": 4000,
         "location": "Flying",
         "time": [
@@ -381,14 +394,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/63952D21-89D3-4A2A-93B4-4FD2B18EF95C.jpeg/revision/latest?cb=20200330172120",
-        "museum_phrase": "Hoo! The horror! This behemoth butterfly may be called a Queen Alexandra’s birdwing... But I call it the Queen of My Nightmares! It is huge! Indeed, the world‘s hugest. No butterfly can best its foot-long wingspan. The larvae alone grow to more than 4 inches. As if that weren’t appalling enough...they’re poisonous! Murderous monsters, indeed!",
-        "catch_phrase": "I caught a Queen Alexandra's birdwing! That's a feather in my cap!"
+        "catch_phrase": "I caught a Queen Alexandra's birdwing! That's a feather in my cap!",
+        "museum_phrase": "Hoo! The horror! This behemoth butterfly may be called a Queen Alexandra's birdwing... But I call it the Queen of My Nightmares! It is huge! Indeed, the world's hugest. No butterfly can best its foot-long wingspan. The larvae alone grow to more than 4 inches. As if that weren't appalling enough...they're poisonous! Murderous monsters, indeed!"
     },
     "Moth": {
         "name": "Moth",
+        "id": 13,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Moth",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Icon-moth.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/13",
         "price": 130,
         "location": "Flying by Light",
         "time": [
@@ -424,14 +438,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Moth.jpg/revision/latest?cb=20200328011916",
-        "museum_phrase": "Many think the moth is strictly a nocturnal creature. Alas, no! These frightful fluttering beasts have been known to haunt the daylight and twilight hours too. Thus, there is no time of day one might escape the moth trait I dislike most of all",
-        "catch_phrase": "I caught a moth! And I had a ball doing it!"
+        "catch_phrase": "I caught a moth! And I had a ball doing it!",
+        "museum_phrase": "Many think the moth is strictly a nocturnal creature. Alas, no! These frightful fluttering beasts have been known to haunt the daylight and twilight hours too. Thus, there is no time of day one might escape the moth trait I dislike most of all—those feathery antennae! The mere thought of them gives my feathers goosebumps. And I'm no goose."
     },
     "Atlas_moth": {
         "name": "Atlas moth",
+        "id": 14,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Atlas_moth",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Icon-atlasmoth.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/14",
         "price": 3000,
         "location": "On Trees",
         "time": [
@@ -455,14 +470,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Atlas_moth.jpg/revision/latest?cb=20200327221327",
-        "museum_phrase": "The Atlas moth is a monstrous thing! Not only is it one of the largest moths in the world... The tips of its wings look rather like the heads of venomous snakes! Despite its largeness and loathsome looks, the adult Atlas moth lives only for a few days. It emerges from its cocoon without a mouth, you see...and so cannot eat. I feel for the poor thing...but it is still foul!",
-        "catch_phrase": "I caught an Atlas moth! I bet it never gets lost!"
+        "catch_phrase": "I caught an Atlas moth! I bet it never gets lost!",
+        "museum_phrase": "The Atlas moth is a monstrous thing! Not only is it one of the largest moths in the world... The tips of its wings look rather like the heads of venomous snakes! Despite its largeness and loathsome looks, the adult Atlas moth lives only for a few days. It emerges from its cocoon without a mouth, you see...and so cannot eat. I feel for the poor thing...but it is still foul!"
     },
     "Madagascan_sunset_moth": {
         "name": "Madagascan sunset moth",
+        "id": 15,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Madagascan_sunset_moth",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Icon-madagascansunsetmoth.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/15",
         "price": 2500,
         "location": "Flying",
         "time": [
@@ -486,14 +502,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/Madagascan_sunset_moth_encyclopedia_%28New_Horizons%29.PNG/revision/latest?cb=20200323164806",
-        "museum_phrase": "The Madagascan sunset moth is said to be the most beautiful moth in the world...a sentiment even I can't deny. While most moths are nocturnal, this one flutters about during the day, making good use of the light. That is, when the daylight reflects off its wings, a kaleidoscope of colors are revealed! Oh! Eh...too bad it has such startling red feet as a caterpillar. I might have found it almost tolerable otherwise. Almost, but not quite.",
-        "catch_phrase": "I caught a Madagascan sunset moth! Wow, you're not from around here!"
+        "catch_phrase": "I caught a Madagascan sunset moth! Wow, you're not from around here!",
+        "museum_phrase": "The Madagascan sunset moth is said to be the most beautiful moth in the world...a sentiment even I can't deny. While most moths are nocturnal, this one flutters about during the day, making good use of the light. That is, when the daylight reflects off its wings, a kaleidoscope of colors are revealed! Oh! Eh...too bad it has such startling red feet as a caterpillar. I might have found it almost tolerable otherwise. Almost, but not quite."
     },
     "Long_locust": {
         "name": "Long locust",
+        "id": 16,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Long_locust",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Icon-longlocust.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/16",
         "price": 200,
         "location": "On the Ground",
         "time": [
@@ -521,14 +538,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Long_locust.jpg/revision/latest?cb=20200328002104",
-        "museum_phrase": "As if the average locust weren't large enough...we must suffer the long locust too! The wretched beasts are known for their unusually long hind legs as well as their elongated heads. But that is hardly the long locusts' worst trait... I tell you, they spit brown goo when they're scared! Revolting behavior indeed! Ugh and ewww!",
-        "catch_phrase": "I caught a long locust! Or, as I call it, a looooocust."
+        "catch_phrase": "I caught a long locust! Or, as I call it, a looooocust.",
+        "museum_phrase": "As if the average locust weren't large enough...we must suffer the long locust too! The wretched beasts are known for their unusually long hind legs as well as their elongated heads. But that is hardly the long locusts' worst trait... I tell you, they spit brown goo when they're scared!"
     },
     "Migratory_locust": {
         "name": "Migratory locust",
+        "id": 17,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Migratory_locust",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Icon-migratorylocust.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/17",
         "price": 600,
         "location": "On the Ground",
         "time": [
@@ -548,14 +566,15 @@
                 5
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/Migratory_locust_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204213",
-        "museum_phrase": "Ah yes, the lone migratory locust... It seems like such a harmless hopper as it bounces about in the grass. But beware! When these pests band together and travel in swarms, they leave devastation in their wake! Migratory locusts have gathered by the millions throughout history, wiping out crops and causing famine. That's why I always say, Never let a locust hang out with its friends! That is precisely how a plague begins.",
-        "catch_phrase": "I caught a migratory locust! Things just went south for this guy!"
+        "catch_phrase": "I caught a migratory locust! Things just went south for this guy!",
+        "museum_phrase": "Ah yes, the lone migratory locust. It seems like such a harmless hopper as it bounces about in the grass. But beware! When these pests band together and travel in swarms, they leave devastation in their wake! Migratory locusts have gathered by the millions throughout history, wiping out crops and causing famine. That's why I always say, \"Never let a locust hang out with its friends!\". That is precisely how a plague begins."
     },
     "Rice_grasshopper": {
         "name": "Rice grasshopper",
+        "id": 18,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Rice_grasshopper",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Icon-ricegrasshopper.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/18",
         "price": 160,
         "location": "On the Ground",
         "time": [
@@ -575,14 +594,15 @@
                 5
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/Rice_grasshopper.png/revision/latest?cb=20130717134111",
-        "museum_phrase": "In point of fact, rice grasshoppers are an awful pest! They devour rice plants and wipe out the crucial crop. But revenge is sweet! These bugs are edible, you see, and so some folks eat them as way to get rid of them. When boiled in soy sauce, rice grasshoppers are quite tasty, it's said. Though why anyone would put an insect in their mouth is beyond me. The mere thought gives me the gags!",
-        "catch_phrase": "I caught a rice grasshopper! I've been looking for a gluten-free alternative..."
+        "catch_phrase": "I caught a rice grasshopper! I've been looking for agluten-free alternative...",
+        "museum_phrase": "In point of fact, rice grasshoppers are an awful pest! They devour rice plants and wipe out the crucial crop. But revenge is sweet! These bugs are edible, you see, and so some folks eat them as way to get rid of them. When boiled in soy sauce, rice grasshoppers are quite tasty, it's said. Though why anyone would put an insect in their mouth is beyond me. The mere thought gives me the gags!"
     },
     "Grasshopper": {
         "name": "Grasshopper",
+        "id": 19,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Grasshopper",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Icon-grasshopper.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/19",
         "price": 160,
         "location": "On the Ground",
         "time": [
@@ -600,14 +620,15 @@
                 3
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/EVwJutLUEAE40EH.jpg/revision/latest?cb=20200416203628",
-        "museum_phrase": "Grasshoppers are known for making a chirping sound. Though it doesn't sound like chirping to me... They make this rude racket by rubbing their hind legs against their wings. And though they eat seeds and pollen, they sometimes prey on smaller insects too. I say! Such violent table manners should not be tolerated! Horrible hoppers.",
-        "catch_phrase": "I caught a grasshopper! Seems it's hopped its last!"
+        "catch_phrase": "I caught a grasshopper! They're a grass act!",
+        "museum_phrase": "Grasshoppers are known for making a \"chirping\" sound. Though it doesn't sound like chirping to me... They make this rude racket by rubbing their hind legs against their wings. And though they eat seeds and pollen, they sometimes prey on smaller insects too. I say! Such violent table manners should not be tolerated! Horrible hoppers."
     },
     "Cricket": {
         "name": "Cricket",
+        "id": 20,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Cricket",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Icon-cricket.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/20",
         "price": 130,
         "location": "On the Ground",
         "time": [
@@ -625,14 +646,15 @@
                 5
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/Cricket_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204147",
-        "museum_phrase": "I say, where shall I start with the cricket? Well, to begin with, they are mostly nocturnal creatures. And for that you day-loving diurnal types should be grateful! Hoo! It means you don't have to lay eyes upon their prickly legs or overly long antennae like us night owls! Of course, crickets are best known for the chirping sound they make by rubbing their wings together. Some find the noise lovely to listen to. Alas, it only serves to remind me of another unpleasant fact... Which is to say...you will find a cricket's ears right next to its knees! I've gone weak in the knees at the mention of it!",
-        "catch_phrase": "I caught a cricket! What a chirp thrill!"
+        "catch_phrase": "I caught a cricket! What a chirp thrill!",
+        "museum_phrase": "I say, where shall I start with the cricket? Well, to begin with, they are mostly nocturnal creatures. And for that you day-loving diurnal types should be grateful! Hoo! It means you don't have to lay eyes upon their prickly legs or overly long antennae like us night owls! Of course, crickets are best known for the chirping sound they make by rubbing their wings together. Some find the noise lovely to listen to. Alas, it only serves to remind me of another unpleasant fact... Which is to say...you will find a cricket's ears right next to its knees! I've gone weak in the knees at the mention of it!"
     },
     "Bell_cricket": {
         "name": "Bell cricket",
+        "id": 21,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Bell_cricket",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Icon-bellcricket.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/21",
         "price": 430,
         "location": "On the Ground",
         "time": [
@@ -648,14 +670,15 @@
                 4
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/Bell_cricket_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204141",
-        "museum_phrase": "The call of the bell cricket heralds the arrival of autumn. And I concede it is a rather pleasant sound. What I do NOT find pleasant is the way these things rub their strange wings together to make their song. Ick and blech! And to make matters worse, bell crickets have been known to shed two of their four wings! And simply leave these wings where they fall, as if it were litter! I simply cannot abide such odious behavior.",
-        "catch_phrase": "I found a bell cricket! It would make a great bellhop!"
+        "catch_phrase": "I found a bell cricket! It would make a great bellhop!",
+        "museum_phrase": "The call of the bell cricket heralds the arrival of autumn. And I concede it is a rather pleasant sound. What I do NOT find pleasant is the way these things rub their strange wings together to make their song! Ick and blech! And to make matters worse, bell crickets have been known to shed two of their four wings! And they simply leave these wings where they fall, as if it were litter! I simply cannot abide such odious behavior."
     },
     "Mantis": {
         "name": "Mantis",
+        "id": 22,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Mantis",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Icon-mantis.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/22",
         "price": 430,
         "location": "On Flowers",
         "time": [
@@ -685,14 +708,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Mantis.jpg/revision/latest?cb=20200328014259",
-        "museum_phrase": "Hoo! Don't let the mantis's angelic pose fool you...for it is truly monstrous. The mantis is known for its large size and tremendous strength...and for sickle-like arms that pack a punch. And though they tend to eat bugs and spiders...mantises have been known to dine on small animals too! And those eerie eyes! Oh my! Did you know it has five of them! Two big ones and three small! I shall faint if I think on it further... ",
-        "catch_phrase": "I caught a mantis! Man, 'tis so cool!"
+        "catch_phrase": "I caught a mantis! Man, 'tis so cool!",
+        "museum_phrase": "Hoo! Don't let the mantis's angelic pose fool you...for it is truly monstrous. The mantis is known for its large size and tremendous strength...and for sickle-like arms that pack a punch. And though they tend to eat bugs and spiders...mantises have been known to dine on small animals too! And those eerie eyes! Oh my! Did you know it has five of them! Two big ones and three small! I shall faint if I think on it further..."
     },
     "Orchid_mantis": {
         "name": "Orchid mantis",
+        "id": 23,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Orchid_mantis",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-orchidmantis.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/23",
         "price": 2400,
         "location": "On Flowers (White)",
         "time": [
@@ -722,14 +746,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Orchid_mantis.jpg/revision/latest?cb=20200328003838",
-        "museum_phrase": "The orchid mantis is a bug whose brilliant colors and petal-shaped limbs give it the look of a flower. This masterful mimicry allows it to hide from predators in among the orchids. But oh this fraudulent flower! It lures other insects in to drink its nectar... And makes a meal of them instead! Imagine! To behold a beautiful bud... only to discover it's a bug instead! A repulsive revelation indeed!",
-        "catch_phrase": "I caught an orchid mantis! Our friendship is blooming!"
+        "catch_phrase": "I caught an orchid mantis! Our friendship is blooming!",
+        "museum_phrase": "The orchid mantis is a bug whose brilliant colors and petal-shaped limbs give it the look of a flower. This masterful mimicry allows it to hide from predators in among the orchids. But oh this fraudulent flower! It lures other insects in to drink its nectar... And makes a meal of them instead! Imagine! To behold a beautiful bud... only to discover it's a bug instead! A repulsive revelation indeed!"
     },
     "Honeybee": {
         "name": "Honeybee",
+        "id": 24,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Honeybee",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Icon-honeybee.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/24",
         "price": 200,
         "location": "Flying",
         "time": [
@@ -751,14 +776,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Honeybee.jpg/revision/latest?cb=20200328023522",
-        "museum_phrase": "Did you know it takes a team of honeybees working together to transform flower nectar into honey? Indeed, forager bees suck nectar from flowers into their honey stomachs and then fly it to the hive. Hive bees then chew the substance and spit it into the honeycomb, fluttering their wings to dry it out. Yes, you could say honey is a tasty tribute to the hard work of the humble honeybee. Oh! Oh my! You mustn't confuse my lengthy description for admiration! At the end of the day, honeybees are still insects, and thus still ghastly! A wee bit less ghastly than most, I admit.",
-        "catch_phrase": "I caught a honeybee! Ah, sweet success!"
+        "catch_phrase": "I caught a honeybee! Ah, sweet success!",
+        "museum_phrase": "Did you know it takes a team of honeybees working together to transform flower nectar into honey? Indeed, forager bees suck nectar from flowers into their \"honey stomachs\" and then fly it to the hive. Hive bees then chew the substance and spit it into the honeycomb, fluttering their wings to dry it out. Yes, you could say honey is a tasty tribute to the hard work of the humble honeybee. Oh! Oh my! You mustn't confuse my lengthy description for admiration! At the end of the day, honeybees are still insects, and thus still ghastly! A wee bit less ghastly than most, I admit."
     },
     "Wasp": {
         "name": "Wasp",
+        "id": 25,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Wasp",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Icon-wasp.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/25",
         "price": 2500,
         "location": "Shaking Trees",
         "time": [
@@ -794,14 +820,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Wasp.png/revision/latest?cb=20200327083022",
-        "museum_phrase": "Hoo! Allow me to share a fact with you! Wasps are sometimes called meat bees because... They. Eat. MEAT! MEAT! Of almost any sort! Surely you've seen what a menace they make of themselves at picnics. 'Tis hardly the worst of it, wot wot! Aggressive predators with venomous stingers, wasps not only hunt and eat other insects...they paralyze their prey, then drag their victims home ALIVE, leaving them for their larva to feed upon. Suddenly a simple sting seems quite tolerable.",
-        "catch_phrase": "I caught a wasp! That's gotta sting..."
+        "catch_phrase": "I caught a wasp! That's gotta sting...",
+        "museum_phrase": "Hoo! Allow me to share a fact with you! Wasps are sometimes called \"meat bees\" because... They. Eat. MEAT! MEAT! Of almost any sort! Surely you've seen what a menace they make of themselves at picnics. 'Tis hardly the worst of it, wot wot! Aggressive predators with venomous stingers, wasps not only hunt and eat other insects... they paralyze their prey, then drag their victims home ALIVE, leaving them for their larva to feed upon. Suddenly a simple sting seems quite tolerable."
     },
     "Brown_cicada": {
         "name": "Brown cicada",
+        "id": 26,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Brown_cicada",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Icon-browncicada.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/26",
         "price": 250,
         "location": "On Trees",
         "time": [
@@ -817,14 +844,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/Brown_cicada_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204143",
-        "museum_phrase": "Cicadas are obnoxious insects. And not just brown cicadas, mind you...but all cicadas! They flex ribboned membranes on their torso called tymbals to make a loud snapping sound. So rude! Hoo! Yes, it is only the males who make the noise. Sometimes at a volume that can produce pain at close range! Appallingly inconsiderate, I must say...",
-        "catch_phrase": "I caught a brown cicada! Now it probably feels blue, cicada."
+        "catch_phrase": "I caught a brown cicada! Now it probably feels blue, cicada.",
+        "museum_phrase": "Cicadas are obnoxious insects. And not just brown cicadas, mind you...but all cicadas! They flex ribbed membranes on their torso called tymbals to make a loud snapping sound. So rude! Hoo! Yes, it is only the males who make the noise. Sometimes at a volume that can produce pain at close range! Appallingly inconsiderate, I must say..."
     },
     "Robust_cicada": {
         "name": "Robust cicada",
+        "id": 27,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Robust_cicada",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Icon-robustcicada.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/27",
         "price": 300,
         "location": "On Trees",
         "time": [
@@ -840,14 +868,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/Robust_cicada_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204228",
-        "museum_phrase": "The robust cicada got its name from the chirping sound it makes, which is said to be quite...well...robust. But robust hardly describes it. Abrasive! Bombastic! Cacophonous! That's more like it! Beside the horrid caterwauling, this bug is known for its long wings, short body, and green coloring. But looking at a robust cicada is just as unpleasant as listening to one. My eyes AND my ears are offended.",
-        "catch_phrase": "I caught a robust cicada! Not so energetic in the rain, huh?"
+        "catch_phrase": "I caught a robust cicada! It DOES seem pretty lively!",
+        "museum_phrase": "The robust cicada got its name from the chirping sound it makes, which is said to be quite...well...robust. But \"robust\" hardly describes it. Abrasive! Bombastic! Cacophonous! That's more like it! Beside the horrid caterwauling, this bug is known for its long wings, short body, and green coloring. But looking at a robust cicada is just as unpleasant as listening to one. My eyes AND my ears are offended."
     },
     "Giant_cicada": {
         "name": "Giant cicada",
+        "id": 28,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Giant_cicada",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/NH-Icon-giantcicada.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/28",
         "price": 500,
         "location": "On Trees",
         "time": [
@@ -863,14 +892,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/GiantCicadaNL.png/revision/latest?cb=20130713231154",
-        "museum_phrase": "The giant cicada is rather aptly named. That is, it's a truly enormous bug. Ugh! These beasts spend most of their lives underground where they gorge on tree roots. But once they emerge, they make an awful racket. In fact, some say their song sounds like a shrieking siren. I would rather listen to nails on a chalkboard.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a giant cicada! I guess it's PRETTY big...",
+        "museum_phrase": "The giant cicada is rather aptly named. That is, it's a truly enormous bug. Ugh! These beasts spend most of their lives underground where they gorge on tree roots. But once they emerge, they make an awful racket. In fact, some say their song sounds like a shrieking siren. I would rather listen to nails on a chalkboard."
     },
     "Walker_cicada": {
         "name": "Walker cicada",
+        "id": 29,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Walker_cicada",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Icon-walkercicada.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/29",
         "price": 400,
         "location": "On Trees",
         "time": [
@@ -886,14 +916,15 @@
                 3
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/EVwLRKhUEAAQFUS.jpg/revision/latest?cb=20200416204311",
-        "museum_phrase": "The walker cicada is quite the noisy thing. I tell you, this impolite pest simply canNOT abide the quiet. In the heat of summer, the male strikes up a strange rattling song, hoping to woo a mate. When other male crickets hear this rhythmic racket, they join right in... As if it were a sing-along! My head aches at the thought of it.",
-        "catch_phrase": "I caught a walker cicada! It must hate getting its feet wet."
+        "catch_phrase": "I caught a walker cicada! Pffft... I walk all the time and no one calls me \"Walker ...\"",
+        "museum_phrase": "The walker cicada is quite the noisy thing. I tell you, this impolite pest simply canNOT abide the quiet. In the heat of summer, the male strikes up a strange rattling song, hoping to woo a mate. When other male cicadas hear this rhythmic racket, they join right in... As if it were a sing-along! My head aches at the thought of it."
     },
     "Evening_cicada": {
         "name": "Evening cicada",
+        "id": 30,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Evening_cicada",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Icon-eveningcicada.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/30",
         "price": 550,
         "location": "On Trees",
         "time": [
@@ -910,14 +941,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/83/Evening_cicada_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204154",
-        "museum_phrase": "The evening cicada certainly knows how to ruin a quiet moment. As the sun sets, it strikes up a sad song so sonorous, one can't hear one's own thoughts! I'd feel sorry for its melancholy moods if it weren't so very vocal about how it feels. Ugh, please pipe down...",
-        "catch_phrase": null
+        "catch_phrase": "I caught an evening cicada! Better than an odding cicada...",
+        "museum_phrase": "The evening cicada certainly knows how to ruin a quiet moment. As the sun sets, it strikes up a sad song so sonorous, one can't hear one's own thoughts! I'd feel sorry for its melancholy moods if it weren't so very vocal about how it feels. Ugh, please pipe down..."
     },
     "Cicada_shell": {
         "name": "Cicada shell",
+        "id": 31,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Cicada_shell",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Icon-cicadashell.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/31",
         "price": 10,
         "location": "On Trees",
         "time": [
@@ -933,14 +965,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/Cicada_shell_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204144",
-        "museum_phrase": "Cicadas! The nerve! Not only are they loud, they leave their cicada shells lying about! When it's time for a cicada nymph to turn into an adult, you see, it clings to a tree and sheds its exoskeleton. Then it just leaves this shell of its former self hanging right there! Awful manners, really...and awfully terrifying too.",
-        "catch_phrase": null
+        "catch_phrase": "I found a cicada shell! I'm glad the little guy came out of it!",
+        "museum_phrase": "Cicadas! The nerve! Not only are they loud, they leave their cicada shells lying about! When it's time for a cicada nymph to turn into an adult, you see, it clings to a tree and sheds its exoskeleton. Then it just leaves this shell of its former self hanging right there! Awful manners, really...and awfully terrifying too."
     },
     "Red_dragonfly": {
         "name": "Red dragonfly",
+        "id": 32,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Red_dragonfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Icon-reddragonfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/32",
         "price": 180,
         "location": "Flying",
         "time": [
@@ -956,14 +989,15 @@
                 4
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/EVwILdgU0AA9r6B_%282%29.jpg/revision/latest?cb=20200416203103",
-        "museum_phrase": "I won't deny that the wretched red dragonfly is an elegant aeronaut. It manipulates its four wings quite uniquely so it can hover and maneuver through the air with ease. But the veins on its wings! What ghastly things! One can't help but gasp at the sight of them... Appalling aerodynamics, indeed!",
-        "catch_phrase": "I caught a red dragonfly! Didn't even have to roll for initiative!"
+        "catch_phrase": "I caught a red dragonfly! Didn't even have to roll for initiative!",
+        "museum_phrase": "I won't deny that the wretched red dragonfly is an elegant aeronaut. It manipulates its four wings quite uniquely so it can hover and maneuver through the air with ease. But the veins on its wings! What ghastly things! One can't help but gasp at the sight of them... Appalling aerodynamics, indeed!"
     },
     "Darner_dragonfly": {
         "name": "Darner dragonfly",
+        "id": 33,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Darner_dragonfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Icon-darnerdragonfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/33",
         "price": 230,
         "location": "Flying",
         "time": [
@@ -989,14 +1023,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/06/Darner_Dragonfly.jpeg/revision/latest?cb=20200405003425",
-        "museum_phrase": "The darner dragonfly is a very fast dragonfly, flying at speeds up to 40 miles per hour! They all have a distinctive green hue, but the males have blue underbellies while the females have yellow ones. It all sounds pleasant enough, no? Well, did you know that their young eat tadpoles...and even some small fish! Worse, these ceepy carnivores will eat each other in a pinch! Grotesque does not describe it...",
-        "catch_phrase": "I caught a darner dragonfly! It better watch its mouth!"
+        "catch_phrase": "I caught a darner dragonfly! It better watch its mouth!",
+        "museum_phrase": "The darner dragonfly is the fastest dragonfly there is, flying at speeds up to 40 miles per hour! They all have a distinctive green hue, but the males have blue underbellies while females have yellow ones. It all sounds pleasant enough, no? Well, did you know their young eat tadpoles...and even some small fish! Worse, these creepy carnivores will eat each other in a pinch! Grotesque does not describe it..."
     },
     "Banded_dragonfly": {
         "name": "Banded dragonfly",
+        "id": 34,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Banded_dragonfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/64/NH-Icon-bandeddragonfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/34",
         "price": 4500,
         "location": "Flying",
         "time": [
@@ -1020,14 +1055,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/Banded_dragonfly_new_leaf.png/revision/latest?cb=20130617175700",
-        "museum_phrase": "The banded dragonfly is known for its black-and-yellow-striped body, as well as for its piercing green eyes. And it is those very eyes that help make dragonflies master hunters, you see. Alas, when one looks at me, I can't help but feel it is sizing me up for a meal! Hoot! The horrors! Look away, fiend!",
-        "catch_phrase": "I did it! Did you see that? I caught a banded dragonfly!"
+        "catch_phrase": "I did it! Did you see that? I caught a banded dragonfly!",
+        "museum_phrase": "The banded dragonfly is known for its black-and-yellow-striped body, as well as for its piercing green eyes. And it is those very eyes that help make dragonflies master hunters, you see. Alas, when one looks at me, I can't help but feel it is sizing me up for a meal! Hoot! The horrors! Look away, fiend!"
     },
     "Damselfly": {
         "name": "Damselfly",
+        "id": 35,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Damselfly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Icon-damselfly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/35",
         "price": 500,
         "location": "Flying",
         "time": [
@@ -1047,14 +1083,15 @@
                 8
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f3/Damselfly_encyclopedia_%28New_Horizons%29.PNG/revision/latest?cb=20200323163624",
-        "museum_phrase": "The colorful damselfly is similar to its cousin, the dragonfly, though it tends to be smaller and thinner. But don't let the delicate looks fool you! Much like the dragonfly, the damselfly is a ruthless predator. It loves to catch flies midair and eat them, and has been known to snack on spiders it plucks from the web! In short, it is not a dinner guest I would recommend... And it is not a menu I could keep down.",
-        "catch_phrase": "I caught a damselfly! Now it's a damselfly in distress!"
+        "catch_phrase": "I caught a damselfly! Now it's a damselfly in distress!",
+        "museum_phrase": "The colorful damselfly is similar to its cousin, the dragonfly, though it tends to be smaller and thinner. But don't let the delicate looks fool you! Much like the dragonfly, the damselfly is a ruthless predator. It loves to catch flies midair and eat them, and has been known to snack on spiders it plucks from the web! In short, it is not a dinner guest I would recommend... And it is not a menu I could keep down."
     },
     "Firefly": {
         "name": "Firefly",
+        "id": 36,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Firefly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Icon-firefly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/36",
         "price": 300,
         "location": "Flying",
         "time": [
@@ -1068,14 +1105,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/Firefly_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150820001849",
-        "museum_phrase": "The firefly isn't a fly at all! It is a beetle, you see—and one known for its ghastly glowing backside. This light is called bioluminescence and it is caused by...by...a chemical reaction in the rump. Males flash about in the night sky to attract females, while their larvae turn on the glow to put off predators. Speaking of their yucky young, firefly larvae love to dine on snails! Hoo! Ewwww!",
-        "catch_phrase": "I caught a firefly! I'm on fire now!"
+        "catch_phrase": "I caught a firefly! I'm on fire now!",
+        "museum_phrase": "The firefly isn't a fly at all! It is a beetle, you see—and one known for its ghastly glowing backside. This light is called \"bioluminescence\" and it is caused by...by...a chemical reaction in the rump. Males flash about in the night sky to attract females, while their larvae turn on the glow to put off predators. Speaking of their yucky young, firefly larvae love to dine on snails! Hoo! Ewwww!"
     },
     "Mole_cricket": {
         "name": "Mole cricket",
+        "id": 37,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Mole_cricket",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/00/NH-Icon-molecricket.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/37",
         "price": 500,
         "location": "Underground",
         "time": [
@@ -1101,14 +1139,15 @@
                 11
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Mole_cricket.jpg/revision/latest?cb=20200328033318",
-        "museum_phrase": "Be warned, there is nowhere one might hide from the mole cricket. This plump pest has powerful front claws made for digging holes, and oh how it loves to burrow underground! A cousin to the grasshopper, it also has wings and can easily take to the air. And I swear this on my pinfeathers... Some have even been seen walking on water! Oh mercy, I may need a moment. This is making me feel rather woozy...",
-        "catch_phrase": "I caught a mole cricket! I really dug it!"
+        "catch_phrase": "I caught a mole cricket! I really dug it!",
+        "museum_phrase": "Be warned, there is nowhere one might hide from the mole cricket. This plump pest has powerful front claws made for digging holes, and oh how it loves to burrow underground! A cousin to the grasshopper, it also has wings and can easily take to the air. And I swear this on my pinfeathers... Some have even been seen walking on water! Oh mercy, I may need a moment. This is making me feel rather woozy..."
     },
     "Pondskater": {
         "name": "Pondskater",
+        "id": 38,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Pondskater",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/NH-Icon-pondskater.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/38",
         "price": 130,
         "location": "On Ponds and Rivers",
         "time": [
@@ -1130,14 +1169,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/EVwOVvvU8AAlL2T.jpg/revision/latest?cb=20200416205626",
-        "museum_phrase": "Putrid pondskaters! They walk on water, you know...which is most preposterous! It is a trick they perform by secreting oil onto the hairs of their feet. To which I say BLEEECH! And one must wonder... What will they do next? Walk on air? Walk through walls? Perish the thought...",
-        "catch_phrase": "I caught a pondskater! Wonder if it can do a pond ollie..."
+        "catch_phrase": "I caught a pondskater! Wonder if it can do a pond ollie...",
+        "museum_phrase": "Putrid pondskaters! They walk on water, you know...which is most preposterous! It is a trick they perform by secreting oil onto the hairs of their feet. To which I say BLEEECH! And one must wonder... What will they do next? Walk on air? Walk through walls? Perish the thought..."
     },
     "Diving_beetle": {
         "name": "Diving beetle",
+        "id": 39,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Diving_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Icon-divingbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/39",
         "price": 800,
         "location": "On Ponds and Rivers",
         "time": [
@@ -1159,14 +1199,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/EVwL6gUUwAAhSRv.jpg/revision/latest?cb=20200416204600",
-        "museum_phrase": "Ah, the dastardly diving beetle! Famous for its distinctive round shape...and its voracious appetite. This powerful predator uses thick back legs covered in hairs to paddle after its prey. And it uses suction cups on its front legs to grip its quarry for good. My own legs have gone week thinking about it...",
-        "catch_phrase": "I caught a diving beetle! Now I'm making a splash!"
+        "catch_phrase": "I caught a diving beetle! Now I'm making a splash!",
+        "museum_phrase": "Ah, the dastardly diving beetle! Famous for its distinctive round shape...and its voracious appetite. This powerful predator uses thick back legs covered in hairs to paddle after its prey. And it uses suction cups on its front legs to grip its quarry for good. My own legs have gone weak thinking about it..."
     },
     "Giant_water_bug": {
         "name": "Giant water bug",
+        "id": 40,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Giant_water_bug",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Icon-giantwaterbug.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/40",
         "price": 2000,
         "location": "On Ponds and Rivers",
         "time": [
@@ -1190,14 +1231,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Giant_water_bug.jpg/revision/latest?cb=20200330023158",
-        "museum_phrase": "How to put this gently? Ah yes... BEWARE the giant water bug. I tell you, this vicious predator has been known to attack fish, bugs, frogs, and even snakes! SNAKES! Truth be told, no one is safe! Its nickname is the toe-biter, for goodness sakes! Now, one final fact before I faint... The gruesome bug uses its nose...to inject its prey...with digestive juices.",
-        "catch_phrase": "I caught a giant water bug! It should've stayed in the water!"
+        "catch_phrase": "I caught a giant water bug! It should've stayed in the water!",
+        "museum_phrase": "How to put this gently? Ah yes... BEWARE the giant water bug! I tell you, this vicious predator has been known to attack fish, frogs, and even snakes! SNAKES! Truth be told, no one is safe! Its nickname is \"the toe-biter,\" for goodness sakes! Now, one final fact before I faint... The gruesome bug uses its nose...to inject its prey...with digestive juices. Hoo... Must stop thinking about...the unthinkable."
     },
     "Stinkbug": {
         "name": "Stinkbug",
+        "id": 41,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Stinkbug",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Icon-stinkbug.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/41",
         "price": 120,
         "location": "On Flowers",
         "time": [
@@ -1225,14 +1267,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Stinkbug.jpg/revision/latest?cb=20200329022410",
-        "museum_phrase": "I daresay the name says it all... Stinkbugs are known for their stench. Hoo! Peeyew! As it happens, these crop-eating pests use straw-like mouths to pierce plants and drink the juices. And when threatened, they use a smelly chemical in their belly to release their odious odor!  Hoo! How DO they live with themselves?   ",
-        "catch_phrase": "I caught a stinkbug! It lives up to its name!"
+        "catch_phrase": "I caught a stinkbug! It lives up to its name!",
+        "museum_phrase": "I daresay the name says it all... Stinkbugs are known for their stench. Hoo! Peeyew! As it happens, these crop-eating pests use straw-like mouths to pierce plants and drink the juices. And when threatened, they use a smelly chemical in their belly to release their odious odor! Hoo! How DO they live with themselves?"
     },
-    "Man-faced_stink_bug": {
+    "Man_faced_stink_bug": {
         "name": "Man-faced stink bug",
+        "id": 42,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Man-faced_stink_bug",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Icon-manfacedstinkbug.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/42",
         "price": 1000,
         "location": "On Flowers",
         "time": [
@@ -1260,14 +1303,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Man-faced_Stink_Bug.jpeg/revision/latest?cb=20200405003504",
-        "museum_phrase": "Never mind this stink bug's smell. What you have here is a bug...with a FACE...on its BACK!! Wot-wot! Simply put, the man-faced stink bug has markings on its shell that resemble a human face. Once you notice this face, you cannot UN-notice it. Indeed, this face might haunt you forever. At least the face will distract you from the stink.",
-        "catch_phrase": "I caught a man-faced stink bug! Reminds me of my uncle!"
+        "catch_phrase": "I caught a man-faced stink bug! Reminds me of my uncle!",
+        "museum_phrase": "Never mind this stink bug's smell. What you have here is a bug...with a FACE...on its BACK!! Wot-wot! Simply put, the man-faced stink bug has markings on its shell that resemble a human face. Once you notice this face, you cannot UN-notice it. Indeed, this face might haunt you forever. At least the face will distract you from the stink."
     },
     "Ladybug": {
         "name": "Ladybug",
+        "id": 43,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Ladybug",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Icon-ladybug.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/43",
         "price": 200,
         "location": "On Flowers",
         "time": [
@@ -1289,14 +1333,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/Ladybug_%28Animal_Forest_caught%29.PNG/revision/latest?cb=20121117224240",
-        "museum_phrase": "Yes. Yes. Ladybugs are quite beloved thanks to their tiny round shape and adorable spots. To that I say BAH! The fact of the matter is, some have stripes instead of spots. And SOME have no markings at all! No, I shall never understand why it is said that when a ladybug lands on you...you'll have good luck. I shall only have a fainting spell.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a ladybug! Sorry to disturb you, ma'am.",
+        "museum_phrase": "Yes. Yes. Ladybugs are quite beloved thanks to their tiny round shape and adorable spots. To that I say BAH! The fact of the matter is, some have stripes instead of spots. And SOME have no markings at all! No, I shall never understand why it is said that when a ladybug lands on you...you'll have good luck. I shall only have a fainting spell."
     },
     "Tiger_beetle": {
         "name": "Tiger beetle",
+        "id": 44,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Tiger_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Icon-tigerbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/44",
         "price": 1500,
         "location": "On the Ground",
         "time": [
@@ -1326,14 +1371,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/EVwMwU6U4AA0idS.jpg/revision/latest?cb=20200416204949",
-        "museum_phrase": "The tiger beetle is extremely fleet of foot, though it runs in a rather peculiar way. That is, it sprints, then stops, then sprints again...using these speedy maneuvers to run down its prey. You see, the tiger beetle",
-        "catch_phrase": "I caught a tiger beetle! I pounced first!"
+        "catch_phrase": "I caught a tiger beetle! I pounced first!",
+        "museum_phrase": "The tiger beetle is extremely fleet of foot, though it runs in a rather peculiar way. That is, it sprints, then stops, then sprints again...using these speedy maneuvers to run down its prey. You see, the tiger beetle—like a real tiger—is a powerful predator. The mere thought of it giving chase gives me the willies. Tigers are terrifying at any size."
     },
     "Jewel_beetle": {
         "name": "Jewel beetle",
+        "id": 45,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Jewel_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-jewelbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/45",
         "price": 2400,
         "location": "On Tree Stumps",
         "time": [
@@ -1355,14 +1401,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/EVwNhWWU4AUHxFS.jpg/revision/latest?cb=20200416205250",
-        "museum_phrase": "The green shimmer of the jewel beetle's wings is nothing short of nauseating...yes? No? Well, so says you. Though...jewel beetles were once prized by collectors who turned their iridescent wings into pretty jewelry. Why would anyone want to wear bug parts on their body is beyond me. Fashion foul indeed.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a jewel beetle! It's a real gem!",
+        "museum_phrase": "The green shimmer of the jewel beetle's wings is nothing short of nauseating...yes? No? Well, so says you. Though...jewel beetles were once prized by collectors who turned their iridescent wings into pretty jewelry. Why anyone would want to wear bug parts on their body is beyond me. Fashion foul indeed."
     },
     "Violin_beetle": {
         "name": "Violin beetle",
+        "id": 46,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Violin_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Icon-violinbeetle.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/46",
         "price": 450,
         "location": "On Tree Stumps",
         "time": [
@@ -1384,14 +1431,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/Musi_46.png/revision/latest?cb=20200604053232",
-        "museum_phrase": "The violin beetle gets its name from its shape. That is, SOME think it, resembles the stringed instrument. If you ask me, this is an insult to violins! With its flat body and small head, the violin beetle looks like nothing but a repulsive bug, plain and simple. In fact it is so repulsive, it oozes a foul liquid when frightened! Ugh! This insect strikes a sour note indeed.",
-        "catch_phrase": "I caught a violin beetle! Apparently I'm as fit as a fiddle."
+        "catch_phrase": "I caught a violin beetle! Apparently I'm as fit as a fiddle!",
+        "museum_phrase": "The violin beetle gets its name from its shape. That is, SOME think it resembles the stringed instrument. If you ask me, this is an insult to violins! With its flat body and small head, the violin beetle looks like nothing but a repulsive bug, plain and simple. In fact it is so repulsive, it oozes a foul liquid when frightened! Ugh! This insect strikes a sour note indeed."
     },
-    "Citrus_long-horned_beetle": {
+    "Citrus_long_horned_beetle": {
         "name": "Citrus long-horned beetle",
+        "id": 47,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Citrus_long-horned_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Icon-citruslonghornedbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/47",
         "price": 350,
         "location": "On Tree Stumps",
         "time": [
@@ -1427,14 +1475,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/Citrus_Longhorned.PNG/revision/latest?cb=20200326155848",
-        "museum_phrase": "The citrus long-horned beetle is a putrid pest and a grave threat to trees. Hoo! It's true! Adults possess powerful jaws and use them to chomp through hardwood and plant fibers with ease. The little larvae are no better, boring bullet-like holes into innocent trees with gusto—citrus trees especially. Voracious and vile, indeed! ",
-        "catch_phrase": "I caught a citrus long-horned beetle! Orange you happy for me?"
+        "catch_phrase": "I caught a citrus long-horned beetle! Orange you happy for me?",
+        "museum_phrase": "The citrus long-horned beetle is a putrid pest and a grave threat to trees. Hoo! It's true! Adults possess powerful jaws and use them to chomp through hard wood and plant fibers with ease. The little larvae are no better, boring bullet-like holes into innocent trees with gusto—citrus trees especially. Voracious and vile, indeed!"
     },
     "Rosalia_batesi_beetle": {
         "name": "Rosalia batesi beetle",
+        "id": 48,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Rosalia_batesi_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Icon-rosaliabatesibeetle.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/48",
         "price": 3000,
         "location": "On Tree Stumps",
         "time": [
@@ -1456,14 +1505,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/Rosalia_Batesi_Beetle_encyclopedia_%28New_Horizons%29.PNG/revision/latest?cb=20200323164750",
-        "museum_phrase": "The rosalia batesi beetle is a type of longhorn beetle, so named for the long antenna upon its head. But did you know that longhorn beetles often grow antenna LONGER than their very own bodies, wot wot? As if this weren't odious enough, look closely and you will find these antenna...are covered in tufts of hair! Best not look closely, I say.",
-        "catch_phrase": "I caught a rosalia batesi beetle! That’s easier to do than say!"
+        "catch_phrase": "I caught a rosalia batesi beetle! That's easier to do than say!",
+        "museum_phrase": "The rosalia batesi beetle is a type of longhorn beetle, so named for the long antenna upon its head. But did you know that longhorn beetles often grow antenna LONGER than their very own bodies, wot wot? As if this weren't odious enough, look closely and you will find these antenna...are covered in tufts of hair! Best not look closely, I say."
     },
     "Blue_weevil_beetle": {
         "name": "Blue weevil beetle",
+        "id": 49,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Blue_weevil_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Icon-blueweevilbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/49",
         "price": 800,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1479,14 +1529,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/96/Blue_weevil_beetle_encyclopedia_%28New_Horizons%29.PNG/revision/latest?cb=20200323164742",
-        "museum_phrase": "Yes, yes. The blue weevil beetle does come in beautiful shades of blue and green. The colors are so bright, some say it looks like a living jewel. But I say it looks like a weevil...and weevil rhymes with EVIL. Draw your own conclusions from there. Hoot! I certainly have!",
-        "catch_phrase": "I caught a blue weevil beetle! It's the lesser of blue weevils!"
+        "catch_phrase": "I caught a blue weevil beetle! It's the lesser of blue weevils!",
+        "museum_phrase": "Yes, yes. The blue weevil beetle does come in beautiful shades of blue and green. The colors are so bright, some say it looks like a living jewel. But I say it looks like a weevil...and weevil rhymes with EVIL. Draw your own conclusions from there. Hoot! I certainly have!"
     },
     "Dung_beetle": {
         "name": "Dung beetle",
+        "id": 50,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Dung_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Icon-dungbeetle.png/revision/latest?cb=20200401005431",
+        "image_url": "https://acnhapi.com/v1/images/bugs/50",
         "price": 3000,
         "location": "On the Ground (rolling snowballs)",
         "time": [
@@ -1504,14 +1555,15 @@
                 8
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d6/Dung_beetle_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204151",
-        "museum_phrase": "What can I say? The aptly-named dung beetle feeds on the feces of animals. Hoo! You heard right! This putrid pest rolls up balls of dung...and then rolls them away to dine on at a later date. As if that weren't atrocious enough, some dung beetles lay their eggs in the feces too! What a dreadful place to raise the young.",
-        "catch_phrase": "I caught a dung beetle! This species likes feces!"
+        "catch_phrase": "I caught a dung beetle! This species likes feces!",
+        "museum_phrase": "What can I say? The aptly-named dung beetle feeds on the feces of animals. Hoo! You heard right! This putrid pest rolls up balls of dung...and then rolls them away to dine on at a later date. As if that weren't atrocious enough, some dung beetles lay their eggs in the feces too! What a dreadful place to raise the young."
     },
-    "Earth-boring_dung_beetle": {
+    "Earth_boring_dung_beetle": {
         "name": "Earth-boring dung beetle",
+        "id": 51,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Earth-boring_dung_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-earthboringdungbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/51",
         "price": 300,
         "location": "On the Ground",
         "time": [
@@ -1529,14 +1581,15 @@
                 3
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/Earth-boring_dung_beetle_encyclopedia_%28New_Horizons%29.PNG/revision/latest?cb=20200323164734",
-        "museum_phrase": null,
-        "catch_phrase": "I caught an earth-boring dung beetle! It's not boring at all!"
+        "catch_phrase": "I caught an earth-boring dung beetle! It's not boring at all!",
+        "museum_phrase": "Earth-boring dung beetles are considered quite handsome by some, thanks to their metallic luster. In fact, some even think them to be good omens and bringers of favorable fortune. But I must protest! These field- ravaging pests love to burrow under piles of dung and lay their eggs. They raise their young under DUNG! Need I say more? Ick. I think not."
     },
     "Scarab_beetle": {
         "name": "Scarab beetle",
+        "id": 52,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Scarab_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Icon-scarabbeetle.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/52",
         "price": 10000,
         "location": "On Trees",
         "time": [
@@ -1552,14 +1605,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/Scarab_beetle_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204231",
-        "museum_phrase": "Collectors consider the scarab beetle quite the prize, thanks to its shiny metallic shell. But did you know this bug has no nose and uses its antenna to sense smells instead? In fact, the scarab beetle's plated antenna are quite unique and set it apart from other beetles. But ALL antennae are equally awful in my book.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a scarab beetle! It's just a dung beetle with better hobbies.",
+        "museum_phrase": "Collectors consider the scarab beetle quite the prize, thanks to its shiny metallic shell. But did you know this bug has no nose and uses its antenna to sense smells instead? In fact, the scarab beetle's plated antenna are quite unique and set it apart from other beetles. But ALL antennae are equally awful in my book."
     },
     "Drone_beetle": {
         "name": "Drone beetle",
+        "id": 53,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Drone_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Icon-dronebeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/53",
         "price": 200,
         "location": "On Trees",
         "time": [
@@ -1577,14 +1631,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/Drone.jpg/revision/latest?cb=20200604052956",
-        "museum_phrase": "I must say, the drone beetle is like that boorish acquaintance who is much too loud for polite company. That is, it is a large bug with a square head and is so named for the droning noise it makes when it flies. Furthermore, it has hooks on its feet that help it to cling tightly on trees. HOOK FEET... How gauche!",
-        "catch_phrase": "I caught a drone beetle! Shouldn't you have more propellers?"
+        "catch_phrase": "I caught a drone beetle! Shouldn't you have more propellers?",
+        "museum_phrase": "I must say, the drone beetle is like that boorish acquaintance who is much too loud for polite company. That is, it is a large bug with a square head and is so named for the droning noise it makes when it flies. Furthermore, it has hooks on its feet that help it to cling tightly to trees. HOOK FEET... How gauche!"
     },
     "Goliath_beetle": {
         "name": "Goliath beetle",
+        "id": 54,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Goliath_beetle",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/NH-Icon-goliathbeetle.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/54",
         "price": 8000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1604,14 +1659,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/Goliath.png/revision/latest?cb=20200604051936",
-        "museum_phrase": "Hoo! Ewww! The goliath beetle is a colossal creature that can grow up to four-inches long. Yes, they love to sup on sap and pollen, and frolic among the flowers. But did you know, the goliath beetle has a horn upon its head that it uses to fight its foes? And picture this... Each one of this behemoth's legs ends in pincers! Deep...calming...breaths...",
-        "catch_phrase": "Yes! I caught a goliath beetle! Am I a legend or what?"
+        "catch_phrase": "I caught a goliath beetle! Am I a legend or what?",
+        "museum_phrase": "Hoo! Ewww! The goliath beetle is a colossal creature that can grow up to four-inches long. Yes, they love to sup on sap and pollen, and frolic among the flowers. But did you know, the goliath beetle has a horn upon its head that it uses to fight its foes? And picture this... Each one of this behemoth's legs ends in pincers! Deep...calming...breaths..."
     },
     "Saw_stag": {
         "name": "Saw stag",
+        "id": 55,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Saw_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Icon-sawstag.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/55",
         "price": 2000,
         "location": "On Trees",
         "time": [
@@ -1627,14 +1683,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/Musi_55.png/revision/latest?cb=20200604054136",
-        "museum_phrase": "The saw stag got its name from the shape of its pincers. That is, its pincers look like jagged staws! And I tell you, the bigger the beetle, the more saw-like teeth its giant jaws have. I saw the saw stag seems more at home in a horror film than in nature. I have terrified myself just talking about it.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a saw stag! Now I can't unsee it!",
+        "museum_phrase": "The saw stag got its name from the shape of its pincers. That is, its pincers look like jagged saws! And I tell you, the bigger the beetle, the more saw-like teeth its giant jaws have. I say the saw stag seems more at home in a horror film than in nature. I have terrified myself just talking about it."
     },
     "Miyama_stag": {
         "name": "Miyama stag",
+        "id": 56,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Miyama_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Icon-miyamastag.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/56",
         "price": 1000,
         "location": "On Trees",
         "time": [
@@ -1650,14 +1707,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/Miyama_stag_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204215",
-        "museum_phrase": "The miyama stag has protusions on its head that resemble ears... And yet, the ugly lumps are not ears! It is, however, called a stag beetle because of the large, deer-like horns upon its head. And the word miyama in its name means deep mountain in Japanese. Feel free to call it what you like. I will simply call it DISGUSTING. Disgusting stag beetle does have a ring.",
-        "catch_phrase": "I caught a miyama stag! Its mandibles are jaw-dropping!"
+        "catch_phrase": "I caught a miyama stag! Its mandibles are jaw-dropping!",
+        "museum_phrase": "The miyama stag has protrusions on its head that resemble ears... And yet, the ugly lumps are not ears! It is, however, called a \"stag\" beetle because of the large, deer-like horns upon its head. And the word \"miyama\" in its name means \"deep mountain\" in Japanese. Feel free to call it what you like. I will simply call it DISGUSTING. \"Disgusting stag beetle\" does have a ring."
     },
     "Giant_stag": {
         "name": "Giant stag",
+        "id": 57,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Giant_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Icon-giantstag.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/57",
         "price": 10000,
         "location": "On Trees",
         "time": [
@@ -1673,14 +1731,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/Giant_stag_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20151012031704",
-        "museum_phrase": "It is said that the giant stag is a popular pet among bug enthusiasts. Though how one might consider oneself enthusiastic about bugs is quite beyond me... But I digress. Giant stags look fearsome with their enormous curved mandibles. But in truth, they're really quite cowardly. Oh how they love to hide away in rotting wood, only to reveal themselves under the cover of dark. Hoot! I shall never turn off the lights again!",
-        "catch_phrase": null
+        "catch_phrase": "Whoaaa! I caught a giant stag! I'm gonna need way bigger pockets...",
+        "museum_phrase": "It is said the giant stag is a popular pet among bug enthusiasts. Though how one might consider oneself enthusiastic about bugs is quite beyond me... But I digress. Giant stags look fearsome with their enormous curved mandibles. But in truth, they're really quite cowardly. Oh how they love to hide away in rotting wood, only to reveal themselves under the cover of dark. Hoot! I shall never turn off the lights again!"
     },
     "Rainbow_stag": {
         "name": "Rainbow stag",
+        "id": 58,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Rainbow_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-rainbowstag.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/58",
         "price": 6000,
         "location": "On Trees",
         "time": [
@@ -1700,14 +1759,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/Rainbow_stag-0.png/revision/latest?cb=20200604052522",
-        "museum_phrase": "Rainbows are beautiful things, I'm sure we all agree. But rainbow stag beetles? Bleech! Yes, yes, this beetle's back and belly shine with a pretty rainbow-colored luster. But that does not change the fact this bug has large pincers on its face and loves to pick a fight! If one can wish upon a rainbow, then I wish to say far away from the rainbow stag. Perhaps I've picked the wrong profession.",
-        "catch_phrase": "Yes! I caught a rainbow stag! Its rainbow armor is so shiny!"
+        "catch_phrase": "I caught a rainbow stag! Its rainbow armor is so shiny!",
+        "museum_phrase": "Rainbows are beautiful things, I'm sure we all agree. But rainbow stag beetles? Bleech! Yes, yes, this beetle's back and belly shine with a pretty rainbow- colored luster. But that does not change the fact this bug has large pincers on its face and loves to pick a fight! If one can wish upon a rainbow, then I wish to stay far away from the rainbow stag. Perhaps I've picked the wrong profession."
     },
     "Cyclommatus_stag": {
         "name": "Cyclommatus stag",
+        "id": 59,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Cyclommatus_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Icon-cyclommatusstag.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/59",
         "price": 8000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1723,14 +1783,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8d/Cyclommatus_stag_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20151013020937",
-        "museum_phrase": "The cyclommatus stag is known for its giant jaws, which can be even larger than its body. Its round eyes and silver color make it a beloved beetle. Though how one could love a beetle is beyond me. Imagine being pinched by those long jaws, and the pain it would cause! Ouch and ewww!",
-        "catch_phrase": null
+        "catch_phrase": "I caught a cyclommatus stag! Those mandibles are a mouthful!",
+        "museum_phrase": "The cyclommatus stag is known for its giant jaws, which can be even larger than its body. Its round eyes and silver color make it a beloved beetle. Though how one could love a beetle is beyond me. Imagine being pinched by those long jaws, and the pain it would cause! Ouch and ewww!"
     },
     "Golden_stag": {
         "name": "Golden stag",
+        "id": 60,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Golden_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Icon-goldenstag.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/60",
         "price": 12000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1746,14 +1807,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/Golden_stag_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20151229001558",
-        "museum_phrase": "Yes. Yes. The golden stag beetle is quite the prize thanks to its metallic gold coloring. But let me speak plainly... The golden stag is NOT made of gold. It is made of BUG, through and through. And thus it is vile! Golden stag? Bah! Gross stag is more like it.",
-        "catch_phrase": null
+        "catch_phrase": "Wooooow! I caught a golden stag! Does this mean I can retire?",
+        "museum_phrase": "Yes. Yes. The golden stag beetle is quite the prize thanks to its metallic gold coloring. But let me speak plainly... The golden stag is NOT made of gold. It is made of BUG, through and through. And thus it is vile! Golden stag? Bah! Gross stag is more like it."
     },
     "Giraffe_stag": {
         "name": "Giraffe stag",
+        "id": 61,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Giraffe_stag",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Icon-giraffestag.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/61",
         "price": 12000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1769,14 +1831,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/Giraffe_stag_encyclopedia_%28New_Horizons%29.PNG/revision/latest?cb=20200504172525",
-        "museum_phrase": "The giraffe stag beetle is a bug of preposterous proportions. Not only is its body rather large, it has two long, jagged jaws that can put it over five inches in size! The giraffe stag beetle's long jaws have been compared to the long neck of the giraffe...hence the name. But I say such comparisons are a stretch. Giraffe necks are NOT lined with spikes! If I were a giraffe, I would protest.",
-        "catch_phrase": "I caught a giraffe stag! Does that make it a longhorn?"
+        "catch_phrase": "I caught a giraffe stag! Does that make it a longhorn?",
+        "museum_phrase": "The giraffe stag beetle is a bug of preposterous proportions. Not only is its body rather large, it has two long, jagged jaws that can put it over five inches in size! The giraffe stag beetle's long jaws have been compared to the long neck of the giraffe...hence the name. But I say such comparisons are a stretch. Giraffe necks are NOT lined with spikes! If I were a giraffe, I would protest."
     },
     "Horned_dynastid": {
         "name": "Horned dynastid",
+        "id": 62,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Horned_dynastid",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Icon-horneddynastid.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/62",
         "price": 1350,
         "location": "On Trees",
         "time": [
@@ -1792,14 +1855,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/Horned_dynastid_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204204",
-        "museum_phrase": "The horned dynastid's head is shaped like a samurai warrior's helmet, hootie-hoo! It would be a most impressive fact if their large size wasn't so horrifying! Adult males use their huge horned heads for fighting and digging, while the females have no such need. As for their larvae and pupae, they too are quite large and feed on rotting wood at a tremendous pace. A foul feast, indeed!",
-        "catch_phrase": null
+        "catch_phrase": "I caught a horned dynastid! I'd hate to hear it honk that schnoz!",
+        "museum_phrase": "The horned dynastid's head is shaped like a samurai warrior's helmet, hootie-hoo! It would be a most impressive fact if their large size wasn't so horrifying! Adult males use their huge horned heads for fighting and digging, while the females have no such need. As for their larvae and pupae, they too are quite large and feed on rotting wood at a tremendous pace. A foul feast, indeed!"
     },
     "Horned_atlas": {
         "name": "Horned atlas",
+        "id": 63,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Horned_atlas",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Icon-hornedatlas.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/63",
         "price": 8000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1815,14 +1879,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5b/Horned_atlas_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204202",
-        "museum_phrase": "Beware the horned atlas! I tell you, this rhinoceros beetle is known for its violent temperament! The males use the three large horns on their heads to fight amongst each other for dominance. But it is their young that truly give me the cold sweats. You see, their larvae grow quite large and, worst of all...they bite! It is the stuff of nightmares, I say.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a horned atlas! I didn't even need a map!",
+        "museum_phrase": "Beware the horned atlas! I tell you, this rhinoceros beetle is known for its violent temperament! The males use the three large horns on their heads to fight amongst each other for dominance. But it is their young that truly give me the cold sweats. You see, their larvae grow quite large and, worst of all...they bite! It is the stuff of nightmares, I say."
     },
     "Horned_elephant": {
         "name": "Horned elephant",
+        "id": 64,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Horned_elephant",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Icon-hornedelephant.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/64",
         "price": 8000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1838,14 +1903,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/Horned_elephant_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204205",
-        "museum_phrase": "The horned elephant beetle certainly lives up to its namesake. Not only does the horn on its head resemble the trunk of an elephant... It is also one of the heaviest beetles in the world! Size aside, allow me to reveal the real reason I find horned elephant beetles so repugnant... Their backs are covered in a fine coat of hair! Hirsute beetles! Hoot! The horror!",
-        "catch_phrase": null
+        "catch_phrase": "I caught a horned elephant! I think it's too small to ride...",
+        "museum_phrase": "The horned elephant beetle certainly lives up to its namesake. Not only does the horn on its head resemble the trunk of an elephant... It is also one of the heaviest beetles in the world! Size aside, allow me to reveal the real reason I find horned elephant beetles so repugnant... Their backs are covered in a fine coat of hair! Hirsute beetles! Hoot! The horror!"
     },
     "Horned_hercules": {
         "name": "Horned hercules",
+        "id": 65,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Horned_hercules",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Icon-hornedhercules.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/65",
         "price": 12000,
         "location": "On Trees (Coconut)",
         "time": [
@@ -1861,14 +1927,15 @@
                 2
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/20/HerculesBeetle.png/revision/latest?cb=20130623200608",
-        "museum_phrase": "The horned hercules is not only known for its tremendous strength, but for its size as well. It can grow up to seven-inches long and has powerful pincers covered in hair that help with gripping! As if this weren't ghastly enough, these behemoth beetles let loose a foul odor that fends off enemies... And offends my sense of smell.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a horned hercules! Guess I was stronger!",
+        "museum_phrase": "The horned hercules is not only known for its tremendous strength, but for its size as well. It can grow up to seven-inches long and has powerful pincers covered in hair that help with gripping! As if this weren't ghastly enough, these behemoth beetles let loose a foul odor that fends off enemies... And offends my sense of smell."
     },
     "Walking_stick": {
         "name": "Walking stick",
+        "id": 66,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Walking_stick",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/62/NH-Icon-walkingstick.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/66",
         "price": 600,
         "location": "On Trees",
         "time": [
@@ -1891,14 +1958,15 @@
                 5
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/Walking_stick_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204242",
-        "museum_phrase": "The walking stick looks just like a twig, does it not? Hoo! It even has knots like a real twig would! These bashful bugs mimic plants in this way to hide from predators. A noble goal, you might say. But though the deceptive wretches fool some, they do not fool me! I see these bugs for what they are... Monsters, plain and simple! I say, did you know that walking sticks can grow to two feet long?! Imagine running into one! Surely I would faint.",
-        "catch_phrase": null
+        "catch_phrase": "I caught a walking stick! Check out its walking schtick! Look, these are the jokes, OK?",
+        "museum_phrase": "The walking stick looks just like a twig, does it not? Hoo! It even has knots like a real twig would! These bashful bugs mimic plants in this way to hide from predators. A noble goal, you might say. But though the deceptive wretches fool some, they do not fool me! I see these bugs for what they are... Monsters, plain and simple! I say, did you know that walking sticks can grow to two feet long?! Imagine running into one! Surely I would faint."
     },
     "Walking_leaf": {
         "name": "Walking leaf",
+        "id": 67,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Walking_leaf",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Icon-walkingleaf.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/67",
         "price": 600,
         "location": "Under Trees Disguised as Leafs",
         "time": [
@@ -1916,14 +1984,15 @@
                 3
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/Walking_leaf_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204240",
-        "museum_phrase": "What a fraud! What a phony! The walking leaf is, in fact, the very embodiment of a lie! This master mimic looks like a tree leaf all the way down to the tiniest details. In fact, this bug has been known to sway to and fro as it walks...just so it looks like a leaf blown by the wind! And the fakery works! These insects look so much like leaves that even leaf-eating insects nibble on them! Lying liars, indeed!",
-        "catch_phrase": null
+        "catch_phrase": "I caught a walking leaf! It seems to be taking it in stride!",
+        "museum_phrase": "What a fraud! What a phony! The walking leaf is, in fact, the very embodiment of a lie! This master mimic looks like a tree leaf all the way down to the tiniest details. In fact, this bug has been known to sway to and fro as it walks...just so it looks like a leaf blown by the wind! And the fakery works! These insects look so much like leaves that even leaf-eating insects nibble on them! Lying liars, indeed!"
     },
     "Bagworm": {
         "name": "Bagworm",
+        "id": 68,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Bagworm",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Icon-bagworm.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/68",
         "price": 600,
         "location": "Shaking Trees",
         "time": [
@@ -1959,14 +2028,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/Bagworm.jpeg/revision/latest?cb=20200405002929",
-        "museum_phrase": "The bagworm is, in fact, not a worm at all, but a caterpillar instead. The filthy fraud uses silk and leaves to spin a cozy bag for it to hide inside - hence the name. Some find it cute the way bagworms dangle from trees. But the truth is they're gluttonous monsters. These beasts love to stuff their bug-gullets full of leaves, devouring the very trees they hang upon. (Wretched villains is what they are.)",
-        "catch_phrase": "I caught a bagworm! Guess I'm a bragworm!"
+        "catch_phrase": "I caught a bagworm! Guess I'm a bragworm!",
+        "museum_phrase": "The bagworm is, in fact, not a worm at all, but a caterpillar instead. The filthy fraud uses silk and leaves to spin a cozy bag for it to hide inside—hence the name. Some find it cute the way bagworms dangle from trees. But the truth is they're gluttonous monsters. These beasts love to stuff their bug- gullets full of leaves, devouring the very trees they hang upon. Wretched villains is what they are."
     },
     "Ant": {
         "name": "Ant",
+        "id": 69,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Ant",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Icon-ant.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/69",
         "price": 80,
         "location": "On rotten food",
         "time": [
@@ -2002,14 +2072,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/Ant.jpeg/revision/latest?cb=20200405003038",
-        "museum_phrase": "The ant itseIf is the strongest creature in the world in relation to its size. One of these diminutive fiends can carry 50 times its own bodyweight! And if it wants to lift something even larger... Why, it simply calls on its friends to join the effort. Creepy cooperation, I say...",
-        "catch_phrase": "I caught an ant! TELL ME WHERE THE QUEEN IS!"
+        "catch_phrase": "I caught an ant! TELL ME WHERE THE QUEEN IS!",
+        "museum_phrase": "I warn you, the ant may be a small bug, but it finds scary strength in numbers. You see, the ant itself is the strongest creature in the world in relation to its size. One of these diminutive fiends can carry 50 times its own bodyweight! And if it wants to lift something even larger... Why, it simply calls on its ant friends to join the effort. Creepy cooperation, I say..."
     },
     "Hermit_crab": {
         "name": "Hermit crab",
+        "id": 70,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Hermit_crab",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Icon-hermitcrab.png/revision/latest?cb=20200401005430",
+        "image_url": "https://acnhapi.com/v1/images/bugs/70",
         "price": 1000,
         "location": "Beach disguised as Shells",
         "time": [
@@ -2045,14 +2116,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/Hermit_Crab.jpeg/revision/latest?cb=20200405003125",
-        "museum_phrase": "The hermit crab is not an insect... Though it most certainly resembles one. Blech! It looks much like a spider- what with its creepy eyes and crawly legs- but is, in fact, a crustacean. As such, the hermit crab has 10 legs and also wears a shell. But it doesn't grow this shell itself. It slips its soft body into shells left behind by snails, you see, and moves into ever-larger ones as it grows. (Talk about a strange way to make a home.)",
-        "catch_phrase": "I caught a hermit crab! I think it wanted to be left alone!"
+        "catch_phrase": "I caught a hermit crab! I think it wanted to be left alone!",
+        "museum_phrase": "The hermit crab is not an insect... Though it most certainly resembles one. Blech! It looks much like a spider—what with its creepy eyes and crawly legs—but is, in fact, a crustacean. As such, the hermit crab has 10 legs and also wears a shell. But it doesn't grow this shell itself. It slips its soft body into shells left behind by snails, you see, and moves into ever-larger ones as it grows. Talk about a strange way to make a home."
     },
     "Wharf_roach": {
         "name": "Wharf roach",
+        "id": 71,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Wharf_roach",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Icon-wharfroach.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/71",
         "price": 200,
         "location": "On Beach Rocks",
         "time": [
@@ -2088,14 +2160,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/31/Wharf_Roach.jpeg/revision/latest?cb=20200405003206",
-        "museum_phrase": "The wharf roach is an omnivore, which is merely a polite way of saying it will eat almost anything. This skittering scavenger and its uncouth appetite help keep beaches clean, it's said. But I dare say, their long antenna and bulging eyes turn MY stomach.  Unappetizing indeed... ",
-        "catch_phrase": "I caught a wharf roach! This water-loving roach has no pier!"
+        "catch_phrase": "I caught a wharf roach! This water-loving roach has no pier!",
+        "museum_phrase": "The wharf roach is an omnivore, which is merely a polite way of saying it will eat almost anything. This skittering scavenger and its uncouth appetite help keep beaches clean, it's said. But I dare say, their long antenna and bulging eyes turn MY stomach. Unappetizing indeed..."
     },
     "Fly": {
         "name": "Fly",
+        "id": 72,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Fly",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Icon-fly.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/72",
         "price": 60,
         "location": "On Trash Items",
         "time": [
@@ -2131,14 +2204,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Fly.jpg/revision/latest?cb=20200327234825",
-        "museum_phrase": "The foul fly is quite the disquieting creature. I tell you, it tastes its food with its feet! Yeep! In fact, when flies rub their legs together, they do so to get rid of debris blocking their taste receptors. And did you know, their hairy toes release a sticky goo so they can walk on any surface? Even your ceiling! This gross goo gets on your food too!",
-        "catch_phrase": "I caught a fly! I was just wingin' it..."
+        "catch_phrase": "I caught a fly! I was just wingin' it...",
+        "museum_phrase": "The foul fly is quite the disquieting creature. I tell you, it tastes its food with its feet! Yeep! In fact, when flies rub their legs together, they do so to get rid of debris blocking their taste receptors. And did you know, their hairy toes release a sticky goo so they can walk on any surface? Even your ceiling! This gross goo gets on your food too!"
     },
     "Mosquito": {
         "name": "Mosquito",
+        "id": 73,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Mosquito",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Icon-mosquito.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/73",
         "price": 130,
         "location": "Flying",
         "time": [
@@ -2158,14 +2232,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/Mosquito_encyclopedia_%28New_Leaf%29.jpg/revision/latest?cb=20150818204217",
-        "museum_phrase": "As everyone knows, the mosquito is a vampiric pest that sucks blood from innocent bystanders. But did you know that only the females suck blood? Hoo! It's true! They need it to make their eggs. When they sink their snout into our skin, they inject us with a saliva that helps them slurp up their meal. It's that saliva that makes us itch and scratch, you know. Hoo! So rude!",
-        "catch_phrase": "I caught a mosquito!  It's itching for a fight!"
+        "catch_phrase": "I caught a mosquito! It's itching for a fight!",
+        "museum_phrase": "As everyone knows, the mosquito is a vampiric pest that sucks blood from innocent bystanders. But did you know that only the females suck blood? Hoo! It's true! They need it to make their eggs. When they sink their snout into our skin, they inject us with a saliva that helps them slurp up their meal. It's that saliva that makes us itch and scratch, you know. Hoo! So rude!"
     },
     "Flea": {
         "name": "Flea",
+        "id": 74,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Flea",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Icon-flea.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/74",
         "price": 70,
         "location": "Villager's Heads",
         "time": [
@@ -2193,14 +2268,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/FleaNL.png/revision/latest?cb=20130615105635",
-        "museum_phrase": "Allow me to be blunt. The flea is foul! It is also disgusting, repugnant, and vile! Hoo! But I digress... This horrid pest sucks the blood of humans and animals. In fact, it is the flea's own saliva that makes us itch! And did you know their legs are so strong, they can jump more than 50 times their body length? So you see, it's all too easy for a flea to jump from you to me! I itch at the very thought.",
-        "catch_phrase": "I caught a flea! The curse is lifted."
+        "catch_phrase": "I caught a flea! The curse is lifted.",
+        "museum_phrase": "Allow me to be blunt. The flea is foul! It is also disgusting, repugnant, and vile! Hoo! But I digress... This horrid pest sucks the blood of humans and animals. In fact, it is the flea's own saliva that makes us itch! And did you know their legs are so strong, they can jump more than 50 times their body length? So you see, it's all too easy for a flea to jump from you to me! I itch at the very thought."
     },
     "Snail": {
         "name": "Snail",
+        "id": 75,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Snail",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Icon-snail.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/75",
         "price": 250,
         "location": "On Rocks and Bushes (Rain)",
         "time": [
@@ -2236,14 +2312,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Snail.jpg/revision/latest?cb=20200330185427",
-        "museum_phrase": "Snails are not insects, I'll admit. But they're just as revolting to me. Snails are mollusks, you see, and are born wearing shells they cannot remove. Instead, their shells get bigger and bigger as they grow. Hoo! They must get heavy, don't you know! I suppose that's why they need a trail of mucus to move about. A truly foul form of transportation.",
-        "catch_phrase": "I caught a snail! It's...not much to brag about."
+        "catch_phrase": "I caught a snail! It's...not much to brag about.",
+        "museum_phrase": "Snails are not insects, I'll admit. But they're just as revolting to me. Snails are mollusks, you see, and are born wearing shells they cannot remove. Instead, their shells get bigger and bigger as they grow. Hoo! They must get heavy, don't you know! I suppose that's why they need a trail of mucus to move about. A truly foul form of transportation."
     },
     "Pill_bug": {
         "name": "Pill bug",
+        "id": 76,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Pill_bug",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Icon-pillbug.png/revision/latest?cb=20200401005428",
+        "image_url": "https://acnhapi.com/v1/images/bugs/76",
         "price": 250,
         "location": "Hitting Rocks",
         "time": [
@@ -2275,14 +2352,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b7/NH-Pill_bug.jpg/revision/latest?cb=20200330183106",
-        "museum_phrase": "Blech, the pill bug! Children delight at the way these beasts roll into balls when poked... But the appeal is utterly lost on me. One look at their leggy undersides... Hoo! Ewww! How they wriggle! Young pill bugs shed their exoskeletons as they grow, and in doing so, sprout another pair of legs. As if 12 appendages weren't alarming enough! Yuck, I say. Yuck!",
-        "catch_phrase": "I caught a pill bug! That's a tough act to swallow!"
+        "catch_phrase": "I caught a pill bug! That's a tough act to swallow!",
+        "museum_phrase": "Blech, the pill bug! Children delight at the way these beasts roll into balls when poked... But the appeal is utterly lost on me. One look at their leggy undersides... Hoo! Ewww! How they wriggle! Young pill bugs shed their exo- skeletons as they grow, and in doing so, sprout another pair of legs. As if 12 appendages weren't alarming enough! Yuck, I say. Yuck!"
     },
     "Centipede": {
         "name": "Centipede",
+        "id": 77,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Centipede",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Icon-centipede.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/77",
         "price": 300,
         "location": "Hitting Rocks",
         "time": [
@@ -2314,14 +2392,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Centipede.jpg/revision/latest?cb=20200330184310",
-        "museum_phrase": "The centipede's name means '100 legs.' But I tell you now, that's a lie! These ugly bugs can have as few as 15 pair of legs...or as many as 171. But because of how their bodies are segmented, they never have exactly 100! Hoo! It's true! You know what else is true? Centipedes are carnivorous, aggressive, and venomous! And their bite is quite painful too!  HOO-rrible things I say.  ",
-        "catch_phrase": "I caught a centipede! 99 more and I'll have a dollarpede!"
+        "catch_phrase": "I caught a centipede! 99 more and I'll have a dollarpede!",
+        "museum_phrase": "The centipede's name means \"100 legs.\" But I tell you now, that's a lie! These ugly bugs can have as few as 15 pairs of legs...or as many as 171. But because of how their bodies are segmented, they never have exactly 100! Hoo! It's true! You know what else is true? Centipedes are carnivorous, aggressive, and venomous! And their bite is quite painful too! HOO-rrible things, I say."
     },
     "Spider": {
         "name": "Spider",
+        "id": 78,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Spider",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Icon-spider.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/78",
         "price": 600,
         "location": "Shaking Trees",
         "time": [
@@ -2357,14 +2436,15 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Spider.jpg/revision/latest?cb=20200330025733",
-        "museum_phrase": "The spider is renowned for having eight eyes and eight legs... WHICH IS SIX TOO MANY, I SAY! Oh dear. I do apologize. Now where was I? Most spiders are carnivorous. In fact, some will eat creatures several times larger than themselves. To catch their prey, many of these ruthless predators spin sticky webs of surprising strength. Worse yet, they've also been known to ambush their victims, and some even chase down their meals! All this talk about the feeding habits of spiders... I'm feeling quite queasy.  Hoot! The horror! ",
-        "catch_phrase": "I caught a spider! I spied 'er first!"
+        "catch_phrase": "I caught a spider! I spied 'er first!",
+        "museum_phrase": "The spider is renowned for having eight eyes and eight legs... WHICH IS SIX TOO MANY, I SAY! Oh dear. I do apologize. Now where was I? Most spiders are carnivorous. In fact, some will eat creatures several times larger than themselves. To catch their prey, many of these ruthless predators spin sticky webs of surprising strength. Worse yet, they've also been known to ambush their victims, and some even chase down their meals! All this talk about the feeding habits of spiders... I'm feeling quite queasy. Hoot! The horror!"
     },
     "Tarantula": {
         "name": "Tarantula",
+        "id": 79,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Tarantula",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Icon-tarantula.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/79",
         "price": 8000,
         "location": "On the Ground",
         "time": [
@@ -2388,14 +2468,15 @@
                 10
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Tarantula.jpg/revision/latest?cb=20200330024002",
-        "museum_phrase": "As giant spiders go, the tarantula is said to be quite docile. But have you ever seen such foul fuzziness?! It is a fact, tarantulas have barbed belly hair! I say again... BARBED. BELLY. HAIR! These awful arachnids let loose their spiky, itchy hairs to protect themselves from predators. But seeing how tarantulas also prey on frogs, mice, and even birds, one must ask... Who needs protecting from whom?! Hoo! Who indeed!",
-        "catch_phrase": "I caught a tarantula! This situation just got hairy!"
+        "catch_phrase": "I caught a tarantula! This situation just got hairy!",
+        "museum_phrase": "As giant spiders go, the tarantula is said to be quite docile. But have you ever seen such foul fuzziness?! It is a fact, tarantulas have barbed belly hair! I say again...BARBED. BELLY. HAIR! These awful arachnids let loose their spiky, itchy hairs to protect themselves from predators. But seeing how tarantulas also prey on frogs, mice, and even birds, one must ask... Who needs protecting from whom?! Hoo! Who indeed!"
     },
     "Scorpion": {
         "name": "Scorpion",
+        "id": 80,
         "wiki_url": "https://animalcrossing.fandom.com/wiki/Scorpion",
         "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Icon-scorpion.png/revision/latest?cb=20200401005429",
+        "image_url": "https://acnhapi.com/v1/images/bugs/80",
         "price": 8000,
         "location": "On the Ground",
         "time": [
@@ -2419,8 +2500,7 @@
                 12
             ]
         },
-        "image_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/ScorpionNH.jpg/revision/latest?cb=20200405030524",
-        "museum_phrase": "The scorpion... how should I put this? Those legs! Those pincers! That tail! And that venomous stinger! It's as if someone took the most awful insect parts... and put them together to make the scorpion! All scorpions are venomous, you know! Though I understand that only a few kinds are truly deadly. I fear I might die just thinking about it.",
-        "catch_phrase": "I caught a scorpion! It was a sting operation!"
+        "catch_phrase": "I caught a scorpion! It was a sting operation!",
+        "museum_phrase": "The scorpion...how should I put this? Those legs! Those pincers! That tail! And that venomous stinger! It's as if someone took all the most awful insect parts...and put them together to make the scorpion! All scorpions are venomous, you know! Though I understand that only a few kinds are truly deadly. I fear I might die just thinking about it."
     }
 }
