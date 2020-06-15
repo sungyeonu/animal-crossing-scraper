@@ -2,11 +2,16 @@ from bs4 import BeautifulSoup
 import html5lib
 import requests
 import io
+import urllib.request
+import json
 from util import parse_personality, parse_gender, parse_image_img_url, parse_image_url, parse_customization, parse_obtained_from, parse_furniture_variations, parse_materials, parse_price, get_image_urls, parse_hybridization_children, parse_months, parse_variations, parse_source, parse_image_URLs, parse_rose_image_URLs, dump_data
 
 
 
 URLS = {
+    "wiki": "https://animalcrossing.fandom.com",
+    "api": "https://acnhapi.com/v1",
+
     # --- New Horizons ---
     "character": {
         "villagers": "https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)",
@@ -102,61 +107,63 @@ def scrape_villagers(url_key):
         if not item["favorite_song"] is None:
             item["favorite_song"] = item["favorite_song"].replace("[[", "").replace("]]", "")
         items[name] = item
-    dump_data(items, "characters/villagers")
+    dump_data(items, "character/villagers")
 
 def scrape_bugs(url_key):
+    # contains all bugs
+    items = {}
+    # get response from url and create soup
     url = URLS["museum"][url_key]
     response = requests.get(url, timeout=5)
     soup = BeautifulSoup(response.content, "html.parser")
-    tables = soup("table", {"class": "sortable"})
-    items = {}
-    for tr in tables[0]("tr")[1:]:
-        name = tr("td")[0].a.text
-        item_key = name.replace(" ", "_")
+    # find the table to scrape from
+    table = soup("table", {"class": "sortable"})[0]
+    item_id = 1
+    for tr in table("tr")[1:]:
+        name = tr("td")[0].text.strip()
+        item_key = name.replace(" ", "_").replace("-", "_")
+        acnhapi_url = URLS["api"] + "/bugs/" + str(item_id)
+        acnhapi_response = urllib.request.urlopen(acnhapi_url)
+        acnhapi_data = json.loads(acnhapi_response.read())
         item = {
             "name": name,
-            "wiki_url": "https://animalcrossing.fandom.com" + tr("td")[0].find("a")["href"],
+            "id": item_id,
+            "wiki_url": URLS["wiki"] + tr("td")[0].find("a")["href"],
             "icon_url": tr("a")[1]['href'],
+            "image_url": URLS["api"] + "/images/bugs/" + str(item_id),
             "price": parse_price(tr("td")[2].text),
             "location": tr("td")[3].text.strip(),
             "time": tr("small")[0].text.split(" & "),
             "months": {
                 "northern": parse_months([tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16]]),
                 "southern": parse_months([tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[5], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10]]),
-            }
+            },
+            "catch_phrase": acnhapi_data["catch-phrase"],
+            "museum_phrase": acnhapi_data["museum-phrase"],
         }
-        item_response = requests.get(item["wiki_url"], timeout=5)
-        item_soup = BeautifulSoup(item_response.content, "html.parser")
-        item["image_url"] = item_soup.find("img", {"class": "pi-image-thumbnail"})["src"].replace("/scale-to-width-down/350", "")
-        item["museum_phrase"] = None
-        item["catch_phrase"] = None
-        for p in item_soup("p"): # this is where the museum phrase is
-            if "Blathers the curator will say (with abhorrence)" in p.text:
-                item["museum_phrase"] = p.next_sibling.find("i").text.replace("\"", "")
-        if item_soup.find("h2", text=" Capture quotes "):
-            for dd in item_soup.find("h2", text=" Capture quotes ").next_sibling.next_sibling("dd"): # find description under h2: "Capturable Quotes"
-                if "New Horizons" in dd.text:
-                    item["catch_phrase"] = dd("i")[0].text
+        item_id += 1
         items[item_key] = item
-    # dump data in a json
-    dump_data(items, "museum/" + url_key)
-    # return for debugging
-    return items
+    dump_data(items, "museum/bugs")
 
-
-def scrape_fish(url_key):  # same logic as scrapeBugs
+def scrape_fish(url_key): 
+    items = {}
     url = URLS["museum"][url_key]
     response = (requests.get(url, timeout=5))
     soup = BeautifulSoup(response.content, "html.parser")
-    tables = soup("table", {"class": "sortable"})
-    items = {}
-    for tr in tables[0]("tr")[1:]:
-        name = tr("td")[0].a.text
-        item_key = name.replace(" ", "_")
+    table = soup("table", {"class": "sortable"})[0]
+    item_id = 1
+    for tr in table("tr")[1:]:
+        name = tr("td")[0].text.strip()
+        item_key = name.replace(" ", "_").replace("-", "_")
+        acnhapi_url = URLS["api"] + "/fish/" + str(item_id)
+        acnhapi_response = urllib.request.urlopen(acnhapi_url)
+        acnhapi_data = json.loads(acnhapi_response.read())
         item = {
             "name": name,
+            "id": item_id,
             "wiki_url": "https://animalcrossing.fandom.com" + tr("td")[0].find("a")["href"],
             "icon_url": tr("a")[1]['href'],
+            "image_url": URLS["api"] + "/images/fish/" + str(item_id),
             "price": parse_price(tr("td")[2].text),
             "location": tr("td")[3].text.strip(),
             "shadow_size": tr("td")[4].text.strip(),
@@ -164,31 +171,13 @@ def scrape_fish(url_key):  # same logic as scrapeBugs
             "months": {
                 "northern": parse_months([tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11], tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[17]]),
                 "southern": parse_months([tr("td")[12], tr("td")[13], tr("td")[14], tr("td")[15], tr("td")[16], tr("td")[17], tr("td")[6], tr("td")[7], tr("td")[8], tr("td")[9], tr("td")[10], tr("td")[11]]),
-            }
+            },
+            "catch_phrase": acnhapi_data["catch-phrase"],
+            "museum_phrase": acnhapi_data["museum-phrase"],
         }
-        item_response = requests.get(item["wiki_url"], timeout=5)
-        item_soup = BeautifulSoup(item_response.content, "html.parser")
-        item["image_url"] = item_soup.find("img", {"class": "pi-image-thumbnail"})["src"].replace("/scale-to-width-down/350", "")
-        item["museum_phrase"] = None
-        if item_soup.find("span", {"id": "In_New_Horizons"}):
-            try:
-                museum_phrase = item_soup.find("span", {"id": "In_New_Horizons"}).parent.next_sibling.next_sibling.next_sibling.find("i").text
-                if museum_phrase[0] == "\"":
-                    museum_phrase = museum_phrase[1:]
-                if museum_phrase[-1] == "\"":
-                    museum_phrase = museum_phrase[:-1]
-                item["museum_phrase"] = museum_phrase
-            except:
-                pass
-        item["catch_phrase"] = None
-        if item_soup.find("h2", text=" Capture quotes "): # find description under h2: "Capturable Quotes"
-            for dd in item_soup.find("h2", text=" Capture quotes ").next_sibling.next_sibling("dd"):
-                if "New Horizons" in dd.text:
-                    item["catch_phrase"] = dd("i")[0].text
+        item_id += 1
         items[item_key] = item
-    dump_data(items, "museum/" + url_key)
-    return items
-
+    dump_data(items, "museum/fish")
 
 def scrape_fossils(key):
     url = URLS.get(key)
@@ -606,7 +595,7 @@ if __name__ == "__main__":
 
     # -- Museum --
     scrape_bugs("bugs")
-    # scrape_fish("fish")
+    scrape_fish("fish")
     # scrape_fossils("fossils")
     # scrape_artworks("artworks")
 
