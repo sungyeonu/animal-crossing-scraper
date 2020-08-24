@@ -66,6 +66,8 @@ def parse_source(tag):
             return ["Saharah"]
         if tag.img['alt'] == "NH-Icon-Present":
             return ["Mom"]
+    if tag.text.strip() == "Nook Stop":
+        return ["Nook Stop"]
     return []
 
 
