@@ -1,5 +1,6 @@
 {
-    "Agent K.K.": {
+    "Agent_K.K.": {
+        "name": "Agent K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -7,7 +8,8 @@
             "Nook Stop"
         ]
     },
-    "Aloha K.K.": {
+    "Aloha_K.K.": {
+        "name": "Aloha K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -15,7 +17,8 @@
             "Nook Stop"
         ]
     },
-    "Animal City": {
+    "Animal_City": {
+        "name": "Animal City",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -23,7 +26,8 @@
             "Nook Stop"
         ]
     },
-    "Bubblegum K.K.": {
+    "Bubblegum_K.K.": {
+        "name": "Bubblegum K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -31,7 +35,8 @@
             "Nook Stop"
         ]
     },
-    "Café K.K.": {
+    "Café_K.K.": {
+        "name": "Café K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -39,7 +44,8 @@
             "Nook Stop"
         ]
     },
-    "Comrade K.K.": {
+    "Comrade_K.K.": {
+        "name": "Comrade K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -47,7 +53,8 @@
             "Nook Stop"
         ]
     },
-    "DJ K.K.": {
+    "DJ_K.K.": {
+        "name": "DJ K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -56,6 +63,7 @@
         ]
     },
     "Drivin’": {
+        "name": "Drivin’",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -64,6 +72,7 @@
         ]
     },
     "Farewell": {
+        "name": "Farewell",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -71,7 +80,8 @@
             "Nook Stop"
         ]
     },
-    "Forest Life": {
+    "Forest_Life": {
+        "name": "Forest Life",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -79,7 +89,8 @@
             "Nook Stop"
         ]
     },
-    "Go K.K. Rider": {
+    "Go_K.K._Rider": {
+        "name": "Go K.K. Rider",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -87,7 +98,8 @@
             "Nook Stop"
         ]
     },
-    "Hypno K.K.": {
+    "Hypno_K.K.": {
+        "name": "Hypno K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -95,7 +107,8 @@
             "Nook Stop"
         ]
     },
-    "I Love You": {
+    "I_Love_You": {
+        "name": "I Love You",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -103,7 +116,8 @@
             "Nook Stop"
         ]
     },
-    "Imperial K.K.": {
+    "Imperial_K.K.": {
+        "name": "Imperial K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -111,7 +125,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Adventure": {
+    "K.K._Adventure": {
+        "name": "K.K. Adventure",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -119,7 +134,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Aria": {
+    "K.K._Aria": {
+        "name": "K.K. Aria",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -127,7 +143,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Ballad": {
+    "K.K._Ballad": {
+        "name": "K.K. Ballad",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -135,7 +152,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Bazaar": {
+    "K.K._Bazaar": {
+        "name": "K.K. Bazaar",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -143,7 +161,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Birthday": {
+    "K.K._Birthday": {
+        "name": "K.K. Birthday",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -151,7 +170,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Blues": {
+    "K.K._Blues": {
+        "name": "K.K. Blues",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -159,7 +179,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Bossa": {
+    "K.K._Bossa": {
+        "name": "K.K. Bossa",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -167,7 +188,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Calypso": {
+    "K.K._Calypso": {
+        "name": "K.K. Calypso",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -175,7 +197,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Casbah": {
+    "K.K._Casbah": {
+        "name": "K.K. Casbah",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -183,7 +206,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Chorale": {
+    "K.K._Chorale": {
+        "name": "K.K. Chorale",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -191,7 +215,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Condor": {
+    "K.K._Condor": {
+        "name": "K.K. Condor",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -199,7 +224,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Country": {
+    "K.K._Country": {
+        "name": "K.K. Country",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -207,7 +233,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Cruisin’": {
+    "K.K._Cruisin’": {
+        "name": "K.K. Cruisin’",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -215,7 +242,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. D&B": {
+    "K.K._D&B": {
+        "name": "K.K. D&B",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -223,7 +251,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Dirge": {
+    "K.K._Dirge": {
+        "name": "K.K. Dirge",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -231,7 +260,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Disco": {
+    "K.K._Disco": {
+        "name": "K.K. Disco",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -239,7 +269,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Dixie": {
+    "K.K._Dixie": {
+        "name": "K.K. Dixie",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -247,7 +278,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Étude": {
+    "K.K._Étude": {
+        "name": "K.K. Étude",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -255,7 +287,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Faire": {
+    "K.K._Faire": {
+        "name": "K.K. Faire",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -263,7 +296,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Flamenco": {
+    "K.K._Flamenco": {
+        "name": "K.K. Flamenco",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -271,7 +305,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Folk": {
+    "K.K._Folk": {
+        "name": "K.K. Folk",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -279,7 +314,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Fusion": {
+    "K.K._Fusion": {
+        "name": "K.K. Fusion",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -287,7 +323,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Groove": {
+    "K.K._Groove": {
+        "name": "K.K. Groove",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -295,7 +332,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Gumbo": {
+    "K.K._Gumbo": {
+        "name": "K.K. Gumbo",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -303,7 +341,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. House": {
+    "K.K._House": {
+        "name": "K.K. House",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -311,7 +350,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Island": {
+    "K.K._Island": {
+        "name": "K.K. Island",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -319,7 +359,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Jazz": {
+    "K.K._Jazz": {
+        "name": "K.K. Jazz",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -327,7 +368,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Jongara": {
+    "K.K._Jongara": {
+        "name": "K.K. Jongara",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -335,7 +377,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Lament": {
+    "K.K._Lament": {
+        "name": "K.K. Lament",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -343,7 +386,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Love Song": {
+    "K.K._Love_Song": {
+        "name": "K.K. Love Song",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -351,7 +395,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Lullaby": {
+    "K.K._Lullaby": {
+        "name": "K.K. Lullaby",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -359,7 +404,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Mambo": {
+    "K.K._Mambo": {
+        "name": "K.K. Mambo",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -367,7 +413,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Marathon": {
+    "K.K._Marathon": {
+        "name": "K.K. Marathon",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -375,7 +422,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. March": {
+    "K.K._March": {
+        "name": "K.K. March",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -383,7 +431,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Mariachi": {
+    "K.K._Mariachi": {
+        "name": "K.K. Mariachi",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -391,7 +440,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Metal": {
+    "K.K._Metal": {
+        "name": "K.K. Metal",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -399,7 +449,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Milonga": {
+    "K.K._Milonga": {
+        "name": "K.K. Milonga",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -407,7 +458,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Moody": {
+    "K.K._Moody": {
+        "name": "K.K. Moody",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -415,7 +467,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Oasis": {
+    "K.K._Oasis": {
+        "name": "K.K. Oasis",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -423,7 +476,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Parade": {
+    "K.K._Parade": {
+        "name": "K.K. Parade",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -431,7 +485,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Ragtime": {
+    "K.K._Ragtime": {
+        "name": "K.K. Ragtime",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -439,7 +494,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Rally": {
+    "K.K._Rally": {
+        "name": "K.K. Rally",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -447,7 +503,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Reggae": {
+    "K.K._Reggae": {
+        "name": "K.K. Reggae",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -455,7 +512,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Rock": {
+    "K.K._Rock": {
+        "name": "K.K. Rock",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -463,7 +521,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Rockabilly": {
+    "K.K._Rockabilly": {
+        "name": "K.K. Rockabilly",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -471,7 +530,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Safari": {
+    "K.K._Safari": {
+        "name": "K.K. Safari",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -479,7 +539,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Salsa": {
+    "K.K._Salsa": {
+        "name": "K.K. Salsa",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -487,7 +548,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Samba": {
+    "K.K._Samba": {
+        "name": "K.K. Samba",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -495,7 +557,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Ska": {
+    "K.K._Ska": {
+        "name": "K.K. Ska",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -503,7 +566,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Sonata": {
+    "K.K._Sonata": {
+        "name": "K.K. Sonata",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -511,7 +575,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Song": {
+    "K.K._Song": {
+        "name": "K.K. Song",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -519,7 +584,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Soul": {
+    "K.K._Soul": {
+        "name": "K.K. Soul",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -527,7 +593,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Steppe": {
+    "K.K._Steppe": {
+        "name": "K.K. Steppe",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -535,7 +602,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Stroll": {
+    "K.K._Stroll": {
+        "name": "K.K. Stroll",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -543,7 +611,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Swing": {
+    "K.K._Swing": {
+        "name": "K.K. Swing",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -551,7 +620,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Synth": {
+    "K.K._Synth": {
+        "name": "K.K. Synth",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -559,7 +629,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Tango": {
+    "K.K._Tango": {
+        "name": "K.K. Tango",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -567,7 +638,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Technopop": {
+    "K.K._Technopop": {
+        "name": "K.K. Technopop",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -575,7 +647,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Waltz": {
+    "K.K._Waltz": {
+        "name": "K.K. Waltz",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -583,7 +656,8 @@
             "Nook Stop"
         ]
     },
-    "K.K. Western": {
+    "K.K._Western": {
+        "name": "K.K. Western",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -591,7 +665,8 @@
             "Nook Stop"
         ]
     },
-    "King K.K.": {
+    "King_K.K.": {
+        "name": "King K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -599,7 +674,8 @@
             "Nook Stop"
         ]
     },
-    "Lucky K.K.": {
+    "Lucky_K.K.": {
+        "name": "Lucky K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -607,7 +683,8 @@
             "Nook Stop"
         ]
     },
-    "Marine Song 2001": {
+    "Marine_Song_2001": {
+        "name": "Marine Song 2001",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -615,7 +692,8 @@
             "Nook Stop"
         ]
     },
-    "Mountain Song": {
+    "Mountain_Song": {
+        "name": "Mountain Song",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -623,7 +701,8 @@
             "Nook Stop"
         ]
     },
-    "Mr. K.K.": {
+    "Mr._K.K.": {
+        "name": "Mr. K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -631,7 +710,8 @@
             "Nook Stop"
         ]
     },
-    "My Place": {
+    "My_Place": {
+        "name": "My Place",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -640,6 +720,7 @@
         ]
     },
     "Neapolitan": {
+        "name": "Neapolitan",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -647,7 +728,8 @@
             "Nook Stop"
         ]
     },
-    "Only Me": {
+    "Only_Me": {
+        "name": "Only Me",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -656,6 +738,7 @@
         ]
     },
     "Pondering": {
+        "name": "Pondering",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -663,7 +746,8 @@
             "Nook Stop"
         ]
     },
-    "Rockin’ K.K.": {
+    "Rockin’_K.K.": {
+        "name": "Rockin’ K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -671,7 +755,8 @@
             "Nook Stop"
         ]
     },
-    "Soulful K.K.": {
+    "Soulful_K.K.": {
+        "name": "Soulful K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -679,7 +764,8 @@
             "Nook Stop"
         ]
     },
-    "Space K.K.": {
+    "Space_K.K.": {
+        "name": "Space K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -687,7 +773,8 @@
             "Nook Stop"
         ]
     },
-    "Spring Blossoms": {
+    "Spring_Blossoms": {
+        "name": "Spring Blossoms",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -695,7 +782,8 @@
             "Nook Stop"
         ]
     },
-    "Stale Cupcakes": {
+    "Stale_Cupcakes": {
+        "name": "Stale Cupcakes",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -703,7 +791,8 @@
             "Nook Stop"
         ]
     },
-    "Steep Hill": {
+    "Steep_Hill": {
+        "name": "Steep Hill",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -711,7 +800,8 @@
             "Nook Stop"
         ]
     },
-    "Surfin’ K.K.": {
+    "Surfin’_K.K.": {
+        "name": "Surfin’ K.K.",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -719,7 +809,8 @@
             "Nook Stop"
         ]
     },
-    "The K. Funk": {
+    "The_K._Funk": {
+        "name": "The K. Funk",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -727,7 +818,8 @@
             "Nook Stop"
         ]
     },
-    "To the Edge": {
+    "To_the_Edge": {
+        "name": "To the Edge",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -735,7 +827,8 @@
             "Nook Stop"
         ]
     },
-    "Two Days Ago": {
+    "Two_Days_Ago": {
+        "name": "Two Days Ago",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -744,6 +837,7 @@
         ]
     },
     "Wandering": {
+        "name": "Wandering",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,
@@ -751,7 +845,8 @@
             "Nook Stop"
         ]
     },
-    "Welcome Horizons": {
+    "Welcome_Horizons": {
+        "name": "Welcome Horizons",
         "image_url": null,
         "priceBuy": 3200,
         "priceSell": -1,

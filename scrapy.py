@@ -600,13 +600,15 @@ def scrape_music(key):
     items = {}
     for tr in tables[0]("tr")[1:]:
         name = tr("td")[0].text.strip()
+        item_key = name.replace(" ", "_").replace("-", "_")
         item = {
+            "name": name,
             "image_url": parse_image_url(tr.find_all("td")[1]),
             "priceBuy": parse_price(tr.find_all("td")[2].text),
             "priceSell": parse_price(tr.find_all("td")[3].text),
             "source": parse_source(tr.find_all("td")[4])
         }
-        items[name] = item
+        items[item_key] = item
     dump_data(items, "music/" + key)
     return items
 
