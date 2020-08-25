@@ -54,8 +54,11 @@ URLS = {
     },
     
     # Flowers
-    "flowers": "https://animalcrossing.fandom.com/wiki/Flower/New_Horizons_mechanics"
+    "flowers": "https://animalcrossing.fandom.com/wiki/Flower/New_Horizons_mechanics",
     
+    # Music
+    "music": "https://animalcrossing.fandom.com/wiki/Music_(New_Horizons)"
+
     # --- New Leaf ---
     # "fish": "https://animalcrossing.fandom.com/wiki/Fish_(New_Leaf)",
     # "bugs": "https://animalcrossing.fandom.com/wiki/Bugs_(New_Leaf)",
@@ -589,6 +592,27 @@ def scrape_flowers(key):
     dump_data(items, "flower/hybridization_advanced")
 
 
+def scrape_music(key):
+    url = URLS.get(key)
+    response = requests.get(url, timeout=5)
+    soup = BeautifulSoup(response.content, "html.parser")
+    tables = soup("table", {"class": "article-table"})
+    items = {}
+    for tr in tables[0]("tr")[1:]:
+        name = tr("td")[0].text.strip()
+        item_key = name.replace(" ", "_").replace("-", "_")
+        item = {
+            "name": name,
+            "image_url": parse_image_url(tr.find_all("td")[1]),
+            "priceBuy": parse_price(tr.find_all("td")[2].text),
+            "priceSell": parse_price(tr.find_all("td")[3].text),
+            "source": parse_source(tr.find_all("td")[4])
+        }
+        items[item_key] = item
+    dump_data(items, "music/" + key)
+    return items
+
+
 if __name__ == "__main__":
     # -- Characters --
     # scrape_villagers("villagers")
@@ -627,7 +651,10 @@ if __name__ == "__main__":
     # scrape_furniture_wallpapers("floorings")
     # scrape_furniture_rugs("rugs")
 
-
     # -- Flower -- 
     # scrape_flowers("flowers")
+
+    # -- Music --
+    # scrape_music("music")
+
     pass

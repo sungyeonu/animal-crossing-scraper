@@ -25,6 +25,8 @@ All JSON files are stored in /data
 - hybridization_advanced.json
 - hybridization_simple.json
 
+/music
+
 *-- Incomplete --*  
 /crafting
 - tools.json
